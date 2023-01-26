@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="LionsOfKandahar">
+  <Package name="LionsOfKandahar_1B3">
+    <Container name="STR_DN">
+	  <Key ID="STR_LOK_BriefingNotes_1B3">
+        <English>EDITOR'S NOTES:&lt;br/&gt;Let me just say ArmA III's AI is plainly stupid. I've tried everything to make a decently playable mission as an Apache gunner with an AI pilot, and it should work fine all in all, but sometimes the AI can get bugged for absolutely no reason. Also keep in mind that the pilot will always follow targets (the red circles you get on the HUD) before waypoints, so make sure you don't have any pending targets. At any rate, all important waypoints have forced hold fire orders or other tricks to prevent the AI from loitering around.&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;HeadUp for the original idea</English>
+        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Diré de entrada que la IA de ArmA III es tontísima. He hecho todo lo que me ha sido humanamente posible para crear una misión decente desde el punto de vista de un artillero de un Apache con un piloto de la IA, y debería ir bien en general, pero la IA se puede quedar bugeada por cualquier minucia. Ten en cuenta también que el piloto siempre seguirá a los blancos (los círculos rojos de la interfaz que te da el líder) antes que los puntos de referencia, así que asegúrate de no tener ningún blanco asignado. En todo caso, los puntos de referencia importantes tienen órdenes de alto el fuego u otros trucos para que la IA no se quede remoloneando.&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;HeadUp por la idea original</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingCommand_Text_1B3">
+        <English>A. Signal:&lt;br/&gt; RCR HQ - Brig. Gen. FRASER (RCR CO)&lt;br/&gt; Charles Actual - Maj. LUSSIER (ISTAR CO)&lt;br/&gt; Charles 57 - Lt. Col. LAVOIE (1st Battalion CO)&lt;br/&gt; Eagle 10 - Lt. Col. BOLDUC (TF 31 CO)&lt;br/&gt; Windmill 22 - Cpt. ALBERTUS&lt;br/&gt; Windmill 23 (your team) - Lt. MARINUS</English>
+        <Spanish>A. Señal:&lt;br/&gt; CG RCR: Gral. Brig. FRASER (oficial al mando del RCR)&lt;br/&gt; Charles Jefe: May. LUSSIER (oficial al mando del ISTAR)&lt;br/&gt; Charles 57: Tte. Cnel. LAVOIE (oficial al mando del 1.er Batallón)&lt;br/&gt; Eagle 10 Jefe: Tte. Cnel. BOLDUC (oficial al mando de la TF 31)&lt;br/&gt; Windmill 22: Cap. ALBERTUS&lt;br/&gt; Windmill 23 (tu equipo): Tte. MARINUS</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingSustainment_Text_1B3">
+        <English>1. Supply: Standard pilot overalls and HGU-56/P helmets, and C8A1 standard-issue carbines.&lt;br/&gt;2. Transportation: Windmill 22 and 23 will use their two AH-64D Apache attacks helicopters to move from position to position neutralizing hostile targets.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: None.</English>
+        <Spanish>1. Suministros: Monos estándar de vuelo y cascos HGU-56/P, carabinas reglamentarias C8A1.&lt;br/&gt;2. Transporte: Windmill 22 y 23 usarán sus dos helicópteros de ataque AH-64D Apache para avanzar de posición en posición neutralizando los blancos hostiles.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Ninguna.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingExecution_Text_1B3">
+        <English>Windmill 22 and Windmill 23 will board their Apaches and provide support to Charles Company, 1st Battalion Royal Canadian Regiment Battle Group, at the towns of &lt;marker name="markerKifah"&gt;Kifah&lt;/marker&gt; and &lt;marker name="markerKezban"&gt;Kezban&lt;/marker&gt;, where they have taken heavy enemy fire. If they advance, Windmill will cover their advance. Farther south, Task Force 31's ODA 331 and the ANA's 3rd Kandak are going to assault and capture the &lt;marker name="markerSperwan"&gt;Sperwan Ghar ridge&lt;/marker&gt; in order to help relieve Canadian forces. Once Sperwan is captured, they intend to move up north and support Charles Company on the ground. However, both Windmill helicopters will strictly limit to supporting Charles Company from the air unless specifically told otherwise by Brig. Gen. Fraser, commander of NATO forces in southern Afghanistan.</English>
+        <Spanish>Windmill 22 y Windmill 23 se montarán en sus Apaches y proporcionarán apoyo a la Compañía Charles, 1.er Batallón del Grupo de Combate del Real Regimiento Canadiense, en las localidades de &lt;marker name="markerKifah"&gt;Kifah&lt;/marker&gt; y &lt;marker name="markerKezban"&gt;Kezban&lt;/marker&gt;, donde han recibido fuego enemigo intenso. Si avanzan, Windmill cubrirá sus avances. Más al sur, la ODA 331 de la Fuerza Operativa 31 y el 3.er Kandak del ENA van a asaltar y tomar la &lt;marker name="markerSperwan"&gt;cresta de Sperwan Ghar&lt;/marker&gt; para aliviar a las fuerzas canadienses. Cuando capturen Sperwan, pretenden avanzar hacia el norte y apoyar a la Compañía Charles. Sin embargo, ambos helicópteros Windmill se limitarán a apoyar estrictamente a la Compañía Charles desde el aire a menos que el general de brigada Fraser, comandante de las fuerzas de la OTAN en el sur de Afganistán, ordene lo contrario.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingMission_Text_1B3">
+        <English>Who: Windmill 23, 301 Squadron, Royal Netherlands Air Force (RNLAF)&lt;br/&gt;What: ASSIST Canadian forces&lt;br/&gt;Where: In vicinity, Panjwayi Valley&lt;br/&gt;When: 110000ZSEP3&lt;br/&gt;Why: Support of Operation Medusa</English>
+        <Spanish>Quién: Windmill 23, Escuadrón 301, Real Fuerza Aérea de los Países Bajos (KLu)&lt;br/&gt;Qué: APOYAR a las fuerzas canadienses&lt;br/&gt;Dónde: En las inmediaciones, valle de Panjwai&lt;br/&gt;Cuándo: 110000ZSEP3&lt;br/&gt;Por qué: Apoyo a la Operación Medusa</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingSituation_Text_1B3">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: 50-150 + possible reinforcements in vicinity, estimated 300-500 in the AO at large&lt;br/&gt;Activity: Light movement observed, moderate radio chatter&lt;br/&gt;Location: Vicinity, &lt;marker name="markerKifah"&gt;Kifah&lt;/marker&gt;&lt;br/&gt;Unit: Taliban mixed infantry supported by Arab and Chechen fighters&lt;br/&gt;Time Observed: September 3, 2006 0700 hrs&lt;br/&gt;Equipment: Small arms, RPG AT Weapons, Hilux technicals&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To assist Charles Company in Kifah and Kezban, neutralizing all advancing enemy tangos and allowing friendly forces to establish a foothold in the Panjwayi Valley.&lt;br/&gt;2. Adjacent Units: ODA 331 Team 26 (callsign: Talon 26), ODA 331 Command Team (callsign: Talon 30), ODA 331 Team 36 (callsign: Talon 36), ANA 3rd Kandak (callsign: Lion 1 Actual), Canadian 1 RCR Battle Group, Charles Co. (callsign: Charles Actual).&lt;br/&gt;3. Supporting: Windmill 22 and Windmill 23 will be providing air support to Canadian forces. There's also friendly A-10s in the AO.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: 50-150 + posibles refuerzos en las inmediaciones, se estiman 300-500 en el AO en general&lt;br/&gt;Actividad: Movimiento leve observado, vibraciones de radio moderadas&lt;br/&gt;Ubicación: Inmediaciones, &lt;marker name="markerKifah"&gt;Kifah&lt;/marker&gt;&lt;br/&gt;Unidades: Infantería mixta talibán con apoyo de combatientes árabes y chechenos&lt;br/&gt;Fecha de observación: 3 de septiembre de 2006, 0700 horas&lt;br/&gt;Equipo: armas ligeras, granadas antitanque RPG, técnicos Hilux&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Apoyar a la Compañía Charles en Kifah y Kezban, neutralizando a todos los tangos enemigos y permitiendo a las fuerzas aliadas asegurar su posición en el distrito de Panjwai.&lt;br/&gt;2. Unidades adyacentes: Equipo 26 de la ODA 331 (indicativo: Talon 26), equipo de mando de la ODA 331 (indicativo: Talon 30), equipo 36 de la ODA 331 (indicativo: Talon 36), 3.er Kandak del ENA (indicativo: León 1 Jefe), 1.er Batallón del Grupo de Combate del Real Regimiento Canadiense, Compañía Charles (indicativo: Charles Jefe).&lt;br/&gt;3. Apoyo: Windmill 22 y Windmill 23 prestarán apoyo aéreo a las fuerzas canadienses. También hay A-10 aliados en el AO.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Briefing_Text_1B3">
+        <English>Operation Medusa is at full throttle. Charles Company has made its initial assaults at &lt;marker name="markerKifah"&gt;Kifah&lt;/marker&gt; and &lt;marker name="markerKezban"&gt;Kezban&lt;/marker&gt;, but Taliban resistance is high. The Canadians have had to fall back and entrench themselves in defensive positions against the Taliban. Two AH-64D Apaches from NATO's Dutch contingent will move to both positions and assist Canadian forces by any means, neutralizing as many enemy targets as possible.</English>
+        <Spanish>La Operación Medusa va a toda mecha. La Compañía Charles ha realizado sus ataques iniciales en &lt;marker name="markerKifah"&gt;Kifah&lt;/marker&gt; y &lt;marker name="markerKezban"&gt;Kezban&lt;/marker&gt;, pero la resistencia talibán es elevada. Los canadienses han tenido que replegarse y atrincherarse en posiciones defensivas ante los talibanes. Dos AH-64D Apaches del contingente neerlandés de la OTAN avanzarán a ambas posiciones y apoyarán a las fuerzas canadienses como sea, neutralizando todos los blancos enemigos posibles.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_Description_1B3">
+        <English>It's not advisable to fly a helicopter without wearing proper headgear. Go grab your HGU-56/P helmet that you left on your bed before the briefing with Fraser.</English>
+        <Spanish>No se recomienda volar un helicóptero sin un casco apto. Coge el casco HGU-56/P que te dejaste en la cama antes de reunirte con Fraser.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_Title_1B3">
+        <English>Get your helmet</English>
+        <Spanish>Coger el casco</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_1_Description_1B3">
+        <English>Now that you've got your helmet on, it's time to take to the skies. You'll be manning the guns and supporting the Royal Canadian Regiment in their initial push of Operation Medusa.</English>
+        <Spanish>Ahora que te has puesto el casco, es hora de echar el vuelo. Tú controlarás las armas y apoyarás al Real Regimiento Canadiense su ataque inicial de la Operación Medusa.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_1_Title_1B3">
+        <English>Board the Apache</English>
+        <Spanish>Montar en el Apache</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_Description_1B3">
+        <English>Operation Medusa began last night and the 1st Battalion, Royal Canadian Regiment has made their initial assaults at &lt;marker name="markerKifah"&gt;Kifah&lt;/marker&gt; and &lt;marker name="markerKezban"&gt;Kezban&lt;/marker&gt;, but they are knee-deep in trouble. The Taliban threaten to overrun them at any moment, and on top of that, they were strafed by a friendly A-10 earlier today. This state of affairs has to change. We'll fly there with our two Apaches and take out as many hostiles as we can to relieve our allies.</English>
+        <Spanish>La Operación Medusa comenzó anoche, y el 1.er Batallón del Real Regimiento Canadiense ha realizado sus primeros ataques en &lt;marker name="markerKifah"&gt;Kifah&lt;/marker&gt; y &lt;marker name="markerKezban"&gt;Kezban&lt;/marker&gt;, pero están hasta el cuello. Los talibanes amenazan con sobrepasarlos en cualquier momento, y encima, esta mañana los ha atacado un A-10 aliado. Esta situación tiene que cambiar. Volaremos allí con nuestros dos Apaches y eliminaremos a todos los hostiles que podamos para aliviar a nuestros aliados.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_Title_1B3">
+        <English>Support the Canadian assault</English>
+        <Spanish>Apoyar el asalto canadiense</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_2_Description_1B3">
+        <English>ODA 331 and the Afghan 3rd Kandak were supposed to take &lt;marker name="markerSperwan"&gt;Sperwan Ghar&lt;/marker&gt; this morning, but they have come under intense fire from Taliban forces entrenched in the mountains. They have requested fire support from us, and since the Canadians are in the clear for now, Command has given us the green light to support them.</English>
+        <Spanish>La ODA 331 y el 3.er Kandak afgano iban a tomar &lt;marker name="markerSperwan"&gt;Sperwan Ghar&lt;/marker&gt; esta mañana, pero están recibiendo fuego intenso de las fuerzas talibanes atrincheradas en las montañas. Nos han solicitado apoyo de fuego, y como los canadienses están a salvo por ahora, el mando nos ha dado luz verde para apoyarlos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_2_Title_1B3">
+        <English>Support the American and Afghan assault</English>
+        <Spanish>Apoyar el asalto estadounidense y afgano</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_3_Description_1B3">
+        <English>ODA 331 and the ANA's 3rd Kandak are retreating from Sperwan Ghar due to the immeasurable amount of hostile units that have gone over the mountains. With the assault cancelled and little ammo and fuel in our Apaches, our best course of action is to return to base, refuel, rearm and come back later for more.</English>
+        <Spanish>La ODA 331 y el 3.er Kandak del ENA se retiran de Sperwan Ghar debido a la cantidad inconmensurable de unidades hostiles que han cruzado las montañas. Cancelado el asalto y faltos de munición y combustible, nuestra mejor opción es volver a la base, repostar, rearmarnos y volver más tarde a por más.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_3_Title_1B3">
+        <English>Return to base</English>
+        <Spanish>Volver a la base</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj3_Description_1B3">
+        <English>ODA 331 and the 3rd Kandak have taken up a defensive position &lt;marker name="markerODA_2"&gt;at the foot of Sperwan Ghar&lt;/marker&gt;. After pummeling Taliban strongholds with a B-1 bomber and mortars, they have requested MEDEVAC for their three wounded. A Chinook has been arranged to extract them, but it will need an Apache escort to get there safely.</English>
+        <Spanish>La ODA 331 y el 3.er Kandak han adoptado una posición defensiva &lt;marker name="markerODA_2"&gt;en la falda de Sperwan Ghar&lt;/marker&gt;. Tras bombardear bastiones talibanes con un bombardero B-1 y morteros, han solicitado evacuación médica para sus tres heridos. Se ha dispuesto un Chinook para extraerlos, pero necesitará un Apache de escolta para llegar sano y salvo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj3_Title_1B3">
+        <English>Escort Lima 85</English>
+        <Spanish>Escoltar a Lima 85</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_NLDBriefing_1B3">
+        <English>Briefing - 301 Squadron</English>
+        <Spanish>Instrucciones: Escuadrón 301</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_1B3">
+        <English>Beschermengelen</English>
+        <Spanish>Beschermengelen</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_Intro_1B3">
+        <English>Beschermengelen Intro</English>
+        <Spanish>Beschermengelen: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_Outro_1B3">
+        <English>Beschermengelen Outro</English>
+        <Spanish>Beschermengelen: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Fang63_1B3">
+        <English>Fang 63</English>
+        <Spanish>Fang 63</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionDescription_1B3">
+        <English>As a member of the Dutch contingent in Afghanistan, provide support to ISAF forces during the beginning stages of Operation Medusa in your AH-64D Apache attack helicopter.</English>
+        <Spanish>Como parte del contingente neerlandés en Afganistán, proporciona apoyo a las fuerzas de la ISAF durante la fase inicial de la Operación Medusa en tu helicóptero de ataque AH-64D Apache.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionDescription_locked_1B3">
+        <English>Complete 'Seven 2,000-Pounders' from the main campaign to unlock this mission.</English>
+        <Spanish>Completa «Siete bombas de 900 kg» de la campaña principal para desbloquear esta misión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_text_1B3">
+        <English>&lt;t color='#09ff00' size='3.5'&gt;BESCHERMENGELEN&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'If we lose the war in the air we lose the war and we lose it quickly.'&lt;br/&gt;&lt;br/&gt;-BERNARD MONTGOMERY&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#09ff00' size='3.5'&gt;BESCHERMENGELEN&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«Si perdemos la guerra en el aire, perderemos la guerra, y la perderemos rápidamente».&lt;br/&gt;&lt;br/&gt;—BERNARD MONTGOMERY&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel1_1B3">
+        <English>Lt. Theodoor Reinout</English>
+        <Spanish>Tte. Theodoor Reinout</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel1_phase2_1B3">
+        <English>Lt. Jan Marinus</English>
+        <Spanish>Tte. Jan Marinus</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel2_1B3">
+        <English>301 Squadron, RNLAF</English>
+        <Spanish>Escuadrón 301, KLu</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel3_1B3">
+        <English>Kandahar Airfield</English>
+        <Spanish>Aeropuerto de Kandahar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel4_1B3">
+        <English>September 3, 2006 - 1015</English>
+        <Spanish>3 septiembre 2006 - 1015</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel4_phase2_1B3">
+        <English>September 3, 2006 - 1530</English>
+        <Spanish>3 septiembre 2006 - 1530</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Fraser_dialogue_1B3">
+        <English>BRIG. GEN. FRASER</English>
+        <Spanish>GRAL. BRIG. FRASER</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Apache1_radio_1B3">
+        <English>Windmill 22 (Cpt. Albertus)</English>
+        <Spanish>Windmill 22 (Cap. Albertus)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Apache2_radio_1B3">
+        <English>Windmill 23 (Lt. Marinus)</English>
+        <Spanish>Windmill 23 (Tte. Marinus)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Apache2_empty_radio_1B3">
+        <English>Windmill 23</English>
+        <Spanish>Windmill 23</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Apache2_dialogue_1B3">
+        <English>LT. MARINUS</English>
+        <Spanish>TTE. MARINUS</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_TFUCommander_dialogue_1B3">
+        <English>COL. MATTHIJSSEN</English>
+        <Spanish>CNEL. MATTHIJSSEN</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Apache2Gunner_dialogue_1B3">
+        <English>LT. REINOUT</English>
+        <Spanish>TTE. REINOUT</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message1_1B3">
+        <English>As I'm sure you know, Operation Medusa is well underway. The Royal Canadian Regiment has launched their initial attacks, but Taliban resistance is fierce.</English>
+        <Spanish>Como seguro que ya sabrán, la Operación Medusa está en marcha. El Real Regimiento Canadiense ha lanzado sus ataques iniciales, pero la resistencia talibán es feroz.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message2_1B3">
+        <English>You are to provide air support to Charles Company, fighting a battle on two fronts in Kifah and Kezban, across the Arghandab River.</English>
+        <Spanish>Han de prestar apoyo aéreo a la Compañía Charles, que está librando una batalla en dos frentes en Kifah y Kezban, al otro lado del río Arghandab.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message3_1B3">
+        <English>Enemy forces are expected to consist of light infantry, possibly supported by Hilux technicals. Air defence won't be a problem, since Maj. Lussier's ISTAR eliminated their AA guns just last night.</English>
+        <Spanish>Se espera que las fuerzas enemigas estén compuestas por infantería ligera con posible apoyo de técnicos Hilux. La defensa aérea no supondrá problema alguno, pues el ISTAR del mayor Lussier eliminó sus cañones antiaéreos anoche.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message4_1B3">
+        <English>On the other hand, ODA 331 and the ANA's 3rd Kandak will be advancing on Sperwan Ghar, to our southwest, in a few hours, but your orders are to assist only the RCR unless directly specified otherwise.</English>
+        <Spanish>Por otra parte, la ODA 331 y el 3.er Kandak del ENA avanzarán hacia Sperwan Ghar, a nuestro sudoeste, en unas horas, pero sus órdenes son apoyar solo al RCR a menos que les indique lo contrario.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message5_1B3">
+        <English>You are our only hope. Without air support, our boys will get overrun in less than a day. Good luck. Dismissed.</English>
+        <Spanish>Son nuestra única esperanza. Sin apoyo aéreo, abrumarán a nuestros muchachos en menos de un día. Buena suerte. Retírense.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message6_1B3">
+        <English>Hey Theo, you're not planning to fly without a helmet, are you? Go get it from the barracks, I'll wait for you in the chopper!</English>
+        <Spanish>Eh, Theo, ¿no pensarás volar sin casco, no? ¡Cógelo de los barracones, te espero dentro del helicóptero!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message7_1B3">
+        <English>This is Windmill 22, we're in the air, heading towards Kifah. Over.</English>
+        <Spanish>Aquí Windmill 22, hemos alzado el vuelo, nos dirigimos a Kifah. Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message8_1B3">
+        <English>Roger that. Fang 63, this is Brig. Gen. Fraser. Two AH-64 Apaches are on their way to provide air support, callsign Windmill 22. ETA: 5 minutes. How copy, over?</English>
+        <Spanish>Recibido. Fang 63, aquí el general de brigada Fraser. Dos AH-64 Apaches van de camino para proporcionar apoyo aéreo, indicativo Windmill 22. Tiempo estimado de llegada: 5 minutos. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message9_1B3">
+        <English>Solid copy, HQ. Those Apaches are a godsend. Out.</English>
+        <Spanish>Recibido, CG. Esos Apaches son mano de santo. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message10_1B3">
+        <English>Looks like we are venturing into the lion's den. You feeling lucky today, Jan?</English>
+        <Spanish>Parece que vamos de lleno a la boca del lobo. ¿Te sientes con suerte, Jan?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message11_1B3">
+        <English>Oh, don't you worry, man. This is a war machine we're talking about, they got no means to bring it down without their Zeus guns. You just point the gun at them and send them to kingdom come. Leave the flying to me.</English>
+        <Spanish>Ni te preocupes, tío. Estamos hablando de una máquina de guerra, no tienen manera de derribarla sin los cañones Zeus. Tú apúntales con el cañón y envíalos al más allá. Déjame volar a mí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message12_1B3">
+        <English>Best pilot north of the Waal, wasn't that right? I'm feeling confident. You and me, Jan, we'll end this war. The Canadians won't ever forget our help.</English>
+        <Spanish>El mejor piloto al norte del Waal, ¿no era así? Me siento seguro. Tú y yo, Jan, terminaremos esta guerra. Los canadienses no olvidarán nuestra ayuda jamás.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message13_1B3">
+        <English>Let's enter the fray and come back with a medal!</English>
+        <Spanish>¡Entremos en la refriega y volvamos con una medalla!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message14_1B3">
+        <English>Windmill 22 to Fang 63, we're nearing Kifah, what's the situation down there? Over.</English>
+        <Spanish>Windmill 22 a Fang 63, nos acercamos a Kifah, ¿cuál es la situación ahí abajo? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message15_1B3">
+        <English>We're fine, but we got several Taliban squads advancing to our west. Come here and get them! And watch your fire, we've already gotten strafed this morning by a friendly! Over.</English>
+        <Spanish>Estamos bien, pero vemos varios escuadrones talibanes avanzando a nuestro oeste. ¡Vengan aquí y acaben con ellos! ¡Y miren adónde disparan, ya nos ha ametrallado un aliado esta mañana! Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message16_1B3">
+        <English>Roger that, sit tight and watch the fireworks. We're professionals, we don't make mistakes. Out.</English>
+        <Spanish>Recibido, tomen asiento y observen los fuegos artificiales. Somos profesionales, no cometemos errores. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message17_1B3">
+        <English>Lock and load, Theo!</English>
+        <Spanish>¡Carga armas, Theo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message18_1B3">
+        <English>Fang 63, this is Windmill 22-- get to cover, two armed technicals are flanking you from the east! Moving to intercept. Out.</English>
+        <Spanish>Fang 63, aquí Windmill 22: ¡a cubierto, dos técnicos armados los están flanqueando desde el este! Pasamos a interceptarlos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message19_1B3">
+        <English>Both technicals are down. Great job, Theo.</English>
+        <Spanish>Ambos técnicos abatidos. Muy bien hecho, Theo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message20_1B3">
+        <English>This is Fang 63, we see at least 5 Taliban squads coming down from the woods to our north! We need support, over!</English>
+        <Spanish>¡Aquí Fang 63, vemos al menos cinco escuadrones talibanes que vienen desde el bosque a nuestro norte! ¡Necesitamos apoyo, cambio!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message21_1B3">
+        <English>Roger that, Windmill 22 is oscar mike. Out.</English>
+        <Spanish>Recibido, Windmill 22 está en camino. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message22_1B3">
+        <English>Fang 63, this is Charles Actual-- be advised, ISTAR has spotted a large Taliban stronghold in the village of Bushra, just north of you. Three armed Hilux trucks are leaving just now and headed to your position. Over.</English>
+        <Spanish>Fang 63, aquí Charles Jefe: atención, ISTAR ha localizado un gran bastión talibán en el pueblo de Bushra, justo a su norte. Tres todoterrenos armados Hilux están saliendo justo ahora y se dirigen a su posición. Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message23_1B3">
+        <English>Roger that, Charles Actual. Windmill 22, can you take out that stronghold? Over.</English>
+        <Spanish>Recibido, Charles Jefe. Windmill 22, ¿pueden eliminar ese bastión? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message24_1B3">
+        <English>Absolutely, we'll take care of it. Windmill 23, move up and fill them with 30mm rounds. We'll mop up the rest of the hostiles and dispatch the technicals. How copy, over?</English>
+        <Spanish>Por supuesto, nos encargaremos de él. Windmill 23, avancen y llénenlos de proyectiles de 30 mm. Nosotros acabaremos con el resto de hostiles y eliminaremos los técnicos. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message25_1B3">
+        <English>Solid copy, moving to Bushra to neutralize Taliban stronghold. Out.</English>
+        <Spanish>Alto y claro, avanzamos a Bushra para neutralizar el bastión talibán. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message26_1B3">
+        <English>Captain, Bushra is clear of all hostiles. How copy, over?</English>
+        <Spanish>Capitán, Bushra está despejada. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message27_1B3">
+        <English>Understood, great work. HQ, all Taliban units in Kifah have been eliminated, requesting permission to move to Kezban and provide support, over.</English>
+        <Spanish>Entendido, muy bien hecho. CG, todas las unidades talibanes de Kifah han sido eliminadas. Solicito permiso para avanzar a Kezban y prestar apoyo, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message28_1B3">
+        <English>Roger that, permission granted. Out.</English>
+        <Spanish>Recibido, permiso concedido. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message29_1B3">
+        <English>Fang 63, this is Windmill 22. Kifah seems to be clear. We're moving to Kezban now, but just give us a holler if you run into any more trouble. Over.</English>
+        <Spanish>Fang 63, aquí Windmill 22. Kifah parece estar despejado. Avanzamos a Kezban, pero peguen un grito si hay más problemas. Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message30_1B3">
+        <English>Understood, Windmill 22. We seem to be in the clear for now. Thanks a lot and happy hunting, over.</English>
+        <Spanish>Entendido, Windmill 22. Parece que estamos a salvo por ahora. Muchas gracias y feliz caza, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message31_1B3">
+        <English>Our utmost pleasure, Fang 63. We owed you one for 1945. Stay safe, friends. Out.</English>
+        <Spanish>El placer es nuestro, Fang 63. Les debíamos una por 1945. Cuídense, amigos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message32_1B3">
+        <English>Mother of God! Did you see that explosion?</English>
+        <Spanish>¡Madre de Dios! ¿Has visto esa explosión?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message33_1B3">
+        <English>Yeah! Looks like they were storing the mother of all explosive caches in there!</English>
+        <Spanish>¡Sí! ¡Parece que estaban guardando la madre de todos los alijos explosivos ahí dentro!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message34_1B3">
+        <English>HQ, we're in Kezban. We see friendlies holding position across the river. No enemies in sight, but there was a hell of a battle here recently-- bodies, columns of smoke, ruined buildings... Please advise, over.</English>
+        <Spanish>CG, estamos en Kezban. Vemos hostiles manteniendo la posición al otro lado del río. No hay enemigos a la vista, pero aquí ha habido una pedazo de batalla: cuerpos, columnas de humo, edificios derruidos... Solicito instrucciones, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message35_1B3">
+        <English>Roger that, Windmill 22. Charles 36 to 43 were ambushed there earlier this morning and retreated back to their staging positions. Scan the area for hostiles, they might be in hiding. Over.</English>
+        <Spanish>Recibido, Windmill 22. Han emboscado allí a Charles 36 hasta 43 esta mañana y se han replegado a sus posiciones de inicio. Escaneen la zona en busca de hostiles, podrían estar ocultándose. Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message36_1B3">
+        <English>Wilco, out.</English>
+        <Spanish>Recibido, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message37_1B3">
+        <English>Fraser, this is Lt. Col. Bolduc, TF 31. My boys are getting hammered south of Sperwan Ghar! Overwatch counts at least 200 enemy tangos converging on their position! We need those Apaches ASAP, over!</English>
+        <Spanish>Fraser, aquí el teniente coronel Bolduc, TF 31. ¡Están machacando a mis chicos al sur de Sperwan Ghar! ¡La vigilancia cuenta al menos 200 tangos enemigos avanzando a su posición! ¡Necesitamos esos Apaches a la voz de ya, cambio!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message38_1B3">
+        <English>All copied, but their priority is first and foremost to support the Canadian military. I'll check up on Charles Company. Wait one.</English>
+        <Spanish>Recibido, pero su prioridad es apoyar al Ejército canadiense ante todo. Lo consultaré con la Compañía Charles. Un momento.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message39_1B3">
+        <English>Charles 57, be advised-- the Americans and Afghans are reportedly under heavy fire and are requesting our Apaches. Interrogative-- are you in need of air support at this moment? Over.</English>
+        <Spanish>Charles 57, atención: los estadounidenses y afganos están supuestamente recibiendo fuego intenso y solicitan nuestros Apaches. Interrogo: ¿necesitan apoyo aéreo en este momento? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message40_1B3">
+        <English>Negative, Command. We've taken up positions and no enemies have been sighted since we retreated. We are not under attack, I suggest sending the Apaches. How copy, over?</English>
+        <Spanish>Negativo, mando. Hemos adoptado posiciones y no hemos avistado ningún enemigo desde que nos retiramos. No nos están atacando, recomiendo enviar a los Apaches. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message41_1B3">
+        <English>Solid copy, Charles 57. You'll get the Apaches back. Out.</English>
+        <Spanish>Recibido, Charles 57. Volverán a tener los Apaches. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message42_1B3">
+        <English>Eagle 10, this is RCR Command again. Affirmative, the Canadians are in the clear for now. Two Apaches are on their way to your position, callsign Windmill 22. ETA: 2 minutes. Out.</English>
+        <Spanish>Eagle 10, aquí el mando del RCR de nuevo. Afirmativo, los canadienses están fuera de peligro. Dos Apaches van de camino a su posición, indicativo Windmill 22. Tiempo estimado de llegada: 2 minutos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message43_1B3">
+        <English>You got that, Windmill 22? You have new orders. Move to Sperwan Ghar and assist ODA 331 and the 3rd Kandak. Over.</English>
+        <Spanish>¿Lo han escuchado, Windmill 22? Tienen nuevas órdenes. Avancen hacia Sperwan Ghar y apoyen a la ODA 331 y al 3.er Kandak. Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message44_1B3">
+        <English>Solid copy on all, Command. Will assist. Out.</English>
+        <Spanish>Todo recibido, mando. Los apoyaremos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message45_1B3">
+        <English>Windmill 22, be advised-- ODA 331 is retreating from Sperwan Ghar, they can't take on all the enemy tangos. Recommend you RTB to resupply and refuel for next phase. How copy, over?</English>
+        <Spanish>Windmill 22, atención: la ODA 331 se retira de Sperwan Ghar, no pueden con todos los tangos enemigos. Recomiendo que vuelvan a base para repostar y reabastecerse para la siguiente fase. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message46_1B3">
+        <English>Solid copy Command, we're Winchester. Out.</English>
+        <Spanish>Recibido, mando. Winchester. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message47_1B3">
+        <English>Fantastic exhibition back there, Jan, you had my heart pumping.</English>
+        <Spanish>Pedazo de exhibición te has marcado, Jan, tenía el corazón a mil.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message48_1B3">
+        <English>I could say the same about your shooting. Our allies live to fight another day. Let's hope they can actually beat the Talibs...</English>
+        <Spanish>Lo mismo podría decir de ti. Nuestros aliados viven para luchar otro día. Esperemos que puedan vencer a los talis...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message49_1B3">
+        <English>Home, sweet home. You fancy a game of ping pong at the barracks or what?</English>
+        <Spanish>Hogar, dulce hogar. ¿Te echas una partida de ping pong en los barracones o qué?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message50_1B3">
+        <English>Yeah, why not? I'm gonna deal you a harder beating than those Talibs back there.</English>
+        <Spanish>Venga, ¿por qué no? Te voy a dar una paliza mayor que a los talis.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message51_1B3">
+        <English>Yeah, yeah, we'll just have to see about that...</English>
+        <Spanish>Ya, ya, eso habrá que verlo...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message52_1B3">
+        <English>Command, this is Windmill 22. We're refuelled, rearmed and ready to provide support again. How copy, over?</English>
+        <Spanish>Mando, aquí Windmill 22. Hemos repostado, nos hemos rearmado y estamos listos para volver a prestar apoyo. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message53_1B3">
+        <English>Solid copy. ODA 331 and the 3rd Kandak have taken casualties that need evac. A Chinook has been arranged for extraction, callsign Lima 85. Your current orders are to escort it to its destination whilst eliminating any potential hostiles on the ground. How copy, over?</English>
+        <Spanish>Recibido. La ODA 331 y el 3.er Kandak tienen bajas que necesitan evacuación. Se ha dispuesto un Chinook para extraerlos, indicativo Lima 85. Su orden es escoltarlo hasta su destino y eliminar a cualquier posible hostil en el terreno. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message54_1B3">
+        <English>All copied, wilco, out. Windmill 23, can you escort Lima 85 while we go back to Kezban and assist the Canadians? Over.</English>
+        <Spanish>Todo recibido, lo haremos, corto. Windmill 23, ¿pueden escoltar a Lima 85 y nosotros volvemos a Kezban para ayudar a los canadienses? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message55_1B3">
+        <English>Roger that, over.</English>
+        <Spanish>Recibido, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message56_1B3">
+        <English>Great. Lima 85, this is Windmill 22. One of my Apaches, callsign Windmill 23, will escort you to the Americans' position. They're all ready to go, just give us the signal. How copy, over?</English>
+        <Spanish>Genial. Lima 85, aquí Windmill 22. Uno de mis Apaches, indicativo Windmill 23, los escoltará hasta la posición de los estadounidenses. Están listos para partir, den la señal. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message57_1B3">
+        <English>Solid copy, Windmill. We're making the final checks before departing, but we'll be leaving in about a minute or so. Over.</English>
+        <Spanish>Recibido, Windmill. Estamos realizando las últimas comprobaciones antes de partir, pero nos marcharemos en un minuto más o menos. Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message58_1B3">
+        <English>This is Windmill 23. Roger that. We're on standby. Out.</English>
+        <Spanish>Aquí Windmill 23. Recibido. A la espera. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message59_1B3">
+        <English>Windmill 23, this is Lima 85. We're all set and ready to leave. Turning the engines on at this moment. How copy, over?</English>
+        <Spanish>Windmill 23, aquí Lima 85. Estamos listos para partir. Encendemos motores en este preciso instante. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message60_1B3">
+        <English>Solid copy, Lima 85. We'll lead the way. Just follow us, we'll keep you out of trouble. Out.</English>
+        <Spanish>Recibido, Lima 85. Iremos delante. Sígannos y los mantendremos fuera de peligro. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message61_1B3">
+        <English>Windmill 23, we're heading out. Good luck with that chopper. See you guys later. Out.</English>
+        <Spanish>Windmill 23, nos marchamos. Buena suerte con el helicóptero. Luego nos vemos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message62_1B3">
+        <English>Lima 85 to Kandahar Command, the three wounded are on board. Returning to base with Windmill 23, over.</English>
+        <Spanish>Lima 85 a mando de Kandahar, los tres heridos van a bordo. Volvemos a base con Windmill 23, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message63_1B3">
+        <English>Roger that, Lima. Great job out there. Out.</English>
+        <Spanish>Recibido, Lima. Gran trabajo. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message64_1B3">
+        <English>Theo, you wanna go for another round? Want me to ask Command if we can join 22 in Kezban?</English>
+        <Spanish>Theo, ¿te apetece otra ronda? ¿Quieres que le pregunte al mando si podemos unirnos a 22 en Kezban?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message65_1B3">
+        <English>Nah man, I'm kinda tired. Besides, there can't be a lot of hostiles left from this morning. The Captain will be fine. Tomorrow will be a different day.</English>
+        <Spanish>Nah, tío, estoy algo cansado. Aparte, no podrán quedar muchos hostiles de esta mañana. Al capitán le irá bien. Mañana será otro día.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message66_1B3">
+        <English>As part of ISAF in southern Afghanistan, it is our job to assist our brothers in arms in their missions.</English>
+        <Spanish>Como parte de la ISAF en el sur de Afganistán, es nuestro cometido ayudar a nuestros camaradas en sus misiones.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message67_1B3">
+        <English>Operation Medusa is set to begin in just a few days. The Canadians will be advancing on the ground, but we have pledged to support them from the air.</English>
+        <Spanish>La Operación Medusa comenzará en unos días. Los canadienses avanzarán sobre el terreno, pero hemos jurado apoyarlos desde el aire.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message68_1B3">
+        <English>You are our best pilots. Hence, both of your Apaches have been preemptively selected for this operation. Your current mission is to fly over to Kandahar Airfield in preparation for Medusa.</English>
+        <Spanish>Ustedes son nuestros mejores pilotos. Por tanto, sus dos Apaches han sido elegidos preventivamente para esta operación. Su misión actual es volar hacia el aeropuerto de Kandahar como preparación para Medusa.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message69_1B3">
+        <English>As soon as you reach Kandahar, you will report to Brig. Gen. David Fraser, the commander of NATO forces in southern Afghanistan. He will brief you further, and you will comply with any and all orders he will issue.</English>
+        <Spanish>En cuanto lleguen a Kandahar, rendirán cuentas al general de brigada David Fraser, el comandante de las fuerzas de la OTAN en el sur de Afganistán. Él les proporcionará más información, y ustedes acatarán todas sus órdenes.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message70_1B3">
+        <English>Your vehicles are refuelled and ready to go. We are placing all our trust in you. We know you'll deliver. Godspeed. Dismissed.</English>
+        <Spanish>Sus vehículos han repostado y están listos. Hemos depositado toda nuestra confianza en ustedes. Sabemos que no nos defraudarán. Buena suerte. Retírense.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_phase2_intermission_1B3">
+        <English>&lt;t size='1.5'&gt;S O M E   H O U R S   L A T E R . . .&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;U N A S   H O R A S   D E S P U É S . . .&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intermission_1B3">
+        <English>&lt;t size='1.5'&gt;K A N D A H A R   A I R F I E L D&lt;/t&gt;&lt;br/&gt;&lt;t size='1.0'&gt;S E P T E M B E R   1,   2 0 0 6&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;A E R O P U E R T O   D E   K A N D A H A R&lt;/t&gt;&lt;br/&gt;&lt;t size='1.0'&gt;1   D E   S E P T I E M B R E   D E   2 0 0 6&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerCrashSite_1B3">
+        <English>British Crash Site</English>
+        <Spanish>Lugar del accidente británico</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Chinook_hint_1B3">
+        <English>The Chinook is ready to go. It will take off as soon as you do. Your destination is marked with a white waypoint, while the MEDEVAC Chinook is marked with a yellow waypoint.</English>
+        <Spanish>El Chinook está listo para partir. Despegará en cuanto tú despegues. Tu destino aparece marcado con un punto de referencia blanco, mientras que el Chinook aparece marcado con un punto de referencia amarillo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_introtext_1_1B3">
+        <English>KAMP HOLLAND</English>
+        <Spanish>KAMP HOLLAND</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_introtext_2_1B3">
+        <English>TARIN KOWT, URUZGAN PROVINCE</English>
+        <Spanish>TARIN KOWT, PROVINCIA DE URUZGÁN</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_introtext_3_1B3">
+        <English>AUGUST 30, 2006</English>
+        <Spanish>30 DE AGOSTO DE 2006</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end1_subtitle_1B3">
+        <English>Friendly forces protected</English>
+        <Spanish>Fuerzas aliadas protegidas</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end1_description_1B3">
+        <English>Thanks to you, ISAF forces have managed to hold on, entrench themselves, extract their wounded and start gearing up for tomorrow's assaults. You provided air support like a true professional, and it paid off.</English>
+        <Spanish>Gracias a ti, las fuerzas de la ISAF han logrado aguantar, atrincherarse, extraer a sus heridos y empezar a prepararse para los asaltos de mañana. Has prestado apoyo aéreo como todo un profesional y ha valido la pena.</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

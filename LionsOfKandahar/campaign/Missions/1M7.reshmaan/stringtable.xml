@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="LionsOfKandahar">
+  <Package name="LionsOfKandahar_1M7">
+    <Container name="STR_DN">
+	  <Key ID="STR_LOK_BriefingNotes_1M7">
+        <English>EDITOR'S NOTES:&lt;br/&gt;Dave's taste for techno is constantly mentioned in Rusty's book (he had more than 5k songs). HeadUp said he was living vicariously through him in this sequence, so I kept all songs in. It adds flavour to the mission.&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;Audion - New J.&lt;br/&gt;DJ SS - Black (V.I.P.)&lt;br/&gt;Heiroglyphic Being - Machines For Lovers&lt;br/&gt;Big Bud - Pure&lt;br/&gt;Prefuse 73 - The End of Biters&lt;br/&gt;Recloose - Crosstown</English>
+        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;En el libro de Rusty se menciona constantemente el gusto de Dave por el techno (tenía más de cinco mil canciones). HeadUp decía que vivía a través de él en esta secuencia, así que he dejado todas las canciones tal cual. Me parece que añade esencia a esta misión.&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Audion - New J.&lt;br/&gt;DJ SS - Black (V.I.P.)&lt;br/&gt;Heiroglyphic Being - Machines For Lovers&lt;br/&gt;Big Bud - Pure&lt;br/&gt;Prefuse 73 - The End of Biters&lt;br/&gt;Recloose - Crosstown</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_RustyDiary_Text_1M7">
+        <English>It's been 2 days that dragged on like 2 weeks, listening on the radio to Charles Company suffering under heavy fire. Finally, we've managed to get the go-ahead to assault Sperwan Ghar and try to take it from the enemy. It may turn out to be most valuable piece of real estate on the battlefield. Not so much a mountain, more a large group of hills surrounded by villages, the Taliban appear to have a devastating line of sight on the Canadian assault and managed to draw them into an ambush. If we can take Sperwan Ghar from the enemy, we could unleash hellish airstrikes on them and relieve Charles Co. We don't know exactly how many bad guys are holding the hills, but our hope is they will be too-focused on the north to see us coming to stick our foot right up their ass.</English>
+        <Spanish>Han pasado dos días, pero para mí han sido como dos semanas. Es lo que tiene escuchar a la Compañía Charles sufrir en esos intensos tiroteos. Por fin, nos han dado luz verde para atacar Sperwan Ghar e intentar arrebatársela al enemigo. Al final podría terminar siendo el espacio más valioso del campo de batalla, no tanto como montaña, sino como cúmulo de colinas rodeadas por aldeas. Los talibanes parecen tener una línea de tiro devastadora al asalto canadiense, y consiguieron atraerlos a una emboscada. Si conseguimos arrebatarle Sperwan Ghar al enemigo, podríamos desatar ataques aéreos contra ellos y aliviar a la Compañía Charles. No sabemos exactamente cuántos malos defienden las colinas, pero esperamos que estén tan centrados en el norte que no nos vean llegar y meterles un pie por el culo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingCommand_Text_1M7">
+        <English>A. Signal:&lt;br/&gt; Eagle 10 Actual - Lt. Col. BOLDUC (TF 31 CO)&lt;br/&gt; Lion 1 Actual - Col. SHINSHA (ANA Kandahar Bgde. CO)&lt;br/&gt; Talon 30 Actual - Col. JARED (ODA 331 CO)&lt;br/&gt; Talon 26 - Cpt. HODGE&lt;br/&gt; Talon 31 (your team) - Cpt. RUSTY&lt;br/&gt; Talon 36 - Cpt. BRUCE&lt;br/&gt; Lima 85 - MEDEVAC</English>
+        <Spanish>A. Señal:&lt;br/&gt; Eagle 10 Jefe: Tte. Cnel. BOLDUC (oficial al mando de la TF 31)&lt;br/&gt; León 1 Jefe: Cnel. SHINSHA (oficial al mando de la brig. de Kandahar del ENA)&lt;br/&gt; Talon 30 Jefe: Cnel. JARED (oficial al mando de la ODA 331)&lt;br/&gt; Talon 26: Cap. HODGE&lt;br/&gt; Talon 31 (tu equipo): Cap. RUSTY&lt;br/&gt; Talon 36: Cap. BRUCE&lt;br/&gt; Lima 85: MEDEVAC</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingSustainment_Text_1M7">
+        <English>1. Supply: Standard US SOF Desert BDUs and ACUs or fleece jackets, CIRAS vests, MICH2001 helmets, standard issue US small arms including M4A1 carbines and M240 Bravos.&lt;br/&gt;2. Transportation: All Talon GMVs will be committed to this effort. Each Talon team has been given specific objectives based on available ammunition and manpower. Ammunition is not at optimal levels, conservation may become necessary.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Talon 31 has 3x Embedded Medical Sergeants, in the event of a mission failure due to substantial casualties, Talon 30 Actual will authorize CASEVAC and insertion by ODA 331 QRF.</English>
+        <Spanish>1. Suministros: Uniformes estándar de combate de fuerzas especiales en camuflaje desierto y UCP o forros polares, chalecos CIRAS, cascos MICH 2001, armas reglamentarias de EE. UU. como carabinas M4A1 y M240 Bravos.&lt;br/&gt;2. Transporte: Todos los GMV de los Talon estarán implicados en este esfuerzo. Cada equipo Talon tiene objetivos específicos en base a su munición y personal disponibles. La munición no está en los niveles óptimos, podría ser necesario conservarla.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Talon 31 tiene 3x sargentos médicos asignados. En caso de fracaso debido a una cantidad considerable de bajas, Talon 30 Jefe autorizará CASEVAC y la inserción de la FRR de la ODA 331.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingExecution_Text_1M7">
+        <English>The mission will take place in two (2) phases:&lt;br/&gt;&lt;br/&gt;Phase 1 ASSAULT ridge from Zangabar Ghar to Sperwan Ghar and CAPTURE Sperwan Ghar. Talon 31 will be in the lead, with Jared right behind as ground force commander (GFC). Hodge will trail behind as the last element moving toward Sperwan Ghar, his team must also clear a group of &lt;marker name="markerRoute_1_2_2"&gt;compounds&lt;/marker&gt; outside Wahbiyah village before a coordinated assault can begin, meaning all teams must be in position and ready to move before we assault the hill. Meanwhile, Hodge's team will provide fire support and reinforcements from Wahbiyah. The 3rd Kandak's vehicles and gun trucks will be distributed throughout the field for this operation setting up a supply line and securing a fall back route if things get out of hand. Working together in a closely coordinated fashion, all Talon and Lion elements will push the enemy off of Sperwan Ghar from behind.&lt;br/&gt;&lt;br/&gt;Phase 2 DEFEND Sperwan Ghar from enemy counter-attacks while we attempt to relieve Charles Co., which has come under heavy enemy small arms fire.</English>
+        <Spanish>La misión se llevará a cabo en dos (2) fases:&lt;br/&gt;&lt;br/&gt;Fase 1: ASALTAR la cresta que abarca desde Zangabar Ghar hasta Sperwan Ghar y CAPTURAR Sperwan Ghar. Talon 31 tomará la delantera, con Jared justo detrás como comandante de la fuerza terrestre. Hodge irá detrás como último elemento en la avanzadilla hacia Sperwan Ghar. Su equipo también debe despejar un grupo de &lt;marker name="markerRoute_1_2_2"&gt;edificios&lt;/marker&gt; a las afueras del pueblo de Wahbiyah antes de que pueda comenzar un asalto coordinado, lo que quiere decir que todos los equipos deben estar en posición y listos para avanzar antes de asaltar la colina. Mientras tanto, el equipo de Hodge proporcionará apoyo y refuerzos desde Wahbiyah. Los vehículos y camiones artillados del 3.er Kandak se distribuirán por todo el terreno para esta operación, estableciendo una línea de suministro y asegurando una ruta de repliegue si las cosas se van de las manos. Trabajando juntos y estrechamente coordinados, todos los elementos Talon y León expulsarán al enemigo de Sperwan Ghar desde la retaguardia.&lt;br/&gt;&lt;br/&gt;Fase 2: DEFENDER Sperwan Ghar de los contraataques enemigos mientras intentamos aliviar a la Compañía Charles, que está siendo acribillada.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingMission_Text_1M7">
+        <English>Who: Talon 31, ODA 331, Task Force 31 (TF31)&lt;br/&gt;What: ASSAULT Sperwan Ghar&lt;br/&gt;Where: In vicinity, Panjwayi Valley&lt;br/&gt;When: 110000ZSEP3&lt;br/&gt;Why: Support of Operation Medusa</English>
+        <Spanish>Quién: Talon 31, ODA 331, Fuerza Operativa 31 (TF 31)&lt;br/&gt;Qué: ASALTAR Sperwan Ghar&lt;br/&gt;Dónde: En las inmediaciones, valle de Panjwai&lt;br/&gt;Cuándo: 110000ZSEP3&lt;br/&gt;Por qué: Apoyo a la Operación Medusa</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingSituation_Text_1M7">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: 50-150 + possible reinforcements in vicinity, estimated 300-500 in the AO at large&lt;br/&gt;Activity: Light movement observed, moderate radio chatter suggests heavy activity far to the north&lt;br/&gt;Location: Vicinity, &lt;marker name="markerSperwan"&gt;southern Sperwan ridge&lt;/marker&gt;&lt;br/&gt;Unit: Taliban mixed infantry supported by Arab and Chechen fighters&lt;br/&gt;Time Observed: September 3, 2006 0700 hrs&lt;br/&gt;Equipment: Small arms, RPG AT Weapons, IEDs expected near roads to the north, move with caution&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To assault the ridgeline spanning from Sperwan Ghar in the north to Zangabar Ghar in the south, neutralizing enemy positions and securing an OP to relieve the besieged elements of Charles Co.&lt;br/&gt;2. Adjacent Units: ODA 331 Team 26 (callsign: Talon 26), ODA 331 Command Team (callsign: Talon 30), ODA 331 Team 36 (callsign: Talon 36), ANA 3rd Kandak (callsign: Lion 1 Actual), Canadian 1 RCR Battle Group, Charles Co. (callsign: Charles Actual).&lt;br/&gt;3. Supporting: Friendly A-10s are active in the AO, but they are under the operational control of NATO and cannot be relied on for CAS related to our mission. Talon 30 Actual has been in contact with Eagle 10, who is doing everything he can do to get us some AH-64 Apache support from the Dutch contingent of ISAF forces at KAF. Artillery support will not be available for this mission. CASEVAC will be available by request of Talon 30 Actual, ODA 331's CO.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: 50-150 + posibles refuerzos en las inmediaciones, se estiman 300-500 en el AO en general&lt;br/&gt;Actividad: Movimiento leve observado, las vibraciones de radio moderadas sugieren que hay una gran actividad muy al norte&lt;br/&gt;Ubicación: Inmediaciones, &lt;marker name="markerSperwan"&gt;sur de la cresta de Sperwan&lt;/marker&gt;&lt;br/&gt;Unidades: Infantería mixta talibán con apoyo de combatientes árabes y chechenos&lt;br/&gt;Fecha de observación: 3 de septiembre de 2006, 0700 horas&lt;br/&gt;Equipo: armas ligeras, granadas antitanque RPG, se esperan IED cerca de las carreteras al norte, avanzar con precaución&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Asaltar la cresta que abarca desde Sperwan Ghar al norte hasta Zangabar Ghar al sur, neutralizando las posiciones enemigas y asegurando un PO para aliviar a los elementos sitiados de la Compañía Charles.&lt;br/&gt;2. Unidades adyacentes: Equipo 26 de la ODA 331 (indicativo: Talon 26), equipo de mando de la ODA 331 (indicativo: Talon 30), equipo 36 de la ODA 331 (indicativo: Talon 36), 3.er Kandak del ENA (indicativo: León 1 Jefe), 1.er Grupo de Combate del Real Regimiento Canadiense, Compañía Charles (indicativo: Charles Jefe).&lt;br/&gt;3. Apoyo: Hay A-10 aliados en el AO, pero están bajo el control operacional de la OTAN y no se puede confiar en que prestarán apoyo durante nuestra misión. Talon 30 Jefe ha estado en contacto con Eagle 10, quien está haciendo todo lo que puede para conseguirnos apoyo de AH-64 Apache del contingente neerlandés de las fuerzas de la ISAF en el Aeropuerto de Kandahar. No habrá apoyo de artillería para esta misión. La CASEVAC solo estará autorizada cuando la solicite Talon 30 Jefe, el oficial al mando de la ODA 331.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Briefing_Text_1M7">
+        <English>We have identified &lt;marker name="markerSperwan"&gt;Sperwan Ghar&lt;/marker&gt; as a prime piece of real estate in the battle for the Panjwayi valley. The Taliban are able to coordinate devastating ambushes from the overwatch positions, which appear to be better defended than we initially expected. The Taliban are bold and morale is high, taking Sperwan Ghar will not be easy.</English>
+        <Spanish>Hemos identificado &lt;marker name="markerSperwan"&gt;Sperwan Ghar&lt;/marker&gt; como un espacio de primera en la batalla por el distrito de Panjwai. Los talibanes son capaces de coordinar emboscadas devastadoras desde las posiciones de vigilancia, que parecen estar mejor defendidas de lo que esperábamos en un principio. Los talibanes son audaces y tienen la moral alta, tomar Sperwan Ghar no será fácil.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_Description_1M7">
+        <English>From the &lt;marker name="markerUSA"&gt;starting position&lt;/marker&gt;, the convoy, led by Rusty's team, followed by Jared, Bruce, and Hodge, along with ANA support, will pass through the village of Wahbiyah, swing around the back side of Sperwan Ghar, and assault along the less-defended eastern face. Bruce's team MUST clear the compounds located &lt;marker name="markerRoute_1_2_2"&gt;here&lt;/marker&gt; before the assault can commence. Hold position until given the green light.</English>
+        <Spanish>Desde la &lt;marker name="markerUSA"&gt;posición de inicio&lt;/marker&gt;, el convoy, encabezado por el equipo de Rusty, seguido por Jared, Bruce y Hodge, así como apoyo del ENA, cruzará el pueblo de Wahbiyah, dará la vuelta a Sperwan Ghar y atacará a lo largo de la zona oriental menos defendida. El equipo de Bruce DEBE despejar el complejo ubicado &lt;marker name="markerRoute_1_2_2"&gt;aquí&lt;/marker&gt; antes de que pueda comenzar el asalto. Mantén la posición hasta que se dé luz verde.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_Title_1M7">
+        <English>Phase 1: Capture Sperwan Ghar</English>
+        <Spanish>Fase 1: Capturar Sperwan Ghar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_Description_1M7">
+        <English>Once &lt;marker name="markerCapture"&gt;Sperwan Ghar&lt;/marker&gt; has been assaulted, all assets must push north and assist the Canadian Infantry in Charles Company, who remains pinned down under brutal fire from hostiles. Air assets will be made available as they arrive on station. You will be without air or artillery in your initial assault unless the situation changes, as a friendly-fire incident has temporarily reduced the level of available support. There will still be friendly air in the AO under NATO and ISAF command.</English>
+        <Spanish>Cuando se haya asaltado &lt;marker name="markerCapture"&gt;Sperwan Ghar&lt;/marker&gt;, todos los activos deben avanzar hacia el norte y ayudar a la infantería canadiense de la Compañía Charles, que sigue inmovilizada bajo el brutal fuego de los hostiles. Los activos aéreos estarán disponibles a medida que se incorporen. En el asalto inicial no se dispondrá de activos aéreos ni de artillería, a menos que cambie la situación, ya que un incidente de fuego amigo ha reducido temporalmente el nivel de apoyo disponible. Seguirá habiendo activos aéreos aliados en el AO bajo mando de la OTAN y la ISAF.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_Title_1M7">
+        <English>Phase 2: Defend Sperwan Ghar</English>
+        <Spanish>Fase 2: Defender Sperwan Ghar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj3_Description_1M7">
+        <English>We need to fall back to our &lt;marker name="markerUSA"&gt;starting position&lt;/marker&gt; and get a CASEVAC for Zack and two ANA infantry who were wounded in action, as well as a resupply for our vehicles.</English>
+        <Spanish>Tenemos que retirarnos a nuestra &lt;marker name="markerUSA"&gt;posición de inicio&lt;/marker&gt; y pedir CASEVAC para Zack y dos soldados del ENA que han resultado heridos en combate, así como para reabastecer nuestros vehículos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj3_Title_1M7">
+        <English>Fall back and regroup</English>
+        <Spanish>Retirarse y reagruparse</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_1M7">
+        <English>Black on Ammo</English>
+        <Spanish>Sin munición</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_Intro_1M7">
+        <English>Mission 7 Intro</English>
+        <Spanish>Misión 7: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_Outro_1M7">
+        <English>Mission 7 Outro</English>
+        <Spanish>Misión 7: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Warthog92_1M7">
+        <English>Warthog 92</English>
+        <Spanish>Warthog 92</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Fang63_1M7">
+        <English>Fang 63</English>
+        <Spanish>Fang 63</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionDescription_1M7">
+        <English>In an effort to relieve the Canadians under heavy fire to the north, you and your team must help capture Sperwan Ghar. As Dave, operate the Ma Deuce and take part in the initial assault.</English>
+        <Spanish>Con el fin de aliviar a los canadienses, que están siendo acribillados al norte, tu equipo y tú debéis capturar Sperwan Ghar. Como Dave, maneja la calibre 50 y participa en el asalto inicial.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_text_1M7">
+        <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER VII - Black on Ammo&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'Nothing is as exhilarating in life as to be shot at with no result.'&lt;br/&gt;&lt;br/&gt;-WINSTON CHURCHILL&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO VII: Sin munición&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«No hay nada tan estimulante en la vida como que te disparen sin resultado».&lt;br/&gt;&lt;br/&gt;—WINSTON CHURCHILL&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel1_1M7">
+        <English>Sgt. Dave Smith</English>
+        <Spanish>Sgto. Dave Smith</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel2_1M7">
+        <English>ODA 331, US Army SF</English>
+        <Spanish>ODA 331, Ejérc. de EE. UU.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel3_1M7">
+        <English>South of Sperwan Ghar</English>
+        <Spanish>Sur de Sperwan Ghar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel4_1M7">
+        <English>September 3, 2006 - 1120</English>
+        <Spanish>3 septiembre 2006 - 1120</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_warthog_message_1M7">
+        <English>Warthog 92, I got eyes on about three dozen hostiles in the AO. Requesting permission to engage, over.</English>
+        <Spanish>Warthog 92, tengo visual de unas tres docenas de hostiles en el AO. Solicito permiso para atacar, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_fang_message_1M7">
+        <English>This is Fang 63, we got hit by friendly fucking fire! I've got three down, shit, at least three dozen wounded, over!</English>
+        <Spanish>¡Aquí Fang 63, nos ha alcanzado el puto fuego amigo! ¡Tengo tres caídos, joder, y al menos tres docenas de heridos, cambio!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro1_1M7">
+        <English>&lt;t size='1.5'&gt;2 4   H O U R S   E A R L I E R . . .&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;2 4   H O R A S   A N T E S . . .&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message1_1M7">
+        <English>Eagle 10, this is Talon 31. We're moving.</English>
+        <Spanish>Eagle 10, aquí Talon 31. Nos movemos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message2_1M7">
+        <English>Hey Dave, if you've got some crazy techno to set the mood on that iPod, now's the time to play it!</English>
+        <Spanish>¡Eh, Dave, si tienes techno cañero para crear ambiente en el iPod, ahora es el momento!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message3_1M7">
+        <English>Mines!</English>
+        <Spanish>¡Minas!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_AfghanCitizen_1M7">
+        <English>AFGHAN CIVILIAN</English>
+        <Spanish>CIVIL AFGANO</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message4_1M7">
+        <English>This just gets better and better.</English>
+        <Spanish>La cosa mejora por momentos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message5_1M7">
+        <English>There's the crash site up ahead. All 14 British crewmen were killed.</English>
+        <Spanish>Ahí está el lugar del accidente. Todos los 14 tripulantes británicos murieron en el acto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message6_1M7">
+        <English>May God rest their souls.</English>
+        <Spanish>Que Dios se apiade de sus almas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message7_1M7">
+        <English>Contact front. Enemy on top of the grape hut. Kill that motherfucker!</English>
+        <Spanish>¡Contacto al frente! Enemigo encima de la choza. ¡Mata a ese hijo de puta!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message8_1M7">
+        <English>Eagle 10, this is Talon 30. We have troops in contact. We have 20 to 40 enemy 100m northeast of our position. Request immediate close air support!</English>
+        <Spanish>Eagle 10, aquí Talon 30. Tenemos tropas en contacto. Tenemos entre veinte y cuarenta enemigos a 100 metros al noreste de nuestra posición. ¡Solicito apoyo aéreo cercano inmediato!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message9_1M7">
+        <English>Talon 30, this is Eagle 10. We have an AH-64, callsign Windmill, inbound to your target area. ETA: two mikes.</English>
+        <Spanish>Talon 30, aquí Eagle 10. Tenemos un AH-64, indicativo Windmill, de camino al objetivo. Tiempo estimado de llegada: dos minutos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message10_1M7">
+        <English>Jesus Christ, look at 'em all! It looks like an ant hill up ahead.</English>
+        <Spanish>¡Dios santísimo, miradlos! Parece un puto hormiguero.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message11_1M7">
+        <English>We can't stay here, we gotta move, hit that compound to the north!</English>
+        <Spanish>¡No podemos quedarnos aquí, tenemos que movernos! ¡Ve a ese complejo al norte!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message12_1M7">
+        <English>That building is filled with Talibs! Level it, Dave!</English>
+        <Spanish>¡Ese edificio está lleno de talis! ¡Húndelo, Dave!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message13_1M7">
+        <English>Okay, motherfuckers, now it's really on!</English>
+        <Spanish>¡Vale, hijos de puta, ahora sí que sí!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message14_1M7">
+        <English>What's taking Bruce so long? The compounds are supposed to be empty! We need to move!</English>
+        <Spanish>¿Por qué está tardando tanto Bruce? ¡El complejo debería de estar vacío! ¡Tenemos que avanzar!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message15_1M7">
+        <English>Talon 30, this is Eagle 10. Here is your situation: the enemy count is not dozens, but hundreds, maybe even a thousand.</English>
+        <Spanish>Talon 30, aquí Eagle 10. Esta es su situación: el número de enemigos no es de docenas, sino de cientos, tal vez incluso un millar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message16_1M7">
+        <English>You have got to be shitting me...</English>
+        <Spanish>Esto será de coña...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message17_1M7">
+        <English>Zack's hit!</English>
+        <Spanish>¡Han dado a Zack!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message18_1M7">
+        <English>Shit, we can't catch a break.</English>
+        <Spanish>Joder, no nos dan un respiro.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message19_1M7">
+        <English>As soon as we lose the aircraft, the savages are going to hit us hard!</English>
+        <Spanish>¡En cuanto nos quedemos sin helicópteros, los salvajes van a venir a por nosotros con todo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message20_1M7">
+        <English>Pop a smoke to mark your position.</English>
+        <Spanish>Lancen humo para marcar su posición.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message21_1M7">
+        <English>Negative, that would just give them a target to shoot at.</English>
+        <Spanish>Negativo, eso sería darles un blanco al que disparar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message22_1M7">
+        <English>We are about to go black on ammo!</English>
+        <Spanish>¡Nos vamos a quedar sin munición!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message23_1M7">
+        <English>Have your guys break contact and get your men out of there NOW!</English>
+        <Spanish>¡Que tus chicos interrumpan el contacto y saca a tus hombres de ahí YA!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message24_1M7">
+        <English>Round 1 just went to the fucking Taliban...</English>
+        <Spanish>Los putos talibanes acaban de ganar la primera ronda...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message25_1M7">
+        <English>Sir, we found a large booby-trapped cache at our grid, west of your location. Demo countdown begins in two minutes on my mark.</English>
+        <Spanish>Señor, hemos encontrado un alijo trampa en nuestras coordenadas, al oeste de su posición. La cuenta atrás para la demolición comienza en dos minutos a mi señal.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message26_1M7">
+        <English>Mark!</English>
+        <Spanish>¡Señal!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message27_1M7">
+        <English>Talon 30, this is Talon 36 Bravo, thirty seconds to detonation.</English>
+        <Spanish>Talon 30, aquí Talon 36 Bravo, treinta segundos para la detonación.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message28_1M7">
+        <English>Button up, demo in 30 seconds!</English>
+        <Spanish>¡Abrochaos el cinturón, demolición en treinta segundos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message29_1M7">
+        <English>30, this is 31. Recommend we break contact so we can consolidate, reorganize, and call in an emergency resupply.</English>
+        <Spanish>30, aquí 31. Recomiendo interrumpir el contacto para reunirnos, reorganizarnos y pedir un reabastecimiento de emergencia.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message30_1M7">
+        <English>Do it!</English>
+        <Spanish>¡Hazlo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message31_1M7">
+        <English>This is bad.</English>
+        <Spanish>Esto pinta mal.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message32_1M7">
+        <English>If they wait too long, the Talibs will move into positions closer to the Canadians than before. It will be much more difficult to use the airplanes. The fighting will get very, very bad.</English>
+        <Spanish>Si esperan demasiado, los talis avanzarán a posiciones más cercanas a los canadienses que antes. Será mucho más complicado usar los aviones. Los combates serán horrendos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerCrashSite_1M7">
+        <English>British Crash Site</English>
+        <Spanish>Lugar del accidente británico</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerBruce_1M7">
+        <English>Bruce</English>
+        <Spanish>Bruce</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerBruceCapture_1M7">
+        <English>Bruce Capture</English>
+        <Spanish>Capturar, Bruce</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerJaredCapture_1M7">
+        <English>Jared Capture</English>
+        <Spanish>Capturar, Jared</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerRustyCapture_1M7">
+        <English>Rusty Capture</English>
+        <Spanish>Capturar, Rusty</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerBruceSecure_1M7">
+        <English>Bruce Secure</English>
+        <Spanish>Asegurar, Bruce</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerHodgeCover_1M7">
+        <English>Hodge Cover 6</English>
+        <Spanish>Cubrir, Hodge</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_ipodhint_stop_1M7">
+        <English>iPod Stopped</English>
+        <Spanish>Música parada</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_ipodaction_stop_1M7">
+        <English>iPod- Stop</English>
+        <Spanish>iPod: Parar la música</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_ipodhint_1_1M7">
+        <English>Now Playing:\n\nArtist: Audion\nTrack: New J.</English>
+        <Spanish>Reproduciendo:\n\nArtista: Audion\nPista: New J.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_ipodaction_1_1M7">
+        <English>iPod- Audion</English>
+        <Spanish>iPod: Audion</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_ipodhint_2_1M7">
+        <English>Now Playing:\n\nArtist: DJ SS\nTrack: Black (V.I.P.)</English>
+        <Spanish>Reproduciendo:\n\nArtista: DJ SS\nPista: Black (V.I.P.)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_ipodaction_2_1M7">
+        <English>iPod- DJ SS</English>
+        <Spanish>iPod: DJ SS</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_ipodhint_3_1M7">
+        <English>Now Playing:\n\nArtist: Hieroglyphic Being\nTrack: Machines For Lovers</English>
+        <Spanish>Reproduciendo:\n\nArtista: Hieroglyphic Being\nPista: Machines For Lovers</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_ipodaction_3_1M7">
+        <English>iPod- Hieroglyphic Being</English>
+        <Spanish>iPod: Hieroglyphic Being</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_ipodhint_4_1M7">
+        <English>Now Playing:\n\nArtist: Big Bud\nTrack: Pure</English>
+        <Spanish>Reproduciendo:\n\nArtista: Big Bud\nPista: Pure</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_ipodaction_4_1M7">
+        <English>iPod- Big Bud</English>
+        <Spanish>iPod: Big Bud</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_ipodhint_5_1M7">
+        <English>Now Playing:\n\nArtist: Prefuse 73\nTrack: The End of Biters</English>
+        <Spanish>Reproduciendo:\n\nArtista: Prefuse 73\nPista: The End of Biters</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_ipodaction_5_1M7">
+        <English>iPod- Prefuse 73</English>
+        <Spanish>iPod: Prefuse 73</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_ipodhint_6_1M7">
+        <English>Now Playing:\n\nArtist: Recloose\nTrack: Crosstown</English>
+        <Spanish>Reproduciendo:\n\nArtista: Recloose\nPista: Crosstown</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_ipodaction_6_1M7">
+        <English>iPod- Recloose</English>
+        <Spanish>iPod: Recloose</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_ipodhint_start_1M7">
+        <English>You are Ole Girl's Designated DJ - pick songs from the iPod (make sure your Music Volume is on in Audio Settings)!</English>
+        <Spanish>¡Eres el DJ designado de Ole Girl, pon canciones con el iPod (asegúrate de subir el volumen a la música en las opciones de audio del juego)!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end1_subtitle_1M7">
+        <English>Successfully retreated</English>
+        <Spanish>Retirada satisfactoria</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end1_description_1M7">
+        <English>We encountered significantly heavier resistance than anticipated, went black on ammo, and sustained casualties that needed MEDEVAC, forcing us to abort the assault... for now.</English>
+        <Spanish>Nos hemos topado con una resistencia muchísimo mayor de la anticipada, nos hemos quedado casi sin munición y hemos sufrido bajas que necesitan MEDEVAC, lo que nos ha obligado a abortar el asalto... por ahora.</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="LionsOfKandahar">
+  <Package name="LionsOfKandahar_1M9">
+    <Container name="STR_DN">
+	  <Key ID="STR_LOK_BriefingNotes_1M9">
+        <English>EDITOR'S NOTES:&lt;br/&gt;Patience is the key when you first disembark: if you are up against too many hostiles, wait for more of the AI squads to catch up.&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;None so far...</English>
+        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;La paciencia es la clave cuando te bajes del GMV. Si te enfrentas a demasiados hostiles, espera a que más escuadrones de la IA te alcancen.&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Nada de momento...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_DiaryText_1M9">
+        <English>After getting our equipment back in gear and making sure we have as many bullets as we can carry, we're as ready as we're gonna be to renew our assault on the enemy-ridden hills of Sperwan Ghar. I don't feel quite as vengeful as I did when our wounds were still fresh two days ago. Seeing Zack step back off the transport last night was a big morale booster for me and the team, and the pouch of chew and Gatorade powder he brought with him certainly helped as well. Jared, and I suspect even Lt. Col. Bolduc, now recognize that taking Sperwan Ghar could be the key to breaking the stalemate, and we are all working intently toward this objective now, one bite of the elephant at a time. But after yesterday's friendly fire incident that wounded 40 and killed one of theirs, the Canadians in Charles Co. are holding on for dear life. We can't afford to lose this time.</English>
+        <Spanish>Después de poner nuestro equipo a punto y asegurarnos de tener tantas balas como podamos llevar encima, estamos más listos que nunca para reanudar nuestro asalto a las colinas infestadas por el enemigo de Sperwan Ghar. No me siento tan vengativo como hace dos días, cuando nuestras heridas aún eran recientes. Ver a Zack bajar del transporte anoche fue un gran chute de moral para mí y para el equipo, y la bolsa de chicles y Gatorade en polvo que se trajo sin duda también ayudó. Jared, y sospecho que incluso el teniente coronel Bolduc, reconocen ahora que tomar Sperwan Ghar podría ser la clave para salir del estancamiento, y todos estamos bregando en pro de este objetivo, mordisco a mordisco al elefante. Pero tras el incidente de fuego amigo de ayer que hirió a 40 y mató a uno de los suyos, los canadienses de la Compañía Charles se aferran a la vida. No podemos permitirnos perder esta vez.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingCommand_Text_1M9">
+        <English>A. Signal:&lt;br/&gt; Eagle 10 Actual - Lt. Col. BOLDUC (TF 31 CO)&lt;br/&gt; Lion 1 Actual - Col. SHINSHA (ANA Kandahar Bgde. CO)&lt;br/&gt; Talon 30 Actual - Col. JARED (ODA 331 CO)&lt;br/&gt; Talon 26 - Cpt. HODGE&lt;br/&gt; Talon 31 - Cpt. RUSTY (you)&lt;br/&gt; Talon 36 - Cpt. BRUCE&lt;br/&gt; Buffalo 22 - MEDEVAC</English>
+        <Spanish>A. Señal:&lt;br/&gt; Eagle 10 Jefe: Tte. Cnel. BOLDUC (oficial al mando de la TF 31)&lt;br/&gt; León 1 Jefe: Cnel. SHINSHA (oficial al mando de la brig. de Kandahar del ENA)&lt;br/&gt; Talon 30 Jefe: Cnel. JARED (oficial al mando de la ODA 331)&lt;br/&gt; Talon 26: Cap. HODGE&lt;br/&gt; Talon 31: Cap. RUSTY (tú)&lt;br/&gt; Talon 36: Cap. BRUCE&lt;br/&gt; Buffalo 22: MEDEVAC</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingSustainment_Text_1M9">
+        <English>1. Supply: Standard US SOF Desert BDUs and ACUs or fleece jackets, CIRAS vests, MICH2001 helmets, standard issue US and Afghan light machineguns including M240 Bravo scoped MMGs, M249 and Mk 48 SAWs, RPK and PKM machineguns.&lt;br/&gt;2. Transportation: All Talon GMVs will function according to the insertion and attack plan: functioning as troop transport to the foot of the hills, and then being used for fire support to take the hill, and for moving wounded to the Casualty Collection Point (CCP).&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Talon 31 has 1x Embedded Medical Sergeant - Riley. Medical Sergeants Greg and Steve will remain to the south and serve with the QRF, in the event of a mission failure due to substantial casualties, Talon 30 Actual will authorize CASEVAC and insertion by ODA 331 QRF.</English>
+        <Spanish>1. Suministros: Uniformes estándar de combate de fuerzas especiales en camuflaje desierto y UCP o forros polares, chalecos CIRAS, cascos MICH 2001, ametralladoras ligeras reglamentarias de EE. UU. y Afganistán como ametralladoras medias con mira M240 Bravo, armas de apoyo M249 y Mk. 48 y ametralladoras RPK y PKM.&lt;br/&gt;2. Transporte: Todos los GMV de los Talon operarán de acuerdo con el plan de inserción y ataque: como transportes de tropas hasta la falda de las colinas, luego como apoyo de fuego para tomar la colina y para transportar posteriormente a los heridos al punto de recogida de bajas (PRB).&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Talon 31 tiene 1x sargento médico asignado, Riley. Los sargentos médicos Greg y Steve se quedarán en el sur y servirán con la FRR. En caso de fracaso debido a una cantidad considerable de bajas, Talon 30 Jefe autorizará CASEVAC y la inserción de la FRR de la ODA 331.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingExecution_Text_1M9">
+        <English>The mission will take place in four (4) phases (see Tasks for more details on individual objectives):&lt;br/&gt;&lt;br/&gt;Phase 1 CLEAR Objective Alpha.&lt;br/&gt;&lt;br/&gt;Phase 2 CLEAR Objective Bravo.&lt;br/&gt;&lt;br/&gt;Phase 3 CLEAR Objective Charlie.&lt;br/&gt;&lt;br/&gt;Phase 4 CLEAR Objective Delta.</English>
+        <Spanish>La misión se llevará a cabo en cuatro (4) fases (véanse las tareas para obtener más detalles sobre cada uno de los objetivos):&lt;br/&gt;&lt;br/&gt;Fase 1: DESPEJAR el objetivo Alfa.&lt;br/&gt;&lt;br/&gt;Fase 2: DESPEJAR el objetivo Bravo.&lt;br/&gt;&lt;br/&gt;Fase 3: DESPEJAR el objetivo Charlie.&lt;br/&gt;&lt;br/&gt;Fase 4: DESPEJAR el objetivo Delta.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingMission_Text_1M9">
+        <English>Who: Talon 31, ODA 331, Task Force 31 (TF31)&lt;br/&gt;What: ASSAULT and CAPTURE Objectives Alpha, Bravo, Charlie, and Delta in order to take control of Sperwan Ghar ridgeline&lt;br/&gt;Where: In vicinity, Panjwayi Valley&lt;br/&gt;When: 070000ZSEP5&lt;br/&gt;Why: Support of Operation Medusa</English>
+        <Spanish>Quién: Talon 31, ODA 331, Fuerza Operativa 31 (TF 31)&lt;br/&gt;Qué: ASALTAR Y CAPTURAR los objetivos Alfa, Bravo, Charlie y Delta para tomar la cresta de Sperwan Ghar&lt;br/&gt;Dónde: En las inmediaciones, valle de Panjwai&lt;br/&gt;Cuándo: 070000ZSEP5&lt;br/&gt;Por qué: Apoyo a la Operación Medusa</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingSituation_Text_1M9">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: Estimated 250-400 in vicinity, 1,000-2,200 in the AO at large&lt;br/&gt;Activity: Light activity within 'white' buffer zone, moderate movement and radio traffic confirms the presence of a large enemy contingent on and around Sperwan Ghar and Zangabar Ghar&lt;br/&gt;Location: Vicinity, &lt;marker name="markerSperwan"&gt;Sperwan Ghar&lt;/marker&gt;&lt;br/&gt;Unit: Taliban mixed infantry supported by Arab and Chechen fighters&lt;br/&gt;Time Observed: September 5, 2006 0500 hrs&lt;br/&gt;Equipment: Small arms, RPG AT Weapons, Hilux pickup trucks and gun trucks, Soviet-era static defenses&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To assault the ridgeline focusing initially on Zangabar Ghar in the south, moving toward Sperwan Ghar in the north, neutralizing enemy positions and securing an OP to relieve the besieged elements of Charles Co.&lt;br/&gt;2. Adjacent Units: ODA 331 Team 26 (callsign: Talon 26), ODA 331 Command Team (callsign: Talon 30), ODA 331 Team 36 (callsign: Talon 36), ANA 3rd Kandak (callsign: Lion 1 Actual), Canadian 1 RCR Battle Group, Charles Co. (callsign: Charles Actual).&lt;br/&gt;3. Supporting: Although we have been begging for more air support, the situation on the field is too unreliable to factor it into our plan, especially following yesterday's unfortunate friendly fire incident that nearly crippled Charles Co. Still, Talon 30 Actual will be on the horn as much as humanly possible trying to get something up above. Artillery support will not be available for this mission. CASEVAC will be available by request of Talon 30 Actual, ODA 331's CO.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: Se estiman 250-400 en las inmediaciones, 1000-2000 en el AO en general&lt;br/&gt;Actividad: Actividad leve en la zona neutral, el movimiento moderado y el tráfico de radio confirman la presencia de un gran contingente enemigo en Sperwan Ghar y Zangabar Ghar y los alrededores&lt;br/&gt;Ubicación: Inmediaciones, &lt;marker name="markerSperwan"&gt;Sperwan Ghar&lt;/marker&gt;&lt;br/&gt;Unidades: Infantería mixta talibán con apoyo de combatientes árabes y chechenos&lt;br/&gt;Fecha de observación: 5 de septiembre de 2006, 0500 horas&lt;br/&gt;Equipo: armas ligeras, granadas antitanque RPG, todoterrenos Hilux y camiones artillados, defensas estáticas de la era soviética&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Asaltar la cresta, empezando por Zangabar Ghar al sur y avanzando hacia Sperwan Ghar al norte, neutralizando las posiciones enemigas y asegurando un PO para aliviar a los elementos asediados de la Compañía Charles.&lt;br/&gt;2. Unidades adyacentes: Equipo 26 de la ODA 331 (indicativo: Talon 26), equipo de mando de la ODA 331 (indicativo: Talon 30), equipo 36 de la ODA 331 (indicativo: Talon 36), 3.er Kandak del ENA (indicativo: León 1 Jefe), 1.er Grupo de Combate del Real Regimiento Canadiense, Compañía Charles (indicativo: Charles Jefe).&lt;br/&gt;3. Apoyo: Aunque hemos pedido más apoyo aéreo a voces, la situación en el terreno es demasiado variable como para tenerla en cuenta en nuestro plan, sobre todo después del desafortunado incidente de fuego amigo de ayer que casi incapacita a la Compañía Charles. Aun así, Talon 30 Jefe estará al teléfono todo lo que pueda estar una persona humana para intentar conseguir algo. No habrá apoyo de artillería para esta misión. La CASEVAC solo estará autorizada cuando la solicite Talon 30 Jefe, el oficial al mando de la ODA 331.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Briefing_Text_1M9">
+        <English>We have seen a brief lull in the fighting, using this time to resupply, repair our vehicles, and plan our next move. It is now clear just how vital control of &lt;marker name="markerSperwan"&gt;Sperwan Ghar&lt;/marker&gt; will be, both to the enemy and to us. That is why we cannot let up this time around. Now, we will focus our initial assault on &lt;marker name="markerZangabar"&gt;Zangabar Ghar&lt;/marker&gt; at the southern point of the ridge, where we have observed the highest concentration of enemy forces. We will take a different approach this time, rushing in using our vehicles, but moving on-foot while leading our brothers in the 3rd Kandak, who will be dispersed and embedded within all Talon teams. Each team will be granted more independence, along with more responsibility for maintaining the initiative and, more importantly, sticking together. If we can move cohesively and break them at their strongest point in the south, we should be able to force them up northward and off Sperwan Ghar. But it won't be easy, we know how heavy the enemy presence is there now, and we don't think they've spent the last day sitting around scratching their balls either. Put your mouthpiece in, this one's gonna hurt.</English>
+        <Spanish>Ha habido un breve momento de paz en el combate, y hemos usado este rato para reabastecernos, reparar nuestros vehículos y planear nuestra próxima jugada. Es evidente lo vital que será controlar &lt;marker name="markerSperwan"&gt;Sperwan Ghar&lt;/marker&gt;, tanto para el enemigo como para nosotros. Por eso no podemos aflojar esta vez. Ahora, centraremos nuestro asalto inicial en &lt;marker name="markerZangabar"&gt;Zangabar Ghar&lt;/marker&gt;, en el punto meridional de la cresta, donde hemos observado la mayor concentración de fuerzas enemigas. Lo haremos de otra forma esta vez, yendo a toda pastilla con nuestros vehículos, pero avanzando a pie mientras guiamos a nuestros hermanos del 3.er Kandak, que estarán dispersos e integrados en todos los equipos Talon. A cada equipo se le concederá más independencia, junto con más responsabilidad para mantener la iniciativa y, lo que es más importante, permanecer unidos. Si sabemos avanzar de forma cohesionada y penetrar en su punto más fuerte en el sur, deberíamos poder obligarlos a subir hacia el norte y salir de Sperwan Ghar. Pero no será fácil, sabemos lo fuerte que es la presencia enemiga allí ahora, y tampoco creemos que se hayan tirado el último día sentados rascándose los huevos. Poneos el micrófono, esta va a doler.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_Description_1M9">
+        <English>After resupplying, regrouping and pummeling the Taliban with 2000-lb bombs and mortars, it's time to finally assault their positions at Sperwan Ghar: &lt;marker name="markerObjAlpha"&gt;Alpha&lt;/marker&gt;, &lt;marker name="markerObjBravo"&gt;Bravo&lt;/marker&gt;, &lt;marker name="markerObjCharlie"&gt;Charlie&lt;/marker&gt; and &lt;marker name="markerObjDelta"&gt;Delta&lt;/marker&gt;.</English>
+        <Spanish>Tras reabastecernos, reagruparnos y machacar a los talibanes con bombas de 900 kg y morteros, ha llegado por fin la hora de asaltar sus posiciones en Sperwan Ghar: &lt;marker name="markerObjAlpha"&gt;Alfa&lt;/marker&gt;, &lt;marker name="markerObjBravo"&gt;Bravo&lt;/marker&gt;, &lt;marker name="markerObjCharlie"&gt;Charlie&lt;/marker&gt; y &lt;marker name="markerObjDelta"&gt;Delta&lt;/marker&gt;.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_Title_1M9">
+        <English>Clear all objectives</English>
+        <Spanish>Despejar todos los objetivos</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_alpha_Description_1M9">
+        <English>From &lt;marker name="markerUSA"&gt;starting position&lt;/marker&gt;, we will assault in a line formation and strike &lt;marker name="markerObjAlpha"&gt;Objective Alpha&lt;/marker&gt;, where the highest concentration of Taliban has been observed. We are unsure of the exact enemy presence at Objective Alpha, but we have observed fortifications and Hilux truck movement in addition to heavy enemy foot patrols. The enemy is not likely expect a strike here, if we can catch them off-guard, we will be in a position to push them off the hill.</English>
+        <Spanish>Desde la &lt;marker name="markerUSA"&gt;posición de inicio&lt;/marker&gt;, asaltaremos en formación de línea y atacaremos el &lt;marker name="markerObjAlpha"&gt;objetivo Alfa&lt;/marker&gt;, donde se ha observado la mayor concentración de talibanes. No estamos seguros de la presencia enemiga exacta en el objetivo Alfa, pero hemos observado fortificaciones y movimiento de todoterrenos Hilux, además de grandes patrullas de enemigos a pie. Es poco probable que el enemigo no se espere un ataque aquí; si los pillamos con la guardia baja, estaremos en posición de empujarlos fuera de la colina.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_alpha_Title_1M9">
+        <English>Clear Objective Alpha</English>
+        <Spanish>Despejar el objetivo Alfa</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_bravo_Description_1M9">
+        <English>We have identified the peak at 108-095 as &lt;marker name="markerObjBravo"&gt;Objective Bravo&lt;/marker&gt;, where a small camp site and moderate foot patrols have been sighted.</English>
+        <Spanish>Hemos identificado el pico en 108-095 como el &lt;marker name="markerObjBravo"&gt;objetivo Bravo&lt;/marker&gt;, donde se han avistado un pequeño campamento y patrullas de enemigos a pie moderadas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_bravo_Title_1M9">
+        <English>Clear Objective Bravo</English>
+        <Spanish>Despejar el objetivo Bravo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_charlie_Description_1M9">
+        <English>The southern peak of Sperwan Ghar's ridgeline is designated &lt;marker name="markerObjCharlie"&gt;Objective Charlie&lt;/marker&gt;, light patrols pass through the area, but most prefer to take the roads from Ishfaq or rat trails to the south than to travel the high road here.</English>
+        <Spanish>El pico meridional de la cresta de Sperwan Ghar ha recibido la designación de &lt;marker name="markerObjCharlie"&gt;objetivo Charlie&lt;/marker&gt;; hay patrullas ligeras que cruzan la zona, pero la mayoría prefiere coger la carretera desde Ishfaq o rutas de ratas al sur antes que recorrer estas alturas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_charlie_Title_1M9">
+        <English>Clear Objective Charlie</English>
+        <Spanish>Despejar el objetivo Charlie</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_delta_Description_1M9">
+        <English>The northern-most point of the ridge makes for both an ideal OP, and a natural rally point for the enemy. They will fall back to this location and hold onto it at all costs. It will be &lt;marker name="markerObjDelta"&gt;Objective Delta&lt;/marker&gt;. Taking Objective Delta is our best bet at being able to hold Sperwan Ghar, but we can't allow ourselves to be cut off, so taking the Objectives Alpha, Bravo and Charlie first are crucial.</English>
+        <Spanish>El punto más al norte de la cresta constituye tanto un PO ideal como un punto de reunión natural para el enemigo. Se replegarán a esta ubicación y la defenderán a toda costa. Será el &lt;marker name="markerObjDelta"&gt;objetivo Delta&lt;/marker&gt;. Tomar el objetivo Delta es nuestra mejor apuesta para poder mantener Sperwan Ghar, pero no podemos permitir que nos corten el paso, así que tomar primero los objetivos Alfa, Bravo y Charlie es crucial.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_delta_Title_1M9">
+        <English>Clear Objective Delta</English>
+        <Spanish>Despejar el objetivo Delta</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_Description_1M9">
+        <English>The Taliban have apparently turned a school into their HQ in the village of Ishfaq. You have been ordered to secure it to complete the capture of Sperwan Ghar.</English>
+        <Spanish>Parece que los talibanes han convertido un colegio en su CG en el pueblo de Ishfaq. Te han ordenado asegurarlo para completar la toma de Sperwan Ghar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_Title_1M9">
+        <English>Clear the school</English>
+        <Spanish>Despejar el colegio</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_1M9">
+        <English>Put Your Mouthpiece In</English>
+        <Spanish>Poneos el micrófono</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_Intro_1M9">
+        <English>Mission 9 Intro</English>
+        <Spanish>Misión 9: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_Outro_1M9">
+        <English>Mission 9 Outro</English>
+        <Spanish>Misión 9: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionDescription_1M9">
+        <English>After a brief lull in the fighting and a day's delay while resupplying, ODA 331 and the ANA 3rd Kandak resume their assault on Sperwan Ghar. This time, the stakes are higher.</English>
+        <Spanish>Después de un breve momento de calma en el combate y un día de retraso para reabastecerse, la ODA 331 y el 3.er Kandak del ENA reanudan su asalto a Sperwan Ghar. Esta vez, el listón está más alto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_text_1M9">
+        <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER IX - Put Your Mouthpiece In&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'Everybody in Afghanistan ought to know we're coming in and hell's coming with us.'&lt;br/&gt;&lt;br/&gt;-FORMER NATIONAL SECURITY ADVISOR ROBERT MACFARLANE&lt;br/&gt;Face the Nation, October 28, 2001&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO IX: Poneos el micrófono&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«Todos en Afganistán deberían saber que vamos para allá y que el infierno vendrá con nosotros».&lt;br/&gt;&lt;br/&gt;—EXCONSEJERO DE SEGURIDAD NACIONAL ROBERT MACFARLANE&lt;br/&gt;Face the Nation, 28 de octubre de 2001&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel1_1M9">
+        <English>Cpt. Rusty Bradley</English>
+        <Spanish>Cap. Rusty Bradley</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel2_1M9">
+        <English>ODA 331, US Army SF</English>
+        <Spanish>ODA 331, Ejérc. de EE. UU.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel3_1M9">
+        <English>Approaching Sperwan Ghar</English>
+        <Spanish>Rumbo a Sperwan Ghar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel4_1M9">
+        <English>September 5, 2006 - 0700</English>
+        <Spanish>5 septiembre 2006 - 0700</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message1_1M9">
+        <English>Talon 31 elements, give me an 'UP' when you are ready to go.</English>
+        <Spanish>Elementos Talon 31, dadme el visto bueno cuando estéis listos para salir.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message2_1M9">
+        <English>Eagle 10, this is Talon 30, request permission to kick off.</English>
+        <Spanish>Eagle 10, aquí Talon 30, solicito permiso para arrancar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message3_1M9">
+        <English>Talon 30, this is Eagle 10, permission granted.</English>
+        <Spanish>Talon 30, aquí Eagle 10, permiso concedido.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message4_1M9">
+        <English>Put your mouthpiece in for this one, boys, 'cause it is gonna hurt.</English>
+        <Spanish>Poneos el micrófono, muchachos, porque esta va a doler.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message5_1M9">
+        <English>All Talon 30 elements, truck 1 is moving.</English>
+        <Spanish>A todos los elementos Talon 30, el camión 1 avanza.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message6_1M9">
+        <English>Go, go, go!</English>
+        <Spanish>¡Vamos, vamos, vamos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message7_1M9">
+        <English>Talon 31 to Talon 30, we've secured Objective Alpha, all hostiles eliminated, over.</English>
+        <Spanish>Talon 31 a Talon 30, hemos asegurado el objetivo Alfa, todos los hostiles eliminados, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message8_1M9">
+        <English>Roger that 31, keep safe and push ahead to the next objective. Out.</English>
+        <Spanish>Recibido, 31, tengan cuidado y avancen al siguiente objetivo. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message9_1M9">
+        <English>Talon 31 to Talon 30, we've secured Objective Bravo, moving to our next objective, over.</English>
+        <Spanish>Talon 31 a Talon 30, hemos asegurado el objetivo Bravo, avanzamos al siguiente objetivo, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message10_1M9">
+        <English>Good work 31, keep up the pace, over and out.</English>
+        <Spanish>Buen trabajo, 31, mantengan el ritmo, cambio y corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message11_1M9">
+        <English>Talon 31 to Talon 30, we've secured Objective Charlie, over.</English>
+        <Spanish>Talon 31 a Talon 30, hemos asegurado el objetivo Charlie, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message12_1M9">
+        <English>Solid copy, Talon 31, continue with the assault, over and out.</English>
+        <Spanish>Recibido, Talon 31, prosigan con el asalto, cambio y corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message13_1M9">
+        <English>Talon 31 to Talon 30, we've secured Objective Delta, all clear, over.</English>
+        <Spanish>Talon 31 a Talon 30, hemos asegurado el objetivo Delta, todo despejado, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message14_1M9">
+        <English>Loud and clear, Talon 31, over and out.</English>
+        <Spanish>Alto y claro, Talon 31, cambio y corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message15_1M9">
+        <English>Talon 30 to Talon 31, Sperwan Ghar is almost in our hands. Need you and your team to push into Ishfaq and secure a schoolhouse being used as an HQ by the enemy, how copy, over?</English>
+        <Spanish>Talon 30 a Talon 31: Sperwan Ghar está casi en nuestras manos. Necesito que su equipo avance hacia Ishfaq y asegure un colegio que el enemigo usa como CG. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message16_1M9">
+        <English>Solid copy 30, moving to take the school at the foot of Sperwan Ghar, out.</English>
+        <Spanish>Recibido, 30, avanzamos para tomar el colegio en la falda de Sperwan Ghar, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message17_1M9">
+        <English>Talon 31 to Talon 30, the schoolhouse has been secured, I say again, schoolhouse is ours, how copy, over?</English>
+        <Spanish>Talon 31 a Talon 30, colegio asegurado, repito, el colegio es nuestro. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message18_1M9">
+        <English>That's a solid copy, Rusty. We're starting to take fire here near the CCP... 26, what's your status?</English>
+        <Spanish>Recibido, Rusty. Nos están empezando a disparar cerca del PRB... 26, ¿cuál es su estado?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message19_1M9">
+        <English>We own the hill, but I don't know for how long. There is a hell of a lot of movement down there. Do you copy?</English>
+        <Spanish>La colina es nuestra, pero no sé hasta cuándo. Hay un huevo de movimiento ahí abajo. ¿Me reciben?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end1_subtitle_1M9">
+        <English>Sperwan Ghar captured</English>
+        <Spanish>Sperwan Ghar capturada</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end1_description_1M9">
+        <English>We fought tooth and nail for every inch of this hill, going toe-to-toe with a force easily three times our size. We have a very early hold on Objectives Alpha, Bravo, Charlie, and Delta, but that doesn't mean the coast is clear... not by a long shot.</English>
+        <Spanish>Hemos luchado con uñas y dientes por cada metro de esta colina, viéndonos las caras con una fuerza tres veces mayor que la nuestra. Controlamos por lo pronto los objetivos Alfa, Bravo, Charlie y Delta, pero eso no quiere decir que no haya moros en la costa... ni mucho menos.</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

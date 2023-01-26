@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="LionsOfKandahar">
+  <Package name="LionsOfKandahar_1M12">
+    <Container name="STR_DN">
+	  <Key ID="STR_LOK_BriefingNotes_1M12">
+        <English>EDITOR'S NOTES:&lt;br/&gt;None so far...&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;CSNY - Teach Your Children&lt;br/&gt;Theo Parrish - Early Byrd&lt;br/&gt;Various samplings from the film scores of Satyajit Ray&lt;br/&gt;Various exerpts from the TV show Afghan Star, inspired by the documentary of the same name</English>
+        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Nada de momento...&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;CSNY - Teach Your Children&lt;br/&gt;Theo Parrish - Early Byrd&lt;br/&gt;Varias muestras de las partituras de las películas de Satyajit Ray&lt;br/&gt;Varios extractos de la serie Afghan Star, inspirada por el documental homónimo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_DiaryText_1M12">
+        <English>The explosion jolted Brian and me from a deep sleep atop of the hood of Ole Girl, throwing us to the dusty ground. Another explosion rocked the earth as soon as I hit the dirt. The AC-130 gunship had arrived soon after I fell asleep. It announced its presence by slamming several 105-mm artillery rounds into a compound a hundred meters from the hill. Dave and Ron controlled the gunship and knew in advance the explosions were coming. 'You move pretty quickly for an old man,' Dave laughed. 'Up yours, Dave!' ... Still exhausted, Brian and I simply crawled under the truck's bumper and went back to sleep. We would get three hours before we took over guard duties for the night. The comforting echo of the gunship's attacks let us rest easy.&lt;br/&gt;&lt;br/&gt;Dave hasn't let up, and neither has Bill, so I want to be running on all cylanders too. Still, I'm glad Dave volunteered to do most of the tougher jobs. I feel like I'm going to need every ounce of my strength in the days ahead.</English>
+        <Spanish>La explosión nos despertó a Brian y a mí de un sueño profundo encima del capó de Ole Girl, arrojándonos al polvoriento suelo. Otra explosión sacudió la tierra en cuanto caí al suelo. El avión artillado AC-130 llegó poco después de que me durmiera. Anunció su presencia disparando varias ráfagas de proyectiles de 105 mm contra un complejo situado a cien metros de la colina. Dave y Ron controlaban el avión y sabían por adelantado que habría explosiones. «Te mueves muy rápido para ser tan viejo», se rió Dave. «¡Que te den por el culo, Dave!»... Aún cansados, Brian y yo nos arrastramos bajo el parachoques del camión y volvimos a dormir. Tendríamos tres horas antes de hacer guardia por la noche. El reconfortante eco de los ataques del avión artillado nos permitió descansar tranquilos.&lt;br/&gt;&lt;br/&gt;Dave no ha aflojado el ritmo, y Bill tampoco, así que yo también quiero funcionar a toda máquina. Aun así, me alegro de que Dave se prestase voluntario para realizar la mayoría de los trabajos más duros. Me parece que voy a necesitar toda mi fuerza durante los días que se vienen.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingCommand_Text_1M12">
+        <English>A. Signal:&lt;br/&gt; Eagle 10 Actual - Lt. Col. BOLDUC (TF 31 CO)&lt;br/&gt; Lion 1 Actual - Col. SHINSHA (ANA Kandahar Bgde. CO)&lt;br/&gt; Talon 30 Actual - Col. JARED (ODA 331 CO)&lt;br/&gt; Talon 26 - Cpt. HODGE&lt;br/&gt; Talon 31 (your unit) - Cpt. RUSTY&lt;br/&gt; Talon 36 - Cpt. BRUCE&lt;br/&gt; Lima 84 - MEDEVAC</English>
+        <Spanish>A. Señal:&lt;br/&gt; Eagle 10 Jefe: Tte. Cnel. BOLDUC (oficial al mando de la TF 31)&lt;br/&gt; León 1 Jefe: Cnel. SHINSHA (oficial al mando de la brig. de Kandahar del ENA)&lt;br/&gt; Talon 30 Jefe: Cnel. JARED (oficial al mando de la ODA 331)&lt;br/&gt; Talon 26: Cap. HODGE&lt;br/&gt; Talon 31 (tu unidad): Cap. RUSTY&lt;br/&gt; Talon 36: Cap. BRUCE&lt;br/&gt; Lima 84: MEDEVAC</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingSustainment_Text_1M12">
+        <English>1. Supply: Standard US SOF Desert BDUs and ACUs or fleece jackets, CIRAS vests, MICH2001 helmets, standard issue US small arms including M16s, M4A1 carbines, MP5 SMGs, Mossberg shotguns, M249 and Mk 48 SAWs, and Mk 12, M24, SR-25, and M107 sniper rifles.&lt;br/&gt;2. Transportation: All Talon GMVs have been moved into defensive positions and Dave has declared both of Talon 31's vehicles out of service for repairs.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Talon 31 has 1x Embedded Medical Sergeant - Riley. The ANA 3rd Kandak's medical team will be embedded within the patrols in Greg's absence. In the event of substantial casualties, Talon 30 Actual will authorize CASEVAC or insertion by ODA 331 QRF.</English>
+        <Spanish>1. Suministros: Uniformes estándar de combate de fuerzas especiales en camuflaje desierto y UCP o forros polares, chalecos CIRAS, cascos MICH 2001, armas reglamentarias de EE. UU. como fusiles M16A4, carabinas M4A1, subfusiles MP5, escopetas Mossberg, ametralladoras Mk. 48 y M249, y fusiles de tirador Mk. 12, M24, SR-25 y M107.&lt;br/&gt;2. Transporte: Todos los GMV de los Talon están en posiciones defensivas y Dave ha declarado fuera de servicio los dos vehículos de Talon 31 para repararlos.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Talon 31 tiene 1x sargento médico asignado, Riley. El equipo médico del 3.er Kandak del ENA estará asignado a las patrullas a falta de Greg. En caso de sufrir una cantidad considerable de bajas, Talon 30 Jefe autorizará CASEVAC y la inserción de la FRR de la ODA 331.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingExecution_Text_1M12">
+        <English>This mission can be broken down into three (3) distinct tasks, which may pursued in any order:&lt;br/&gt;&lt;br/&gt;Perform Battle Damage Assessment (BDA) on Ishfaaq village at the foot of Sperwan Ghar&lt;br/&gt;&lt;br/&gt;Obtain overwatch position on the suspicious compound to our southwest and eliminate any hostiles still in the area&lt;br/&gt;&lt;br/&gt;Patrol Zangabar Ghar at the southern end of the ridge for any enemy presence or evidence of enemy movement</English>
+        <Spanish>La misión se puede desgranar en tres (3) objetivos cruciales, los cuales se pueden cumplir en cualquier orden:&lt;br/&gt;&lt;br/&gt;Realizar una evaluación de daños del pueblo de Ishfaq, en la falda de Sperwan Ghar&lt;br/&gt;&lt;br/&gt;Visualizar el complejo sospechoso a nuestro suroeste y eliminar a cualquier hostil que siga en la zona&lt;br/&gt;&lt;br/&gt;Patrullar Zangabar Ghar, en el extremo sur de la cordillera, en busca de presencia enemiga o pruebas de movimientos enemigos</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingMission_Text_1M12">
+        <English>Who: Talon 31, ODA 331, Task Force 31 (TF31)&lt;br/&gt;What: DEFEND Sperwan Ghar&lt;br/&gt;Where: In vicinity, Panjwayi Valley&lt;br/&gt;When: 000000ZSEP6&lt;br/&gt;Why: Support of Operation Medusa</English>
+        <Spanish>Quién: Talon 31, ODA 331, Fuerza Operativa 31 (TF 31)&lt;br/&gt;Qué: DEFENDER Sperwan Ghar&lt;br/&gt;Dónde: En las inmediaciones, valle de Panjwai&lt;br/&gt;Cuándo: 000000ZSEP6&lt;br/&gt;Por qué: Apoyo a la Operación Medusa</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingSituation_Text_1M12">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: Estimated 150-200 in vicinity + reinforcements, 500-1,200 in the AO at large&lt;br/&gt;Activity: Light movement in the immediate vicinity, radio intercepts suggest a rift in Taliban leadership about how to proceed, although a major counter-attack is likely within the next few days.&lt;br/&gt;Location: Vicinity, &lt;marker name="markerSperwanGhar"&gt;Sperwan Ghar&lt;/marker&gt;&lt;br/&gt;Unit: Taliban mixed infantry&lt;br/&gt;Time Observed: September 6, 2006 0600 hrs&lt;br/&gt;Equipment: Assorted small arms including AK-47s, G3A6s, and RPK Machineguns, RPG AT Weapons, Hilux pickup trucks and gun trucks, V3S and Ural troop transports, and assorted civilian vehicles&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: Create white space to allow for our forces to dig in deeper, with the intermediate-term goal being we want to establish a secure zone for potential reinforcements.&lt;br/&gt;2. Adjacent Units: ODA 331 Team 26 (callsign: Talon 26), ODA 331 Command Team (callsign: Talon 30), ODA 331 Team 36 (callsign: Talon 36), ANA 3rd Kandak (callsign: Lion 1 Actual), Canadian 1 RCR Battle Group, Charles Co. (callsign: Charles Actual).&lt;br/&gt;3. Supporting: An F/A-18 fighter wing has been committed to patrolling the airspace for today, they won't be under our operational control, but you can't deny the sense of security they lend-- we know the enemy won't be striking in force like they wanted to after last night. Artillery support will not be available for this mission. CASEVAC will be available by request of Talon 30 Actual, ODA 331's CO.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: Se estiman 150-200 en las inmediaciones + refuerzos, 500-1200 en el AO en general&lt;br/&gt;Actividad: Movimiento leve en las inmediaciones, las intercepciones de radio sugieren una división en el liderazgo talibán sobre cómo proceder, aunque es probable un contraataque importante en los próximos días.&lt;br/&gt;Ubicación: Inmediaciones, &lt;marker name="markerSperwanGhar"&gt;Sperwan Ghar&lt;/marker&gt;&lt;br/&gt;Unidades: Infantería mixta talibán&lt;br/&gt;Fecha de observación: 6 de septiembre de 2006, 0600 hrs&lt;br/&gt;Equipo: armas ligeras variadas como AK-47, G3A6 y ametralladoras RPK, granadas antitanque RPG, todoterrenos Hilux y camiones artillados, transportes de tropas V3S y Ural y vehículos civiles variopintos&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Crear espacio en blanco para que nuestras fuerzas puedan atrincherarse mejor, con la meta a medio plazo de establecer una zona segura para posibles refuerzos.&lt;br/&gt;2. Unidades adyacentes: Equipo 26 de la ODA 331 (indicativo: Talon 26), equipo de mando de la ODA 331 (indicativo: Talon 30), equipo 36 de la ODA 331 (indicativo: Talon 36), 3.er Kandak del ENA (indicativo: León 1 Jefe), 1.er Grupo de Combate del Real Regimiento Canadiense, Compañía Charles (indicativo: Charles Jefe).&lt;br/&gt;3. Apoyo: Un ala de cazas F/A-18 patrullará el espacio aéreo en el día de hoy. No estarán bajo nuestro control operativo, pero no se puede negar la sensación de seguridad que infunden. Sabemos que el enemigo no atacará en tropel como querían después de anoche. No habrá apoyo de artillería para esta misión. La CASEVAC solo estará autorizada cuando la solicite Talon 30 Jefe, el oficial al mando de la ODA 331.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Briefing_Text_1M12">
+        <English>Thanks to our friends in the sky last night, we were able to decimate the enemy's attempts at a counter-attack. &lt;marker name="markerSperwanGhar"&gt;Sperwan Ghar&lt;/marker&gt; remains in our possession. We need to maintain the initiative and build secure 'white space' past the bottom of the hill while digging in deeper for the enemy's next move. That means performing a battle damage assessment (BDA) on Ishfaq at the foot of the hill, getting some overwatch on a compound that may still have an enemy presence, and scouting out Zangabar Ghar way to our south. Bill is in charge of adjusting the vehicles into defensive positions, so you'll all be on-foot today. Rusty will be on overwatch, the rest of you will be rotating between manning the guns on our GMVs and patrolling the perimeter. Dismissed.</English>
+        <Spanish>Gracias a nuestros amigos en el cielo anoche, pudimos diezmar los intentos de enemigo de contraatacar. &lt;marker name="markerSperwanGhar"&gt;Sperwan Ghar&lt;/marker&gt; sigue siendo nuestra. Tenemos que mantener la iniciativa y crear un «espacio en blanco» seguro más allá de la base de la colina mientras nos atrincheramos más para la siguiente jugada del enemigo. Eso significa realizar una evaluación de daños en Ishfaq, en la falda de la colina, visualizar un complejo que todavía puede tener presencia enemiga y explorar Zangabar Ghar, hacia nuestro sur. Bill está a cargo de ajustar los vehículos en posiciones defensivas, así que todos irán a pie hoy. Rusty se encargará de la vigilancia, el resto os turnaréis entre manejar las armas de nuestros GMV y patrullar el perímetro. Podéis retiraros.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objJared_Description_1M12">
+        <English>Jared is in charge with delegating the various tasks to build 'white space' around our position atop Sperwan Ghar. You've already volunteered to help out during this morning's briefing, now you must report to him to hear the details of what needs to be done.</English>
+        <Spanish>Jared está a cargo de asignar las diversas tareas destinadas a crear «espacio en blanco» alrededor de nuestra posición en la cima de Sperwan Ghar. Tú ya te ofreciste voluntario durante la sesión informativa de esta mañana, ahora tienes que presentarte ante él para que te detalle lo que hay que hacer.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objJared_Title_1M12">
+        <English>Report to Jared</English>
+        <Spanish>Presentarse ante Jared</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_Description_1M12">
+        <English>You volunteered to perform a battle damage assessment (BDA) on the village of Ishfaq, but first, you must let Lt. Ali of the ANA know you are heading over so his team can provide you with backup. Once you have spoken to Lt. Ali, move to Ishfaq and rendezvous with Brian on the south side, then sweep north-ward and report in.</English>
+        <Spanish>Te has ofrecido voluntario para realizar una evaluación de daños del pueblo de Ishfaq, pero antes debes informar al teniente Ali del ENA de que te diriges allí para que su equipo pueda proporcionarte apoyo. Una vez que hayas hablado con el teniente Ali, dirígete a Ishfaq y reúnete con Brian en el lado sur, luego peina la zona hacia el norte e informa.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_Title_1M12">
+        <English>Perform BDA on Ishfaq</English>
+        <Spanish>Realizar evaluación de daños de Ishfaq</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_action_1M12">
+        <English>Lt. Ali: Ishfaq BDA</English>
+        <Spanish>Tte. Ali: evaluación de daños de Ishfaq</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_1_Description_1M12">
+        <English>Speak to Lt. Ali to let him know you are heading over so his team can provide you with backup. Once done, move to Ishfaq and rendezvous with Brian on the south side.</English>
+        <Spanish>Habla con el teniente Ali del ENA para comunicarle que te diriges allí y que su equipo pueda proporcionarte apoyo. Una vez hecho, dirígete a Ishfaq y reúnete con Brian en el lado sur.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_1_Title_1M12">
+        <English>Speak to Lt. Ali</English>
+        <Spanish>Hablar con el Tte. Ali</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_2_Description_1M12">
+        <English>Move to Ishfaq and rendezvous with Brian on the south side with Lt. Ali and his team to perform BDA on Ishfaq.</English>
+        <Spanish>Ve a Ishfaq y reúnete con Brian en el lado sur con el teniente Ali y su equipo para realizar una evaluación de daños de Ishfaq.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_2_Title_1M12">
+        <English>Rendezvous with Brian</English>
+        <Spanish>Reunirse con Brian</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_3_Description_1M12">
+        <English>You have successfully reunited with Sgt. Brian at the foot of Sperwan Ghar. Sweep Ishfaq with your team to check how much damage the Spectre did last night and if there are any enemies left.</English>
+        <Spanish>Te has reunido con el sargento Brian en la falda de Sperwan Ghar. Peina Ishfaq con tu equipo para ver cuánto daño hizo el Spectre anoche y si quedan enemigos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_3_Title_1M12">
+        <English>Sweep the area</English>
+        <Spanish>Peinar la zona</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_3_2_Description_1M12">
+        <English>You and your team have been ambushed by the Taliban while sweeping the village of Ishfaq! Neutralize them immediately!</English>
+        <Spanish>¡Los talibanes os han emboscado a tu equipo y a ti mientras peinabais el pueblo de Ishfaq! ¡Neutralízalos de inmediato!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_3_2_Title_1M12">
+        <English>Defeat the ambush</English>
+        <Spanish>Derrotar la emboscada</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_Description_1M12">
+        <English>You volunteered to operate the M107 with Riley at the designated overwatch position. Speak to Riley, then get in position, grab the M107 and get eyes on the suspicious compound to the east. If you see any hostiles, you are to fire at will and clear the compound.</English>
+        <Spanish>Te has ofrecido voluntario para manejar el M107 con Riley en la posición de vigilancia designada. Habla con Riley, ponte en posición, coge el M107 y observa el complejo sospechoso al este. Si ves hostiles, has de disparar a discreción y despejar el complejo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_Title_1M12">
+        <English>Perform overwatch on the Taliban compound</English>
+        <Spanish>Vigilar el complejo talibán</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_action_1M12">
+        <English>Sgt. Riley: Compound overwatch</English>
+        <Spanish>Sgto. Riley: vigilar el complejo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_1_Description_1M12">
+        <English>Speak to Riley to get him to join you as a spotter and medic. You'll be operating the M107.</English>
+        <Spanish>Habla con Riley para que se una a ti como observador y médico. Tú manejarás el M107.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_1_Title_1M12">
+        <English>Speak to Riley</English>
+        <Spanish>Hablar con Riley</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_2_Description_1M12">
+        <English>Move with Riley to the overwatch position, take up the M107, and get eyes on the Taliban compound that was decimated by the Spectre last night.</English>
+        <Spanish>Avanza con Riley a la posición de vigilancia, coge el M107 y visualiza el complejo talibán que diezmó el Spectre anoche.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_2_Title_1M12">
+        <English>Take the M107</English>
+        <Spanish>Coger el M107</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_3_Description_1M12">
+        <English>Deploy your M107 anti-materiel rifle and scout the Taliban compound. You're free to fire at will if you spot any hostiles therein.</English>
+        <Spanish>Despliega el fusil antimaterial M107 y observa el complejo talibán. Tienes vía libre para disparar si avistas a cualquier hostil.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_3_Title_1M12">
+        <English>Scan compound for hostiles</English>
+        <Spanish>Buscar hostiles en el complejo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj3_Description_1M12">
+        <English>You volunteered to conduct a patrol on Zangabar Ghar toward the south end of the ridge. Speak to Bruce, who is sending his designated marksman (DM) along with you. Be advised, enemy radio traffic suggests it is the new landmark for Taliban forces entering the AO, so proceed with caution. You are weapons free if you make contact with any OPFOR. Get to the peak of Zangabar Ghar and report in when you're there.</English>
+        <Spanish>Te has ofrecido voluntario para patrullar Zangabar Ghar, en el extremo sur de la cordillera. Habla con Bruce, que te enviará su tirador designado. Atención: el tráfico de radio enemigo insinúa que es el nuevo punto de referencia de las fuerzas talibanes que entran en el AO, así que procede con cautela. Tienes vía libre para disparar si entras en contacto con la OPFOR. Ve a la cima de Zangabar Ghar e informa cuando estés allí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj3_Title_1M12">
+        <English>Patrol Zangabar Ghar</English>
+        <Spanish>Patrullar Zangabar Ghar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj3_action_1M12">
+        <English>Cpt. Bruce: Zangabar patrol</English>
+        <Spanish>Cap. Bruce: patrullar Zangabar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj3_1_Description_1M12">
+        <English>Speak to Capt. Bruce so he can send his designated marksman with you on patrol at Zangabar Ghar.</English>
+        <Spanish>Habla con el capitán Bruce para que te envíe su tirador designado de patrulla por Zangabar Ghar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj3_1_Title_1M12">
+        <English>Speak to Bruce</English>
+        <Spanish>Hablar con Bruce</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj3_2_Description_1M12">
+        <English>Move to Zangabar Ghar with Ben to patrol the south end of the ridge. Be advised, enemy radio traffic suggests it is the new landmark for Taliban forces entering the AO, so proceed with caution. You are weapons free if you make contact with any OPFOR.</English>
+        <Spanish>Ve a Zangabar Ghar con Ben para patrullar el extremo sur de la cordillera. Atención: el tráfico de radio enemigo insinúa que es el nuevo punto de referencia de las fuerzas talibanes que entran en el AO, así que procede con cautela. Tienes vía libre para disparar si entras en contacto con la OPFOR.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj3_2_Title_1M12">
+        <English>Patrol Zangabar Ghar</English>
+        <Spanish>Patrullar Zangabar Ghar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_1M12">
+        <English>Today Is Not Your Day</English>
+        <Spanish>Hoy no es tu día</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_Intro_1M12">
+        <English>Mission 12 Intro</English>
+        <Spanish>Misión 12: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_Outro_1M12">
+        <English>Mission 12 Outro</English>
+        <Spanish>Misión 12: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionDescription_1M12">
+        <English>We managed to put a damper on the enemy's counter-attack, but it won't last for long. We need to create 'white space' to patrol in and push the defensive line out in all directions.</English>
+        <Spanish>Hemos conseguido impedir el contraataque enemigo, pero no por mucho tiempo. Tenemos que crear «espacio en blanco» en el que patrullar y empujar la línea defensiva en todas las direcciones.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_text_1M12">
+        <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER XII - Today Is Not Your Day&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'No arsenal or no weapon in the arsenals of the world is as formidable as the will and moral courage of free men and women.'&lt;br/&gt;&lt;br/&gt;-RONALD REAGAN&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO XII: Hoy no es tu día&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«Ningún arsenal ni ningún arma de los arsenales del mundo es tan formidable como la voluntad y el valor moral de los hombres y mujeres libres».&lt;br/&gt;&lt;br/&gt;—RONALD REAGAN&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_4hourslater_1M12">
+        <English>&lt;t size='1.5'&gt;F O U R   H O U R S   L A T E R . . .&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;C U A T R O   H O R A S   D E S P U É S . . .&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel1_1M12">
+        <English>Sgt. Dave Smith</English>
+        <Spanish>Sgto. Dave Smith</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel2_1M12">
+        <English>ODA 331, US Army SF</English>
+        <Spanish>ODA 331, Ejérc. de EE. UU.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel3_1M12">
+        <English>Atop Sperwan Ghar</English>
+        <Spanish>En la cima de Sperwan Ghar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel4_1M12">
+        <English>September 6, 2006 - 0700</English>
+        <Spanish>6 septiembre 2006 - 0700</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Hammer22_1M12">
+        <English>Hammer 22</English>
+        <Spanish>Hammer 22</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intromessage1_1M12">
+        <English>Talon 30, this is Hammer 22, we are inbound with a visitor and some air support, stand by, over.</English>
+        <Spanish>Talon 30, aquí Hammer 22, vamos de camino con un visitante y apoyo aéreo, esperen, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intromessage2_1M12">
+        <English>Hammer 22, this is Talon 31, we have enemy at the following grid, possibly a Taliban commander. Can you assist, over?</English>
+        <Spanish>Hammer 22, aquí Talon 31, tenemos enemigos en las siguientes coordenadas, posiblemente un comandante talibán. ¿Pueden prestar apoyo? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intromessage3_1M12">
+        <English>Roger that.</English>
+        <Spanish>Recibido.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intromessage4_1M12">
+        <English>Talon 31, this is Hammer 22, we got to go. We have a pickup and escort south of you. Thanks for letting us play. Hammer 22 out.</English>
+        <Spanish>Talon 31, aquí Hammer 22, tenemos que irnos. Tenemos una recogida y escolta al sur. Gracias por dejarnos jugar. Hammer 22, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message1_1M12">
+        <English>Thanks for volunteering Dave, you're gonna be putting in a real day's work today.</English>
+        <Spanish>Gracias por ofrecerte voluntario, Dave, hoy vas a tener que trabajar de lo lindo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message2_1M12">
+        <English>Now, there are three things I need you to get done today. It doesn't really matter what order you do 'em in, as long as they get done, you get me?</English>
+        <Spanish>Vale, hay tres cosas que quiero que hagas hoy. No importa en qué orden las hagas, siempre y cuando las hagas, ¿me sigues?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message3_1M12">
+        <English>Sir, yes, sir!</English>
+        <Spanish>¡Señor, sí, señor!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message4_1M12">
+        <English>Out-fucking-standing. Now, we need to go down to Ishfaq at the foot of the hill to perform a BDA.</English>
+        <Spanish>De puta madre. Vale, tenemos que bajar a Ishfaq, en la falda de la colina, para realizar una evaluación de daños.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message5_1M12">
+        <English>Make sure you speak to Lt. Ali before you head over, you don't want to be down there without backup. Brian is already down there, he'll join you when you get there.</English>
+        <Spanish>Asegúrate de hablar con el teniente Ali antes de salir, no es buena idea bajar ahí sin apoyo. Brian ya está allí, se unirá a ti cuando llegues.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message5_2_1M12">
+        <English>Got it, speak to Ali before I hit Ishfaq.</English>
+        <Spanish>Entendido, hablar con Ali antes de ir a Ishfaq.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message6_1M12">
+        <English>We've been observing some enemy movement in a remote compound to the east. The Spectre hit it last night, but maybe there's still a few Talibs hanging around.</English>
+        <Spanish>Hemos estado observando movimiento enemigo en un complejo remoto al este. El Spectre lo alcanzó anoche, pero puede que todavía queden unos pocos talis.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message6_2_1M12">
+        <English>I'm glad you volunteered to work the M107-- after Zack, you're the best shot on Rusty's team.</English>
+        <Spanish>Me alegro de que te ofrecieses a manejar el M107. Después de Zack, eres el mejor tirador del equipo de Rusty.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message6_3_1M12">
+        <English>Riley volunteered to be spotter, and he'll join you as a medic, just go grab him near Talon 26, truck 2.</English>
+        <Spanish>Riley se ofreció voluntario para ser observador, y se unirá a ti como médico. Ve a por él cerca del camión 2 de Talon 26.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message7_1M12">
+        <English>I bet Zack's jealous and mad as shit about his shoulder now. He'd probably still try to do it, even if it tore his stitches out. He's a tough sunovabitch.</English>
+        <Spanish>Seguro que Zack está cabreado de cojones por su hombro. Probablemente intentaría hacerlo él mismo, aunque se le saltasen los puntos. Es un cabronazo duro de pelar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message8_1M12">
+        <English>That he is, Dave. The third thing I need you to do is go on a bit of a hike to our south.</English>
+        <Spanish>Lo es, Dave. Lo tercero que necesito que hagas es hacer una ruta de senderismo a nuestro sur.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message8_2_1M12">
+        <English>Taliban radio traffic is hinting that Zangabar Ghar is their new landmark after they enter the AO. If they get enough guys to our south, they could try to push us off like we did to them.</English>
+        <Spanish>El tráfico de radio talibán insinúa que Zangabar Ghar es su nuevo punto de referencia después de entrar en el AO. Si meten suficientes hombres al sur, podrían tratar de expulsarnos como nosotros hicimos con ellos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message8_3_1M12">
+        <English>Get up to the peak and give me a SITREP. Bruce has some hotshot sniper who volunteered to hump it down there with you. Go talk to them your way out.</English>
+        <Spanish>Súbete a la cima e infórmame de la situación. Bruce tiene un tirador de categoría que se ha ofrecido a bajar contigo. Habla con ellos cuando vayas a salir.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message9_1M12">
+        <English>Alright, that's it for now, you have your hands full so I'll let you get to it most ricky-tick. Good luck, Sergeant.</English>
+        <Spanish>Bueno, pues eso es todo. Tienes faena, así que dejaré que te pongas manos a la obra cuanto antes. Buena suerte, sargento.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message10_1M12">
+        <English>Sir, I have orders from-</English>
+        <Spanish>Señor, traigo órdenes de...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message11_1M12">
+        <English>We are to accompany you into Ishfaq village, yes. Lion 18, move out!</English>
+        <Spanish>Lo acompañaremos al pueblo de Ishfaq, sí. ¡León 18, adelante!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message12_1M12">
+        <English>Follow me, Sergeant.</English>
+        <Spanish>Sígame, sargento.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message13_1M12">
+        <English>Oh, I'm gonna love this...</English>
+        <Spanish>Oh, esto me va a encantar...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message14_1M12">
+        <English>I do not tolerate sarcasm in my unit, Dave.</English>
+        <Spanish>No tolero el sarcasmo en mi unidad, Dave.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message15_1M12">
+        <English>That's why I'm glad I'm not in your unit, Lieutenant. In fact, I don't technically have to do a thing you say.</English>
+        <Spanish>Por eso me alegro de no estar en su unidad, teniente. De hecho, no tengo por qué hacer nada de lo que me diga.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message16_1M12">
+        <English>Ha, you serve up bullshit almost as well as you take it. We'll see what you have to say if we run into trouble down there.</English>
+        <Spanish>Ja, mete tanta mierda como recibe. Ya veremos lo que tiene que decir si nos metemos en problemas ahí abajo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message17_1M12">
+        <English>I've tried everything: gas, Willie Pete, even a frag. I can't get these damn cannabis plants to burn, no matter what I try.</English>
+        <Spanish>He probado con todo: gas, fósforo blanco, hasta una piña, pero no consigo prenderles fuego a estas malditas plantas de cannabis, haga lo que haga.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message18_1M12">
+        <English>Hey Captain, can I go on the next patrol?</English>
+        <Spanish>Oiga, capitán, ¿me puedo apuntar a la siguiente patrulla?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message19_1M12">
+        <English>You the one who's been hoardin' all the Doritos and Funyuns, Zack? Or was it you, Brian, you pothead, you got the munchies down there?</English>
+        <Spanish>¿Eres tú el que ha estado acaparando los Doritos y los Funyuns, Zack? ¿O eras tú, Brian, so porrero, estás con los munchies o qué?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message20_1M12">
+        <English>Hey, hey guys. I don't do dope, no sir. Not out here, at least. A couple puffs of this shit and you'll be patrolling in circles for hours, dude.</English>
+        <Spanish>Ey, ey, chicos. No me drogo, no, señor. Aquí no, al menos. Le das un par de caladas a esta mierda y te tiras horas patrullando dando vueltas, tío.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message21_1M12">
+        <English>Haha, right. And what was it you were just doing for the past few hours again?</English>
+        <Spanish>Ja, ja, ya, claro. Y ¿qué estabas haciendo exactamente estas últimas horas?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message22_1M12">
+        <English>Stow it, guys. Keep the channels clean. And Brian, you go with Dave and put the reefer down, you hear me? Over.</English>
+        <Spanish>Callaos, chicos. Dejad los canales vacíos. Y Brian, ve con Dave y deja los canutos, ¿me estás oyendo? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message23_1M12">
+        <English>Barely a building left standing except for the little schoolhouse and a couple huts. You sure did a number on this one, Dave.</English>
+        <Spanish>Apenas un edificio en pie salvo el colegio y un par de chozas. Liaste una buena aquí, Dave.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message24_1M12">
+        <English>If you had seen the little white heat signatures swarming all over the place, you would have shat yourself, Brian.</English>
+        <Spanish>Sí, si hubieras visto todos los rastros de calor que había aquí, te habrías cagado encima, Brian.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message25_1M12">
+        <English>I'm kind of surprised there aren't more bodies, as a matter of fact. You must have vaporized the poor sonsabitches.</English>
+        <Spanish>Pues te diré que me sorprende que no haya más cuerpos. Debes de haber vaporizado a los pobres mamones.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message26_1M12">
+        <English>What the-- oh fuck! Contact front, contact front! Shit, ambush!</English>
+        <Spanish>¿Pero qué... ¡Joder! ¡Contacto al frente, contacto al frente! ¡Mierda, emboscada!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message27_1M12">
+        <English>Talon 30 Actual, this is Talon 31, we just repelled an ambush. Dropped about a dozen Taliban, no sign of any reinforcements, please advise. How copy? Over.</English>
+        <Spanish>Talon 30 Jefe, aquí Talon 31, acabamos de repeler una emboscada. Una docena de talibanes eliminados, no hay señales de refuerzos, solicito instrucciones. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message28_1M12">
+        <English>Talon 30 Actual to Talon 31, solid copy. Lt. Ali will hold the town, take Brian and continue with your other objectives, over and out.</English>
+        <Spanish>Talon 30 Jefe a Talon 31, recibido. El teniente Ali mantendrá la ciudad, llévate a Brian y continúa con los demás objetivos, cambio y corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message29_1M12">
+        <English>Howdy, pard'ner. You feel like shootin' a few turban-totin' fish in a mud brick barrel?</English>
+        <Spanish>Buenas, socio. ¿Te hace tirarles a unos tarugos con turbante en una choza embarrá?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message30_1M12">
+        <English>Save the cowboy act, ya' fuckin' bumpkin, haha. Gimme a spot, would ya?</English>
+        <Spanish>Déjate de gilipolleces de cowboy, ¿quieres? Ja, ja. Hazme un hueco, anda.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message31_1M12">
+        <English>I got a nice lil' patch picked out for us.</English>
+        <Spanish>He encontrado un buen sitio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message32_1M12">
+        <English>Alright, let's see what the Talibs are up to in their little compound this morning.</English>
+        <Spanish>Bueno, vamos a ver de qué andan los talis en su complejito esta buena mañana.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message33_1M12">
+        <English>That's the last one. Got 'em all-- nice shootin', for a Buckeye, that is.</English>
+        <Spanish>Ese era el último. Te los has cargado a todos. Buena puntería, para ser de Ohio, claro está.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message34_1M12">
+        <English>Anytime, Tex. You mind tagging along? Could probably use a medic to patch my ass up if I scrape it on the rocks.</English>
+        <Spanish>No hay de qué, texano. ¿Te importa venir? Me vendría bien tener un médico que me cure el culito si me lo raspo con una roca.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message35_1M12">
+        <English>I was gonna try to get on the next patrol through the pot fields, but I suppose I could forgo getting stoned and help you pull your own weight.</English>
+        <Spanish>Quería ir de patrulla por los campos de maría, pero supongo que podría pasar de colocarme y ayudarte a tirar de tu propio peso.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message36_1M12">
+        <English>Howdy Dave. Hey, I heard you volunteered to hump it down to Zangabar Ghar and check things out. That pass is going to be the key to holding Sperwan Ghar.</English>
+        <Spanish>Buenas, Dave. Eh, he oído que te has ofrecido voluntario para bajar a Zangabar Ghar y echar un vistazo. Ese paso va a ser la clave para mantener Sperwan Ghar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message37_1M12">
+        <English>Smitty tells me the radio traffic suggests the Taliban are using it as a landmark for when they get across the riverbed.</English>
+        <Spanish>Smitty dice que el tráfico de radio sugiere que los talibanes lo están usando como punto de referencia para cuando crucen el lecho del río.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message38_1M12">
+        <English>That's right, and we don't have the manpower to hold both hills, but we need to make sure the Taliban know we're watching both of 'em and that they better stay away.</English>
+        <Spanish>Así es, y no tenemos suficiente personal para defender ambas colinas, pero tenemos que asegurarnos de que los talibanes sepan que estamos vigilando las dos y que no les conviene acercarse.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message39_1M12">
+        <English>I think I might be able to help out with that.</English>
+        <Spanish>Creo que podría echar una mano.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message40_1M12">
+        <English>You're fuckin' A right, operator. Why don't you take Ben with you? He's one of my guys, knows the lay of the land up there pretty well.</English>
+        <Spanish>Más razón que un santo, operador. ¿Por qué no te llevas a Ben? Es uno de mis chicos, conoce muy bien el terreno.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message41_1M12">
+        <English>Can't say no to an extra finger on the trigger. Much obliged, you stay cool today.</English>
+        <Spanish>No voy a rechazar un dedo más en el gatillo. Muchas gracias, tú estate tranquilo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message42_1M12">
+        <English>So, Bruce says you know the lay of the land up this way?</English>
+        <Spanish>¿Conque Bruce dice que te conoces el terreno por aquí?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message43_1M12">
+        <English>That's right. When we first tried taking Sperwan Ghar, and our team was clearing out those compounds that held us up, I watched the enemies pour over the hill coming straight at you guys.</English>
+        <Spanish>Correcto. Cuando intentamos tomar Sperwan Ghar la primera vez y nuestro equipo estaba despejando ese complejo que nos ralentizó, vi cómo los enemigos se desparramaban por la colina directos a vosotros.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message44_1M12">
+        <English>Yeah, I'm still trying to figure out how I didn't catch a bullet that day, it was like I was invincible. I don't think we get second chances like that every day.</English>
+        <Spanish>Sí, aún me pregunto cómo salí de ahí sin un balazo, era como invencible. No creo que haya segundas oportunidades como esa todos los días.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message45_1M12">
+        <English>You a God-fearin' man, Dave?</English>
+        <Spanish>¿Eres un hombre temeroso de Dios, Dave?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message46_1M12">
+        <English>I don't like to talk too much about my relationship with the powers that be.</English>
+        <Spanish>No me gusta mucho hablar de mi relación con el de arriba.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message47_1M12">
+        <English>Fair enough. Anyway, this hill we're humpin' towards-- Zangabar Ghar, I guarantee it'll be hot. It's the only way they can go that we can't see 'em coming, and they now know this from experience.</English>
+        <Spanish>Bueno está. En fin, la colina a la que vamos, Zangabar Ghar, te garantizo que estará petada. Es el único camino por el que no podemos verlos venir, y ellos lo saben por experiencia.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message48_1M12">
+        <English>So, if we know they're gonna be using that valley as a staging area for when they cross the river, you're right, they have probably already tried to get as many guys in there as possible.</English>
+        <Spanish>Entonces, si sabemos que van a usar ese valle como zona de operaciones para cuando crucen el río, entonces sí, probablemente ya han tratado de meter a tantos hombres ahí como sea posible.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message48_2_1M12">
+        <English>We barely had time to pay attention to that area last night with the Spectre support too.</English>
+        <Spanish>Apenas tuvimos tiempo para prestarle atención a esa zona anoche con el apoyo del Spectre.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message49_1M12">
+        <English>If we can get the drop on 'em somehow, we can try and reset the board, that's the best we can do unless we camp out down here.</English>
+        <Spanish>Si conseguimos aventajarlos de alguna forma, podemos intentar volver al punto de partida. Es todo lo que podemos hacer sin tener que acampar ahí abajo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message50_1M12">
+        <English>Fuck that, I got shit to do. Let's check it out and clear it if there actually are any assholes down there.</English>
+        <Spanish>Y una mierda, tengo cosas que hacer. Vamos a echar un vistazo y lo despejamos si hay capullos de esos ahí abajo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message50_2_1M12">
+        <English>Fucking fuck! Son of a bitch!!</English>
+        <Spanish>¡Me cago en la puta! ¡Hijo de perra!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message51_1M12">
+        <English>Talon 31 to Talon 30 Actual, we have eyes on Zangabar Ghar, multiple contacts, please advise, over.</English>
+        <Spanish>Talon 31 a Talon 30 Jefe, tenemos visual de Zangabar Ghar, múltiples contactos, solicito instrucciones, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message52_1M12">
+        <English>Talon 30 to Talon 31, you are weapons free on all hostiles. Over.</English>
+        <Spanish>Talon 30 a Talon 31, vía libre para abatir a cualquier hostil. Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message53_1M12">
+        <English>Talon 31 to Talon 30, requesting immediate backup, we need more firepower, how copy? Over.</English>
+        <Spanish>Talon 31 a Talon 30, solicito refuerzos de inmediato, necesitamos más potencia de fuego, ¿me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message54_1M12">
+        <English>Talon 30 to Talon 31, solid copy on all, negative on your request for support - all Talon elements are unavailable. Fall back and try to lure them into our defenses if you need to, over.</English>
+        <Spanish>Talon 30 a Talon 31, todo recibido, negativo a su solicitud de apoyo, no hay ningún elemento Talon disponible. Repliéguense e intenten atraerlos a nuestras defensas si lo necesitan, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message55_1M12">
+        <English>Talon 30 Actual, this is Talon 31, roger that, out.</English>
+        <Spanish>Talon 30 Jefe, aquí Talon 31, recibido, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message56_1M12">
+        <English>Talon 31 to Talon 30, we've cleared Zangabar Ghar of all hostiles. Almost guaranteed more will flow in to take their place. Please advise, how copy? Over.</English>
+        <Spanish>Talon 31 a Talon 30, hemos despejado Zangabar Ghar de todos los hostiles. Está casi garantizado que vendrán más para relevarlos. Solicito instrucciones, ¿me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message57_1M12">
+        <English>Talon 30 to Talon 31, solid work, get back here on the double, I'll send another combat patrol that way in a few mikes. Out.</English>
+        <Spanish>Talon 30 a Talon 31, buen trabajo, vuelvan aquí enseguida. Enviaré otra patrulla de combate a esa zona en unos minutos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message58_1M12">
+        <English>This is Talon 30 to Talon 31, all objectives appear to be secure. Good work out there, Dave. Now get back here and get some rest, that's an order. We've got a tough fight ahead of us. Over and out.</English>
+        <Spanish>Aquí Talon 30 para Talon 31, todos los objetivos parecen estar asegurados. Buen trabajo ahí fuera, Dave. Vuelve aquí y descansa un poco, es una orden. Nos espera una lucha de las buenas. Cambio y corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message60_1M12">
+        <English>Major General Freakley, sir. Lt. Col. Bolduc, welcome to Sperwan Ghar.</English>
+        <Spanish>Mayor general Freakley, señor. Teniente coronel Bolduc, bienvenido a Sperwan Ghar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message61_1M12">
+        <English>I want a tour of the battlefield, gentlemen. Just tell me what you need.</English>
+        <Spanish>Quiero que me enseñen el campo de batalla, caballeros. Díganme lo que necesitan.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message62_1M12">
+        <English>Sir, let me be blunt. We need more resources. When we assaulted and finally seized this position, we disrupted the primary Taliban command and control site and their hub of reinforcements.</English>
+        <Spanish>Señor, le seré franco. Necesitamos más recursos. Cuando asaltamos y tomamos esta posición, desbaratamos el principal sitio de mando y control talibán y su centro de refuerzos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message63_1M12">
+        <English>My men can hold this position for the next 24 to 48 hours, but not without heavy air cover and reinforcements. We simply need more resources.</English>
+        <Spanish>Mis hombres pueden defender esta posición durante las próximas 24 o 48 horas, pero no sin cobertura aérea y refuerzos. Necesitamos más recursos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message64_1M12">
+        <English>You'll have it.</English>
+        <Spanish>Los tendrán.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message68_1M12">
+        <English>Guys, I just got word on the horn: movement to the east, get ready.</English>
+        <Spanish>Chicos, me acaban de informar: movimiento al este, preparaos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message70_1M12">
+        <English>I've got him! Let's get him ready to move!</English>
+        <Spanish>¡Lo tengo! ¡Vamos a moverlo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message71_1M12">
+        <English>Unnnh--did I die?</English>
+        <Spanish>Oh... ¿Me he muerto?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message72_1M12">
+        <English>Today is not your day, Captain. Everything is still attached. Aside from some cuts and a dislocated shoulder, you're okay.</English>
+        <Spanish>Hoy no es tu día, capitán. Todo sigue en su sitio. Salvo unos cortes y un hombro dislocado, estás bien.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_hint1_1M12">
+        <English>You have entered the overwatch position. Pick up the M107 and get eyes on the compound ASAP.</English>
+        <Spanish>Has entrado en la posición de vigilancia. Coge el M107 y visualiza el complejo lo antes posible.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end1_subtitle_1M12">
+        <English>Position reinforced</English>
+        <Spanish>Posición reforzada</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end1_description_1M12">
+        <English>It's been such a long day, you almost forgot about being up all night directing CAS. Still, thanks to your efforts, the team has a bit more breathing room to prepare for the arrival of reinforcements from both sides.</English>
+        <Spanish>Ha sido un día tan largo que casi se te olvida que te pasaste toda la noche despierto dirigiendo el apoyo aéreo. Aun así, gracias a tus esfuerzos, el equipo tiene un poco más de margen para prepararse para la llegada de refuerzos de ambos bandos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_lost_subtitle_1M12">
+        <English>Position overrun</English>
+        <Spanish>Posición invadida</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_lost_description_1M12">
+        <English>The Taliban have overrun ODA 331 and the ANA's position atop Sperwan Ghar and massacred them!</English>
+        <Spanish>¡Los talibanes han invadido la posición de la ODA 331 y el ENA en la cima de Sperwan Ghar y los han masacrado!</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

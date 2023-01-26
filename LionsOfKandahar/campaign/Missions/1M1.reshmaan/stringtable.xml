@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="LionsOfKandahar">
+  <Package name="LionsOfKandahar_1M1">
+    <Container name="STR_DN">
+	  <Key ID="STR_LOK_BriefingNotes_1M1">
+        <English>EDITOR'S NOTES:&lt;br/&gt;Welcome, and thank you for checking out Lions of Kandahar! This section of the diary will contain personal insight, tips, and credits for the music tracks sampled. Please be advised that Lions of Kandahar is not an original ArmA III campaign, it was originally created for ArmA II by HeadUp, and I took it upon myself to port it to ArmA III, mainly because the original campaign can be found nowhere on the Internet ever since Armaholic's downfall, I just happened to still have it saved, and I think this is one of the greatest custom campaigns ever made for ArmA and no one should pass over it. HeadUp's own intentions with this project were entirely non-commercial, and instead geared toward both learning and self-expression, and bringing more awareness to the struggles faced by the brave men and women of our armed forces, both US and NATO. If you like the story that will be told herein, be sure to check out Major Rusty Bradley's book! I read it to have more insight for this campaign and I really liked it. But enough bantering, I hope you enjoy the result of HeadUp's marvellous 5-month-long work and my humble port/remaster!&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;Bvdub - A Moment's Peace</English>
+        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;¡Bienvenido y gracias por darle una oportunidad a «Leones de Kandahar»! En esta sección del diario se incluirán pareceres personales, consejos y créditos de cualquier pista musical que aparezca. He de destacar que «Leones de Kandahar» no es una campaña original de ArmA III; la creó HeadUp para ArmA II, y yo mismo he asumido la responsabilidad de pasarla a ArmA III y remasterizarla, sobre todo porque la campaña original ha desaparecido de la faz de Internet desde la caída de Armaholic. Por suerte, tenía una copia guardada en mi disco duro. Creo que esta es una de las mejores campañas de la comunidad jamás creadas para ArmA, y nadie debería pasarla por alto. HeadUp jamás pretendió sacar rédito de este proyecto, sino que lo empleó como forma de aprendizaje y autoexpresión, así como para aumentar la visibilidad de los valientes hombres y mujeres de las fuerzas armadas, tanto de EE. UU. como de la OTAN. Si te gusta la historia que aquí se contará, ¡no dudes en echarle un ojo al libro del mayor Rusty Bradley! Yo me lo leí para tener más información sobre esta campaña y me terminó gustando bastante. Y hasta aquí la parrafada, ¡espero que te guste el resultado del maravilloso trabajo de cinco meses de HeadUp y mi humilde port/remasterización!&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Bvdub - A Moment's Peace</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_RustyDiary_1M1">
+        <English>The flight is always the major turning point. It's when reality sets in that there's a war going on and I would again be put into the middle of it. It was my third rotation in Afghanistan, which meant that for eight more months, I'd have to be a diplomat, peacemaker, teacher, and hunter. On bad days, I'd be the hunted. Leaving my family is always the hardest part. You can't explain why you're going, and that's all they want to know. But the why, for me, is really simple.&lt;br/&gt;&lt;br/&gt;Cpt. Rusty Bradley&lt;br/&gt;August 12, 2006</English>
+        <Spanish>El viaje de ida siempre es el gran punto de inflexión. Es cuando te das cuenta de que el mundo está en guerra y de que te están mandando de lleno a ella. Ya era mi tercer servicio en Afganistán, lo que quería decir que, durante ocho meses más, tendría que ser diplomático, pacificador, profesor y cazador. En los días malos, yo sería el cazado. Abandonar a mi familia siempre es lo más duro. No puedes explicar por qué te vas, y eso es lo único que quieren saber. Pero el por qué, para mí, está clarísimo.&lt;br/&gt;&lt;br/&gt;Cap. Rusty Bradley&lt;br/&gt;&lt;br/&gt;12 de agosto de 2006</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_Description_1M1">
+        <English>Upon arrival at Kandahar Airfield (KAF), all members of the ISAF beginning a new rotation must &lt;marker name="markerRegistration"&gt;check in&lt;/marker&gt; at the entry stations in the nearby hangar. You will be told where to report, and where to find transportation upon checking in.</English>
+        <Spanish>Tras aterrizar en el Aeropuerto de Kandahar, todos los miembros de la ISAF que inicien su nuevo servicio militar deben &lt;marker name="markerRegistration"&gt;registrarse&lt;/marker&gt; en los puestos de entrada del hangar cercano. Te dirán dónde presentarte y dónde encontrar transporte.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_Title_1M1">
+        <English>Check in at Kandahar Airfield</English>
+        <Spanish>Registrarse en el Aeropuerto de Kandahar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_2_Description_1M1">
+        <English>After checking in at KAF, you have learned that your orders are to report to Lt. Col. Bolduc, ODA 331's commanding officer, at Task Force 31's Tactical Operations Center (T.O.C). A Humvee has been arranged for transportation from the check-in area to the T.O.C.</English>
+        <Spanish>Después de registrarte en el Aeropuerto de Kandahar, te has enterado de que tus órdenes son presentarte ante el teniente coronel Bolduc, el oficial al mando de la ODA 331, en el centro de operaciones tácticas (COT) de la Fuerza Operativa 31. Se ha dispuesto un Humvee para el transporte desde la zona de facturación hasta el COT.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_2_Title_1M1">
+        <English>Check in at TF 31 T.O.C.</English>
+        <Spanish>Registrarse en el COT de la TF31</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_barracks_Description_1M1">
+        <English>Your orders are to move along a designated route to Firebase Maholic, where you will be posted until further notice, helping train and prepare the Afghan National Army (ANA's) 3rd Kandak for an upcoming offensive that has yet to be announced. When you are ready, go to the barracks to rest up before you and your team hit the road at 0130 hrs.</English>
+        <Spanish>Tus órdenes son avanzar por una ruta designada hasta la Base Maholic, donde estarás destinado hasta nuevo aviso, ayudando a entrenar y preparar al 3.er Kandak del Ejército Nacional Afgano (ENA) para una próxima ofensiva que aún no se ha anunciado. Cuando estés listo, ve a los barracones para descansar un poco antes de poneros en marcha a las 0130 horas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_barracks_Title_1M1">
+        <English>Get some rest</English>
+        <Spanish>Descansar un poco</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_Description_1M1">
+        <English>Your team has been ordered to move to &lt;marker name="markerFBMaholic"&gt;Firebase Maholic&lt;/marker&gt; through Bahijah, home of the notorious '&lt;marker name="cnv10"&gt;IED Alley&lt;/marker&gt;.' You will first need to make contact with the &lt;marker name="markerANAGuardpost"&gt;ANA guard post&lt;/marker&gt; outside the town, then move through cautiously as you head south on the road toward the Firebase. Follow the markers on the map.</English>
+        <Spanish>Tu equipo ha recibido la orden de avanzar hacia la &lt;marker name="markerFBMaholic"&gt;Base Maholic&lt;/marker&gt; a través de Bahijah, centro del notorio «&lt;marker name="cnv10"&gt;callejón de los IED&lt;/marker&gt;». Primero tendrás que establecer contacto con el &lt;marker name="markerANAGuardpost"&gt;puesto de guardia del ENA&lt;/marker&gt; a las afueras de la ciudad, y luego avanzar con cautela mientras te diriges al sur por el camino hacia la base. Sigue las marcas del mapa.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_Title_1M1">
+        <English>Move to Firebase Maholic</English>
+        <Spanish>Ir a la Base Maholic</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_humvee_Description_1M1">
+        <English>Board your GMV, nicknamed &lt;marker name="OleGirlPos"&gt;'Ole Girl'&lt;/marker&gt;, with your team.</English>
+        <Spanish>Móntate en tu GMV, apodado &lt;marker name="OleGirlPos"&gt;«Ole Girl»&lt;/marker&gt;, con tu equipo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_humvee_Title_1M1">
+        <English>Board 'Ole Girl'</English>
+        <Spanish>Montarse en «Ole Girl»</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_ambush_Description_1M1">
+        <English>Your team has come under fire in the notorious area known as '&lt;marker name="cnv10"&gt;IED Alley&lt;/marker&gt;' in Bahijah. There is no time to think of a plan, just get ready for contact and be prepared to hunt the cowards down.</English>
+        <Spanish>Tu equipo ha recibido disparos en la infame zona conocida como el «'&lt;marker name="cnv10"&gt;callejón de los IED&lt;/marker&gt;», en Bahijah. No hay tiempo para pensar en un plan, prepárate para el contacto y para dar caza a esos cobardes.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_ambush_Title_1M1">
+        <English>Defeat the Taliban ambush</English>
+        <Spanish>Frustrar la emboscada talibán</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optObj_Description_1M1">
+        <English>ODA 331 is your operational unit, and your comrades in arms will be there when you most need it. Having a chat with them every once in a while is not a bad idea.</English>
+        <Spanish>La ODA 331 es tu unidad operacional, y tus compañeros de armas estarán allí cuando más lo necesites. Charlar un ratillo con ellos de vez en cuando no es mala idea.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optObj_Title_1M1">
+        <English>Optional: Meet your team</English>
+        <Spanish>Opcional: Conocer a tu equipo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optObj_Dave_Description_1M1">
+        <English>Dave is your team's senior engineer sergeant, responsible for the maintenance and upkeep of ODA 331's vehicles, including 'Ole Girl,' your custom GMV. Speak to him if you would like to know more.</English>
+        <Spanish>Dave es el sargento de ingeniería superior de tu equipo, y es responsable del mantenimiento y el cuidado de los vehículos de la ODA 331, incluido «Ole Girl», tu GMV personalizado. Habla con él si te gustaría saber más.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optObj_Dave_Title_1M1">
+        <English>Optional: Speak to Dave</English>
+        <Spanish>Opcional: Hablar con Dave</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optObj_Dave_Action_1M1">
+        <English>Speak to Dave</English>
+        <Spanish>Hablar con Dave</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optObj_Zack_Description_1M1">
+        <English>Zack is your team's weapons sergeant. He makes sure you and your teammates have well-maintained weaponry. Speak to him if you would like to know more.</English>
+        <Spanish>Zack es el sargento de armas de tu equipo. Se asegura de que tus compañeros y tú tengáis armas en buen estado. Habla con él si te gustaría saber más.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optObj_Zack_Title_1M1">
+        <English>Optional: Speak to Zack</English>
+        <Spanish>Opcional: Hablar con Zack</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optObj_Zack_Action_1M1">
+        <English>Speak to Zack</English>
+        <Spanish>Hablar con Zack</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optObj_Brian_Description_1M1">
+        <English>Brian is your team's communications specialist. You can rest assured that any radio he hands you will be in top-working order. Lt. Col. Bolduc says he is hanging out in the killhouse nearby. Speak to him if you would like to know more.</English>
+        <Spanish>Brian es el especialista en comunicaciones de tu equipo. Puedes contar con que cualquier radio que te dé estará en condiciones. El teniente coronel Bolduc dice que está pasando el rato en el campo de tiro. Habla con él si te gustaría saber más.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optObj_Brian_Title_1M1">
+        <English>Optional: Speak to Brian</English>
+        <Spanish>Opcional: Hablar con Brian</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optObj_Brian_Action_1M1">
+        <English>Speak to Brian</English>
+        <Spanish>Hablar con Brian</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optObj_Bolduc_Action_1M1">
+        <English>Report in</English>
+        <Spanish>Presentarse</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_checkinofficer_1M1">
+        <English>CHECK-IN OFFICER</English>
+        <Spanish>OFICIAL DE FACTURACIÓN</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_pvtdriggs_1M1">
+        <English>PVT. DRIGGS</English>
+        <Spanish>SLD. DRIGGS</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_grunt_1M1">
+        <English>GRUNT</English>
+        <Spanish>MACHACA</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_afghanCitizen_1M1">
+        <English>AFGHAN CITIZEN</English>
+        <Spanish>CIUDADANO AFGANO</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_afghanGuard_1M1">
+        <English>ANA GUARD</English>
+        <Spanish>GUARDIA DEL ENA</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_1M1">
+        <English>Welcome Back</English>
+        <Spanish>Bienvenido de nuevo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_Intro_1M1">
+        <English>Mission 1 Intro</English>
+        <Spanish>Misión 1: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_Outro_1M1">
+        <English>Mission 1 Outro</English>
+        <Spanish>Misión 1: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionDescription_1M1">
+        <English>You are Captain Rusty Bradley, Special Forces Operational Detachment Alpha (ODA) 331, part of Task Force 31. You have just arrived in Afghanistan for your third rotation in-country at Kandahar Airfield (KAF), where you will re-join your unit and receive a briefing before shipping off to Firebase Maholic to the south.</English>
+        <Spanish>Eres el capitán Rusty Bradley, Destacamento Operacional Alfa (ODA) 331 de las Fuerzas Especiales, parte de la Fuerza Operativa 31. Acabas de llegar al Aeropuerto de Kandahar para realizar tu tercer servicio militar en Afganistán. Te reunirás con tu unidad y recibirás instrucciones antes de partir hacia la Base Maholic, al sur.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_text_1M1">
+        <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER I - Welcome Back&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'Intuition is often crucial in combat, and survivors learn not to ignore it.'&lt;br/&gt;&lt;br/&gt;-COLONEL // F.F. PARRY, USMC (Ret.)&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO I: Bienvenido de nuevo&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«La intuición suele ser crucial en el combate, y los supervivientes aprenden a no ignorarla».&lt;br/&gt;&lt;br/&gt;—CORONEL // F.F. PARRY, CUERPO DE MARINES DE EE. UU. (jub.)&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel1_1M1">
+        <English>Cpt. Rusty Bradley</English>
+        <Spanish>Cap. Rusty Bradley</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel2_1M1">
+        <English>ODA 331, US Army SF</English>
+        <Spanish>ODA 331, Ejérc. de EE. UU.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel3_1M1">
+        <English>Kandahar Airfield</English>
+        <Spanish>Aeropuerto de Kandahar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel4_1M1">
+        <English>August 12, 2006 - 0740</English>
+        <Spanish>12 agosto 2006, 0740</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message1_1M1">
+        <English>Do you have all the paperwork, sir?</English>
+        <Spanish>¿Tiene todos los papeles, señor?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message2_1M1">
+        <English>Yes, here you go...</English>
+        <Spanish>Sí, aquí tiene...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message3_1M1">
+        <English>Alright, bear with me one moment...</English>
+        <Spanish>Bien, espere un segundo...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message4_1M1">
+        <English>Dave, Zack and Brian have all checked in and are getting briefed, and here I am waiting for some lost bit of red tape to come through the wire...</English>
+        <Spanish>Dave, Zack y Brian ya se han registrado y ya les están dando instrucciones, y yo mientras aquí esperando a que me solucionen todo este papeleo...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message5_1M1">
+        <English>You'd think they could get it right by the third rotation...</English>
+        <Spanish>Uno se espera que se quedaran con la copla ya en el tercer servicio...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message6_1M1">
+        <English>Alright, you're all set, sir. You're to report to Lt. Col. Bolduc at Task Force 31's T.O.C., there's a Humvee waiting outside that will take you there.</English>
+        <Spanish>Muy bien, todo listo, señor. Ha de presentarse ante el teniente coronel Bolduc en el COT de la Fuerza Operativa 31. Hay un Humvee afuera que lo llevará hasta allí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message7_1M1">
+        <English>Thanks, son. Hey Bill, should we wait up for you in this Humvee?</English>
+        <Spanish>Gracias, hijo. Oye, Bill, ¿quieres que te esperemos en el Humvee?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message8_1M1">
+        <English>No thanks, Cap, I'm going to get a feel for the place. I'll catch up with you later.</English>
+        <Spanish>No, capi, gracias. Voy a hacerme una idea del lugar. Luego te alcanzo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message9_1M1">
+        <English>Good morning, sir.</English>
+        <Spanish>Buenos días, señor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message10_1M1">
+        <English>Morning, Private... uh?</English>
+        <Spanish>Buenas, soldado... ¿em?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message11_1M1">
+        <English>Private Driggs, sir.</English>
+        <Spanish>Soldado Driggs, señor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message12_1M1">
+        <English>So, what does the situation look like here on the ground?</English>
+        <Spanish>Y bien, ¿cuál es la situación desde el terreno?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message13_1M1">
+        <English>Sir, it's pretty complex... You'd better get the briefing from the boss.</English>
+        <Spanish>Señor, es complicada... Será mejor que el jefe le informe.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message14_1M1">
+        <English>It can't be good if you have to go get the briefing... When I left 8 months ago it was quiet.</English>
+        <Spanish>No puede ser buena si te tienen que informar... Cuando me fui hace ocho meses, todo estaba en calma.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message15_1M1">
+        <English>The situation has changed, sir. Taliban are now operating practically out in the open here.</English>
+        <Spanish>La situación ha cambiado, señor. Los talibanes operan prácticamente a plena vista.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message16_1M1">
+        <English>In fact if it keeps up, we could be overrun... Shit, I'm talking way too much. Sorry, sir. Enjoy the scenery.</English>
+        <Spanish>De hecho, si sigue así la cosa, nos podrían abrumar... Mierda, estoy hablando de más. Perdone, señor. Disfrute del paisaje.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message17_1M1">
+        <English>Well, well, as I live and breathe... How are ya, Rusty?</English>
+        <Spanish>Vaya, vaya, dichosos sean los ojos... ¿Cómo te va, Rusty?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message18_1M1">
+        <English>Good to see you again, Shef.</English>
+        <Spanish>Me alegro de verte otra vez, Shef.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message19_1M1">
+        <English>Shef, I am so sorry to hear about your guys.</English>
+        <Spanish>Shef, siento muchísimo lo de tus chicos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message20_1M1">
+        <English>Thanks. We lost two good men in that valley...</English>
+        <Spanish>Gracias. Perdimos a dos hombres buenos en ese valle...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message21_1M1">
+        <English>Lt. Col. Bolduc is behind me with Shinsha. He'll want to speak to you.</English>
+        <Spanish>El teniente coronel Bolduc está detrás de mí con Shinsha. Querrá hablar contigo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message22_1M1">
+        <English>Welcome back, Captain.</English>
+        <Spanish>Bienvenido de nuevo, capitán.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message23_1M1">
+        <English>Good morning, sir.</English>
+        <Spanish>Buenos días, señor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message24_1M1">
+        <English>It is good to have your long beards back in Afghanistan!</English>
+        <Spanish>¡Es una alegría que sus barbas largas hayan vuelto a Afganistán!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message25_1M1">
+        <English>Alright, Captain. Let's get right down to it.</English>
+        <Spanish>Bueno, capitán. Vamos al grano.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message26_1M1">
+        <English>That's it for now, Rusty. You can hang around the kill house or catch up with your buddies if you want.</English>
+        <Spanish>Con eso ya estaría, Rusty. Puedes pasar el rato en el campo de tiro o reencontrarte con tus colegas si quieres.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message27_1M1">
+        <English>When you're ready, head to the barracks and get some shut-eye before you guys hit the road at 0130 hours. Dismissed.</English>
+        <Spanish>Cuando estés listo, ve a los barracones y échate un rato antes de poneros en marcha a las 0130 horas. Puedes retirarte.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message28_1M1">
+        <English>Wakey, wakey, Captain. Didn't get enough sleep on the flight in I see.</English>
+        <Spanish>Despierta, capitán. Haber dormido un poco más durante el viaje.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message29_1M1">
+        <English>We're all ready to go, come on.</English>
+        <Spanish>Ya estamos todos listos, vamos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message30_1M1">
+        <English>Filthy dogs! [Unintelligible Pashto]</English>
+        <Spanish>¡Sucios perros! [Pastún ininteligible]</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message31_1M1">
+        <English>What was that all about?</English>
+        <Spanish>¿A qué ha venido eso?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message32_1M1">
+        <English>He is not from this town, we would not let him pass through so easily.</English>
+        <Spanish>No es de esta ciudad, no podíamos dejarle pasar tan a la ligera.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message33_1M1">
+        <English>I hope we won't have the same difficulty?</English>
+        <Spanish>¿Doy por hecho que no tendremos el mismo problema?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message34_1M1">
+        <English>Sir, I should warn you, it's very dangerous up ahead.</English>
+        <Spanish>Señor, debo advertirle, es muy peligroso.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message35_1M1">
+        <English>Thanks for the heads-up, we'll manage. You guys stay safe tonight.</English>
+        <Spanish>Gracias por el aviso, nos las apañaremos. Vosotros id por la sombra.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message36_1M1">
+        <English>Holy fuck! An IED!</English>
+        <Spanish>¡Hostia puta! ¡Un IED!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message37_1M1">
+        <English>Break, break! Talon 31 reports a large explosion in Bahijah!</English>
+        <Spanish>¡Pausa, pausa! ¡Talon 31 informa de una gran explosión en Bahijah!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message38_1M1">
+        <English>Lock and load! We're about to be engaged!</English>
+        <Spanish>¡Cargad armas! ¡Nos van a atacar!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message39_1M1">
+        <English>We made it... Good work, boys.</English>
+        <Spanish>Lo conseguimos... Buen trabajo, muchachos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message40_1M1">
+        <English>Hell of a welcoming committee.</English>
+        <Spanish>Tremenda fiesta de bienvenida.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message41_1M1">
+        <English>Hey Cap, how was the briefing? 8 hours seems pretty brutal...</English>
+        <Spanish>Hola, capi, ¿cómo ha ido la reunión? Ocho horas es pasarse...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message42_1M1">
+        <English>We've got a lot of work ahead of us, Brian. Glad to have you along.</English>
+        <Spanish>Nos espera una buena, Brian. Me alegro de que estés con nosotros.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message43_1M1">
+        <English>Riiight, well our radio equipment is all squared away, so I figured I'd run through the killhouse.</English>
+        <Spanish>Ya... Bueno, todo el equipo de radio está en orden, así que había pensado en practicar un poco en el campo de tiro.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message44_1M1">
+        <English>Nothing beats a little practice trigger time, especially since we're going to be training the ANA soon.</English>
+        <Spanish>No hay nada mejor que practicar un poco con el gatillo, sobre todo porque vamos a entrenar al ENA dentro de poco.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message45_1M1">
+        <English>Couldn't agree more, Cap. Weapons are on the table, no timers or scorecards... for now.</English>
+        <Spanish>De acuerdísimo, capi. Hay armas en la mesa, nada de temporizador o puntuación... por ahora.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message46_1M1">
+        <English>Ahoy there, Captain. I was just educating this grunt on the proper maintenance of Ole Girl when I'm not in-country.</English>
+        <Spanish>Muy buenas, capitán. Me pillas enseñándole a este machaca cómo encargarse del mantenimiento de Ole Girl cuando yo no esté aquí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message47_1M1">
+        <English>He didn't do anything to her while we were gone, did he Dave?</English>
+        <Spanish>No le habrá hecho nada en nuestra ausencia, ¿no, Dave?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message48_1M1">
+        <English>N-N-No, sir. I just--</English>
+        <Spanish>N-N-No, señor. Solo he...</Spanish>
+        <Polish></Polish>
+      </Key>
+	   <Key ID="STR_LOK_message49_1M1">
+        <English>He removed half the custom armor plating I fixed to her, the alignment is going to be way off til I get her fixed up.</English>
+        <Spanish>Le ha quitado la mitad de las placas de blindaje que le había puesto. La alineación va a estar fatal hasta que lo arregle.</Spanish>
+        <Polish></Polish>
+      </Key>
+	   <Key ID="STR_LOK_message50_1M1">
+        <English>S-S-Sorry sir, it wasn't compliant with regulation. I-I didn't know she was ODA 331, please don't skullfuck me...</English>
+        <Spanish>P-P-Perdón señor, no cumplía con la normativa. N-No sabía que era de la ODA 331, por favor, no me revienten...</Spanish>
+        <Polish></Polish>
+      </Key>
+	   <Key ID="STR_LOK_message51_1M1">
+        <English>Haha, give the poor guy a break, Dave. He was only following orders.</English>
+        <Spanish>Ja, ja, dale un respiro al chaval, Dave. Solo estaba siguiendo órdenes.</Spanish>
+        <Polish></Polish>
+      </Key>
+	   <Key ID="STR_LOK_message52_1M1">
+        <English>You owe me for this one Cap-- I demand DJ privileges when we hit the road.</English>
+        <Spanish>Esta me la debes, capi. Exijo derechos de DJ cuando nos pongamos en marcha.</Spanish>
+        <Polish></Polish>
+      </Key>
+	   <Key ID="STR_LOK_message53_1M1">
+        <English>Yeah, we'll see.</English>
+        <Spanish>Sí, ya veremos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message54_1M1">
+        <English>Oh hey, Captain, I was about to grab you after the briefing, but 8 hours later... jeez...</English>
+        <Spanish>Eh, hola, capitán, iba a recogerlo después de la reunión, pero ocho horas... hostia...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message55_1M1">
+        <English>Well, it could be a lot better. But at least we'll have something to shoot the bad guys with.</English>
+        <Spanish>Bueno, las cosas podrían ir mucho mejor. Pero al menos tendremos algo con que disparar a los malos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message56_1M1">
+        <English>So, what do you need from me?</English>
+        <Spanish>Y bien, ¿para qué me necesitas?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message57_1M1">
+        <English>Just make sure you get your loadout for tonight together now. No telling what, if anything, will be in Ole Girl's cargo.</English>
+        <Spanish>Tan solo asegúrate de dejarte el material preparado para esta noche. No se sabe qué habrá en el cargamento de Ole Girl, si es que habrá algo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optObj_Zack_hint_1M1">
+        <English>You can find the weapon boxes inside the green container. It is advisable you choose your loadout now, since Ole Girl has very little equipment.</English>
+        <Spanish>Las cajas con armas están dentro del contenedor verde. Se recomienda que escojas tu equipamiento ahora, ya que Ole Girl tiene muy poco material.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optObj_Brian_hint_1M1">
+        <English>You can train in the killhouse all you want. There is some equipment already on the table, but the box nearby contains more weapons and ammo.</English>
+        <Spanish>Puedes entrenar en el campo de tiro todo lo que quieras. Ya hay equipo en la mesa, pero la caja de al lado contiene más armas y munición.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message58_1M1">
+        <English>Alright, the T.O.C. is just up ahead, sir. Have a good one.</English>
+        <Spanish>Bueno, el COT está justo delante, señor. Que tenga un buen día.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message59_1M1">
+        <English>There's the guardpost up ahead. We need to check in with them before moving on.</English>
+        <Spanish>Ahí está el puesto de guardia. Tenemos que parar antes de seguir.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message60_1M1">
+        <English>Looks like the area's clear... Jesus. Let's keep moving.</English>
+        <Spanish>Parece despejado... Por Dios. Vamos a seguir.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message61_1M1">
+        <English>Ah, there's Dave standing over next to Ole Girl...</English>
+        <Spanish>Ah, ahí está Dave, al lado de Ole Girl...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message62_1M1">
+        <English>All in? Alright, let's roll!</English>
+        <Spanish>¿Estamos todos? ¡Muy bien, vámonos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1intermission1_1M1">
+        <English>&lt;t size='1.5'&gt;Last year, we had rarely encountered resistance inside the city except for suicide bombers. Now, Taliban fighters were operating inside and outside the city practically out in the open. After being beaten back in a series of night raids last year, Taliban fighters based in the villages around and inside the city have resumed attacks on the ISAF coalition. NATO will be forced to respond.&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;El año pasado, apenas nos topábamos con resistencia en la ciudad, salvo por los terroristas suicidas. Ahora, los talibanes operan tanto dentro como fuera de la ciudad prácticamente al descubierto. Tras haber sido derrotados en una serie de incursiones nocturnas el año pasado, los combatientes talibanes asentados en los pueblos de los alrededores y dentro de la ciudad han reanudado los ataques contra la coalición ISAF. La OTAN se verá obligada a responder.&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1intermission2_1M1">
+        <English>&lt;t size='1.5'&gt;Our unit, ODA 331, is currently stationed at Firebase Maholic, where they are helping to train Shinsha's troops in the 2nd Battalion, 3rd Kandak. You and your team will report to Firebase Maholic later this evening to assist with the training until further notice.&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Nuestra unidad, la ODA 331, está destinada en la Base Maholic, donde ayudan a entrenar a las tropas de Shinsha en el 2.º Batallón, 3.er Kandak. Tu equipo y tú os presentaréis en la Base Maholic esta noche para echar una mano hasta nuevo aviso.&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1intermission3_1M1">
+        <English>&lt;t size='1.5'&gt;E I G H T   H O U R S   L A T E R . . .&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;O C H O   H O R A S   D E S P U É S . . .&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end1_subtitle_1M1">
+        <English>Firebase Maholic reached</English>
+        <Spanish>Has llegado a la Base Maholic</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end1_description_1M1">
+        <English>You made it to Firebase Maholic in one piece, wondering if what has happened in the IED alley was real, or if it was just the product of a wondering memory. The ANA surrounds your truck banging on the hood, they pull you and your team out and the celebrations begin-- dancing, chai, slaps on the back, giddy excitement in a swirling cloud of dust.</English>
+        <Spanish>Has llegado a la Base Maholic sano y salvo, preguntándote si lo que ha pasado en el «callejón de los IED» era real o si era fruto de una memoria obnubilada. El ENA rodea tu camión y da golpes en el capó, os sacan a ti y a tu equipo y comienzan las celebraciones: bailes, chai, palmaditas en la espalda, emoción vertiginosa en un remolino de polvo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_text1_1M1">
+        <English>&lt;t size='1.5'&gt;Based on a true story&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Basado en una historia real&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_Bolductext_1M1">
+        <English>Talon 30, this is Eagle 10. Here is your situation: the enemy count is not dozens, but hundreds, maybe even a thousand.</English>
+        <Spanish>Talon 30, aquí Eagle 10. Esta es su situación: el número de enemigos no es de docenas, sino de cientos, tal vez incluso un millar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_text2_1M1">
+        <English>&lt;t size='1.5'&gt;O N E   M O N T H   E A R L I E R . . .&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;U N   M E S   A N T E S . . .&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_text3_1M1">
+        <English>&lt;t size='1.5'&gt;An adaptation of the book by Major Rusty Bradley&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Una adaptación del libro del mayor Rusty Bradley&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_text4_1M1">
+        <English>&lt;t size='1.5'&gt;Originally created by HeadUp and ported to ArmA III by man&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Creada originalmente por HeadUp y transferida a ArmA III por man&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_text5_1M1">
+        <English>&lt;t size='1.5'&gt;Voice actors:&lt;br/&gt;&lt;br/&gt;AZCoder&lt;br/&gt;Domokun&lt;br/&gt;HeadUp&lt;br/&gt;Kommiekat&lt;br/&gt;Krytosss&lt;br/&gt;Laqueesha&lt;br/&gt;SavageCDN&lt;br/&gt;Wiki&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Actores de doblaje:&lt;br/&gt;&lt;br/&gt;AZCoder&lt;br/&gt;Domokun&lt;br/&gt;HeadUp&lt;br/&gt;Kommiekat&lt;br/&gt;Krytosss&lt;br/&gt;Laqueesha&lt;br/&gt;SavageCDN&lt;br/&gt;Wiki&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_text1_1M1">
+        <English>&lt;t size='1.5'&gt;In truth, I was deeply troubled about what I was hearing from Shinsha and fellow US soldiers about the situation in Kandahar. By the end of last year, the Talibs wouldn't dare to show their face on the streets of the city. Although I was angry to hear how bad things had gotten, how all our progress from the last year had been reversed, it only strengthened my resolve.&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;En verdad, estaba bastante preocupado por lo que Shinsha y los demás soldados estadounidenses contaban sobre la situación en Kandahar. Para finales del año pasado, los talis no se atrevían a dar la cara en las calles de la ciudad. Aunque me enfurecía escuchar lo mal que se habían puesto las cosas, cómo todo nuestro progreso del año pasado se había ido al garete, eso no hacía sino reforzar mi determinación.&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_text2_1M1">
+        <English>&lt;t size='1.5'&gt;Our route to Firebase Maholic was a dangerous one, even when things were calm last year. The ANA maintained a guardpost outside the town of Bahijah, mostly to help protect KAF. The high volume of bombings, IEDs, and brazen assaults by Taliban fighters had earned it the nickname, 'IED Alley.' Our patrol route would pass right through it, so we prepared for the worst.&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Nuestra ruta hacia la Base Maholic era peligrosa, aunque todo estuviese en calma el año pasado. El ENA dirigía un puesto de guardia a las afueras de la ciudad de Bahijah, sobre todo para ayudar a proteger el Aeropuerto de Kandahar. El gran número de bombardeos, artefactos explosivos improvisados y ataques descarados de combatientes talibanes le había valido el apodo del «callejón de los IED». Nuestra ruta de patrulla pasaría justo por allí, así que nos preparamos para lo peor.&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_text3_1M1">
+        <English>&lt;t size='1.5'&gt;Somehow, I rested easy that afternoon. Now, at least, we had a plan that reflected what the bigger picture should or would look like and we worked feverishly toward implementing it. This was a mere micro picture of what needed to be established across the entire country.&lt;br/&gt;&lt;br/&gt;A simple Thai proverb says it all: 'How do you eat an elephant? One bite at a time.&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;De alguna forma, dormí bien esa tarde. Ahora, al menos, teníamos un plan que reflejaba cómo sería o debía ser el panorama general, y trabajamos frenéticamente para implementarlo. Esto no era más que un micropanorama de lo que había que imponer en todo el país.&lt;br/&gt;&lt;br/&gt;Un simple proverbio tailandés lo explica: «¿Cómo comerse un elefante? De mordisco en mordisco».&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_text4_1M1">
+        <English>&lt;t size='1.5'&gt;T E N   H O U R S   L A T E R . . .&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;D I E Z   H O R A S   D E S P U É S . . .&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_text6_1M1">
+        <English>&lt;t size='1.5'&gt;Testing (ArmA II):&lt;br/&gt;Kommiekat&lt;br/&gt;Wiki&lt;br/&gt;AZCoder&lt;br/&gt;Laqueesha&lt;br/&gt;Inlesco&lt;br/&gt;SavedByGrace&lt;br/&gt;&lt;br/&gt;Scripting Support:&lt;br/&gt;AZCoder&lt;br/&gt;Wiki&lt;br/&gt;nettrucker&lt;br/&gt;...and many others on the BI Forums Editing Board&lt;br/&gt;&lt;br/&gt;Testing and additional scripting (ArmA III):&lt;br/&gt;man&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Testeo (ArmA II):&lt;br/&gt;Kommiekat&lt;br/&gt;Wiki&lt;br/&gt;AZCoder&lt;br/&gt;Laqueesha&lt;br/&gt;Inlesco&lt;br/&gt;SavedByGrace&lt;br/&gt;&lt;br/&gt;Scripting Support:&lt;br/&gt;AZCoder&lt;br/&gt;Wiki&lt;br/&gt;nettrucker&lt;br/&gt;...y muchos más en el BI Forums Editing Board&lt;br/&gt;&lt;br/&gt;Testeo y scripts adicionales (ArmA III):&lt;br/&gt;man&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_text7_1M1">
+        <English>&lt;t size='1.5'&gt;Special thanks to:&lt;br/&gt;&lt;br/&gt;The brave men and women of all NATO forces&lt;br/&gt;Major Rusty Bradley and ODA 331&lt;br/&gt;ArmA modding community&lt;br/&gt;BIS Forums&lt;br/&gt;OFPEC&lt;br/&gt;HeadUp and everyone who participated in the original campaign&lt;br/&gt;Players like you!&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Gracias en especial a:&lt;br/&gt;&lt;br/&gt;Los valientes hombres y mujeres de todas las fuerzas de la OTAN&lt;br/&gt;El mayor Rusty Bradley y la ODA 331&lt;br/&gt;La comunidad de modding de ArmA&lt;br/&gt;BIS Forums&lt;br/&gt;OFPEC&lt;br/&gt;HeadUp y todos los que participaron en la campaña original&lt;br/&gt;¡Jugadores como tú!&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_DJ_hint_1M1">
+        <English>DJ Dave played:\nBvdub - A Moment's Peace</English>
+        <Spanish>DJ Dave ha puesto:\nBvdub - A Moment's Peace</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerRegistration_1M1">
+        <English>Arrivals Registration</English>
+        <Spanish>Registro de llegadas</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerATC_1M1">
+        <English>Air Traffic Control</English>
+        <Spanish>Control de tráfico aéreo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerKillhouse_1M1">
+        <English>Killhouse</English>
+        <Spanish>Campo de tiro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerMotorPool_1M1">
+        <English>Motor Pool</English>
+        <Spanish>Parque móvil</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerTF31_1M1">
+        <English>TF 31 T.O.C.</English>
+        <Spanish>COT de la TF 31</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerODA331_1M1">
+        <English>Barracks, ODA 331</English>
+        <Spanish>Barracones, ODA 331</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerNATOBarracks_1M1">
+        <English>NATO/ISAF Barracks</English>
+        <Spanish>Barracones de la OTAN/ISAF</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerExerciseArea_1M1">
+        <English>Exercise Area</English>
+        <Spanish>Zona de ejercicios</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerANA_1M1">
+        <English>ANA Barracks</English>
+        <Spanish>Barracones del ENA</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerUS_1M1">
+        <English>US Barracks</English>
+        <Spanish>Barracones de EE. UU.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerHospital_1M1">
+        <English>Hospital</English>
+        <Spanish>Hospital</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerMaholic_1M1">
+        <English>Firebase Maholic</English>
+        <Spanish>Base Maholic</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerGuardpost_1M1">
+        <English>ANA Guardpost</English>
+        <Spanish>Puesto de guardia del ENA</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

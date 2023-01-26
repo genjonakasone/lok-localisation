@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="LionsOfKandahar">
+  <Package name="LionsOfKandahar_1M8">
+    <Container name="STR_DN">
+	  <Key ID="STR_LOK_BriefingNotes_1M8">
+        <English>EDITOR'S NOTES:&lt;br/&gt;You will be ordered to set up at a designated mortar position (look for a tripod bag) - you need to use the ASSEMBLE action while carrying the other piece of the mortar backpack. Then you can enter the mortar as the gunner.&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;None so far...</English>
+        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Te ordenarán que montes un mortero (busca una bolsa con un trípode). Tienes que darle a la acción de MONTAR mientras llevas la otra parte del mortero a la espalda. Entonces, podrás usar el mortero como artillero.&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Nada de momento...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_RustyDiary_Text_1M8">
+        <English>We got our asses handed to us today and everyone knows whose brilliant fucking idea it was to try and take that hill in the first place. Only now is it sinking in how foolhardy a move this was, how easy it would have been for Zack to have been killed instead of wounded, or any of our guys, for that matter. The Taliban sounded brash over the radio, but I've never seen behavior as bold as this from our enemies. Today's events will not only raise the enemy's morale, but it will cut Charles Company off for at least another day or two. I feel a savage, primal rage boiling deep inside me over this. They tried to kill my guys, they tried to kill me. Round 2 won't be as easy as the first, mark my words.</English>
+        <Spanish>Nos han dado para el pelo hoy, y todos saben a quién se le ha ocurrido la maravillosa puta idea de intentar tomar la colina. Ahora me doy cuenta de lo imprudente que ha sido, de lo fácil que podría haber muerto Zack en vez de solo resultar herido, o cualquiera de los nuestros, para el caso. Los talibanes parecían atrevidos por la radio, pero nunca he visto un comportamiento tan audaz por parte de nuestros enemigos. Los sucesos de hoy no solo le subirán la moral al enemigo, sino que dejarán aislada a la Compañía Charles al menos un par de días más. Siento una rabia salvaje y primitiva que bulle dentro de mí por esto. Han intentado matar a mis hombres, han intentado matarme a mí. El segundo asalto no será tan fácil como el primero, recordad lo que os digo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingCommand_Text_1M8">
+        <English>A. Signal:&lt;br/&gt; Eagle 10 Actual - Lt. Col. BOLDUC (TF 31 CO)&lt;br/&gt; Lion 1 Actual - Col. SHINSHA (ANA Kandahar Bgde. CO)&lt;br/&gt; Talon 30 Actual - Col. JARED (ODA 331 CO)&lt;br/&gt; Talon 26 - Cpt. HODGE&lt;br/&gt; Talon 31 - Cpt. RUSTY (you)&lt;br/&gt; Talon 36 - Cpt. BRUCE&lt;br/&gt; Lima 85 - CH-47 MEDEVAC + AH-64&lt;br/&gt; Predator 1 - MQ-9 UAV</English>
+        <Spanish>A. Señal:&lt;br/&gt; Eagle 10 Jefe: Tte. Cnel. BOLDUC (oficial al mando de la TF 31)&lt;br/&gt; León 1 Jefe: Cnel. SHINSHA (oficial al mando de la brig. de Kandahar del ENA)&lt;br/&gt; Talon 30 Jefe: Cnel. JARED (oficial al mando de la ODA 331)&lt;br/&gt; Talon 26: Cap. HODGE&lt;br/&gt; Talon 31: Cap. RUSTY (tú)&lt;br/&gt; Talon 36: Cap. BRUCE&lt;br/&gt; Lima 85: CH-47 MEDEVAC + AH-64&lt;br/&gt; Predator 1: VANT MQ-9</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingSustainment_Text_1M8">
+        <English>1. Supply: Standard US SOF Desert BDUs and ACUs or fleece jackets, CIRAS vests, MICH2001 helmets, standard issue US small arms including M16s, M4A1 carbines, MP5 SMGs, Mossberg shotguns, M249 and Mk 48 SAWs, 6x M252 Mortars.&lt;br/&gt;2. Transportation: All Talon GMVs will form a defensive perimeter around the rally point, we will be digging in and fighting on-foot using our technological advantage.&lt;br/&gt;3. Services: Repair, refit, restock is planned to commence as soon as supplies arrive at our location.&lt;br/&gt;4. Maintenance: Read above.&lt;br/&gt;5. CASEVAC: Talon 31 has 3x Embedded Medical Sergeants, in the event of a mission failure due to substantial casualties, Talon 30 Actual will authorize CASEVAC and insertion by ODA 331 QRF.</English>
+        <Spanish>1. Suministros: Uniformes estándar de combate de fuerzas especiales en camuflaje desierto y UCP o forros polares, chalecos CIRAS, cascos MICH 2001, armas reglamentarias de EE. UU. como fusiles M16A4, carabinas M4A1, subfusiles MP5, escopetas Mossberg, ametralladoras Mk. 48 y M249, 6x morteros M252.&lt;br/&gt;2. Transporte: Todos los GMV de los Talon formarán un perímetro defensivo alrededor del punto de reunión. Nos atrincheraremos y lucharemos a pie aprovechando nuestras ventajas tecnológicas.&lt;br/&gt;3. Servicios: Se espera que los servicios de reparación, reabastecimiento y mantenimiento comiencen en cuanto lleguen los suministros a nuestra ubicación.&lt;br/&gt;4. Mantenimiento: Léase lo anterior.&lt;br/&gt;5. CASEVAC: Talon 31 tiene 3x sargentos médicos asignados. En caso de fracaso debido a una cantidad considerable de bajas, Talon 30 Jefe autorizará CASEVAC y la inserción de la FRR de la ODA 331.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingExecution_Text_1M8">
+        <English>The mission will take place in two (2) phases:&lt;br/&gt;&lt;br/&gt;Phase 1 REGROUP all Talon and Lion elements into a rough 'wagon circle' formation to create a defensive perimeter. During this time, Talon 31 Actual (you) and Talon's embedded JTAC (Ron) will report directly to Talon 30 Actual (Jared).&lt;br/&gt;&lt;br/&gt;Phase 2 DEFEND the LZ and create buffer zone to allow us to get the wounded out and the supplies and replacement parts in.</English>
+        <Spanish>La misión se llevará a cabo en dos (2) fases:&lt;br/&gt;&lt;br/&gt;Fase 1: REAGRUPAR a todos los elementos Talon y León en una formación de «fuerte de carretas» para crear un perímetro defensivo. Entretanto, Talon 31 Jefe (tú) y el JTAC asignado de Talon (Ron) se presentarán directamente ante Talon 30 Jefe (Jared).&lt;br/&gt;&lt;br/&gt;Fase 2: DEFENDER la ZA y crear una zona neutral para poder extraer a los heridos y traer los suministros y las piezas de repuesto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingMission_Text_1M8">
+        <English>Who: Talon 31, ODA 331, Task Force 31 (TF31)&lt;br/&gt;What: REGROUP and DEFEND fall-back position, EVAC wounded&lt;br/&gt;Where: In vicinity, Panjwayi Valley&lt;br/&gt;When: 130000ZSEP3&lt;br/&gt;Why: Code Black</English>
+        <Spanish>Quién: Talon 31, ODA 331, Fuerza Operativa 31 (TF 31)&lt;br/&gt;Qué: REAGRUPARSE y DEFENDER la posición de repliegue, EVACUAR a los heridos&lt;br/&gt;Dónde: En las inmediaciones, valle de Panjwai&lt;br/&gt;Cuándo: 130000ZSEP3&lt;br/&gt;Por qué: Código negro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingSituation_Text_1M8">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: Estimated 300-500 in vicinity, 1,000-2,200 in the AO at large&lt;br/&gt;Activity: Heavy movement observed, heavy radio chatter confirms the presence of a large enemy contingent on and around Sperwan Ghar and Zangabar Ghar&lt;br/&gt;Location: Vicinity, &lt;marker name="markerSperwan"&gt;Sperwan Ghar&lt;/marker&gt;&lt;br/&gt;Unit: Taliban mixed infantry supported by Arab and Chechen fighters&lt;br/&gt;Time Observed: September 3, 2006 1300 hrs&lt;br/&gt;Equipment: Small arms, RPG AT Weapons, Hilux pickup trucks and gun trucks, V3S and Ural transport trucks, assorted tractors for evacuating wounded fighters&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To establish a secure LZ for MEDEVAC and resupply, creation of 'white space' buffer zone.&lt;br/&gt;2. Adjacent Units: ODA 331 Team 26 (callsign: Talon 26), ODA 331 Command Team (callsign: Talon 30), ODA 331 Team 36 (callsign: Talon 36), ANA 3rd Kandak (callsign: Lion 1 Actual), Canadian 1 RCR Battle Group, Charles Co. (callsign: Charles Actual).&lt;br/&gt;3. Supporting: The friendly A-10s we saw this morning have returned to KAF bingo on fuel and ammo. Armed Predator UAV support is expected to become available ahead of a B-1 bomber group. Outside artillery support will not be available for this mission. However, there are roughly half a dozen M252 mortar tubes between ODA 331 and the ANA, some of the few weapons that haven't run black on ammo. CASEVAC has been requested by Talon 30 Actual, ODA 331's CO, and is being coordinated in-tandem with our efforts to defend our exposed position. Eagle 10 has committed himself to expediting the MEDEVAC, which will likely be accompanied by an AH-64 Apache escort.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: Se estiman 300-500 en las inmediaciones, 1000-2000 en el AO en general&lt;br/&gt;Actividad: Mucho movimiento observado, las fuertes vibraciones de radio confirman la presencia de un gran contingente enemigo en Sperwan Ghar y los alrededores&lt;br/&gt;Ubicación: Inmediaciones, &lt;marker name="markerSperwan"&gt;Sperwan Ghar&lt;/marker&gt;&lt;br/&gt;Unidades: Infantería mixta talibán con apoyo de combatientes árabes y chechenos&lt;br/&gt;Fecha de observación: 3 de septiembre de 2006, 1300 horas&lt;br/&gt;Equipo: armas ligeras, granadas antitanque RPG, todoterrenos Hilux y camiones artillados, camiones de transporte V3S y Ural, tractores variopintos para evacuar a los combatientes heridos&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Establecer una ZA segura para la MEDEVAC y los suministros, crear una zona neutral.&lt;br/&gt;2. Unidades adyacentes: Equipo 26 de la ODA 331 (indicativo: Talon 26), equipo de mando de la ODA 331 (indicativo: Talon 30), equipo 36 de la ODA 331 (indicativo: Talon 36), 3.er Kandak del ENA (indicativo: León 1 Jefe), 1.er Grupo de Combate del Real Regimiento Canadiense, Compañía Charles (indicativo: Charles Jefe).&lt;br/&gt;3. Apoyo: Los A-10 aliados que vimos esta mañana han vuelto al Aeropuerto de Kandahar al mínimo de combustible y munición. Se espera que haya disponible apoyo de un VANT Predator armado antes de un grupo de bombarderos B-1. No habrá apoyo de artillería exterior disponible para esta misión. Sin embargo, hay una media docena de morteros M252 entre la ODA 331 y el ENA, de las pocas armas que no se han quedado sin munición. Talon 30 Jefe, el oficial al mando de la ODA 331, ha solicitado CASEVAC, y se está coordinando en tándem con nuestros esfuerzos apra defender nuestra posición al descubierto. Eagle 10 se ha comprometido a acelerar la MEDEVAC, que seguramente vaya acompañada de un AH-64 Apache escolta.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Briefing_Text_1M8">
+        <English>Our attempts to take the enemy by surprise and push them off of &lt;marker name="markerSperwan"&gt;Sperwan Ghar&lt;/marker&gt; took a turn for the worst, we have a few wounded and we are now mostly amber or black on ammo, though luckily none of the injuries appear to be immediately life-threatening. We did not anticipate that the hills that looked empty from our blocking positions would come so alive with enemy activity, nor were we aware that the enemy count would be so high. What we need to do is move quickly, get our wounded out and try to give ourselves some breathing room. Fortunately, Talon 30 Actual reports that Eagle 10 managed to get us the air support we will need to do that. Talon 31 will report to Talon 30 Actual for orders, while Talon 26 and Talon 36 establish a secure perimeter to act as LZ for MEDEVAC by CH-47 Lima 85.</English>
+        <Spanish>Nuestros intentos de pillar al enemigo por sorpresa y expulsarlos de &lt;marker name="markerSperwan"&gt;Sperwan Ghar&lt;/marker&gt; han dado un giro a peor: tenemos algunos heridos y estamos faltos y casi faltos de munición, aunque, por suerte, ninguna de las heridas parece ser de gravedad. No anticipamos que las colinas que parecían vacías desde nuestras posiciones de bloqueo cobrasen vida con tanta actividad enemiga, ni éramos conscientes de que habría tantísimos enemigos. Lo que tenemos que hacer es avanzar rápido, sacar a los heridos e intentar darnos un respiro. Por suerte, Talon 30 Jefe afirma que Eagle 10 ha logrado conseguirnos el apoyo aéreo necesario para ello. Talon 31 se presentará ante Talon 30 Jefe para recibir órdenes, mientras que Talon 26 y Talon 36 establecerán un perímetro seguro que haga de ZA para la MEDEVAC del CH-47 Lima 85.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_Description_1M8">
+        <English>We have been forced into making a hasty retreat. Regroup with Jared immediately in order to form a plan for hitting back at the enemy.</English>
+        <Spanish>Nos hemos visto obligados a retirarnos por patas. Reagrúpate con Jared de inmediato para formar un plan para devolverle los golpes al enemigo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_Title_1M8">
+        <English>Phase 1: Regroup</English>
+        <Spanish>Fase 1: Reagruparse</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_1_Description_1M8">
+        <English>Regroup with Jared immediately in order to form a plan for hitting back at the enemy.</English>
+        <Spanish>Reagrúpate con Jared de inmediato para formar un plan para devolverle los golpes al enemigo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_1_Title_1M8">
+        <English>Report to Jared</English>
+        <Spanish>Presentarse ante Jared</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_2_Description_1M8">
+        <English>A mortar barrage will add a bit of extra firepower to the B-1 bomber's strike. Grab the tube from Ole Girl, set it up in the designated area, and wait for the strike to commence.</English>
+        <Spanish>Una salva de morteros añadirá un poquito más de potencia de fuego al bombardeo del B-1. Coge el tubo de Ole Girl, móntalo en la zona designada y espera a que comience el ataque.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_2_Title_1M8">
+        <English>Prepare for mortar barrage</English>
+        <Spanish>Prepararse para la salva de morteros</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_3_Description_1M8">
+        <English>Fire your mortar on Bill's command, paying special attention to the grid markings he provides.</English>
+        <Spanish>Dispara el mortero cuando Bill lo ordene, prestando especial atención a las coordenadas que proporcionará.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_3_Title_1M8">
+        <English>Fire on Bill's command</English>
+        <Spanish>Disparar a la orden de Bill</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_4_Description_1M8">
+        <English>Your team, along with elements from the ANA, successfully coordinated a follow-up mortar strike to ensure maximum effect following an air strike by a B-1 bomber armed with 2,000-pound smart bombs.</English>
+        <Spanish>Tu equipo, junto a elementos del ENA, ha coordinado una salva de morteros para garantizar el máximo efecto tras un ataque aéreo de un bombardero B-1 armado con bombas inteligentes de 900 kg.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_4_Title_1M8">
+        <English>Report back to Jared</English>
+        <Spanish>Volver a presentarse ante Jared</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_4_action_1M8">
+        <English>Report to Jared</English>
+        <Spanish>Presentarse ante Jared</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_Description_1M8">
+        <English>After hitting the enemy with everything we could muster, they appear to be relenting as well. This may be our only window to get our wounded back to Kandahar Airfield for medical attention. Speak to Zack and the two WIA from Shinsha's 3rd Kandak and ensure they get out safely.</English>
+        <Spanish>Después de darle al enemigo con todo lo que hemos podido reunir, ellos también parecen estar cediendo. Esta podría ser nuestra única oportunidad para llevar a nuestros heridos al Aeropuerto de Kandahar para que reciban atención médica. Habla con Zack y los dos heridos del 3.er Kandak de Shinsha y asegúrate de que salgan de aquí sanos y salvos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_Title_1M8">
+        <English>Phase 2: Evacuate the wounded</English>
+        <Spanish>Fase 2: Evacuar a los heridos</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_1_Description_1M8">
+        <English>Zack was wounded by a piece of shrapnel during the failed assault on Sperwan Ghar. Go check on him.</English>
+        <Spanish>Un trozo de metralla hirió a Zack durante el asalto frustrado a Sperwan Ghar. Ve a ver cómo está.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_1_Title_1M8">
+        <English>Check on Zack</English>
+        <Spanish>Ver a Zack</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_1_action_1M8">
+        <English>Talk to Zack</English>
+        <Spanish>Hablar con Zack</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_2_Description_1M8">
+        <English>Two Afghan soldiers were wounded during the failed assault on Sperwan Ghar. Go check on them.</English>
+        <Spanish>Dos soldados afganos resultaron heridos durante el asalto frustrado a Sperwan Ghar. Ve a ver cómo están.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_2_Title_1M8">
+        <English>Check on the ANA</English>
+        <Spanish>Ver al ENA</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_3_Description_1M8">
+        <English>A MEDEVAC Chinook has been arranged to evacuate the wounded soldiers, set to arrive in 5 minutes.</English>
+        <Spanish>Se ha dispuesto un Chinook de MEDEVAC para que evacúe a los soldados heridos, llegará en 5 minutos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_3_Title_1M8">
+        <English>Wait at the LZ</English>
+        <Spanish>Esperar en la ZA</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_2_action_1M8">
+        <English>Talk to Shinsha</English>
+        <Spanish>Hablar con Shinsha</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_4_Description_1M8">
+        <English>The helicopter is here. Order the wounded to get inside so they can be transported to safety and properly treated.</English>
+        <Spanish>Ya está aquí el helicóptero. Ordena a los heridos que se suban a él para que este pueda transportarlos a un lugar seguro y reciban tratamiento.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_4_Title_1M8">
+        <English>Order wounded into CH-47</English>
+        <Spanish>Ordenar a los heridos que se suban al CH-47</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj3_Description_1M8">
+        <English>The wounded are on their way to get treated. Jared wants to speak to you one last time.</English>
+        <Spanish>Los heridos van de camino a que los traten. Jared quiere hablar contigo por última vez.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj3_Title_1M8">
+        <English>Report in</English>
+        <Spanish>Presentarse</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj3_action_1M8">
+        <English>Report in (end mission)</English>
+        <Spanish>Presentarse (terminar misión)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optobj_Description_1M8">
+        <English>Ron, our Air Force JTAC, managed to get the video uplink running for Predator UAV support. You only have one UAV at your disposal, shoot wisely and use it to clear the sector, including the compounds.</English>
+        <Spanish>Ron, el JTAC de la Fuerza Aérea, ha conseguido poner en marcha la transmisión de vídeo del VANT Predator. Solo tienes un VANT a tu disposición, dispara solo cuando lo veas claro y úsalo para despejar el sector, incluidos los complejos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optobj_Title_1M8">
+        <English>Optional: Mop up the sector</English>
+        <Spanish>Opcional: Peinar el sector</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_1M8">
+        <English>Seven 2,000-Pounders</English>
+        <Spanish>Siete bombas de 900 kg</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_Intro_1M8">
+        <English>Mission 8 Intro</English>
+        <Spanish>Misión 8: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_Outro_1M8">
+        <English>Mission 8 Outro</English>
+        <Spanish>Misión 8: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Predator1_1M8">
+        <English>Predator 1</English>
+        <Spanish>Predator 1</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Predator1_clear_text_1M8">
+        <English>Sector is secure, it was a pleasure working with you gentlemen. Stay safe out there!</English>
+        <Spanish>El sector está asegurado, ha sido un placer trabajar con ustedes, caballeros. ¡Cuídense ahí fuera!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Lima85_1M8">
+        <English>Lima 85</English>
+        <Spanish>Lima 85</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionDescription_1M8">
+        <English>After the failed assault on Sperwan Ghar, ODA 331 and the ANA must regroup, request bomber support on Taliban strongholds, resupply, and call in MEDEVAC for the wounded.</English>
+        <Spanish>Tras el asalto frustrado a Sperwan Ghar, la ODA 331 y el ENA deben reagruparse, solicitar apoyo de bombardero contra los bastiones talibanes, reabastecerse y pedir MEDEVAC para los heridos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_text_1M8">
+        <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER VIII - Seven 2,000-Pounders&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'War is the remedy that our enemies have chosen, and I say let us give them all they want.'&lt;br/&gt;&lt;br/&gt;-GENERAL WILLIAM T. SHERMAN&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO VIII: Siete bombas de 900 kg&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«La guerra es el remedio que nuestros enemigos han escogido, y yo digo que se lo demos hasta que se harten».&lt;br/&gt;&lt;br/&gt;—GENERAL WILLIAM T. SHERMAN&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel1_1M8">
+        <English>Cpt. Rusty Bradley</English>
+        <Spanish>Cap. Rusty Bradley</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel2_1M8">
+        <English>ODA 331, US Army SF</English>
+        <Spanish>ODA 331, Ejérc. de EE. UU.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel3_1M8">
+        <English>Southeast of Sperwan Ghar</English>
+        <Spanish>Sureste de Sperwan Ghar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel4_1M8">
+        <English>September 3, 2006 - 1500</English>
+        <Spanish>3 septiembre 2006 - 1500</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_uav1_message_1M8">
+        <English>Alright, we got multiple heat signatures here, moving through the compound, can you do white hot? Yeah, count about three dozen, zoom in for me there. All of them are armed, small arms and Hilux trucks, looks like a gun truck as well. We're moving towards the AO.</English>
+        <Spanish>Vale, vemos varios rastros de calor avanzando por el complejo, ¿puedes poner la térmica? Sí, contamos unas tres docenas, haz zoom ahí. Van todos armados, armas ligeras y todoterrenos Hilux, parece que un camión artillado también. Avanzamos hacia el AO.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_uav2_message_1M8">
+        <English>Okay, next compound: I got multiple footmobiles, white hot shows sort of animals, looks like, zoom in there. Yeah, they appear to be unarmed civilians who refuse to go to the evacuation, let's make sure we get them marked so we don't hit them. Zoom out. Can you do me a favor and pan over that side of the compound to make sure it's all civilians there.</English>
+        <Spanish>Vale, siguiente complejo: veo varios hombres a pie, la térmica muestra animales, o eso parecen, haz zoom ahí. Sí, parecen ser civiles desarmados que se niegan a ir al punto de evacuación, asegurémonos de marcarlos para no darles. Quita zoom. ¿Me haces el favor de desplazar la cámara a ese lado del complejo para asegurarnos de que son civiles?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_uav2_2_message_1M8">
+        <English>Alright, yeah, the red shows they're all clear, looks like just a bunch of civilians, let's make sure we don't hit those guys with any of our ordnance. Make sure the B-1 doesn't target them. Predator 1, we're gonna shift heading to the third compound, over.</English>
+        <Spanish>Vale, sí, la térmica roja muestra que están limpios, parecen una panda de civiles. Asegurémonos de no alcanzarlos con nuestra artillería y de que no sean un blanco para el B-1. Predator 1, cambiamos de dirección al tercer complejo, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_uav3_message_1M8">
+        <English>Roger that. We're looking at the I-shaped compound here, it's a long skinny compound. White hot shows multiple heat signatures, they seem to be moving to the south, to the west. All of them are armed, small arms. Once again, gun trucks and Hilux vehicles. Predator 1, please advise, over.</English>
+        <Spanish>Recibido. Estamos viendo el complejo con forma de I, es el complejo alargado. La térmica muestra varios rastros de calor, parecen estar moviéndose al sur y al oeste. Todos van armados, armas ligeras. Y lo mismo, camiones artillados y vehículos Hilux. Predator 1, solicito instrucciones, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_uav4_message_1M8">
+        <English>Roger that. We now have eyes on Talon 30 and all Talon elements, they appear to be swinging to the north and east. They'll be regrouping and at that point, my understanding will be getting our weapons hot and starting to engage some of these compounds. Predator 1, we're on station, ready to fire. Please advise, over.</English>
+        <Spanish>Recibido. Tenemos visual de Talon 30 y todos los elementos Talon, parecen estar avanzando hacia el norte y este. Se reagruparán y supongo que entonces tendremos autorizado usar las armas y empezar a atacar algunos de estos complejos. Predator 1, estamos disponibles y listos para disparar. Solicito instrucciones, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message1_1M8">
+        <English>Rusty, get over here! We finally have a Predator and a B-1 bomber overhead. Take my headset and listen.</English>
+        <Spanish>¡Rusty, ven aquí! Por fin tenemos un Predator y un bombardero B-1 ahí arriba. Coge mis cascos y escucha.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message2_1M8">
+        <English>Talon 30, there are seven total compounds with this type of enemy activity directly ahead of you.</English>
+        <Spanish>Talon 30, hay siete complejos en total con este tipo de actividad enemiga justo delante de ustedes.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message3_1M8">
+        <English>Ron, need you up here! Get us a link to the video feed, double time!</English>
+        <Spanish>¡Ron, ven para acá! ¡Consíguenos un enlace a la transmisión de vídeo a la voz de ya!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message4_1M8">
+        <English>On my way!</English>
+        <Spanish>¡Voy!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message5_1M8">
+        <English>This is Talon 30. We need to know the number of personnel and type of vehicles.</English>
+        <Spanish>Aquí Talon 30. Necesitamos saber la cantidad del personal y el tipo de vehículos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message6_1M8">
+        <English>Uhh, we stopped counting at one hundred enemy personnel with weapons and Hilux vehicles.</English>
+        <Spanish>Em, dejamos de contar a eso de los cien enemigos con armas y vehículos Hilux.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message7_1M8">
+        <English>Ron, do you have control of the bomber? If so, level those targets. I mean level them!</English>
+        <Spanish>Ron, ¿tienes control del bombardero? Si es así, devasta esos blancos. ¡Pero bien!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message8_1M8">
+        <English>Sir, we need this strike to be crippling for the enemy. Let's enhance it by hitting them with a mortar barrage right after impact.</English>
+        <Spanish>Señor, este ataque tiene que ser devastador para el enemigo. Potenciémoslo con una salva de morteros justo después del impacto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message9_1M8">
+        <English>Good idea. Go and get it from Ole Girl's cargo and set up near the ANA's vehicles.</English>
+        <Spanish>Buena idea. Pilla el mortero del cargamento de Ole Girl y móntalo cerca de los vehículos del ENA.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message10_1M8">
+        <English>I'll meet you over there!</English>
+        <Spanish>¡Allí te veo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message11_1M8">
+        <English>The aircraft is cleared HOT. Everybody find cover! I am not kidding!</English>
+        <Spanish>El avión tiene permiso. ¡Todos a cubierto! ¡No estoy de coña!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message12_1M8">
+        <English>Bombs away!</English>
+        <Spanish>¡Bombas van!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message13_1M8">
+        <English>All tubes stand by. On my command...</English>
+        <Spanish>Todos los tubos, manténgase a la espera. A mi señal...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message14_1M8">
+        <English>Zero in to grid 120-083. Hang... FIRE!</English>
+        <Spanish>Calibren a las coordenadas 120-083. Listo... ¡Fuego!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message15_1M8">
+        <English>Zero in to grid 117-083. Hang... FIRE!</English>
+        <Spanish>Calibren a las coordenadas 117-083. Listo... ¡Fuego!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message16_1M8">
+        <English>Zero in to grid 125-083. Hang... FIRE!</English>
+        <Spanish>Calibren a las coordenadas 125-083. Listo... ¡Fuego!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message17_1M8">
+        <English>Zero in to grid 116-089. Hang... FIRE!</English>
+        <Spanish>Calibren a las coordenadas 116-089. Listo... ¡Fuego!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message18_1M8">
+        <English>Zero in to grid 121-094. Hang... FIRE!</English>
+        <Spanish>Calibren a las coordenadas 121-094. Listo... ¡Fuego!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message19_1M8">
+        <English>Zero in to grid 132-084. Hang... FIRE!</English>
+        <Spanish>Calibren a las coordenadas 132-084. Listo... ¡Fuego!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message20_1M8">
+        <English>Rounds complete!</English>
+        <Spanish>¡Salva terminada!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message21_1M8">
+        <English>Round two goes to the Green Berets!</English>
+        <Spanish>¡Los Boinas Verdes ganan la segunda ronda!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message22_1M8">
+        <English>Good work, team! Rusty, report back to me, on the double!</English>
+        <Spanish>¡Buen trabajo, equipo! ¡Rusty, preséntate aquí otra vez, ahora mismo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message23_1M8">
+        <English>That ought to keep the Talibs at bay while we get our wounded out, looks like they're starting to pull back.</English>
+        <Spanish>Con eso debería bastar para mantener a los talis a raya mientras sacamos a los heridos, parece que están empezando a retirarse.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message24_1M8">
+        <English>Head over and check on Zack and our buddies in the ANA, I'll call in MEDEVAC.</English>
+        <Spanish>Ve a ver a Zack y a nuestros colegas del ENA, yo pediré MEDEVAC.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message25_1M8">
+        <English>Oh, also, Ron got the video feed working for the Predator. Use the console in my Humvee if you wanna help the pilot mop up our sector.</English>
+        <Spanish>Ah, y Ron ya ha puesto en marcha la transmisión de vídeo del Predator. Coge la consola de mi Humvee si quieres ayudar al piloto a peinar el sector.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_UAVHint_1M8">
+        <English>Take the UAV Terminal from Jared's Humvee cargo inventory if you want to control the Predator. Log into the terminal, right click on the loitering UAV on the map, and then press 'Connect terminal to UAV' (if you play without map unit icons, you might have to enable them temporarily for the UAV to show up). Then, just choose to pilot it or take control of its guns.</English>
+        <Spanish>Coge la terminal VANT del inventario del Humvee de Jared si quieres controlar el Predator. Enciende la terminal, haz clic derecho en el VANT merodeador del mapa, y pulsa «Conectar terminal a VANT» (si juegas sin iconos, puede que tengas que activarlos temporalmente para que salga el VANT). Luego, elige si quieres pilotarlo o controlar su armamento.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message26_1M8">
+        <English>So, you took a piece of shrapnel and kept on shooting...</English>
+        <Spanish>Conque te dio un trozo de metralla y seguiste disparando...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message27_1M8">
+        <English>What's your assessment, Riley?</English>
+        <Spanish>¿Cuál es tu valoración, Riley?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message28_1M8">
+        <English>It's not bad, Captain, but he needs to get that metal out and get treated for infection.</English>
+        <Spanish>No está mal, capitán, pero le tienen que sacar el metal y tratarle la herida para evitar infecciones.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message29_1M8">
+        <English>This is bullshit! It's just a scratch!</English>
+        <Spanish>¡Gilipolleces! ¡Solo es un rasguño!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message30_1M8">
+        <English>Don't worry, Zack. You'll be back out here tomorrow.</English>
+        <Spanish>Tranquilo, Zack. Mañana estarás de vuelta.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message31_1M8">
+        <English>Talon 30 to Eagle 10 actual, requesting MEDEVAC at grid 121-080, we've got one down, the ANA have two. How copy, over?</English>
+        <Spanish>Talon 30 a Eagle 10 Jefe, solicito MEDEVAC en las coordenadas 121-080. Tenemos un herido, el ENA tiene dos. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message32_1M8">
+        <English>Eagle 10 Actual to Talon 30, solid copy on all, MEDEVAC is on the way, callsign Lima 85, ETA: 5 mikes. Standby, over.</English>
+        <Spanish>Eagle 10 Jefe a Talon 30, todo recibido, la MEDEVAC va de camino, indicativo Lima 85. Tiempo estimado de llegada: 5 minutos. Esperen, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message33_1M8">
+        <English>C'mon, Zack, let's get to the evac point.</English>
+        <Spanish>Venga, Zack, vamos al punto de evacuación.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message34_1M8">
+        <English>Col. Shinsha, how are your men?</English>
+        <Spanish>Coronel Shinsha, ¿cómo están sus hombres?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message35_1M8">
+        <English>Roostie! Der sha, der sha. Very good!</English>
+        <Spanish>Roostie! Der sha, der sha. ¡Muy bien!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message36_1M8">
+        <English>The Taliban were expecting much better today, my friend!</English>
+        <Spanish>¡Los talibanes esperaban algo mucho mejor hoy, amigo mío!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message37_1M8">
+        <English>We'll take your two wounded to the evac point, sir. C'mon boys, let's go.</English>
+        <Spanish>Llevaremos a sus dos heridos al punto de evacuación, señor. Venga, chicos, vamos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message38_1M8">
+        <English>Stay safe, guys...</English>
+        <Spanish>Cuidaos, chicos...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message39_1M8">
+        <English>Rusty, report back to me when you're ready and we'll sort out the resupply schedule.</English>
+        <Spanish>Rusty, vuelve aquí cuando estés listo y organizamos el horario de reabastecimiento.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message41_1M8">
+        <English>Talon 30, this is Lima 85, we are inbound to the AO, stand by for evac in approximately 2 mikes, over.</English>
+        <Spanish>Talon 30, aquí Lima 85, vamos de camino al AO, esperen evacuación en aproximadamente dos minutos, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message42_1M8">
+        <English>Hey... I want you guys to get as much rest as you can tonight. We've already been delayed a day, we resume the attack at first light tomorrow.</English>
+        <Spanish>Eh... Quiero que descanséis todo lo que podáis esta noche. Ya llevamos un día de retraso, reanudaremos el ataque a primera hora mañana.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message422_1M8">
+        <English>We all knew this was coming, sir. I'll pull an extra shift tonight so they can get some rest. They've sure earned it.</English>
+        <Spanish>Sabíamos que iba a pasar, señor. Haré horas extras esta noche para que puedan descansar. Se lo han ganado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message422_2_1M8">
+        <English>Do we have a movement time set yet, what with all the resupply aircraft? Speaking of which-- I didn't think we were getting our next bird for another hour or so, what's this all about?</English>
+        <Spanish>¿Tenemos una hora fija para avanzar, con todos los helicópteros de reabastecimiento? Que por cierto, daba por hecho que el siguiente pájaro no llegaba hasta dentro de una hora o así, ¿esto qué es?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message43_1M8">
+        <English>Well lookie who it is. Zack! You salty sonova bitch, you!</English>
+        <Spanish>Pero mirad quién es. ¡Zack! ¡Eres duro, cabronazo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message44_1M8">
+        <English>Couldn't stay away too long. I even brought back some goodies-- enough Copenhagen and Gatorade powder to go around.</English>
+        <Spanish>No podía estar mucho tiempo fuera. Hasta he traído cositas: suficiente Copenhagen y Gatorade en polvo para todos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_mortarhint_stop_1M8">
+        <English>Hint: To set up the mortar, aim at the tripod bag while carrying the mortar backpack and select 'Assemble Mk6 Mortar' from the actions menu.</English>
+        <Spanish>Consejo: Para montar el mortero, pon el punto de mira en la bolsa con el trípode mientras cargas con la mochila del mortero y selecciona la acción «Montar Mortero Mk6» del menú de acciones.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_mortarhint2_stop_1M8">
+        <English>Don't forget to use the handy Artillery Computer! Check the grid markings Bill will provide to the mortar team, line them up, choose a proper distance and send those shells flying!</English>
+        <Spanish>¡No te olvides de usar la calculadora de artillería! Escucha las coordenadas que dará Bill al equipo de morteros, alinéalas, elige la carga y distancia adecuadas ¡y a lanzar proyectiles!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_5clear_hint_1M8">
+        <English>5 is clear!</English>
+        <Spanish>¡5 despejado!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_3clear_hint_1M8">
+        <English>3 is clear!</English>
+        <Spanish>¡3 despejado!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_4clear_hint_1M8">
+        <English>4 is clear!</English>
+        <Spanish>¡4 despejado!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_2clear_hint_1M8">
+        <English>2 is clear!</English>
+        <Spanish>¡2 despejado!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_1clear_hint_1M8">
+        <English>1 is clear!</English>
+        <Spanish>¡1 despejado!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_civishit_hint_1M8">
+        <English>You just killed a civilian!</English>
+        <Spanish>¡Acabas de matar a un civil!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end1_subtitle_1M8">
+        <English>Taliban positions softened</English>
+        <Spanish>Posiciones talibanes debilitadas</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end1_description_1M8">
+        <English>We regrouped about a mile southeast of Sperwan Ghar, just as B-1 and UAV support arrived on station. While Jared and Ron guided the bomber's targets, we set up a mortar strike to add to the devastation. With the enemy suppressed, we managed to evacuate our wounded. Now, we would need to resupply and prepare for another assault.</English>
+        <Spanish>Nos reagrupamos a un kilómetro al sureste de Sperwan Ghar, justo cuando se incorporó el apoyo de VANT y B-1. Mientras Jared y Ron guiaban al bombardero, nosotros montamos los morteros para contribuir a la devastación. Contenido el enemigo, conseguimos evacuar a los heridos. Ahora solo nos queda reabastecernos y prepararnos para otro asalto.</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

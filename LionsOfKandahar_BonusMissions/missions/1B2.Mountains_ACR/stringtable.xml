@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="LionsOfKandahar">
+  <Package name="LionsOfKandahar_1B2">
+    <Container name="STR_DN">
+	  <Key ID="STR_LOK_BriefingNotes_1B2">
+        <English>EDITOR'S NOTES:&lt;br/&gt;Get ready for a long mission (1 hour+). The least you'll be doing is actually having firefights, this mission is more of a peacekeeping and patrol mission. As always, you can change your equipment in the Team tab. Every action you do in this mission can alter your objectives in some way or another. Some objectives are also dynamic, meaning the enemies or any important NPCs will appear in a different place every time or not appear at all. You can fail some objectives and that won't mean a mission failure, just a different outcome and different conversations (in total, there are 9 different endings).&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;None so far...</English>
+        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Prepárate para una misión larga (más de una hora). Lo que menos harás será pegar tiros, esta misión es más de patrulla y mantenimiento de la paz. Como siempre, puedes cambiar de armas en la pestaña de «Equipo». Cada decisión que tomes en esta misión puede alterar tus objetivos de una forma u otra. Además, algunos objetivos son dinámicos, lo que quiere decir que los enemigos o los PNJ importantes aparecerán en otro sitio cada vez que juegues o no aparecerán directamente. Puedes fracasar en algunos objetivos y eso no quiere decir que vayas a perder la misión, solo que habrá un final y conversaciones distintos (en total, hay 9 finales distintos).&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Nada de momento...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingCommand_Text_1B2">
+        <English>A. Signal:&lt;br/&gt; RCR HQ - Maj. Gen. GRANT (RCR CO)&lt;br/&gt; Charles 57 - Lt. Col. LAVOIE (1st Battalion CO)&lt;br/&gt; Charles 26 - Cpt. SILVESTER (32 Field Squadron CO)&lt;br/&gt; Charles 91 - Sgt. RICKY (you)&lt;br/&gt; Knight 30 - Lt. Col. JONES (30th IR, 10th Mtn. Div. CO)&lt;br/&gt; Taurus 18 - Shukurkalay ANP Department&lt;br/&gt; Lion 65 - Lt. YASER (ANA 4th Kandak CO)</English>
+        <Spanish>A. Señal:&lt;br/&gt; CG RCR: May. Gral. GRANT (oficial al mando del RCR)&lt;br/&gt; Charles 57: Tte. Cnel. LAVOIE (oficial al mando del 1.er Batallón)&lt;br/&gt; Charles 26: Cap. SILVESTER (oficial al mando del 32.º Escuadrón de Campo)&lt;br/&gt; Charles 91: Sgto. RICKY (tú)&lt;br/&gt; Knight 30: Tte. Cnel. JONES (oficial al mando del 30.º Regimiento de Infantería, 10.ª División de Montaña)&lt;br/&gt; Taurus 18: Departamento de Policía de Shukurkalay&lt;br/&gt; León 65: Tte. YASER (oficial al mando del 4.º Kandak del ENA)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingSustainment_Text_1B2">
+        <English>1. Supply: Standard desert CADPAT uniforms and tactical vests, CG634 helmets, standard issue Canadian small arms including C7A2 rifles, C8A3 carbines, C9A2 and C6 machine guns, and C14 sniper rifles.&lt;br/&gt;2. Transportation: Any light vehicles stationed at FOB Sherbrooke, including G-Wagons and Hilux trucks lended by the ANA.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: Charles 91 has 1x embedded combat engineer from 23 Field Squadron, Royal Canadian Engineers. There are repair, fuel and medical trucks at FOB Sherbrooke, and Afghan gas stations can be used to refuel any vehicle as needed.&lt;br/&gt;5. CASEVAC: Charles 91 has 1x embedded medical sergeant, in the event of a mission failure due to substantial casualties, Charles 26 will authorize CASEVAC.</English>
+        <Spanish>1. Suministros: Uniformes estándar en CADPAT árido y chalecos tácticos, cascos CG634, armas ligeras reglamentarias de Canadá como fusiles C7A2, carabinas C8A3, ametralladoras C9A2 y C6 y fusiles de francotirador C14.&lt;br/&gt;2. Transporte: Cualquier vehículo ligero aparcado en la BOA Sherbrooke, incluidos G-Wagons y todoterrenos Hilux prestados por el ENA.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Charles 91 tiene 1x ingeniero de combate asignado del 23.er Escuadrón de Campo, Royal Canadian Engineers. Hay camiones de reparación, combustible y munición en la BOA Sherbrooke, y se pueden usar las gasolineras afganas para repostar cualquier vehículo según sea necesario.&lt;br/&gt;5. CASEVAC: Charles 91 tiene 1x sargento médico asignado. En caso de sufrir una cantidad considerable de bajas, Charles 26 autorizará CASEVAC.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingExecution_Text_1B2">
+        <English>Sgt. Ricky will receive instructions by 32 Field Squadron's CO, Cpt. Silvester. The expected tasks include clearing potential Taliban hideouts hidden deep in the hills of Zhari District, receiving supplies from our American comrades in arms, and assisting the civilian population of this region in whatever they should need in order to guarantee their well-being. Charles 91 will perform these tasks in whatever order is desired, but they are to be accomplished. Additional objectives may arise as the mission develops.</English>
+        <Spanish>El sargento Ricky recibirá instrucciones del oficial al mando del 32.º Escuadrón de Campo, el capitán Silvester. Entre las tareas previsibles se incluyen despejar posibles escondrijos talibanes ocultos en las colinas del distrito de Zhari, recibir suministros de nuestros camaradas estadounidenses y ayudar a la población civil de la región en lo que necesiten para garantizar su bienestar. Charles 91 llevará a cabo estas tareas en el orden que prefiera, pero han de cumplirse. Podrían surgir objetivos adicionales a medida que transcurra la misión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingMission_Text_1B2">
+        <English>Who: Charles 91, Charles Company, 1st Battalion Royal Canadian Regiment Battle Group&lt;br/&gt;What: PATROL Zhari District, NEUTRALIZE Taliban hideouts, PROTECT the civilian population&lt;br/&gt;Where: Southern Zhari District&lt;br/&gt;When: 000000ZDEC27&lt;br/&gt;Why: Operation Falcon Summit</English>
+        <Spanish>Quién: Charles 91, Compañía Charles, 1.er Batallón del Grupo de Combate del Real Regimiento Canadiense&lt;br/&gt;Qué: PATRULLAR el distrito de Zhari, NEUTRALIZAR escondrijos talibanes, PROTEGER a la población civil&lt;br/&gt;Dónde: Sur del distrito de Zhari&lt;br/&gt;Cuándo: 000000ZDEC27&lt;br/&gt;Por qué: Operación Cumbre de Halcón</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingSituation_Text_1B2">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: 10-20 enemy combatants in the AO&lt;br/&gt;Activity: No movement observed, no radio chatter&lt;br/&gt;Location: Southern Zhari District&lt;br/&gt;Unit: Taliban light infantry&lt;br/&gt;Time Observed: December 27, 2006 0700 hrs&lt;br/&gt;Equipment: Soviet small arms, possibly some technicals or static weapons&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To neutralize Taliban hideouts in the Zhari District, support the operations of the attacking units from the rearguard, patrol the region, stock on supplies, and assist the civilian population at all times.&lt;br/&gt;2. Adjacent Units: 30th Infantry Regiment, 10th Mountain Division (callsign: Knight 30 Actual), Shukurkalay ANP Department (callsign: Taurus 18), ANA 4th Kandak (callsign: Lion 65), ODB 330 (callsign: Spear 34).&lt;br/&gt;3. Supporting: Air support will not be available for this mission. Two L16A2 mortars have been set up near FOB Sherbrooke, they will provide fire support when in range. CASEVAC will only be available by request of Charles 26.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: 10-20 combatientes enemigos en el AO&lt;br/&gt;Actividad: No se ha observado movimiento, no hay vibraciones de radio&lt;br/&gt;Ubicación: Sur del distrito de Zhari&lt;br/&gt;Unidades: Infantería ligera talibán&lt;br/&gt;Fecha de observación: 27 de diciembre de 2006, 0700 hrs&lt;br/&gt;Equipo: Armas ligeras soviéticas, posiblemente algunos técnicos o armas estáticas&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Neutralizar los escondites talibanes en el distrito de Zhari, apoyar desde la retaguardia las operaciones de las unidades atacantes, patrullar la región, conseguir suministros y ayudar a la población civil en todo momento.&lt;br/&gt;2. Unidades adyacentes: 30.º Regimiento de Infantería, 10.ª División de Montaña (indicativo: Knight 30 Actual), Departamento de Policía de Shukurkalay (indicativo: Taurus 18), 4.º Kandak del ENA (indicativo: León 65), ODB 330 (indicativo: Spear 34).&lt;br/&gt;3. Apoyo: No habrá apoyo aéreo disponible para esta misión. Se han montado dos morteros L16A2 cerca de la BOA Sherbrooke, proporcionarán apoyo de fuego si están al alcance. La CASEVAC solo estará autorizada cuando la solicite el mando del RCR.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Briefing_Text_1B2">
+        <English>Operation Medusa, NATO's largest combined assault to date, ended months ago with a Coalition victory. We managed to kick most of the Taliban off Panjwayi, but it was not a decisive victory. The Taliban keep lingering in Kandahar Province, but with a significant twist-- they are much more tame now. They dare not show their face anymore since Medusa, and have resorted to planting IEDs and hiding in the hills and woods of the region. Hence, Operation Falcon Summit was launched last week, with the objective of expelling the Taliban from the Panjwayi and Zhari districts once and for all. The great offensive operations were carried out these past few days by 1 RCR, the American ODB 330, and the ANA, alongside Leopard C2 tank support from Lord Strathcona's Horse. Our objective is to stay behind, mop up the rest of the Taliban hideouts, build rapport with the civilians, deliver supplies and food to them, and support the main offensive.</English>
+        <Spanish>La Operación Medusa, el mayor asalto combinado de la OTAN hasta la fecha, terminó hace meses con una victoria de la Coalición. Conseguimos expulsar a la mayoría de los talibanes de Panjwai, pero no fue una victoria decisiva. Los talibanes siguen perdurando en la provincia de Kandahar, pero con un importante giro: ahora están mucho más amilanados. No se atreven a dar la cara desde Medusa, y recurren a colocar IED y esconderse en las colinas y los bosques de la región. Por ende, la semana pasada se inició la Operación Cumbre de Halcón, con el objetivo de expulsar a los talibanes de los distritos de Panjwai y Zhari de una vez por todas. El 1.er Batallón del RCR, la ODB 330 estadounidenses y el ENA, junto con apoyo de tanques Leopard C2 de Lord Strathcona's Horse, han llevado a cabo las principales operaciones ofensivas a lo largo de estos días. Nuestro objetivo es quedarnos atrás, limpiar el resto de los escondrijos talibanes, compenetrar con los civiles, entregarles suministros y comida y apoyar la ofensiva principal.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obja_Description_1B2">
+        <English>Command has been seriously giving us the cold shoulder. We have few vehicles, no tanks like the rest of the squadrons have, we don't even have enough NVGs to go on the offensive at night against a much technologically inferior Taliban. Fortunately, the Americans at Firebase Toledo have agreed to graciously lend us some of their NVGs. On the flip side and to cancel out that favour, they refuse to go all the way down to FOB Sherbrooke, so you'll have to move to Toledo in person.</English>
+        <Spanish>El alto mando nos ha estado haciendo el vacío. Tenemos pocos vehículos, no tenemos tanques como el resto de los escuadrones, ni siquiera tenemos suficientes gafas de visión nocturna para realizar ofensivas de noche contra unos talibanes muy tecnológicamente inferiores. Por suerte, los estadounidenses de la Base Toledo han aceptado cedernos algunas de sus gafas. Lo malo es que se niegan a venir hasta la BOA Sherbrooke, así que tendrás que ir a Toledo en persona.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obja_Title_1B2">
+        <English>Get NVGs from Firebase Toledo</English>
+        <Spanish>Coger gafas de visión nocturna en la Base Toledo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objb_Description_1B2">
+        <English>An anonymous local has seemingly reported to us a suspicious civilian with possible ties to the Taliban. We have absolutely no idea who they are, so your team has been assigned the task of going there and finding out discreetly. We can only hope it isn't a decoy or a trap...</English>
+        <Spanish>Un lugareño anónimo ha informado de un supuesto civil sospechoso con posibles lazos con los talibanes. No tenemos ni idea de quién es, así que se le ha asignado a tu equipo la tarea de ir allí y averiguarlo discretamente. Esperemos que no sea una trampa o un señuelo...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objb_Title_1B2">
+        <English>Find potential Taliban mole</English>
+        <Spanish>Encontrar al topo talibán en potencia</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objb_1_Description_1B2">
+        <English>There are quite a few people in Sultansafe. None of them look suspicious at first glance, so you'll have to ask some of them indirectly if they are aware of any Taliban activity in the area.</English>
+        <Spanish>Hay bastantes personas en Sultansafe. Ninguno parece sospechoso a primera vista, así que tendrás que preguntarles a algunos indirectamente si saben algo de actividad talibán en la zona.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objb_1_Title_1B2">
+        <English>Talk to the locals</English>
+        <Spanish>Hablar con los lugareños</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objb_2_Description_1B2">
+        <English>A civilian has pinpointed this man as a suspicious Taliban collaborator. In fact, he is walking over the hills to God knows where. Find out where whilst keeping a safe distance from him.</English>
+        <Spanish>Un civil ha señalado a este hombre como posible colaborador talibán. De hecho, está subiendo por la colina a Dios sabe dónde. Averigua adónde y mantén una distancia de seguridad de él.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objb_2_Title_1B2">
+        <English>Follow the suspicious man</English>
+        <Spanish>Seguir al hombre sospechoso</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objb_discovered_findCamp_Description_1B2">
+        <English>You screwed up and had to neutralize the Taliban informant from Sultansafe in order to save your life. However, there's still a chance you could find where he was going to...</English>
+        <Spanish>La has cagado y has tenido que neutralizar al informante talibán de Sultansafe para salvarte la vida. Sin embargo, hay una posibilidad de que aún puedas encontrar el sitio a donde se dirigía...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objb_discovered_findCamp_Title_1B2">
+        <English>Optional: Find the Taliban in Sultansafe</English>
+        <Spanish>Opcional: Encuentra a los talibanes en Sultansafe</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objb_3_Description_1B2">
+        <English>You have discovered that the Taliban have set up a small camp hidden between the trees near Sultansafe. It is your job to neutralize them and ensure the well-being of the civilians.</English>
+        <Spanish>Has descubierto que los talibanes han montado un campamento oculto entre los árboles cerca de Sultansafe. Es tu labor neutralizarlos y garantizar el bienestar de los civiles.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objb_3_Title_1B2">
+        <English>Clear the Taliban camp</English>
+        <Spanish>Despejar el campamento talibán</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objb_4_Description_1B2">
+        <English>The hostile camp near Sultansafe is clear, but we can't just leave it be. Maybe they were hiding some useful intel, or they have munitions that should be destroyed to prevent any unfortunate incidents?</English>
+        <Spanish>El campamento hostil cerca de Sultansafe está despejado, pero no podemos dejarlo así. A lo mejor estaban escondiendo inteligencia que nos podría venir bien o tienen munición que convendría destruir para prevenir desgracias.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objb_4_Title_1B2">
+        <English>Investigate the Taliban camp</English>
+        <Spanish>Investigar el campamento talibán</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optobjRepair_Description_1B2">
+        <English>You've found a civilian whose car has stalled whilst trying to go up a steep slope! You can get your engineer to help fix his car, or just focus on your objectives, no time for petty favours.</English>
+        <Spanish>¡Has encontrado a un civil cuyo coche se ha calado mientras intentaba subir por una cuesta empinada! Puedes ordenarle a tu engeniero que le arregle el coche o centrarte en tus objetivos, no hay tiempo para favores.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optobjRepair_Title_1B2">
+        <English>Optional: Help the civilian</English>
+        <Spanish>Opcional: Ayudar al civil</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objc_Description_1B2">
+        <English>An Afghan elder from the mountainous village of Sakhe has reported that he knows the locations of three potential Taliban encampments in the area. However, his instructions aren't clear at all and he doesn't even have a map, so you have been ordered to meet with him and lend him your map so he can give you more precise intel.</English>
+        <Spanish>Un anciano afgano del pueblo montañoso de Sakhe ha dicho que conoce la ubicación de tres posibles campamentos talibanes en la zona. Sin embargo, sus instrucciones son de todo menos claras y ni siquiera tiene un mapa, así que te han ordenado que te reúnas con él y le prestes tu mapa para que te dé información más precisa.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objc_Title_1B2">
+        <English>Clear potential Taliban encampments</English>
+        <Spanish>Despejar los posibles campamentos talibanes</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objc_1_Description_1B2">
+        <English>The elder lives in the southern sector of Sakhe, near the hills, but we don't know where exactly. He should be in the town, since he is retired and mostly spends his time feeding the hens and the goats. You're looking for this man:&lt;br/&gt;&lt;br/&gt;&lt;img image='elderPic.jpg' width='200' height='200'/&gt;</English>
+        <Spanish>El anciano vive en el sector sur de Sakhe, cerca de las colinas, pero no sabemos dónde exactamente. Debería estar en el pueblo, ya que está jubilado y pasa los días dando de comer a las gallinas y las cabras. Estás buscando a este hombre:&lt;br/&gt;&lt;br/&gt;&lt;img image='elderPic.jpg' width='200' height='200'/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objc_1_Title_1B2">
+        <English>Talk to the Afghan elder</English>
+        <Spanish>Hablar con el anciano afgano</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objc_a_Description_1B2">
+        <English>The first possible Taliban camp is located to the southwest of Sakhe, hidden somewhere between the valleys northeast of Shukurkalay.</English>
+        <Spanish>El primer posible campamento talibán se encuentra al suroeste de Sakhe, oculto en alguna parte entre los valles al noreste de Shukurkalay.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objc_a_Title_1B2">
+        <English>Clear the first camp</English>
+        <Spanish>Despejar el primer campamento</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objc_c_Description_1B2">
+        <English>The third possible Taliban camp is located to the northeast of Sakhe, hidden somewhere in the woods.</English>
+        <Spanish>El tercer posible campamento talibán se encuentra al noreste de Sakhe, oculto en alguna parte del bosque.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objc_c_Title_1B2">
+        <English>Clear the third camp</English>
+        <Spanish>Despejar el tercer campamento</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objc_b_Description_1B2">
+        <English>The second possible Taliban camp is located to the southeast of Sakhe, somewhere high up in the mountains. Hope you got your climbing boots on.</English>
+        <Spanish>El segundo posible campamento talibán se encuentra al sureste de Sakhe, oculto en lo alto de las montañas. Espero que te hayas traído las botas de escalada.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objc_b_Title_1B2">
+        <English>Clear the second camp</English>
+        <Spanish>Despejar el segundo campamento</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optobjIED_intel_Description_1B2">
+        <English>You've found intel that very clearly states that there's an IED in the Shukurkalay market ready to be triggered at a moment's notice, along with a spotter and controller hiding in one of the houses. You're the only squad with EOD capabilities available. Our job is to protect the civilians, so it would be wise to disable it and do them a favour.</English>
+        <Spanish>Has encontrado inteligencia que claramente afirma que hay un IED en el mercado de Shukurkalay listo para ser detonado en cualquier momento, así como un controlador y observador que se esconde en una de las casas. Eres el único escuadrón disponible con un artificiero. Nuestro trabajo es proteger a los civiles, así que lo más sensato sería desactivarlo y hacerles un favor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optobjIED_ANP_Description_1B2">
+        <English>The ANP has reported that there's an IED in Shukurkalay ready to be triggered at a moment's notice, along with a controller hiding somewhere nearby. You're the only squad with EOD capabilities available. Our job is to protect the civilians, so it would be wise to disable it and do them a favour.</English>
+        <Spanish>La Policía afgana ha informado de que hay un IED en el mercado de Shukurkalay listo para ser detonado en cualquier momento, así como un controlador que se esconde en los alrededores. Eres el único escuadrón disponible con un artificiero. Nuestro trabajo es proteger a los civiles, así que lo más sensato sería desactivarlo y hacerles un favor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optobjIED_Title_1B2">
+        <English>Disable the IED in Shukurkalay</English>
+        <Spanish>Desactivar el IED de Shukurkalay.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objRTB_Description_1B2">
+        <English>You have successfully completed all your objectives. Your commanding officer has ordered you to report to him back at base.</English>
+        <Spanish>Has completado todos tus objetivos. Tu oficial al mando te ha ordenado que vuelvas a la base y te presentes ante él.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objRTB_Title_1B2">
+        <English>Return to base</English>
+        <Spanish>Volver a la base</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objRTB_Action_1B2">
+        <English>Report back</English>
+        <Spanish>Presentarse</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objGather_Description_1B2">
+        <English>It's time to go on patrol, but you shouldn't go alone. Your squadmates are inside the barracks passing time. Go gather them and embark on your mission.</English>
+        <Spanish>Es hora de ir de patrulla, pero no deberías ir solo. Tus compañeros están en los barracones pasando el rato. Reúnelos y embárcate en tu misión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objGather_Title_1B2">
+        <English>Gather your team</English>
+        <Spanish>Reunir al equipo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_1B2">
+        <English>Falcon Summit</English>
+        <Spanish>Cumbre de Halcón</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_Intro_1B2">
+        <English>Falcon Summit Intro</English>
+        <Spanish>Cumbre de Halcón: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_Outro_1B2">
+        <English>Falcon Summit Outro</English>
+        <Spanish>Cumbre de Halcón: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionDescription_1B2">
+        <English>Months have passed since the end of Operation Medusa, but the Taliban keep lingering in Kandahar Province. As a Sergeant in the Royal Canadian Regiment, patrol the southern edge of the Zhari District, collect intel on the whereabouts of the remaining Taliban and assist the civilian population.</English>
+        <Spanish>Han pasado meses desde que terminó la Operación Medusa, pero los talibanes perduran en la provincia de Kandahar. Como un sargento del Real Regimiento Canadiense, patrulla la frontera meridional del distrito de Zhari, busca información sobre el paradero de los talibanes que quedan y ayuda a la población civil.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionDescriptionLocked_1B2">
+        <English>Talk to the locals and disable an explosive device in 'The Notebook', and complete 'The Dragon's Back' to unlock this mission.</English>
+        <Spanish>Habla con los lugareños y desactiva un artefacto explosivo en «El cuaderno» y completa «La espalda del dragón» para desbloquear esta misión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_text_1B2">
+        <English>&lt;t color='#09ff00' size='3.5'&gt;FALCON SUMMIT&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'An unjust peace is better than a just war.'&lt;br/&gt;&lt;br/&gt;-MARCUS TULLIUS CICERO&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#09ff00' size='3.5'&gt;CUMBRE DE HALCÓN&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«Una paz injusta es mejor que una guerra justa».&lt;br/&gt;&lt;br/&gt;—MARCO TULIO CICERÓN&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel1_1B2">
+        <English>Sgt. Allen Ricky</English>
+        <Spanish>Sgto. Allen Ricky</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel2_1B2">
+        <English>1 RCR Battle Group</English>
+        <Spanish>1.er Batallón, RCR</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel3_1B2">
+        <English>Southern Zhari District</English>
+        <Spanish>Sur del distrito de Zhari</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel4_1B2">
+        <English>December 27, 2006 - 0857</English>
+        <Spanish>27 diciembre 2006 - 0857</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_AskTalibanActivity_Action_1B2">
+        <English>Taliban activity?</English>
+        <Spanish>¿Actividad talibán?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_AskWhatsWrong_Action_1B2">
+        <English>What's wrong?</English>
+        <Spanish>¿Qué pasa?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_AfghanCitizen_Dialogue_1B2">
+        <English>AFGHAN CITIZEN</English>
+        <Spanish>CIUDADANO AFGANO</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_AfghanElder_Dialogue_1B2">
+        <English>AFGHAN ELDER</English>
+        <Spanish>ANCIANO AFGANO</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_AfghanWoman_Dialogue_1B2">
+        <English>AFGHAN WOMAN</English>
+        <Spanish>MUJER AFGANA</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_CANplayer_Dialogue_1B2">
+        <English>SGT. RICKY</English>
+        <Spanish>SGTO. RICKY</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_CANplayer_radio_1B2">
+        <English>Charles 91</English>
+        <Spanish>Charles 91</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_CANOfficer_Dialogue_1B2">
+        <English>CPT. SILVESTER</English>
+        <Spanish>CAP. SILVESTER</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_CANOfficer_radio_1B2">
+        <English>Charles 26 (Cpt. Silvester)</English>
+        <Spanish>Charles 26 (Cap. Silvester)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_CANEngi_Dialogue_1B2">
+        <English>SGT. CARY</English>
+        <Spanish>SGTO. CARY</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_CANMed_Dialogue_1B2">
+        <English>SGT. JULIAN</English>
+        <Spanish>SGTO. JULIAN</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_CANM72_Dialogue_1B2">
+        <English>CPL. LEONARD</English>
+        <Spanish>CABO LEONARD</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_SultansafeMole_Dialogue_1B2">
+        <English>TALIBAN MOLE</English>
+        <Spanish>TOPO TALIBÁN</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_ANPOfficer_Dialogue_1B2">
+        <English>ANP OFFICER</English>
+        <Spanish>OFICIAL DE POLICÍA</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_USSoldier_Dialogue_1B2">
+        <English>US SOLDIER</English>
+        <Spanish>SOLDADO ESTADOUNIDENSE</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_USOfficer_Dialogue_1B2">
+        <English>LT. COL. JONES</English>
+        <Spanish>TTE. CNEL. JONES</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_USOfficer_radio_1B2">
+        <English>Knight 30 (Lt. Col. Jones)</English>
+        <Spanish>Knight 30 (Tte. Cnel. Jones)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_ANPOfficer_radio_1B2">
+        <English>Taurus 18 (Shukurkalay ANP)</English>
+        <Spanish>Taurus 18 (Policía de Shukurkalay)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_CANMortars_radio_1B2">
+        <English>Charles 26 (Mortars)</English>
+        <Spanish>Charles 26 (Morteros)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message1_1B2">
+        <English>Alright Sergeant, we have a long day ahead and lots of things to get done. I hope you're ready for a long patrol.</English>
+        <Spanish>Bien, sargento, nos depara un día largo y tenemos mucho que hacer. Espero que esté listo para una larga patrulla.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message2_1B2">
+        <English>Yes sir! Whatever needs to be done, we'll do.</English>
+        <Spanish>¡Sí, señor! Haremos lo que haya que hacer.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message3_1B2">
+        <English>That's what I like to hear. All right, I have assigned your team three basic tasks for this morning. It doesn't matter what order you do them in, as long as you get them done.</English>
+        <Spanish>Eso es lo que me gusta oír. Vale, le he asignado a su equipo tres tareas básicas para esta mañana. No importa en qué orden las haga, siempre y cuando las haga.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message4_1B2">
+        <English>So, first of all-- we are short of NVGs. Our technological superiority should provide us an advantage against the Taliban at night, but that superiority is hard to achieve when Command doesn't even send us proper equipment.</English>
+        <Spanish>Lo primero: estamos faltos de gafas de visión nocturna. Nuestra superioridad tecnológica debería darnos ventaja contra los talibanes de noche, pero difícil es alcanzar esa superioridad si el mando ni nos envía equipo en condiciones.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message5_1B2">
+        <English>That's why I need you to go to Firebase Toledo, the American firebase way up north. They are more than willing to lend us some NVGs, but they refuse to come all the way here. I'm afraid your team is the only one available.</English>
+        <Spanish>Pero eso necesito que vaya a la Base Toledo, la base estadounidense al norte. Están más que dispuestos a prestarnos algunas gafas, pero se niegan a venir hasta aquí. Me temo que su equipo es el único disponible.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message6_1B2">
+        <English>Understood, retrieve NVGs from the Americans at Toledo, got it.</English>
+        <Spanish>Entendido, recoger gafas de visión nocturna de los estadounidenses en Toledo, lo tengo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message7_1B2">
+        <English>Good. Now, we also need to build a rapport with the civilians. Our peacekeeping efforts seem to be bearing fruit, as more and more Afghans want to cooperate with ISAF in locating Taliban remnants scattered around Panjwayi.</English>
+        <Spanish>Bien. Ahora, también tenemos que establecer una relación con los civiles. Nuestros esfuerzos por mantener la paz parecen estar dando sus frutos, ya que cada vez más afganos quieren cooperar con la ISAF para localizar los remanentes talibanes dispersos por Panjwai.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message8_1B2">
+        <English>We need to go to the village of Sultansafe. An anonymous local sent us a letter informing us of a suspicious civilian with possible ties to the Taliban. It appears this informant wants to keep themselves safe from potential repercussions.</English>
+        <Spanish>Tenemos que ir al pueblo de Sultansafe. Un lugareño anónimo nos ha enviado una carta informándonos de un civil sospechoso con posibles vínculos con los talibanes. Parece que este informante quiere mantenerse a salvo de posibles repercusiones.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message9_1B2">
+        <English>I need you to go there, ask whoever is in the town discreetly if they know anything about it, and report back to me. Do not make a fuss, we are to protect the civilian population at all costs. Got it?</English>
+        <Spanish>Necesito que vaya allí, pregunte discretamente a quien haya si sabe algo, y me informe. No arme revuelo, tenemos que proteger a la población civil a toda costa. ¿Entendido?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message10_1B2">
+        <English>Yes, sir! </English>
+        <Spanish>¡Sí, señor!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message10_2_1B2">
+        <English>Great. Now, lastly, a not-so-anonymous elder from Sakhe has informed us of the location of three possible Taliban camps. I need you to talk to him, find out where exactly these camps are, and then report to me for instructions.</English>
+        <Spanish>Genial. Por último, un anciano no tan anónimo de Sakhe nos ha informado de la ubicación de tres posibles campamentos talibanes. Necesito que hable con él, averigue dónde están exactamente estos campamentos, y me informe.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message11_1B2">
+        <English>All understood, sir. We'll get it done.</English>
+        <Spanish>Entendido, señor. Lo haremos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message12_1B2">
+        <English>I won't distract you any longer. Go gather your team. You're free to take any of the light vehicles we have available here, provided you take care of them. And remember the ROE-- do not fire unless fired upon or explicitly authorized to do it.</English>
+        <Spanish>No lo distraeré más. Reúna a su equipo. Puede llevarse cualquiera de los vehículos ligeros que tenemos a nuestra disposición, siempre y cuando cuide de ellos. Y recuerde las normas: no dispare si ellos no disparan antes o tiene la orden expresa de disparar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message13_1B2">
+        <English>You may come across friendlies-- one Canadian squad and a couple of ANA fireteams are patrolling this area too. I think that's all, Sergeant. Good luck. Dismissed.</English>
+        <Spanish>Puede que se cruce con aliados: un escuadrón canadiense y un par de equipos del ENA también están patrullando esta zona. Creo que eso es todo, sargento. Buena suerte. Retírese.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message14_1B2">
+        <English>Excuse me, sir, we're patrolling the area and we've received reports of possible Taliban activity. Do you know anything about that?</English>
+        <Spanish>Disculpe, señor, estamos patrullando la zona y hemos recibido informes de posible actividad talibán. ¿Sabe algo al respecto?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message14F_1B2">
+        <English>Excuse me, ma'am, we're patrolling the area and we've received reports of possible Taliban activity. Could you help us out if you have any information?</English>
+        <Spanish>Disculpe, señora, estamos patrullando la zona y hemos recibido informes de posible actividad talibán. ¿Nos podría ayudar si sabe algo?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message14Group_1B2">
+        <English>Salaam alaikum folks, we're patrolling this area and we've received reports of possible 'unwanted' activity, so to speak. Do any of you know anything?</English>
+        <Spanish>Salam aleikum, señores, estamos patrullando la zona y hemos recibido informes de posible actividad «indeseada», por así decirlo. ¿Saben algo?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message15_1B2">
+        <English>No, sorry, I don't know anything.</English>
+        <Spanish>No, lo siento, no sé nada.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message16_1B2">
+        <English>No, sorry, I don't want to get shot by them.</English>
+        <Spanish>No, lo siento, no quiero que me disparen.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message17_1B2">
+        <English>No, please, I don't want to get involved in this.</English>
+        <Spanish>No, por favor, no quiero involucrarme.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message18_1B2">
+        <English>I wish I could help, but I know nothing.</English>
+        <Spanish>Ojalá poder ayudarlo, pero no sé nada.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message19_1B2">
+        <English>What? It's the first time I'm hearing about this. I can't help, sorry.</English>
+        <Spanish>¿Qué? Ahora me entero. No puedo ayudarlo, disculpe.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message20_1B2">
+        <English>I don't know anything, I'm sorry.</English>
+        <Spanish>No sé nada, lo siento.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message21_1B2">
+        <English>No, I haven't heard anything. Maybe somebody else knows?</English>
+        <Spanish>No, yo no me he enterado de nada. A lo mejor otra persona lo sabe.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message22_1B2">
+        <English>I heard something, but I can't say for sure.</English>
+        <Spanish>Algo he oído, pero no lo sé decir con certeza.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message23_1B2">
+        <English>Me neither. It's all hearsay, but we don't know who the rat is.</English>
+        <Spanish>Yo tampoco. Son todo rumores, pero no sabemos quién es la rata.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message24_1B2">
+        <English>As a matter of fact, I think someone might know. Do you see that secluded house back there, following the dirt trail? We know the man who lives there has helped your kind in the past. Maybe go ask him?</English>
+        <Spanish>De hecho, creo que hay alguien que podría saberlo. ¿Ve esa casa aislada ahí atrás, siguiendo el camino de tierra? Sabemos que el hombre que vive allí ha ayudado a los suyos en el pasado. Podría preguntarle a él.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message25_1B2">
+        <English>I guess I could. Thank you, ma'am, sirs. Have a very nice day.</English>
+        <Spanish>Supongo que sí. Gracias, señora, señores. Que tengan un muy buen día.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message26_1B2">
+        <English>Salaam alaikum, sir. We have received reports of hostile activity in this area. Do you think you could help us out with that?</English>
+        <Spanish>Salam aleikum, señor. Hemos recibido informes de actividad hostil en esta zona. ¿Cree que podría ayudarnos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message27_1B2">
+        <English>What? I didn't say anything about the man that's currently leaving his house and heading towards the hills! Please leave my property immediately, I have to go to work.</English>
+        <Spanish>¿Cómo? ¡Yo no he dicho nada del hombre que está saliendo de su casa y yendo a las colinas! Le pido que abandone mi propiedad de inmediato, tengo que ir a trabajar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message28_1B2">
+        <English>Is that right? Let's see where he ends up...</English>
+        <Spanish>¿Ah, sí? A ver adónde va...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message28_1_1B2">
+        <English>Charles 26, this is Charles 91, we've got visual on a possible Taliban mole in the town of Sultansafe. He's on the move and heading towards the hills. Requesting permission to pursue, over.</English>
+        <Spanish>Charles 26, aquí Charles 91, tenemos visual de un posible topo talibán en el pueblo de Sultansafe. Se mueve y se dirige a las colinas. Solicito permiso para seguirlo, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message28_2_1B2">
+        <English>Permission granted, 91, but proceed with caution. We don't want unexpected consequences of him noticing you're following him. Over and out.</English>
+        <Spanish>Concedido, 91, pero proceda con cautela. No queremos lidiar con las consecuencias inesperadas de que se dé cuenta de que lo está siguiendo. Cambio y corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message29_1B2">
+        <English>No, I'm afraid I don't have any information. Do you see that group of people behind you? Maybe they could help you...</English>
+        <Spanish>No, me temo que no tengo información. ¿Ve ese grupo de personas detrás de usted? A lo mejor ellos pueden ayudarlo...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message30_1B2">
+        <English>All right, thank you anyways, sir. Have a nice day.</English>
+        <Spanish>Vale, gracias de todos modos, señor. Que tenga un buen día.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message31_1B2">
+        <English>See this trail that leads to an isolated house? I'm pretty sure that man must know something. I'm just here tending my truck.</English>
+        <Spanish>¿Ve este camino que lleva a esa casa aislada? Seguro que ese hombre sabe algo. Yo solo estoy aquí cuidando de mi camión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message32_1B2">
+        <English>Okay, we'll see what we can do. Have a nice one, sir.</English>
+        <Spanish>Vale, veremos qué hacemos. Que tenga un buen día, señor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message33_1B2">
+        <English>Hey! What are you doing? Get away from me, now!</English>
+        <Spanish>¡Eh! ¿Qué hace? ¡Aléjese de mí, ya!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message34_1B2">
+        <English>Fuck! Charles 26, we were on the heels of the Taliban collaborator in Sultansafe, but... He found us before he got anywhere, he started firing at us, and we had to neutralize him. Over.</English>
+        <Spanish>¡Joder! Charles 26, le pisábamos los talones al colaborador talibán de Sultansafe, pero... nos ha encontrado antes de llegar a ninguna parte, ha empezado a dispararnos y hemos tenido que neutralizarlo. Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message35_1B2">
+        <English>Goddammit, Charles 91! How are we supposed to protect the civilians that way? His Taliban friends are still out there! Try to find them on your own, or just proceed with your other objectives. Over and out.</English>
+        <Spanish>¡Maldita sea, Charles 91! ¿Cómo vamos a proteger a los civiles de esa forma? ¡Sus amiguitos talibanes siguen ahí! Intente encontrarlos por su cuenta o prosiga con el resto de sus objetivos. Cambio y corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message36_1B2">
+        <English>Charles 26, update-- we have followed the Taliban collaborator in Sultansafe to a small Taliban camp hidden deep in the hills. They are all armed, please advise, over.</English>
+        <Spanish>Charles 26, actualizo: hemos seguido al colaborador talibán de Sultansafe a un pequeño campamento talibán oculto en las colinas. Van todos armados. Solicito instrucciones, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message36F_1B2">
+        <English>Charles 26, good news-- we have actually found a small Taliban camp hidden deep in the hills beyond Sultansafe. Looks like this is where the collaborator was going to. They are all armed, please advise, over.</English>
+        <Spanish>Charles 26, buenas noticias: hemos encontrado un pequeño campamento talibán oculto en las colinas de Sultansafe. Parece que el colaborador se dirigía hacia aquí. Van todos armados, solicito instrucciones, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message37_1B2">
+        <English>Charles 91, you have permission to fire if they are armed and have hostile intent. Over and out.</English>
+        <Spanish>Charles 91, tienen permiso para disparar si van armados y tienen intenciones hostiles. Cambio y corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message38_1B2">
+        <English>Charles 26, the Taliban camp is clear. Half a dozen hostiles down, how copy, over?</English>
+        <Spanish>Charles 26, el campamento talibán está despejado. Media docena de hostiles abatidos. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message39_1B2">
+        <English>Solid copy, 91, see if you can get in there and find something useful. Over and out.</English>
+        <Spanish>Recibido, 91, a ver si puede entrar ahí y encontrar algo útil. Cambio y corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message40_1B2">
+        <English>Will do, Charles 26, out.</English>
+        <Spanish>Lo haremos, Charles 26, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message41_1B2">
+        <English>Charles 91 to Charles 26, we have mortars and supplies at the Taliban camp. My guess is they were planning to bombard either Sherbrooke or the civilian population. How copy, over?</English>
+        <Spanish>Charles 91 a Charles 26, tenemos morteros y suministros en el campamento talibán. Doy por hecho que tenían pensado bombardear Sherbrooke o a la población civil. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message42_1B2">
+        <English>Understood 91, can you dispose of the mortars in any way? Over.</English>
+        <Spanish>Entendido, 91, ¿puede deshacerse de los morteros de alguna forma? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message43_1B2">
+        <English>I guess we could use some of the explosive ordnance they have lying around here against them. Roger that, 26, on it. Over and out.</English>
+        <Spanish>Supongo que podríamos usar los explosivos que tienen por aquí en su contra. Recibido, 26, nos ponemos a ello. Cambio y corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message44_1B2">
+        <English>Charles 26, all mortars and ordnance at Sultansafe destroyed. How copy, over?</English>
+        <Spanish>Charles 26, destruidos todos los morteros y explosivos de Sultansafe. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message45_1B2">
+        <English>All copied, great job, Charles 91. Proceed with your other objectives, over and out.</English>
+        <Spanish>Alto y claro, buen trabajo, Charles 91. Prosiga con sus otros objetivos, cambio y corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message46_1B2">
+        <English>Hey! Hey, soldiers! I need help!</English>
+        <Spanish>¡Eh! ¡Eh, soldados! ¡Necesito ayuda!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message47_1B2">
+        <English>What's wrong, sir?</English>
+        <Spanish>¿Qué pasa, señor?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message48_1B2">
+        <English>My car couldn't climb up this slope and it stalled! Please sir, can you fix it?</English>
+        <Spanish>¡Mi coche no podía subir esta cuesta y se ha calado! Por favor, señor, ¿puede arreglarlo?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message49_1B2">
+        <English>Yes, sure thing, not a problem. Cary, get over here!</English>
+        <Spanish>Sí, claro, no hay problema. ¡Cary, venga aquí!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message50_1B2">
+        <English>I think that's it, sir. It should be good to go.</English>
+        <Spanish>Creo que ya está, señor. Debería funcionar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message51_1B2">
+        <English>My combat engineer tells me it's ready, sir. Have a nice day.</English>
+        <Spanish>Mi ingeniero de combate dice que ya está, señor. Que tenga un buen día.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message52_1B2">
+        <English>Thank you, thank you so much! I'll never forget this!</English>
+        <Spanish>¡Gracias, muchísimas gracias! ¡Nunca lo olvidaré!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message53_1B2">
+        <English>Anytime, mister.</English>
+        <Spanish>No hay de qué, caballero.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message54_1B2">
+        <English>Sergeant, I think that's him...</English>
+        <Spanish>Sargento, creo que es ese...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message55_1B2">
+        <English>Salaam alaikum, sir. We are Canadians, we come from FOB Sherbrooke. We received news that you might know the location of three potential Taliban emplacements. Am I in the right here?</English>
+        <Spanish>Salam aleikum, señor. Somos canadienses, venimos de la BOA Sherbrooke. Hemos recibido la noticia de que usted podría conocer la ubicación de tres posibles emplazamientos talibanes. ¿Estoy en lo correcto?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message56_1B2">
+        <English>Yes, yes, absolutely, sir. I would do anything to kick these filthy dogs out of our beautiful country. Please, lend me your map so I can show you.</English>
+        <Spanish>Sí, sí, desde luego, señor. Haría lo que fuese para expulsar a estos perros de nuestro precioso país. Por favor, déjeme su mapa para que se lo muestre.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message57_1B2">
+        <English>Okay, I have marked the locations on your map. They are not exact, but I know for sure they are in those areas. Good luck, sirs.</English>
+        <Spanish>Vale, he marcado las ubicaciones en su mapa. No son exactas, pero estoy seguro de que están por ahí. Buena suerte, señores.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message58_1B2">
+        <English>Thank you for your cooperation, mister. We'll see what we can do. Have a nice day.</English>
+        <Spanish>Gracias por su colaboración, caballero. Haremos lo que podamos. Que tenga un buen día.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message59_1B2">
+        <English>Charles 26, this is 91. We're in Sakhe. The elder marked on my map the location of three possible encampments. Please advise, over.</English>
+        <Spanish>Charles 26, aquí 91. Estamos en Sakhe. El anciano me ha marcado en el mapa la ubicación de tres posibles campamentos. Solicito instrucciones, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message60_1B2">
+        <English>Charles 26 to Charles 91, solid copy. You are to move in and clear them. We don't expect much resistance at this point, but you have mortar support on station in case you get pinned down. Over and out.</English>
+        <Spanish>Charles 26 a Charles 91, recibido. Avance y despéjelos. No esperamos mucha resistencia a estas alturas, pero tienen apoyo de morteros a la espera por si los acribillan. Cambio y corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message61_1B2">
+        <English>Charles 91 to Charles 26, the camp on top of the mountains is clear. Three hostiles down, how copy, over?</English>
+        <Spanish>Charles 91 a Charles 26, el campamento de las montañas está despejado. Tres hostiles abatidos, ¿me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message61E_1B2">
+        <English>Charles 91 to Charles 26, the camp on top of the mountains is empty. No hostiles found, just a tent with lots of supplies and a campfire. How copy, over?</English>
+        <Spanish>Charles 91 a Charles 26, el campamento de las montañas está vacío. No hay hostiles, solo una tienda con muchos suministros y una fogata. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message62_1B2">
+        <English>Solid copy, Charles 91. Proceed with your other objectives, out.</English>
+        <Spanish>Recibido, Charles 91. Prosiga con sus otros objetivos, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message63_1B2">
+        <English>Charles 91 to Charles 26, the camp in the woods is clear. Five hostiles down, how copy, over?</English>
+        <Spanish>Charles 91 a Charles 26, el campamento del bosque está despejado. Cinco hostiles abatidos, ¿me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message63E_1B2">
+        <English>Charles 91 to Charles 26, the camp in the woods is empty. There's nobody here, just a campfire and some boxes. How copy, over?</English>
+        <Spanish>Charles 91 a Charles 26, el campamento del bosque está vacío. Aquí no hay nadie, solo una fogata y unas cuantas cajas. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message64_1B2">
+        <English>Charles 91 to Charles 26, turns out the mountain camp was a sniper's nest. We've found trenches, sniper rifles and an RPG with rockets lying here. Looks like they were targetting Sakhe. How copy, over?</English>
+        <Spanish>Charles 91 a Charles 26, resulta que el campamento de las montañas era un nido de francotirador. Tenemos trincheras, fusiles de francotirador y un RPG con cohetes. Parece que tenían Sakhe en el punto de mira. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message65_1B2">
+        <English>Solid copy on all, Charles 91, great find. We'll send a team later to retrieve all that materiel. Proceed with your other objectives, out.</English>
+        <Spanish>Todo recibido, Charles 91, gran hallazgo. Luego enviaremos a un equipo para que recoja todo ese material. Prosiga con sus otros objetivos, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message66_1B2">
+        <English>Charles 91 to Charles 26, the camp in the hills is clear. Four hostiles down and a derelict house, how copy, over?</English>
+        <Spanish>Charles 91 a Charles 26, el campamento de las colinas está despejado. Cuatro hostiles abatidos y una casa en ruinas. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message67_1B2">
+        <English>Charles 26, the camp in the hills is a bomb factory! We've found a completed IED and bomb plans that say there's an IED planted in the Shukurkalay market, and they plan to trigger it today! How copy, over?</English>
+        <Spanish>¡Charles 26, el campamento de las colinas es una fábrica de bombas! Hemos encontrado un IED terminado y planos de bombas que dicen que hay un IED colcado en el mercado de Shukurkalay, ¡y piensan activarlo hoy! ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message68_1B2">
+        <English>Understood 91, you're doing God's work here. I'll patch you through to the Shukurkalay ANP department.</English>
+        <Spanish>Entendido, 91, están haciendo un trabajo divino. Le paso con el departamento de Policía de Shukurkalay.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message69_1B2">
+        <English>This is Taurus 18, Shukurkalay Police Department, come in, over.</English>
+        <Spanish>Aquí Taurus 18, departamento de Policía de Shukurkalay, adelante, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message70_1B2">
+        <English>This is Sgt. Ricky from 1 RCR at FOB Sherbrooke! We've found solid intel that the Taliban have planted an IED in the Shukurkalay market! You need to evacuate everyone immediately! Over!</English>
+        <Spanish>¡Aquí el sargento Ricky del 1 RCR, BOA Sherbrooke! ¡Hemos encontrado inteligencia que confirma que los talibanes han colocado un IED en el mercado de Shukurkalay! ¡Tienen que evacuar a todo el mundo ya! ¡Cambio!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message71_1B2">
+        <English>Is that so? Roger that, but we need someone with EOD capabilities to come here and disable it. Hold one. Knight 30 Actual, this is Taurus 18-- we may have an IED that might need disabling in Shukurkalay. How copy, over?</English>
+        <Spanish>¿Ah, sí? Recibido, pero necesitamos que un artificiero venga y lo desactive. Un momento. Knight 30 Jefe, aquí Taurus 18: puede ser que tengamos un IED que haya que desactivar en Shukurkalay. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message71_2_1B2">
+        <English>Is that so? Roger that, that confirms our suspicions. We need you to come down here and disable it immediately! How copy, over?</English>
+        <Spanish>¿Ah, sí? Recibido, eso confirma nuestras sospechas. ¡Vengan aquí y desactívenla de inmediato! ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message72_1B2">
+        <English>It's a bit complicated, Taurus 18. All our EOD guys are busy right now and they won't be available until a couple of hours from now. Can you wait until then, over?</English>
+        <Spanish>Está complicado, Taurus 18. Todos nuestros artificieros están ocupados y no estarán disponibles hasta dentro de un par de horas. ¿Pueden esperar hasta entonces, cambio?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message73_1B2">
+        <English>Taurus 18, this is Sgt. Ricky again. I have a combat engineer in my squad. We'll get over there if it's not too much of an inconvenience given our current objectives. How copy, over?</English>
+        <Spanish>Taurus 18, aquí el sargento Ricky otra vez. Tengo un ingeniero de combate en mi pelotón. Iremos allí si no es mucha molestia dados nuestros objetivos actuales. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message73_2_1B2">
+        <English>Solid copy, Taurus 18. Out.</English>
+        <Spanish>Recibido, Taurus 18. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message74_1B2">
+        <English>Roger that, Sgt. Ricky. We'll wait. Knight 30 Actual, the Canadians will deal with it. Over and out.</English>
+        <Spanish>Recibido, sargento Ricky. Esperaremos. Knight 30 Jefe, los canadienses se encargarán. Cambio y corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message75_1B2">
+        <English>This is Taurus 18 to all NATO units in the area. We have found what appears to be an IED at the Shukurkalay market. Do you copy?</English>
+        <Spanish>Aquí Taurus 18 a todas las unidades de la OTAN en la zona. Hemos encontrado lo que parece ser un IED en el mercado de Shukurkalay. ¿Me reciben?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message76_1B2">
+        <English>This is Knight 30 Actual, loud and clear, Taurus 18. Unfortunately, all of our EOD guys are busy somewhere else and aren't available right now. Is it urgent, over?</English>
+        <Spanish>Aquí Knight 30 Jefe, alto y claro, Taurus 18. Lamentablemente, todos nuestros artificieros están ocupados y no están disponibles ahora mismo. ¿Es urgente, cambio?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message77_1B2">
+        <English>We don't know. It's just there, we have no idea where the controller is or when he is planning to trigger it. Over.</English>
+        <Spanish>No lo sabemos. Está ahí, no tenemos ni idea de dónde está el controlados ni de cuándo tiene pensado activarlo. Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message78_1B2">
+        <English>This is Charles 26 to Charles 91. There's a possible IED threat in Shukurkalay. Your team is the only one available in the area, but I am completely aware that you have your own objectives. Can you assist if possible, over?</English>
+        <Spanish>Aquí Charles 26 para Charles 91. Hay una posible amenaza de IED en Shukurkalay. Su equipo es el único disponible en la zona, pero soy plenamente consciente de que tienen sus propios objetivos. ¿Pueden prestar apoyo si es posible, cambio?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message79_1B2">
+        <English>This is Charles 91, roger that. We'll take care of it. Over.</English>
+        <Spanish>Aquí Charles 91, recibido. Nos ocuparemos de ello. Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message80_1B2">
+        <English>Charles 26 to Taurus 18, I'm sending one team over there to disable the IED. Form a defensive perimeter and evacuate everyone in the meantime, over and out.</English>
+        <Spanish>Charles 26 para Taurus 18, voy a mandar un equipo para allá para desactivar el IED. Formen un perímetro defensivo y evacúen a todo el mundo, cambio y corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message81_1B2">
+        <English>Fucking shit! This is Taurus 18, they blew up the IED! Where the fuck were you, Charles 91?! Over!</English>
+        <Spanish>¡Puta mierda! ¡Aquí Taurus 18, han detonado el IED! ¿Dónde cojones estaban, Charles 91? ¡Cambio!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message82_1B2">
+        <English>Taurus 18, this is Charles 26, forget about Charles 91, they're under my command and I'll take action accordingly. What are the damages, over?</English>
+        <Spanish>Taurus 18, aquí Charles 26. Dejen a Charles 91, están bajo mis órdenes y actuaré en consecuencia. ¿Cuáles son los daños, cambio?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message83_1B2">
+        <English>One building half destroyed and many market stalls reduced to dust. Some wounded, but no casualties or fatal injuries. We're still looking for the controller. How copy, over?</English>
+        <Spanish>Un edificio medio destruido y muchos puestos reducidos a cenizas. Algunos heridos, pero ninguna baja ni heridos graves. Seguimos buscando al controlador. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message84_1B2">
+        <English>Solid copy on all, Taurus 18, we were lucky this time. Charles 91, I sure as hell hope you had way too much on your hands to get there in time. Out.</English>
+        <Spanish>Recibido, Taurus 18, hemos tenido suerte esta vez. Charles 91, espero de veras que tuviesen demasiado entre manos para llegar allí a tiempo. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message85_1B2">
+        <English>Taurus 18 to all units, we've found and killed the controller. We think we are in the clear. Thanks for nothing. Out.</English>
+        <Spanish>Taurus 18 para todas las unidades, hemos encontrado y abatido al controlador. Creo que está despejado. Gracias por nada. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message86_1B2">
+        <English>Taurus 18 to all units, we have visual on the IED controller, he's running away! We're in pursuit. Taurus 18, out.</English>
+        <Spanish>¡Taurus 18 para todas las unidades, tenemos visual del controlador del IED, está huyendo! Lo seguimos. Taurus 18, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message87_1B2">
+        <English>Taurus 18 to all units, we have followed the controller to a remote camp in the hills. Four hostile bombers down, out.</English>
+        <Spanish>Taurus 18 para todas las unidades, hemos seguido al controlador a un campamento remoto en las colinas. Cuatro bombarderos hostiles abatidos, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message88_1B2">
+        <English>This is Taurus 18-- we have found a completed IED and bomb plans that detail the planned attack in Shukurkalay. We're taking these plans for closer examination. Taurus 18 will hold position at the camp, over and out.</English>
+        <Spanish>Aquí Taurus 18. Hemos encontrado un IED terminado y planos de bombas que detallan el atentado de Shukurkalay. Nos los llevamos para examinarlos con más detenimiento. Taurus 18 mantendrá la posición en el campamento, cambio y corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message89_1B2">
+        <English>Taurus 18 to all units, we have followed the controller to a remote camp in the hills, but all hostile bombers were already dead when we arrived. Over.</English>
+        <Spanish>Taurus 18 para todas las unidades, hemos seguido al controlador a un campamento remoto en las colinas, pero todos los bombarderos hostiles estaban muertos cuando hemos llegado. Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message90_1B2">
+        <English>Taurus 18, be advised-- Charles 91 had already cleared that spot. They didn't find anything significant, over.</English>
+        <Spanish>Taurus 18, atención: Charles 91 ya había despejado ese punto. No encontraron nada importante, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message91_1B2">
+        <English>Oh really? Turns out we have just found a completed IED and bomb plans that detail the planned attack in Shukurkalay inside the ruined building. You fucking assholes didn't even bother checking, you just want to kill. Out.</English>
+        <Spanish>¿De verdad? Pues resulta que acabamos de encontrar un IED terminado y planos de bombas que detallan el atentado de Shukurkalay dentro del edificio en ruinas. No se han ni molestado en mirar, solo quieren matar, hijos de puta. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message92_1B2">
+        <English>Charles 91, what the hell happened there?! You are constantly told to check every camp for information! We're lucky there were no civilian casualties, but this could have been avoided if you had just looked inside! Out!</English>
+        <Spanish>¡Charles 91, qué coño ha pasado! ¡Le dicen constantemente que compruebe todos los campamentos en busca de información! ¡Hemos tenido suerte de que no haya habido bajas civiles, pero se podría haber evitado si hubiera mirado dentro! ¡Corto!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message93_1B2">
+        <English>Yes, about time you showed up. We don't need your goddamn help anymore. This position is ours now, go away.</English>
+        <Spanish>Sí, ya era hora de que apareciesen. Ya no necesitamos su puta ayuda. Esta posición es nuestra, márchense.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message94_1B2">
+        <English>Shit, the Captain won't like this...</English>
+        <Spanish>Mierda, esto no le va a gustar al capitán...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message95_1B2">
+        <English>Hey, you are the Canadians, yes? The IED is right there, between the grey building and the market stalls. Can you do something about it?</English>
+        <Spanish>¿Son los canadienses, verdad? El IED está justo ahí, entre el edificio gris y los puestos. ¿Pueden hacer algo?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message96_1B2">
+        <English>We can, but have you neutralized the controller first?</English>
+        <Spanish>Podemos, pero ¿han neutralizado al controlador ya?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message97_1B2">
+        <English>Not yet, but we thought you could help us. We're probably looking for a man in military or camo gear overlooking this position from one of the houses.</English>
+        <Spanish>Aún no, pero hemos pensado que podrían ayudarnos. Buscamos a un hombre con equipo militar o de camuflaje observando esta posición desde una de las casas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message98_1B2">
+        <English>Alright, he's down. We're clear. Cary, you're up.</English>
+        <Spanish>Vale, ha caído. Despejado. Cary, su turno.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message98_2_1B2">
+        <English>There he is! Fire at will!</English>
+        <Spanish>¡Allí está! ¡Fuego a discreción!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message99_1B2">
+        <English>Roger that, sir.</English>
+        <Spanish>Recibido, señor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message100_1B2">
+        <English>Alright Sergeant, bomb disabled.</English>
+        <Spanish>Vale, sargento, bomba desactivada.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message101_1B2">
+        <English>Well done. Folks, the bomb has been disabled. Now if you'll excuse us, we have to tend to our other objectives. Stay safe.</English>
+        <Spanish>Bien hecho. Señores, la bomba ha sido desactivada. Ahora, si nos disculpan, tenemos que encargarnos de nuestros otros objetivos. Cuídense.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message102_1B2">
+        <English>Much obliged.</English>
+        <Spanish>Se agradece.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message103_1B2">
+        <English>Taurus 18 to all units-- the IED in Shukurkalay has been disabled. I repeat, IED disabled. How copy, over?</English>
+        <Spanish>Taurus 18 para todas las unidades: el IED de Shukurkalay ha sido desactivado. Repito, IED desactivado. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message104_1B2">
+        <English>This is Knight 30 Actual. Copy that, that's a relief. Out.</English>
+        <Spanish>Aquí Knight 30 Jefe. Recibido, es un alivio. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message105_1B2">
+        <English>Charles 91 to Charles 26, we have found a completed IED and bomb plans that detail the planned attack in Shukurkalay inside the derelict house. Looks like these guys were the ones that had planned it. How copy, over?</English>
+        <Spanish>Charles 91 a Charles 26, hemos encontrado un IED terminado y planos de bombas que detallan el atentado de Shukurkalay en la casa en ruinas. Parece que estos eran los que lo habían planeado. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message106_1B2">
+        <English>Good thing you disabled that IED, Charles 91. You have avoided a major tragedy. Take those plans with you and get rid of the other IED. Over and out.</English>
+        <Spanish>Menos mal que han desactivado el IED, Charles 91. Han evitado una tragedia descomunal. Llévese esos planos y deshágase del otro IED. Cambio y corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message107_1B2">
+        <English>Wilco. Out.</English>
+        <Spanish>Procedo. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message108_1B2">
+        <English>Hey, Canadians! You want some food too?</English>
+        <Spanish>¡Eh, canadienses! ¿Vosotros también queréis comida?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message109_1B2">
+        <English>Hello men, sorry for interrupting, but is the commander around? We need to speak to him.</English>
+        <Spanish>Buenas, señores. Perdón por interrumpir, pero ¿está el comandante por aquí? Tenemos que hablar con él.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message110_1B2">
+        <English>You're here for the NVGs, right? Yeah man, he's inside that tent.</English>
+        <Spanish>Venís a por las gafas de visión nocturna, ¿no? Sí, tío, está dentro de la tienda.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message111_1B2">
+        <English>Much appreciated, have a nice day.</English>
+        <Spanish>Muchas gracias, que tengáis un buen día.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message112_1B2">
+        <English>Good morning sir, we're 1 RCR, we've come from FOB Sherbrooke to-</English>
+        <Spanish>Buenos días, señor. Somos del 1 RCR, venimos de la BOA Sherbrooke para...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message113_1B2">
+        <English>You're the guys that disabled that IED in Shukurkalay? Fantastic job there, I almost had to withdraw some of my EOD units to send 'em that way. My congratulations.</English>
+        <Spanish>¿Ustedes son los que han desactivado el IED de Shukurkalay? Han hecho un trabajo fantástico. Casi retiro a algunos de mis artificieros para mandarlos allí. Enhorabuena.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message113_2_1B2">
+        <English>Yeah yeah, we know who you are. We were waiting for you.</English>
+        <Spanish>Sí, sí, ya sabemos quiénes son. Los estábamos esperando.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message114_1B2">
+        <English>Sorry for all the mess. The NVGs are inside this box on the table: 10 standard-issue PVS-14s. Let me be clear-- I want 'em back, alright?</English>
+        <Spanish>Perdón por el desorden. Las gafas están dentro de esta caja: 10 PVS-14 reglamentarias. Que quede claro: las quiero de vuelta, ¿estamos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message114_2_1B2">
+        <English>Don't play around with them, use them wisely, and return them in one piece, or else we'll have a problem. Or rather, I'll have a problem.</English>
+        <Spanish>No jugueteen con ellas, úsenlas sabiamente y devuélvanlas de una pieza, o nos meteremos en un lío. O mejor dicho, yo me meteré en un lío.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message115_1B2">
+        <English>Thank you, sir. I promise you on behalf of 1 RCR that they will come back in pristine condition.</English>
+        <Spanish>Gracias, señor. Le prometo en nombre del 1 RCR que volverán en perfectas condiciones.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message116_1B2">
+        <English>I sure hope so. Stay safe out there, fellas.</English>
+        <Spanish>Eso espero. Cuídense ahí fuera, muchachos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message117_1B2">
+        <English>Charles 91 to Charles 26, we've got the NVGs. Moving to our next objective, over and out.</English>
+        <Spanish>Charles 91 a Charles 26, tenemos las gafas de visión nocturna. Pasamos a nuestro siguiente objetivo, cambio y corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message118_1B2">
+        <English>Solid copy, Charles 91, nicely done. Take good care of them, the Americans are not recurring lenders. They trust us enough to make an exception. Out.</English>
+        <Spanish>Recibido, Charles 91, bien hecho. Tengan cuidado de ellas, los estadounidenses no suelen prestar cosas. Confían lo suficiente en nosotros para hacer una excepción. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message119_1B2">
+        <English>...Sir, what are we doing here? This is a desert town, we have no business here.</English>
+        <Spanish>...Señor, ¿qué hacemos aquí? Esto es un desierto, no tenemos nada que hacer aquí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message120_1B2">
+        <English>Charles 91 to Charles 26, all objectives complete. Please advise, over.</English>
+        <Spanish>Charles 91 a Charles 26, hemos completado todos los objetivos. Solicito instrucciones, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message121_1B2">
+        <English>Solid copy, 91, great job. Return to base when you are ready. Over and out.</English>
+        <Spanish>Recibido, 91, gran trabajo. Vuelvan a la base cuando estén listos. Cambio y corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message122_1B2">
+        <English>Wilco, out.</English>
+        <Spanish>Recibido, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message123_1B2">
+        <English>Reporting back as ordered, sir.</English>
+        <Spanish>Me presento como se me había ordenado, señor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message124_1B2">
+        <English>At ease, Sergeant. I just wanted to congratulate you. You did more in a few hours than most of your comrades could've ever done. Besides your three assigned objectives, you found valuable intel and disabled an IED.</English>
+        <Spanish>Descanse, sargento. Solo quería darle la enhorabuena. Ha hecho más en unas horas de lo que la mayoría de sus camaradas podrían haber hecho jamás. Aparte de sus tres objetivos asignados, ha encontrado inteligencia valiosa y ha desactivado un IED.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message125_1B2">
+        <English>I am seriously considering putting you and your team up for a promotion or an award. There are not many who would risk their lives like that. Now go rest, you deserve it. Dismissed.</English>
+        <Spanish>Estoy considerando seriamente proponerle a usted y a su equipo para un ascenso o una condecoración. No hay muchos que pongan su vida en juego de esa forma. Ahora descansen, se lo merecen. Retírese.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message124_2_1B2">
+        <English>At ease, Sergeant. You completed all your three assigned objectives successfully and even found some intel, but I'm afraid that IED you failed to disable will be a stain in your military reputation. Dismissed.</English>
+        <Spanish>Descanse, sargento. Ha completado sus tres objetivos asignados y hasta ha encontrado inteligencia, pero me temo que ese IED que no ha conseguido desactivar será una mancha en su reputación militar. Retírese.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message124_3_1B2">
+        <English>At ease, Sergeant. You completed all your three assigned objectives successfully, but I'm afraid that IED you failed to disable will be a stain in your military reputation. Dismissed.</English>
+        <Spanish>Descanse, sargento. Ha completado sus tres objetivos asignados, pero me temo que ese IED que no ha conseguido desactivar será una mancha en su reputación militar. Retírese</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message124_4_1B2">
+        <English>At ease, Sergeant. You did a great job-- you completed your three assigned objectives successfully and even went above and beyond the call of duty to disable an IED. Go rest, you deserve it. Dismissed.</English>
+        <Spanish>Descanse, sargento. Ha hecho un gran trabajo. Ha completado sus tres objetivos asignados y hasta ha ido más allá del deber para desactivar un IED. Descanse, se lo merece. Retírese.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message124_5_1B2">
+        <English>At ease, Sergeant. Let's just say your performance on the field was subpar. Yes, you disabled an IED, but that Taliban camp in Sultansafe is still out there. We'll return soon, but know that this is not what I had expected of you. Dismissed.</English>
+        <Spanish>Descanse, sargento. Digamos que su desempeño en el terreno ha dejado que desear. Sí, ha desactivado un IED, pero ese campamento talibán en Sultansafe sigue ahí. Volveremos pronto, pero sepa que esto no es lo que esperaba de usted. Retírese.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message124_6_1B2">
+        <English>At ease, Sergeant. Let me just say that I don't know what the hell's wrong with you. Failing an objective is one thing, but letting an IED explode in the middle of a market on top of that? There will be consequences to your actions. Dismissed.</English>
+        <Spanish>Descanse, sargento. Déjeme decirle que no sé qué diantres le pasa. Fracasar en un objetivo es una cosa, ¿pero encima dejar que explote un IED en medio de un mercado? Sus actos tendrán consecuencias. Retírese.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message124_7_1B2">
+        <English>At ease, Sergeant. Or should I say Corporal? You did a miserable job. You let one Taliban camp go scot-free, let an IED explode in the middle of a market and neglected your duty to check for intel in hostile encampments. You'll be cleaning latrines until your fingers go numb. Dismissed.</English>
+        <Spanish>Descanse, sargento. ¿O debería decir cabo? Lo suyo es miserable. Ha dejado que un campamento talibán quedara impune, que un IED explotara en medio de un mercado y ha descuidado su deber de buscar información en campamentos hostiles. Estará limpiando letrinas hasta que se le entumezcan los dedos. Retírese.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message126_1B2">
+        <English>Alright boys, on your feet. We have to make something of ourselves. I'll brief you along the way.</English>
+        <Spanish>Vale, chicos, de pie. Tenemos que ganarnos el pan. Les informaré por el camino.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message127_1B2">
+        <English>So, here's the plan: we're going on patrol around Zhari District to locate possible Taliban hideouts, get supplies from the Americans, and build rapport with the civilians.</English>
+        <Spanish>Vale, el plan es el siguiente: nos vamos de patrulla por el distrito de Zhari para localizar posibles escondrijos talibanes, conseguir suministros de los estadounidenses y confraternizar con los civiles.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message128_1B2">
+        <English>The Talibs refuse to meet us head-on since Medusa, so we'll have to go flush them out, the few of them there are at this point, that is. Should be a piece of cake. All understood?</English>
+        <Spanish>Los talis se niegan a plantarnos cara desde Medusa, así que tendremos que hacer que salgan, los pocos que quedan, claro está. Debería ser pan comido. ¿Queda claro?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message129_1B2">
+        <English>Yes, sir!</English>
+        <Spanish>¡Sí, señor!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message130_1B2">
+        <English>Good. Keep a level head and we'll come back in time for lunch.</English>
+        <Spanish>Bien. Mantengan la cabeza fría y estaremos de vuelta para comer.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intromessage1_1B2">
+        <English>&lt;t size='1.5'&gt;In September 2006, ISAF launched Operation Medusa with the objective of kicking the Taliban out of Kandahar Province. It was the largest ground battle ever fought by NATO. Since Medusa concluded, Coalition forces have strived to reconstruct and bring stability to the Kandahar region.&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;En septiembre de 2006, la ISAF inició la Operación Medusa con el objetivo de echar a los talibanes de la provincia de Kandahar. Fue la mayor batalla terrestre jamás librada por la OTAN. Desde que terminó Medusa, las fuerzas de la Coalición han tratado de reconstruir y llevar la estabilidad a la región de Kandahar.&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intromessage2_1B2">
+        <English>&lt;t size='1.5'&gt;Despite the Taliban suffering brutal losses during Medusa, they didn't lose their will to fight. Although they don't meet Coalition forces head-on anymore, they keep planting IEDs and hiding in the woods and hills of Kandahar Province.&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Aunque los talibanes sufrieron una cantidad espantosa de bajas durante Medusa, no perdieron las ganas de luchar. Ya no se enfrentan cara a cara a las fuerzas de la Coalición, pero siguen colocando IED y escondiéndose en los bosques y las colinas de la provincia de Kandahar.&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intromessage3_1B2">
+        <English>&lt;t size='1.5'&gt;Hence, ISAF launched Operation Falcon Summit in December to kick the Taliban out of Kandahar once and for all. It's now past Christmas. Afghan, American, British and Canadian forces have set up bases in the region to support the main offensive, clear the remaining Taliban hideouts and deliver supplies to the civilians.&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Por ende, la ISAF inició la Operación Cumbre de Halcón en diciembre para expulsar a los talibanes de Kandahar de una vez por todas. Ya es después de Navidad. Las fuerzas afganas, estadounidenses, británicas y canadienses han montado bases en la región para respaldar la ofensiva principal. despejar los escondrijos talibanes restantes y entregar suministros a los civiles.&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objb_1_hint_1B2">
+        <English>You have arrived in Sultansafe, and you need to find out who might be a potential Taliban mole in the town. Ask the civilians around until you get a concrete and/or satisfactory answer.</English>
+        <Spanish>Has llegado a Sultansafe. Tienes que averiguar quién podría ser un posible topo talibán en el pueblo. Pregunta a los civiles hasta que te den una respuesta concreta y/o satisfactoria.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objb_1_hint2_1B2">
+        <English>A civilian has informed you of a man that's suspiciously leaving his home and heading for the hills nearby. You may want to see what he's up to, just make sure you stay a safe distance behind him (30m or more) so he doesn't hear you. If not, you may be forced to take extreme measures.</English>
+        <Spanish>Un civil te ha informado de un hombre que sale sospechosamente de su casa y se dirige a las colinas cercanas. Asegúrate de mantenerte a una distancia prudencial detrás de él (30 m o más) para que no te oiga. Si no, puede que te veas obligado a tomar medidas extremas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objb_4_hint_1B2">
+        <English>You have to destroy both mortars and the explosives cache. Check inside the cache for explosives or take them from your squad engineer. If an explosion can't bring them down, empty your magazines on them.</English>
+        <Spanish>Tienes que destruir ambos morteros y el alijo de explosivos. Busca explosivos en el alijo o cógeselos a tu ingeniero. Si una explosión no acaba con ellos, vacíales un cargador.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objc_1_hint2_1B2">
+        <English>The elder should be somewhere around here. Check your Journal to see a picture of him.</English>
+        <Spanish>El anciano debería estar por aquí. Revisa tus tareas para ver una foto de él.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_optobjIED_hint2_1B2">
+        <English>The controller is down! It is now safe to approach the IED. Order your engineer to disable it.</English>
+        <Spanish>¡El controlador ha caído! Ya es seguro acercarse al IED. Ordena a tu ingeniero que lo desactive.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FOBSherbrooke_marker_1B2">
+        <English>FOB Sherbrooke</English>
+        <Spanish>BOA Sherbrooke</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FBToledo_marker_1B2">
+        <English>Firebase Toledo</English>
+        <Spanish>Base Toledo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_ANABase_marker_1B2">
+        <English>4th Kandak Base</English>
+        <Spanish>Base del 4.º Kandak</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_ANPBase_marker_1B2">
+        <English>Shukurkalay ANP Department</English>
+        <Spanish>Departamento de Policía de Shukurkalay</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_SultansafeCamp_marker_1B2">
+        <English>Taliban mortar emplacement</English>
+        <Spanish>Emplazamiento de morteros talibán</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intel_action_1B2">
+        <English>Pick up bomb plans</English>
+        <Spanish>Coger planos de bombas</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end1_subtitle_1B2">
+        <English>Masterful display</English>
+        <Spanish>Exhibición magistral</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end1_description_1B2">
+        <English>Few soldiers can take pride in being as skillful and efficient as you. Not only did you successfully accomplish your three assigned tasks, but you also disabled an IED that had been planted in a town market and even managed to collect some valuable intel on Taliban bomb-making operations in the AO. It'll be a ruse if you don't get promoted or receive a medal.</English>
+        <Spanish>Pocos soldados pueden enorgullecerse de ser tan habilidosos y eficientes como tú. No solo has cumplido tus tres tareas asignadas, sino que también has desactivado un IED que habían plantado en un mercado municipal y hasta has logrado reunir información valiosa sobre las operaciones de fabricación de bombas de los talibanes en el AO. Será un timo si no te ascienden o recibes una medalla.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end2_subtitle_1B2">
+        <English>The bitter and the sweet</English>
+        <Spanish>Una de cal y otra de arena</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end2_description_1B2">
+        <English>You successfully accomplished your three assigned tasks and even managed to collect some valuable intel on Taliban bomb-making operations in the AO, but failed to disable an IED that had been planted in a town market. No civilian casualties, fortunately, but those destroyed buildings will likely haunt you and your reputation for some time.</English>
+        <Spanish>Has cumplido tus tres tareas asignadas y hasta has logrado reunir información valiosa sobre las operaciones de fabricación de bombas de los talibanes en el AO, pero no has conseguido desactivar un IED que habían plantado en un mercado municipal. No ha habido bajas civiles, por suerte, pero esos edificios destruidos te perseguirán a ti y a tu reputación durante un tiempo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end3_subtitle_1B2">
+        <English>A bad taste in your mouth</English>
+        <Spanish>Un mal sabor de boca</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end3_description_1B2">
+        <English>You successfully accomplished your three assigned tasks, but failed to disable an IED that had been planted in a town market. No civilian casualties, fortunately, but those destroyed buildings will likely haunt you and your reputation for some time.</English>
+        <Spanish>Has cumplido tus tres tareas asignadas, pero no has conseguido desactivar un IED que habían plantado en un mercado municipal. No ha habido bajas civiles, por suerte, pero esos edificios destruidos te perseguirán a ti y a tu reputación durante un tiempo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end4_subtitle_1B2">
+        <English>Mission accomplished</English>
+        <Spanish>Misión cumplida</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end4_description_1B2">
+        <English>You successfully accomplished your three assigned tasks and managed to disable an IED that had been planted in a town market. You did exactly what was asked of you and defended the proud heritage of the Canadian military.</English>
+        <Spanish>Has cumplido tus tres tareas asignadas y has logrado desactivar un IED que habían plantado en un mercado municipal. Has hecho justamente lo que esperaban de ti y has defendido el honor del Ejército canadiense.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end5_subtitle_1B2">
+        <English>Subpar performance</English>
+        <Spanish>Desempeño mediocre</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end5_description_1B2">
+        <English>You managed to disable an IED that had been planted in a town market, but failed your objective of locating a hidden Taliban camp in Sultansafe. One could argue the former was more important, right?</English>
+        <Spanish>Has conseguido desactivar un IED que habían plantado en un mercado municipal, pero has fracasado en tu objetivo de localizar un campamento talibán oculto en Sultansafe. Podría decirse que lo primero era más importante, ¿no?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end6_subtitle_1B2">
+        <English>Terrible performance</English>
+        <Spanish>Desempeño horrible</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end6_description_1B2">
+        <English>You failed your objective of locating a hidden Taliban camp in Sultansafe and didn't even bother disabling an IED that had been planted in a town market. This will be a huge stain in your military career, and you don't know if you will ever be able to recover from it.</English>
+        <Spanish>Has fracasado en tu objetivo de localizar un campamento talibán oculto en Sultansafe y ni siquiera te has molestado en desactivar un IED que habían plantado en un mercado municipal. Esto será una mancha enorme en tu carrera militar de la cual no sabes si te podrás recuperar en algún momento.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end7_subtitle_1B2">
+        <English>Miserable performance</English>
+        <Spanish>Desempeño miserable</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end7_description_1B2">
+        <English>Somehow, you managed to disobey almost all of your senior officer's orders. You failed your objective of locating a hidden Taliban camp in Sultansafe, you didn't disable an IED that had been planted in a town market, and on top of that, you didn't even bother checking for intel (that actually ended up being incredibly valuable) in a Taliban encampment. None of the high ranks know what the hell has happened to you. You'll likely be demoted and neglected to cleaning latrines and cooking meals for the rest of your tour of duty.</English>
+        <Spanish>De alguna forma, has conseguido desobedecer casi todas las órdenes de tu superior. Has fracasado en tu objetivo de localizar un campamento talibán oculto en Sultansafe, no has desactivado un IED que habían plantado en un mercado municipal y, para colmo, ni te has molestado en buscar inteligencia (que ha resultado ser extremadamente valiosa) en un campamento talibán. Ninguno de los altos rangos sabe qué demonios te ha pasado. Probablemente te degraden y releguen a limpiar letrinas y cocinar durante el resto de tu servicio militar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_lost2_subtitle_1B2">
+        <English>War crimes</English>
+        <Spanish>Crímenes de guerra</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_lost2_description_1B2">
+        <English>What the hell are you doing? No civilian casualties will be tolerated!</English>
+        <Spanish>¿Se puede saber qué cojones haces? ¡No se tolerarán las bajas civiles!</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

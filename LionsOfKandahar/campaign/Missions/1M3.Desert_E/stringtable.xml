@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="LionsOfKandahar">
+  <Package name="LionsOfKandahar_1M3">
+    <Container name="STR_DN">
+	  <Key ID="STR_LOK_BriefingNotes_1M3">
+        <English>EDITOR'S NOTES:&lt;br/&gt;None so far...&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;Jerry Reed - East Bound and Down</English>
+        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Nada de momento...&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Jerry Reed - East Bound and Down</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingCommand_Text_1M3">
+        <English>A. Signal:&lt;br/&gt; Eagle 10 Actual - Lt. Col. BOLDUC (TF 31 CO)&lt;br/&gt; Lion 1 Actual - Col. SHINSHA (ANA Kandahar Bgde. CO)&lt;br/&gt; Talon 30 Actual - Col. JARED (ODA 331 CO)&lt;br/&gt; Talon 26 - Cpt. HODGE&lt;br/&gt; Talon 31 - Cpt. RUSTY (you)&lt;br/&gt; Talon 36 - Cpt. BRUCE&lt;br/&gt; Mustang 51 - MEDEVAC</English>
+        <Spanish>A. Señal:&lt;br/&gt; Eagle 10 Jefe: Tte. Cnel. BOLDUC (oficial al mando de la TF 31)&lt;br/&gt; León 1 Jefe: Cnel. SHINSHA (oficial al mando de la brig. de Kandahar del ENA)&lt;br/&gt; Talon 30 Jefe: Cnel. JARED (oficial al mando de la ODA 331)&lt;br/&gt; Talon 26: Cap. HODGE&lt;br/&gt; Talon 31: Cap. RUSTY (tú)&lt;br/&gt; Talon 36: Cap. BRUCE&lt;br/&gt; Mustang 51: MEDEVAC</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingSustainment_Text_1M3">
+        <English>1. Supply: Standard US SOF Desert BDUs and ACUs or fleece jackets, CIRAS vests, MICH2001 helmets, standard issue US small arms including M16s, M4A1 carbines, MP5 SMGs, Mossberg shotguns, M249 and Mk 48 SAWs, and Mk 12, M24, SR-25, and M107 sniper rifles.&lt;br/&gt;2. Transportation: Talon 31 will make use of 2x HMMWV Ground Mobility Vehicles (GMVs).&lt;br/&gt;3. Services: Vehicle Repair capability at starting position, provided the vehicle can make it back.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Talon 31 has 3x Embedded Medical Sergeants, in the event of a mission failure due to substantial casualties, Talon 30 Actual will authorize CASEVAC and insertion by ODA 331 QRF.</English>
+        <Spanish>1. Suministros: Uniformes estándar de combate de fuerzas especiales en camuflaje desierto y UCP o forros polares, chalecos CIRAS, cascos MICH 2001, armas reglamentarias de EE. UU. como fusiles M16A4, carabinas M4A1, subfusiles MP5, escopetas Mossberg, ametralladoras Mk. 48 y M249, y fusiles de tirador Mk. 12, M24, SR-25 y M107.&lt;br/&gt;2. Transporte: Talon 31 empleará 2x HMMWV Ground Mobility Vehicles (GMV).&lt;br/&gt;3. Servicios: Posibilidad de reparar vehículos en el punto de inicio, siempre y cuando el vehículo pueda realizar el camino de vuelta.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Talon 31 tiene 3x sargentos médicos asignados. En caso de fracaso debido a una cantidad considerable de bajas, Talon 30 Jefe autorizará CASEVAC y la inserción de la FRR de la ODA 331.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingExecution_Text_1M3">
+        <English>Operation will be conducted in three (3) phases:&lt;br/&gt;&lt;br/&gt;Phase 1 - NEUTRALIZE Taliban positions. Hodge's team, Talon 26, will spearhead the advance S from &lt;marker name="markerODA331"&gt;starting position&lt;/marker&gt; and conduct force recon on a nearby &lt;marker name="markerPumpStation">abandoned pump station&lt;/marker&gt;, setting up an OP to cover Talon 31's advance. Your team, Talon 31, will assault &lt;marker name="markerCheckpoint14">Checkpoint 14&lt;/marker&gt; and &lt;marker name="markerCheckpoint15">Checkpoint 15&lt;/marker&gt;, which will clear the way for the convoy.&lt;br/&gt;&lt;br/&gt;Phase 2 - LOCATE supplies in &lt;marker name="markerSupplydropArea">designated area&lt;/marker&gt;. Airdropped supplies are a key logistical factor in our plan for crossing the Red Desert. We made less progress than expected yesterday due to vehicle malfunctions and were unable to reach our supply drop. We need to locate these supplies for the next leg of the desert crossing. The Taliban are likely unaware of it at this time, but this may change as the sun rises and visibility increases.&lt;br/&gt;&lt;br/&gt;Phase 3 - PROCEED to Rendezvous Point. Once the supplies have been located, Talon 31 will move SW to secure a &lt;marker name="markerRVpoint">rendezvous point&lt;/marker&gt; in vicinity of grid ref 000-001 for all elements in the convoy to continue on the next leg of the desert crossing.</English>
+        <Spanish>La operación se llevará a cabo en tres (3) fases:&lt;br/&gt;&lt;br/&gt;Fase 1: NEUTRALIZAR las posiciones talibanes. El equipo de Hodge, Talon 26, encabezará el avance hacia el sur desde la &lt;marker name="markerODA331"&gt;posición de inicio&lt;/marker&gt; y reconocerá una &lt;marker name="markerPumpStation">estación de bombeo abandonada&lt;/marker&gt; cercana, montando un puesto de observación para cubrir a Talon 31. Tu equipo, Talon 31, asaltará los &lt;marker name="markerCheckpoint14">puntos de control 14&lt;/marker&gt; y &lt;marker name="markerCheckpoint15">15&lt;/marker&gt;, lo cual despejará el camino para el convoy.&lt;br/&gt;&lt;br/&gt;Fase 2: LOCALIZAR los suministros en la &lt;marker name="markerSupplydropArea">zona designada&lt;/marker&gt;. Los suministros entregados por paracaídas son un factor logístico clave en nuestro plan para cruzar el Desierto Rojo. Avanzamos menos de lo esperado ayer debido a averías en los vehículos y no pudimos llegar a los suministros. Tenemos que localizarlos en este tramo de nuestro trayecto por el desierto. Es poco probable que los talibanes sepan de su existencia, pero esto podría cambiar a medida que salga el sol y aumente la visibilidad.&lt;br/&gt;&lt;br/&gt;Fase 3: PROCEDER hacia el punto de reunión. Cuando se hayan localizado los suministros, Talon 31 avanzará hacia el suroeste para asegurar un &lt;marker name="markerRVpoint">punto de reunión&lt;/marker&gt; en las inmediaciones de las coordenadas 000-001 para que todos los elementos del convoy continúen con su siguiente tramo de la travesía por el desierto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingMission_Text_1M3">
+        <English>Who: Talon 31, ODA 331, Task Force 31 (TF31)&lt;br/&gt;What: NEUTRALIZE hostile forces, LOCATE supplies, and PROCEED to Panjwayi Valley&lt;br/&gt;Where: In vicinity, Red Desert&lt;br/&gt;When: 054000ZAUG27&lt;br/&gt;Why: Support of Operation Medusa</English>
+        <Spanish>Quién: Talon 31, ODA 331, Fuerza Operativa 31 (TF 31)&lt;br/&gt;Qué: NEUTRALIZAR a las fuerzas hostiles, LOCALIZAR los suministros y AVANZAR al distrito de Panjwai&lt;br/&gt;Dónde: En las inmediaciones, Desierto Rojo&lt;br/&gt;Cuándo: 054000ZAUG27&lt;br/&gt;Por qué: Apoyo a la Operación Medusa</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingSituation_Text_1M3">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: 30-100 + possible reinforcements&lt;br/&gt;Activity: Light movement, moderate radio chatter&lt;br/&gt;Location: Vicinity, Red Desert including &lt;marker name="markerPumpStation"&gt;abandoned pump station&lt;/marker&gt;, &lt;marker name="markerCheckpoint14"&gt;checkpoint 14&lt;/marker&gt;, and &lt;marker name="markerCheckpoint15"&gt;checkpoint 15&lt;/marker&gt;&lt;br/&gt;Unit: Taliban mixed light infantry possibly supported by foreign fighters&lt;br/&gt;Time Observed: August 24-26, 2006&lt;br/&gt;Equipment: Small arms, RPG AT Weapons, assorted technicals and Soviet-era static defenses&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To draw Taliban attention toward our presence in the Red Desert, away from larger troop movements of NATO ground forces into the Panjwayi Valley.&lt;br/&gt;2. Adjacent Units: ODA 331 Team 26 (callsign: Talon 26), ODA 331 Command Team (callsign: Talon 30), ODA 331 QRF (callsign: Tabasco 19), ANA Regular Infantry (2nd Battalion, 3rd Kandak, led by Lt. Col. Shinsha).&lt;br/&gt;3. Supporting: CAS will not be available for this mission. Artillery support will not be available for this mission. CASEVAC will only be available by request of Talon 30 Actual, ODA 331's CO.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: 30-100 + posibles refuerzos&lt;br/&gt;Actividad: Movimiento leve, vibraciones de radio moderadas&lt;br/&gt;Ubicación: Inmediaciones, Desierto Rojo, incluyendo la &lt;marker name="markerPumpStation"&gt;estación de bombeo abandonada&lt;/marker&gt;, el &lt;marker name="markerCheckpoint14"&gt;punto de control 14&lt;/marker&gt; y el &lt;marker name="markerCheckpoint15"&gt;punto de control 15&lt;/marker&gt;&lt;br/&gt;Unidades: Infantería ligera mixta talibán con posible apoyo de combatientes extranjeros&lt;br/&gt;Fecha de observación: 24-26 de agosto de 2006&lt;br/&gt;Equipo: armas ligeras, granadas antitanque RPG, técnicos variopintos y defensas estáticas de la era soviética&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Atraer la atención talibán a nuestra presencia en el Desierto Rojo y desviarla de los mayores movimientos de las fuerzas terrestres de la OTAN hacia el distrito de Panjwai.&lt;br/&gt;2. Unidades adyacentes: Equipo 26 de la ODA 331 (indicativo: Talon 26), equipo de mando de la ODA 331 (indicativo: Talon 30), FRR de la ODA 331 (indicativo: Tabasco 19), infantería regular del ENA (2.º Batallón, 3.er Kandak, liderado por el Tte. Cnel. Shinsha).&lt;br/&gt;3. Apoyo: No habrá apoyo aéreo cercano para esta misión. No habrá apoyo de artillería para esta misión. La CASEVAC solo estará autorizada cuando la solicite Talon 30 Jefe, el oficial al mando de la ODA 331.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Briefing_Text_1M3">
+        <English>After leaving Firebase Maholic, the motorized convoy made up of American SOF unit ODA 331 and the Afghan National Army's 2nd Battalion, 3rd Kandak will cross the Red Desert south of Kandahar in order to draw Taliban attention from the Panjwayi Valley, where a larger offensive is planned involving NATO forces. Monitored Taliban radio chatter has revealed the location of numerous checkpoints within the Area of Operations (AO) which block our route to a much-needed supply drop south of their positions and the Panjwayi Valley beyond. We must break through and reach those supplies or the convoy will be in trouble.</English>
+        <Spanish>Tras abandonar la Base Maholic, el convoy motorizado compuesto por la unidad de operaciones especiales estadounidense ODA 331 y el 2.º Batallón, 3er Kandak del Ejército Nacional Afgano cruzará el Desierto Rojo al sur de Kandahar para desviar la atención talibán del distrito de Panjwai, donde se ha planificado una ofensiva mayor con fuerzas de la OTAN. La actividad de radio talibán monitorizada ha revelado la ubicación de numerosos puntos de control en el área de operaciones (AO), que bloquean nuestra ruta a una entrega de suministros muy necesaria al sur de sus posiciones y el distrito de Panjwai más allá. Debemos atravesar sus defensas y llegar a esos suministros o el convoy estará en problemas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_Description_1M3">
+        <English>From the &lt;marker name="markerODA331"&gt;starting position&lt;/marker&gt;, Talon 30 will assault Taliban positions at &lt;marker name="markerCheckpoint14"&gt;Checkpoint 14&lt;/marker&gt; and &lt;marker name="markerCheckpoint15"&gt;Checkpoint 15&lt;/marker&gt;, eliminating any hostile forces, supplies or munitions at these locations.</English>
+        <Spanish>Desde la &lt;marker name="markerODA331"&gt;posición de inicio&lt;/marker&gt;, Talon 30 atacará las posiciones talibanes de los &lt;marker name="markerCheckpoint14"&gt;puntos de control 14&lt;/marker&gt; y &lt;marker name="markerCheckpoint15"&gt;15&lt;/marker&gt;, eliminando a todas las fuerzas hostiles, todos los suministros y toda la munición allí presentes.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_Title_1M3">
+        <English>Phase 1: Neutralize Taliban checkpoints</English>
+        <Spanish>Fase 1: Neutralizar los puntos de control talibanes</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_cp14_Description_1M3">
+        <English>From the &lt;marker name="markerODA331"&gt;starting position&lt;/marker&gt;, Talon 30 will assault Taliban positions at &lt;marker name="markerCheckpoint14"&gt;Checkpoint 14&lt;/marker&gt;, eliminating any hostile forces, supplies or munitions at these locations.</English>
+        <Spanish>Desde la &lt;marker name="markerODA331"&gt;posición de inicio&lt;/marker&gt;, Talon 30 atacará las posiciones talibanes del &lt;marker name="markerCheckpoint14"&gt;puntos de control 14&lt;/marker&gt;, eliminando a todas las fuerzas hostiles, todos los suministros y toda la munición allí presentes.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_cp14_Title_1M3">
+        <English>Neutralize Checkpoint 14</English>
+        <Spanish>Neutralizar el punto de control 14</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_cp14_IED_Description_1M3">
+        <English>After claring Checkpoint 14, you have found several munitions and explosives inside a tent. Blow them up with their own ordnance.</English>
+        <Spanish>Tras despejar el punto de control 14, has encontrado munición y explosivos dentro de una tienda de campaña. Reviéntalos con sus propios polvorines.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_cp14_IED_Title_1M3">
+        <English>Destroy munitions</English>
+        <Spanish>Destruir la munición</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_cp15_Description_1M3">
+        <English>From the &lt;marker name="markerODA331"&gt;starting position&lt;/marker&gt;, Talon 30 will assault Taliban positions at &lt;marker name="markerCheckpoint15"&gt;Checkpoint 15&lt;/marker&gt;, eliminating any hostile forces, supplies or munitions at these locations.</English>
+        <Spanish>Desde la &lt;marker name="markerODA331"&gt;posición de inicio&lt;/marker&gt;, Talon 30 atacará las posiciones talibanes del &lt;marker name="markerCheckpoint15"&gt;puntos de control 15&lt;/marker&gt;, eliminando a todas las fuerzas hostiles, todos los suministros y toda la munición allí presentes.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_cp15_Title_1M3">
+        <English>Neutralize Checkpoint 15</English>
+        <Spanish>Neutralizar el punto de control 15</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_Description_1M3">
+        <English>Our support drop was confirmed last night somewhere in the &lt;marker name="markerSupplydropArea"&gt;designated area&lt;/marker&gt;, all we need to do is locate it and radio back to Eagle 10.</English>
+        <Spanish>Anoche se confirmó nuestra entrega de suministros en alguna parte de la &lt;marker name="markerSupplydropArea"&gt;zona designada&lt;/marker&gt;. Todo lo que tenemos que hacer es localizarlos y avisar por radio a Eagle 10.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj2_Title_1M3">
+        <English>Phase 2: Locate supply drop</English>
+        <Spanish>Fase 2: Localizar la entrega de suministros</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj3_Description_1M3">
+        <English>Once the supplies have been located, Talon 30 will move SW to secure a &lt;marker name="markerRVpoint"&gt;rendezvous point&lt;/marker&gt; for all elements in the convoy.</English>
+        <Spanish>Una vez se hayan localizado los suministros, Talon 30 avanzará hacia el sudoeste para asegurar un &lt;marker name="markerRVpoint"&gt;punto de reunión&lt;/marker&gt; para todos los elementos del convoy.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj3_Title_1M3">
+        <English>Phase 3: Proceed to RV point</English>
+        <Spanish>Fase 3: Proceder al punto de reunión</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_1M3">
+        <English>Red Desert</English>
+        <Spanish>Desierto Rojo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_Intro_1M3">
+        <English>Mission 3 Intro</English>
+        <Spanish>Misión 3: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_Outro_1M3">
+        <English>Mission 3 Outro</English>
+        <Spanish>Misión 3: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionDescription_1M3">
+        <English>After leaving Kandahar due south, you must now cross part of the Red Desert to reach the Panjwayi Valley, clearing two enemy checkpoints and securing an airdrop of supplies along the way.</English>
+        <Spanish>Después de abandonar Kandahar en dirección al sur, debes cruzar parte del Desierto Rojo para llegar al distrito de Panjwai, despejando dos puntos de control enemigos y asegurando una entrega aérea de suministros a lo largo del camino.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_text_1M3">
+        <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER III - Red Desert&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'The journey of a thousand miles begins with one step, and a lot of bitching.'&lt;br/&gt;&lt;br/&gt;-UNKNOWN&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO III: Desierto Rojo&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«El viaje de mil kilómetros comienza con un solo paso, y mucho dar por culo».&lt;br/&gt;&lt;br/&gt;—DESCONOCIDO&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel1_1M3">
+        <English>Cpt. Rusty Bradley</English>
+        <Spanish>Cap. Rusty Bradley</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel2_1M3">
+        <English>ODA 331, US Army SF</English>
+        <Spanish>ODA 331, Ejérc. de EE. UU.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel3_1M3">
+        <English>South of Kandahar</English>
+        <Spanish>Sur de Kandahar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel4_1M3">
+        <English>August 27, 2006 - 0540</English>
+        <Spanish>27 agosto 2006 - 0540</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message1_1M3">
+        <English>Alright, we have a lot of ground to cover this morning. Do both of you guys understand your objectives?</English>
+        <Spanish>Vale, tenemos que cubrir mucho terreno esta mañana. ¿Entendéis los dos vuestros objetivos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message2_1M3">
+        <English>Yes, sir! We'll scout out the pump station and set up a forward OP to cover Rusty's team.</English>
+        <Spanish>¡Sí, señor! Investigaremos la estación de bombeo y montaremos un puesto de observación de avanzada para cubrir al equipo de Rusty.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message3_1M3">
+        <English>Right. Meanwhile, we'll swing around the refinery's flank, hit enemy Checkpoints 14 and 15, and then locate the supply drop.</English>
+        <Spanish>Exacto. Mientras tanto, nosotros recorreremos el flanco de la refinería, atacaremos los puntos de control 14 y 15, y luego localizaremos el paquete de suministros.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message4_1M3">
+        <English>Excellent. Move out, gentlemen. And good luck.</English>
+        <Spanish>Excelente. En marcha, caballeros. Y buena suerte.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message5_1M3">
+        <English>I'm gonna take Ole Girl only. Bill and crew, you guys hang back until we locate the supplies.</English>
+        <Spanish>Solo me voy a llevar a Ole Girl. Bill y compañía, quedaos aquí hasta que encontremos los suministros.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message6_1M3">
+        <English>Solid copy, Cap. We won't let the rest of this coffee go to waste.</English>
+        <Spanish>Recibido, capi. No dejaremos que el resto del café se eche a perder.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message7_1M3">
+        <English>Talon 31 to Talon 30, Checkpoint 14 is clear of all hostiles. How copy, over.</English>
+        <Spanish>Talon 31 a Talon 30, el punto de control 14 está despejado. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message8_1M3">
+        <English>Talon 31 to Talon 30, we've found some enemy munitions and bomb materials at Checkpoint 14. We'll use their own ordnance to take them out, over.</English>
+        <Spanish>Talon 31 a Talon 30, hemos encontrado munición enemiga y materiales de bombas en el punto de control 14. Usaremos sus propios polvorines para destruirlos, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message9_1M3">
+        <English>Talon 26 to Talon 30, be advised: pump station is clear, we're now setting up overwatch, out.</English>
+        <Spanish>Talon 26 a Talon 30, atención: la estación de bombeo está despejada, vamos a montar guardia, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message10_1M3">
+        <English>Talon 26 to Talon 31, be advised: overwatch has spotted a small Taliban convoy entering the drop zone from the southwest. Watch yourselves, out.</English>
+        <Spanish>Talon 26 a Talon 31, atención: vigilancia ha detectado un pequeño convoy talibán entrando en la zona de entrega desde el sudoeste. Tengan cuidado, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message11_1M3">
+        <English>Talon 31 to Talon 30, Checkpoint 14 has been neutralized, how copy? Over.</English>
+        <Spanish>Talon 31 a Talon 30, el punto de control 14 ha sido neutralizado. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message12_1M3">
+        <English>Solid copy, Talon 31. Proceed to Checkpoint 15, out.</English>
+        <Spanish>Alto y claro, Talon 31. Continúen al punto de control 15, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message13_1M3">
+        <English>Talon 31 to Talon 30, Checkpoint 15 is clear, no munitions detected. How copy, over?</English>
+        <Spanish>Talon 31 a Talon 30, el punto de control 15 está despejado, ninguna munición detectada. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message14_1M3">
+        <English>Solid copy on all, Talon 31, great work. Now find those supplies! Out.</English>
+        <Spanish>Todo recibido, Talon 31, gran trabajo. ¡Ahora encuentren esos suministros! Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message15_1M3">
+        <English>Talon 31 to Talon 30, We've found the drop, everything appears to be intact, how copy? Over.</English>
+        <Spanish>Talon 31 a Talon 30: hemos encontrado los suministros, todo parece estar intacto. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message16_1M3">
+        <English>Solid copy on your last, Talon 31, I'm sending Bill to secure the DZ, proceed to the rendezvous at 000-001.</English>
+        <Spanish>Recibido, Talon 31, voy a mandar a Bill a asegurar la zona de entrega. Procedan al punto de reunión en 000-001.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message17_1M3">
+        <English>Talon 31 to Talon 30, we've arrived at the rendezvous point at grid ref 000-001, awaiting further instructions, over.</English>
+        <Spanish>Talon 31 a Talon 30, hemos llegado al punto de reunión en las coordenadas 000-001, esperamos instrucciones, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message18_1M3">
+        <English>Copy that, Talon 31. You're to hold the area and keep an eye out for the convoy.</English>
+        <Spanish>Recibido, Talon 31. Defiendan la zona y estén atentos al convoy.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message19_1M3">
+        <English>Nice to have Talon 26 in the lead for a change.</English>
+        <Spanish>Qué bien que Talon 26 tome la delantera para variar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerRegistration_1M3">
+        <English>Arrivals Registration</English>
+        <Spanish>Registro de llegadas</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerPump_1M3">
+        <English>Pump Station</English>
+        <Spanish>Estación de bombeo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerCP14_1M3">
+        <English>Checkpoint 14</English>
+        <Spanish>Punto de control 14</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerCP15_1M3">
+        <English>Checkpoint 15</English>
+        <Spanish>Punto de control 15</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerANA_1M3">
+        <English>ANA</English>
+        <Spanish>ENA</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_markerODA_1M3">
+        <English>ODA 331</English>
+        <Spanish>ODA 331</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_supplies_action_1M3">
+        <English>Radio supplies located</English>
+        <Spanish>Informar de los suministros</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_supplies_marker_1M3">
+        <English>Supply drop</English>
+        <Spanish>Entrega de suministros</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end1_subtitle_1M3">
+        <English>Supplies located</English>
+        <Spanish>Suministros localizados</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end1_description_1M3">
+        <English>You managed to eliminate two remote Taliban checkpoints, disrupting their 'rat trail' supply lines, and you located our vital supply drop, which will ensure we can continue through the desert, all while managing to keep your squad alive. Good work, but the fight has barely started.</English>
+        <Spanish>Has conseguido eliminar dos puntos de control talibanes remotos, perturbando sus líneas de suministro, y has localizado nuestra vital entrega de suministros, que garantizará que podamos continuar por el desierto, todo mientras te las arreglabas para mantener a tu escuadrón con vida. Buen trabajo, pero la lucha acaba de empezar.</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>
