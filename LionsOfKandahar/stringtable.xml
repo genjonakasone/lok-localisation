@@ -317,6 +317,11 @@
         <Spanish>SGTO. RILEY</Spanish>
         <Polish></Polish>
       </Key>
+	<Key ID="STR_LOK_martin_dialogue">
+        <English>MAJ. MARTIN</English>
+        <Spanish>MAY. MARTIN</Spanish>
+        <Polish></Polish>
+      </Key>
 	  <Key ID="STR_LOK_greg_dialogue">
         <English>SFC GREG</English>
         <Spanish>SFC GREG</Spanish>
