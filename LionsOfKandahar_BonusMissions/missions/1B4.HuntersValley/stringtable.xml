@@ -5,582 +5,582 @@
 	  <Key ID="STR_LOK_BriefingNotes_1B4">
         <English>EDITOR'S NOTES:&lt;br/&gt;Just so you know, you and your group are invincible when the mission starts. Once you disembark from the Chinook, a dialogue will play and your game will save. Ten seconds after that, your invulnerability will turn off. Plan accordingly. This is made so the hot landing is more action-packed and, really, more accurate to the real events. Getting through that without god mode would be impossible.&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;Mission based on Bernd Horn's book "No Ordinary Men".</English>
         <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Para que lo sepas, tu equipo y tú sois invencibles al comenzar la misión. Cuando te bajes del Chinook, se producirá un diálogo y se te guardará la partida. Diez segundos después de eso, se te quitará la invulnerabilidad. Haz planes en consecuencia. Esto lo he hecho para que el aterrizaje en caliente sea más peliculero y fiel a los sucesos reales. Sobrevivir a eso sería imposible sin la invencibilidad.&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Misión basada en el libro «No Ordinary Men» de Bernd Horn.</Spanish>
-        <Polish></Polish>
+        <Polish>OD AUTORA:&lt;br/&gt;Ty i twoja grupa jesteście nieśmiertelni podczas startu misji. Gdy tylko opuścicie Chinooka, rozpocznie się konwersacja, a gra dokona zapisu. 10 sekund później nieśmeirtelność się wyłączy. Dobrze zaplanuj ten segment. Misja została zaprojektowana w taki sposób, by walka rozpoczęła się jeszcz w trakcie lądowania, co nieco przybliża ją do rzeczywistych wydarzeń. Przejście tego etapu bez nieśmiertelności byłoby praktycznie niemożliwe..&lt;br/&gt;&lt;br/&gt;PODZIĘKOWANIA:&lt;br/&gt;Berndowi Hornowi za książkę "No Ordinary Men", na której jest oparty ten scenariusz...</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingCommand_Text_1B4">
         <English>A. Signal:&lt;br/&gt; Pike 26 - Col. CAMERON (CANSOFCOM CO)&lt;br/&gt; Arrow 10 - Lt. Col. SMETHURST (SOTG Commander)&lt;br/&gt; Hawk 12 - Cpt. RUTLEDGE (you)&lt;br/&gt; Hawk 13 - Cpt. BLACKWELL&lt;br/&gt; Hawk 14 - Cpt. BECK&lt;br/&gt; Hyena 5 - Lt. AMIR&lt;br/&gt; Nomad 53 - Cpt. ANDREWS (4 RAR QRF)&lt;br/&gt; Dingo 41 - Australian 5th Aviation Rgt.&lt;br/&gt; Wraith 17 - AC-130 Overwatch&lt;br/&gt; Windmill 22 - 301 Squadron AH-64D Apaches</English>
         <Spanish>A. Señal:&lt;br/&gt; Pike 26: Cnel. CAMERON (oficial al mando de CANSOFCOM)&lt;br/&gt; Arrow 10: Tte. Cnel. SMETHURST (comandante del SOTG)&lt;br/&gt; Halcón 12: Cap. RUTLEDGE (tú)&lt;br/&gt; Halcón 13: Cap. BLACKWELL&lt;br/&gt; Halcón 14: Cap. BECK&lt;br/&gt; Hiena 5: Lt. AMIR&lt;br/&gt; Nomad 53: Cap. ANDREWS (FRR del 4.º RAR)&lt;br/&gt; Dingo 41: 5.º Reg. de Aviación australiano&lt;br/&gt; Wraith 17: Apoyo de AC-130&lt;br/&gt; Windmill 22: AH-64D Apaches del 301.er Escuadrón</Spanish>
-        <Polish></Polish>
+        <Polish>A. Znaki wywoławcze:&lt;br/&gt; Pika 26 - Płk CAMERON (Ofic. dow. CANSOFCOM)&lt;br/&gt; Strzała 10 - Ppłk SMETHURST (Ofic. dow. SOTG)&lt;br/&gt; Jastrząb 12 - Kpt. RUTLEDGE (ty)&lt;br/&gt; Jastrząb 13 - Kpt. BLACKWELL&lt;br/&gt; Jastrząb 14 - Kpt. BECK&lt;br/&gt; Hiena 5 - Por. AMIR&lt;br/&gt; Nomad 53 - Kpt. ANDREWS (Siły szybkiero reagowania 4. RAR)&lt;br/&gt; Dingo 41 - Australijski 5. Regiment Powietrzny&lt;br/&gt; Widmo 17 - Obserwatorzy AC-130&lt;br/&gt; Wiatrak 22 - 301. Eskadra AH-64D Apache</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingSustainment_Text_1B4">
         <English>1. Supply: Standard desert CADPAT uniforms and MBSS/PACA vests, MICH helmets, standard issue JTF 2 small arms including C8 SFW carbines, MP5SD and P90 submachine guns, and P226 pistols.&lt;br/&gt;2. Transportation: Two CH-47D Chinooks from the Australian 5th Aviation Regiment will drop the assault team at the designated landing zones. After the operation is completed, they will come back to extract them.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: The assault team has 1x embedded medical sergeant, in the event of a mission failure due to substantial casualties, CANSOFCOM will authorize CASEVAC.</English>
         <Spanish>1. Suministros: Uniformes estándar en CADPAT árido y chalectos MBSS/PACA, cascos MICH, armas reglamentarias del JTF 2 como carabinas C8 SFW, subfusiles MP5SD y P90 y pistolas P226.&lt;br/&gt;2. Transporte: Dos CH-47D Chinooks del 5.º Regimiento de Aviación australiano dejarán al equipo de asalto en las zonas de aterrizaje designadas. Al concluirse la operación, volverán para extraerlos.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: El equipo de asalto tiene 1x sargento médico asignado. En caso de sufrir una cantidad considerable de bajas, CANSOFCOM autorizará CASEVAC.</Spanish>
-        <Polish></Polish>
+        <Polish>1. Wyposażenie: Standardowe pustynne uniformy CADPAT i kamizelki MBSS/PACA, hełmy MICH, standardowe karabiny małokalibrowe JTF2, w tym karabiny C8 SWF, MP5SD, P90, pistolety P226.&lt;br/&gt;2. Środki transportu: Dwa śmigłowce CH-47D Chinook z australijskiego 5. Regimentu Powietrznego zrzucą oddziały szturmowe w wyznaczonych strefach lądowania. Po ukończeniu operacji wrócą one dokonać ekstrakcji.&lt;br/&gt;3. Usługi: Brak.&lt;br/&gt;4. Konserwacja: Brak.&lt;br/&gt;5. CASEVAC: Oddział szturmowy posiada jednego medyka, w razie niepowodzenia misji spowodowanego znacznymi stratami, CANSOFCOM autoryzuje CASEVAC.</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingExecution_Text_1B4">
         <English>Three JTF 2 detachments (callsigns Hawk 12 to 14) and an ANA commando unit (callsign Hyena 5) will disembark from two Australian CH-47D Chinooks at the designated landing zones, &lt;marker name="LZA"&gt;here&lt;/marker&gt; and &lt;marker name="LZB"&gt;here&lt;/marker&gt;. They will proceed to clear &lt;marker name="markerSabah"&gt;this compound&lt;/marker&gt; and assassinate local commander Osami Bari, who we know for certain is in his house inside the compound. Once both objectives are complete, all units will return to their landing zones and call for extraction from the same Australian helicopters. An American AC-130 Spectre will provide support from the air, and an Australian Commando QRF will be nearby if needed.</English>
         <Spanish>Tres destacamentos del JTF 2 (indicativos Halcón 12 a 14) y una unidad de comandos del ENA (indicativo Hiena 5) bajarán de dos CH-47D Chinooks australianos en las zonas de aterrizaje designadas, &lt;marker name="LZA"&gt;aquí&lt;/marker&gt; y &lt;marker name="LZB"&gt;aquí&lt;/marker&gt;. Procederán a despejar &lt;marker name="markerSabah"&gt;este complejo&lt;/marker&gt; y asesinarán al comandante local Osami Bari, de quien sabemos con total certeza que está dentro de su casa, en el complejo. Cuando ambos objetivos hayan sido cumplidos, todas las unidades volverán a sus zonas de aterrizaje y pedirán extracción de los mismos helicópteros australianos. Un AC-130 Spectre estadounidense prestará apoyo desde el aire, y una FRR de comandos australianos estará a la espera de ser necesaria.</Spanish>
-        <Polish></Polish>
+        <Polish>Trzy oddziały JTF2 (znaki wywoławcze od Jastrząb 12 do 14) i jednostka komandosów NAA (znak wywoławczy Hiena 5) desantują się z dwóch australijskich śmigłowców Chinook w wyznaczonych strefach lądowania w &lt;marker name="LZA"&gt;tym miejscu&lt;/marker&gt; i &lt;marker name="LZB"&gt;tutaj&lt;/marker&gt;. Następnie rozpoczną przeszukanie&lt;marker name="markerSabah"&gt;tego kompleksu&lt;/marker&gt; i wyeliminują oficera Osamiego Bariego, który najprawdopodobniej znajduje się w swoim domu wewnątrz tego kompleksu. Gdy obydwa zadania zostaną wykonane, wszystkie jednostki wrócą do swoich stref lądowania i wezwą ekstrację z użyciem tych samych Chinooków. Amerykański AC-130 Spectre zapewni wsparcie z powietrza, w pobliżu będą też oczekiwać siły szybkiego reagowania australijskich komandosów.</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingMission_Text_1B4">
         <English>Who: Hawk 12, Joint Task Force 2, CANSOFCOM&lt;br/&gt;What: ASSASSINATE Osami Bari&lt;br/&gt;Where: In vicinity, Chora Valley&lt;br/&gt;When: 000000ZJUL10&lt;br/&gt;Why: Operation Perth</English>
         <Spanish>Quién: Halcón 12, Joint Task Force 2, CANSOFCOM&lt;br/&gt;Qué: ASESINAR a Osami Bari&lt;br/&gt;Dónde: En las inmediaciones, valle de Chora&lt;br/&gt;Cuándo: 000000ZJUL10&lt;br/&gt;Por qué: Operación Perth</Spanish>
-        <Polish></Polish>
+        <Polish>Kto: Jastrząb 12, Joint Task Force 2, CANSOFCOM&lt;br/&gt;Co: WYELIMINOWAĆ Osamiego Bariego&lt;br/&gt;Gdzie: Okolica doliny Chora&lt;br/&gt;Kiedy: 000000ZLIP10&lt;br/&gt;Czemu: Operacja Perth</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingSituation_Text_1B4">
         <English>A. ENEMY FORCES&lt;br/&gt;Size: 50-150 + possible reinforcements in vicinity, estimated 300-500 in the AO at large&lt;br/&gt;Activity: Light movement observed, moderate radio chatter&lt;br/&gt;Location: Chora Valley, Uruzgan Province&lt;br/&gt;Unit: Taliban mixed infantry with technicals and armed civilian supporters&lt;br/&gt;Time Observed: July 9, 2006 1900 hrs&lt;br/&gt;Equipment: Unknown, expect Soviet small arms&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To capture or assassinate Osami Bari, a powerful local commander, in the hope of disrupting Taliban operations in Uruzgan Province.&lt;br/&gt;2. Adjacent Units: 4th Battalion, Royal Australian Regiment (callsign: Nomad 53), ANA 17th Kandak (callsign: Hyena 5 Actual).&lt;br/&gt;3. Supporting: A USAF AC-130 will provide air support and overwatch during the entire operation, with fire missions being directed by an attached American JTAC. Artillery support will not be available for this mission. CASEVAC will only be available by request of CANSOFCOM. The QRF is available by request of Hawk 12.</English>
         <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: 50-150 + posibles refuerzos en las inmediaciones, se estiman 300-500 en el AO en general&lt;br/&gt;Actividad: Ligeros movimientos observados, vibraciones moderadas de radio&lt;br/&gt;Ubicación: Inmediaciones, valle de Chora, provincia de Uruzgán&lt;br/&gt;Unidades: Infantería mixta talibán con técnicos y defensores civiles armados&lt;br/&gt;Fecha de observación: 9 de julio de 2006, 1900 hrs&lt;br/&gt;Equipo: Se desconoce, cabe esperar armas ligeras soviéticas&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Capturar o asesinar a Osami Bari, un poderoso comandante local, con la esperanza de perturbar las operaciones talibanes en la provincia de Uruzgán.&lt;br/&gt;2. Unidades adyacentes: 4.º Batallón, Real Regimiento Australiano (indicativo: Nomad 53), 17.º Kandak del ENA (indicativo: Hiena 5 Jefe).&lt;br/&gt;3. Apoyo: Un AC-130 de la Fuerza Aérea de los Estados Unidos proporcionará apoyo aéreo y vigilancia durante toda la operación. Un JTAC estadounidense agregado ordenará las misiones de fuego. No habrá apoyo de artillería disponible para esta misión. La CASEVAC solo estará autorizada cuando la solicite Halcón 12.</Spanish>
-        <Polish></Polish>
+        <Polish>A. WROGIE SIŁY&lt;br/&gt;Wielkość: 50-150 + możliwe wsparcie, około 300-500 w całej strefie operacyjnej&lt;br/&gt;Aktywność: Zaobserwowana niewielka ruchliwość, średnia aktywność radiowa&lt;br/&gt;Miejsce: Dolina Chora, Prowincja Uruzgan&lt;br/&gt;Jednostka: Mieszana piechota Talibów z pojazdami typu technical i wsparciem uzbrojonych cywili&lt;br/&gt;Czas obserwacji: 9 lipca 2006 r. - 1900&lt;br/&gt;Wyposażenie: Nieznane, spodziewana jest post-sowiecka broń małokalibrowa&lt;br/&gt;&lt;br/&gt;B. SOJUSZNICZE SIŁY&lt;br/&gt;1. Misja i intencje dowództwa: Pojmać lub wyeliminować Osamiego Bariego, potężnego dowódcę Talibów, w celu sabotażowania operacji Talibanu w Prowincji Uruzgan.&lt;br/&gt;2. Jednostki: 4. Batalion Australijskiego Regimentu Królewskiego (znak wywoławczy: Nomad 53), 17. Kandak NAA (znak wywoławczy: Hiena 5 Actual).&lt;br/&gt;3. Wsparcie: AC-130 amerykańskich sił powietrznych zapewni wsparcie i obserwację podczas całej operacji, z misjami ogniowymi kierowanymi przez przyłączonego amerykańskiego JTACa. Wsparcie artyleryjskie będzie niedostępne podczas tej misji. CASEVAC będzie dostępny jedynie na żądanie CANSOFCOMu. Siły szybkiego reagowania są dostępne na żądanie Jastrzębia 12.</Polish>
       </Key>
 	  <Key ID="STR_LOK_Briefing_Title_1B4">
         <English>Briefing - JTF 2</English>
         <Spanish>Instrucciones: JTF 2</Spanish>
-        <Polish></Polish>
+        <Polish>Odprawa - JTF2</Polish>
       </Key>
 	  <Key ID="STR_LOK_Briefing_Text_1B4">
         <English>Operation Perth was launched earlier this month with the intent of clearing the Chora Valley, 40 km northeast of Tarin Kowt, the base of operations of Dutch and Australian forces in southern Afghanistan. We have identified Osami Bari as a very powerful and influential commander in the valley, so powerful in fact that the civilian populace constantly rejects ISAF's efforts, sometimes even with force. Taking him out will surely cripple the entire Taliban structure in the area. After extensive overwatch and reconnaissance by Coalition forces, it has been confirmed that Bari does not leave his house often, if at all. Canadian special forces have been tasked with clearing his compound and assassinating him, since American SOF are busy in Operation Mountain Thrust, further south in Kandahar Province.</English>
         <Spanish>A principios de mes se dio comienzo a la Operación Perth con la intención de despejar el valle de Chora, a 40 km al noreste de Tarin Kowt, la base de operaciones de las fuerzas neerlandesas y australianas en el sur de Afganistán. Hemos identificado a Osami Bari como un poderosísimo e influyente comandante en el valle, tan poderoso de hecho que la población civil rehúye constantemente a la ISAF, a veces incluso con el uso de la fuerza. Eliminarlo debilitará toda la estructura talibán en la región. Tras una exhaustiva vigilancia y reconocimiento por parte de las fuerzas de la Coalición, se ha confirmado que Bari no sale de su casa a menudo, si es que sale. Se ha encomendado a las fuerzas especiales canadienses la tarea de despejar su complejo y asesinarlo, ya que las fuerzas especiales estadounidenses están ocupadas en la Operación Mountain Thrust, más al sur, en la provincia de Kandahar.</Spanish>
-        <Polish></Polish>
+        <Polish>Operację Perth rozpoczęto na początku tego miesiąca z intencją oczyszczenia Doliny Chora, 40 kilometrów na północny wschód od Tarin Kowt - bazy operacyjnej holenderskich i australijskich sił w południowym Afganistanie. Zidentyfikowaliśmy Osamiego Bariego jako silnego i wpływowego oficera w tej dolinie, w zasadzie na tyle wpływowego, że ludność cywilna nie przestaje odrzucać wysiłków ISAF, nierzadko używa wobec Koalicji przemocy. Wyeliminowanie go zdecydowanie wpłynie negatywnie na struktury Talibanu w okolicy. Po szerokim rozpoznaniu i obserwacji przez siły Koalicji udało się ustalić, że Bari nie opuszcza swojego domu za często, o ile w ogóle. Kanadyjskie siły specjalne otrzymały zadanie oczyścić kompleks budynków, w którym przebywa, i zabić go, gdyż amerykańskie siły specjalne są zajęte Operacją Górski Pchnięcie na południu, w prowincji Kandahar.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_JTF_Description_1B4">
         <English>The operation is a go. Three Canadian JTF 2 detachments and an ANA one will disembark at LZs &lt;marker name="LZA"&gt;Alpha&lt;/marker&gt; and &lt;marker name="LZB"&gt;Bravo&lt;/marker&gt;, at which point they will move into Sabah and clear it of any and all hostiles present.</English>
         <Spanish>La operación ha comenzado. Tres destacamentos del JTF 2 canadiense y uno del ENA se desplegarán en las ZA &lt;marker name="LZA"&gt;Alpha&lt;/marker&gt; y &lt;marker name="LZB"&gt;Bravo&lt;/marker&gt; y entrarán en Sabah para despejarlo de todas las fuerzas hostiles allí presentes.</Spanish>
-        <Polish></Polish>
+        <Polish>Operacja otrzymała zielone światło. Trzy jednostki kanadyjskiego JTF2 i jedna z NAA zdesantują się w strefach lądowania &lt;marker name="LZA"&gt;Alfa&lt;/marker&gt; oraz &lt;marker name="LZB"&gt;Bravo&lt;/marker&gt;, następnie wkroczą do Sabah i oczyszczą go ze wszelkich przeciwników.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_JTF_Title_1B4">
         <English>Phase 1: Seize the compound</English>
         <Spanish>Fase 1: Tomar el complejo</Spanish>
-        <Polish></Polish>
+        <Polish>Faza 1: Zajmij kompleks</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_1_JTF_Description_1B4">
         <English>American ISR has pinpointed local commander Osami Bari inside his compound in the Chora Valley. He appears to be guarded by a couple of personal guards. Our primary objective is to neutralize him in order to disrupt the Taliban chain of command in the region.</English>
         <Spanish>El ISR estadounidense ha localizado al comandante local Osami Bari dentro de su complejo en el valle de Chora. Parece estar custodiado por un par de guardias personales. Nuestro objetivo principal es neutralizarlo para perturbar la cadena de mando talibán en la región.</Spanish>
-        <Polish></Polish>
+        <Polish>Amerykański ISR zlokalizował oficera Osamiego Bariego w jego rezydencji w Dolinie Chora. Jest chroniony przez grupę osobistych strażników. Naszym głównym zadaniem jest jego neutralizacja w celu zakłócenia systemu dowodzenia Talibów w regionie.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_1_JTF_Title_1B4">
         <English>Neutralize Osami Bari</English>
         <Spanish>Neutralizar a Osami Bari</Spanish>
-        <Polish></Polish>
+        <Polish>Zneutralizuj Osamiego Bariego</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_2_JTF_Description_1B4">
         <English>You have located an ordnance cache inside the compound. You have to use an explosive (either from the cache itself or from a teammate) to blow it up.</English>
         <Spanish>Has ubicado un alijo de explosivos dentro del complejo. Tienes que usar un explosivo (del alijo como tal o de un compañero) para detonarlo.</Spanish>
-        <Polish></Polish>
+        <Polish>Zlokalizowałeś skład ładunków wybuchowych wewnątrz kompleksu. Musisz użyć ładunku (ze składu lub od sojusznika), by go wysadzić.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_2_JTF_Title_1B4">
         <English>Destroy the ordnance cache</English>
         <Spanish>Destruir el alijo de explosivos</Spanish>
-        <Polish></Polish>
+        <Polish>Zniszcz skład wroga</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_JTF_Description_1B4">
         <English>Once Bari is down and Sabah is seized, the Australian Chinooks will pick up the assault force at the same LZs, and together they will then return to base.</English>
         <Spanish>Cuando Bari haya caído y Sabah esté en nuestras manos, los Chinooks australianos recogerán a la fuerza de asalto en las mismas ZA y, juntos, volverán a la base.</Spanish>
-        <Polish></Polish>
+        <Polish>Gdy tylko Bari padnie, a Sabah zostanie przejęte, australijskie Chinooki zbiorą żołnierzy z tych samych punktów lądowania i wspólnie wrócą do bazy.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_JTF_Title_1B4">
         <English>Phase 2: Extract</English>
         <Spanish>Fase 2: Extraer</Spanish>
-        <Polish></Polish>
+        <Polish>Faza 2: Ekstrakcja</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj3_JTF_Description_1B4">
         <English>ISR reports large numbers of ACM fighters and even armed civilians converging on the cleared compound. You have to hold them off so the helicopters can arrive safely.</English>
         <Spanish>El ISR informa de grandes cantidades de combatientes de las ACM acercándose al complejo despejado. Tienes que repelerlos para que los helicópteros puedan llegar a salvo.</Spanish>
-        <Polish></Polish>
+        <Polish>ISR zgłasza dużą liczbę wojowników sił antykoalicyjnych, nawet uzbrojonych cywili, kierujących się w stronę oczyszczonego kompleksu. Musicie ich odeprzeć, by śmigłowce mogły bezpiecznie nadlecieć i wylądować.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj3_JTF_Title_1B4">
         <English>Defend the compound</English>
         <Spanish>Defender el complejo</Spanish>
-        <Polish></Polish>
+        <Polish>Broń kompleksu</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj4_JTF_Description_1B4">
         <English>The Australian Commando QRF, callsign Nomad 53, has set up a blocking position west of the compound in order to secure a safe way out for the Canadians and Afghans. Link up with them and extract as soon as possible.</English>
         <Spanish>La FRR de los comandos australianos, indicativo Nomad 53, ha formado una posición de bloqueo al oeste del complejo para garantizarles una salida a los canadienses y afganos. Reúnete con ellos y extrae lo antes posible.</Spanish>
-        <Polish></Polish>
+        <Polish>Siły szybkiego reagowania australijskich komandosów, znak wywoławczy Nomad 53 rozstawiły pozycję obronną na zachód od kompleksu, w celu zabezpieczenia drogi odwrotu dla Kanadyjczyków i Afgańczyków. Połącz się z nimi i ekstraktuj tak szybko, jak to możliwe.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj4_JTF_Title_1B4">
         <English>Link up with the Australian Commandos</English>
         <Spanish>Reunirse con los comandos australianos</Spanish>
-        <Polish></Polish>
+        <Polish>Przegrupuj się z komandosami</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj5_JTF_Description_1B4">
         <English>The Australians have planned an emergency evac point for you. Follow them and wait for extraction.</English>
         <Spanish>Los australianos han planeado un punto de evacuación de emergencia. Síguelos y espera a la extracción.</Spanish>
-        <Polish></Polish>
+        <Polish>Australijczycy zaplanowali awaryjny punkt ewakuacyjny dla ciebie. Podążaj za nimi i oczekuj na ekstrakcję.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj5_JTF_Title_1B4">
         <English>Follow the QRF to the extraction point</English>
         <Spanish>Sigue a la FRR al punto de extracción</Spanish>
-        <Polish></Polish>
+        <Polish>Podążaj za QRFem do punktu ekstrakcji</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj6_JTF_Description_1B4">
         <English>The Chinook is here! Pick yourself up and get out of here before it's too late!</English>
         <Spanish>¡Ya ha llegado el Chinook! ¡Coge el petate y sal de aquí antes de que sea demasiado tarde!</Spanish>
-        <Polish></Polish>
+        <Polish>Chinook nadleciał! Zbieraj sie i wynoś stąd, zanim będzie za późno!</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj6_JTF_Title_1B4">
         <English>Extract!</English>
         <Spanish>¡Extraer!</Spanish>
-        <Polish></Polish>
+        <Polish>Ekstraktuj się!</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionTitle_1B4">
         <English>More Than Meets the Eye: Assault</English>
         <Spanish>Las apariencias engañan: Asalto</Spanish>
-        <Polish></Polish>
+        <Polish>Na drugi rzut oka: Szturm</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionTitle_Intro_1B4">
         <English>More Than Meets the Eye: Assault Intro</English>
         <Spanish>Las apariencias engañan: Asalto: Intro</Spanish>
-        <Polish></Polish>
+        <Polish>Na drugi rzut oka: Szturm: Intro</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionDescription_1B4">
         <English>The Taliban are resurging in southern Afghanistan. Coalition special forces have planned a grand assault in the Chora Valley in order to capture an enemy compound and assassinate a major commander. As part of a Canadian JTF 2 detachment, lead the main assault on the compound.</English>
         <Spanish>Los talibanes están resurgiendo en el sur de Afganistán. Las fuerzas especiales de la Coalición han planeado un gran asalto en el valle de Chora para capturar un complejo enemigo y asesinar a un importante comandante. Como parte de un destacamento canadiense del JTF 2, dirige el asalto principal al complejo.</Spanish>
-        <Polish></Polish>
+        <Polish>Taliban przeciwstawia się nam w południowym Afganistanie. Siły specjalne Koalicji zaplanowały wielki szturm na Dolinę Chora w celu zajęcia wrogiego kompleksu budynków i wyeliminowania potężnego oficera. Jako część jednostki kanadyjskiego JTF2 będziesz dowodzić atakiem na kompleks.</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionDescriptionLocked_1B4">
         <English>Find enemy intel in 'The Voice of Death' to unlock this mission.</English>
         <Spanish>Encuentra inteligencia enemiga en «La voz de la muerte» para desbloquear esta misión.</Spanish>
-        <Polish></Polish>
+        <Polish>Znajdź wrogie informacje wywiadowcze w "Głosie śmierci", by odblokować tę misję.</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_text_1B4">
         <English>&lt;t color='#09ff00' size='3.5'&gt;MORE THAN MEETS THE EYE&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'The direct use of force is such a poor solution to any problem, it is generally employed only by small children and large nations.'&lt;br/&gt;&lt;br/&gt;-DAVID FRIEDMAN&lt;/t&gt;</English>
         <Spanish>&lt;t color='#09ff00' size='3.5'&gt;MORE THAN MEETS THE EYE&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«El uso directo de la fuerza es una solución tan pésima para cualquier problema que solo la suelen emplear los niños y las grandes naciones».&lt;br/&gt;&lt;br/&gt;—DAVID FRIEDMAN&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t color='#09ff00' size='3.5'&gt;NA DRUGI RZUT OKA&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'Bezpośrednie użycie siły jest beznadziejnym rozwiązaniem każdego problemu, zwykle stosują to małe dzieci i wielkie narody.'&lt;br/&gt;&lt;br/&gt;- DAVID FRIEDMAN&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel1_1B4">
         <English>Cpt. Frank Rutledge</English>
         <Spanish>Cap. Frank Rutledge</Spanish>
-        <Polish></Polish>
+        <Polish>Kpt. Frank Rutledge</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel2_1B4">
         <English>JTF 2, CANSOFCOM</English>
         <Spanish>JTF 2, CANSOFCOM</Spanish>
-        <Polish></Polish>
+        <Polish>JTF2, CANSOFCOM</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel3_1B4">
         <English>Chora Valley</English>
         <Spanish>Valle de Chora</Spanish>
-        <Polish></Polish>
+        <Polish>Dolina Chora</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel4_1B4">
         <English>July 10, 2006 - 0100</English>
         <Spanish>10 julio 2006 - 0100</Spanish>
-        <Polish></Polish>
+        <Polish>10 lipca 2006 r. - 0100</Polish>
       </Key>
 	  <Key ID="STR_LOK_canhq_radio_1B4">
         <English>Pike 26 (Col. Cameron)</English>
         <Spanish>Pike 26 (Cnel. Cameron)</Spanish>
-        <Polish></Polish>
+        <Polish>Pika 26 (Płk Cameron)</Polish>
       </Key>
 	  <Key ID="STR_LOK_canhq_dialogue_1B4">
         <English>COL. CAMERON</English>
         <Spanish>CNEL. CAMERON</Spanish>
-        <Polish></Polish>
+        <Polish>PŁK CAMERON</Polish>
       </Key>
 	  <Key ID="STR_LOK_aushq_radio_1B4">
         <English>Arrow 10 (Lt. Col. Smethurst)</English>
         <Spanish>Arrow 10 (Tte. Cnel. Smethurst)</Spanish>
-        <Polish></Polish>
+        <Polish>Strzała 10 (Ppłk Smethurst</Polish>
       </Key>
 	  <Key ID="STR_LOK_chinook1_1B4">
         <English>CHINOOK PILOT</English>
         <Spanish>PILOTO DEL CHINOOK</Spanish>
-        <Polish></Polish>
+        <Polish>PILOT CHINOOKA</Polish>
       </Key>
 	  <Key ID="STR_LOK_chinook1_radio_1B4">
         <English>Dingo 41</English>
         <Spanish>Dingo 41</Spanish>
-        <Polish></Polish>
+        <Polish>Dingo 41</Polish>
       </Key>
 	  <Key ID="STR_LOK_JTFleader_dialogue_1B4">
         <English>CPT. RUTLEDGE</English>
         <Spanish>CAP. RUTLEDGE</Spanish>
-        <Polish></Polish>
+        <Polish>KPT. RUTLEDGE</Polish>
       </Key>
 	  <Key ID="STR_LOK_Hawk12Grenadier_dialogue_1B4">
         <English>SGT. BERNARD</English>
         <Spanish>SGTO. BERNARD</Spanish>
-        <Polish></Polish>
+        <Polish>SIERŻ. BERNARD</Polish>
       </Key>
 	  <Key ID="STR_LOK_JTFleader_radio_1B4">
         <English>Hawk 12</English>
         <Spanish>Halcón 12</Spanish>
-        <Polish></Polish>
+        <Polish>Jastrząb 12</Polish>
       </Key>
 	  <Key ID="STR_LOK_hawk13_radio_1B4">
         <English>Hawk 13</English>
         <Spanish>Halcón 13</Spanish>
-        <Polish></Polish>
+        <Polish>Jastrząb 13</Polish>
       </Key>
 	  <Key ID="STR_LOK_JTFSniperTeam_radio_1B4">
         <English>Hawk 13 (Cpt. Blackwell)</English>
         <Spanish>Halcón 13 (Cap. Blackwell)</Spanish>
-        <Polish></Polish>
+        <Polish>Jastrząb 13 (Kpt. Blackwell)</Polish>
       </Key>
 	  <Key ID="STR_LOK_JTFHawk14_radio_1B4">
         <English>Hawk 14 (Cpt. Beck)</English>
         <Spanish>Halcón 14 (Cap. Beck)</Spanish>
-        <Polish></Polish>
+        <Polish>Jastrząb 14 (Kpt. Beck)</Polish>
       </Key>
 	  <Key ID="STR_LOK_JTFHawk14_dialogue_1B4">
         <English>CPT. BECK</English>
         <Spanish>CAP. BECK</Spanish>
-        <Polish></Polish>
+        <Polish>KPT. BECK</Polish>
       </Key>
 	  <Key ID="STR_LOK_JTFSniper_radio_1B4">
         <English>Hawk 13 (Lt. Demercier)</English>
         <Spanish>Halcón 13 (Tte. Demercier)</Spanish>
-        <Polish></Polish>
+        <Polish>Jastrząb 13 (Por. Demercier)</Polish>
       </Key>
 	  <Key ID="STR_LOK_ANACommandos_radio_1B4">
         <English>Hyena 5 (Lt. Amir)</English>
         <Spanish>Hiena 5 (Tte. Amir)</Spanish>
-        <Polish></Polish>
+        <Polish>Hiena 5 (Por. Amir)</Polish>
       </Key>
 	  <Key ID="STR_LOK_ANACommandos_dialogue_1B4">
         <English>LT. AMIR</English>
         <Spanish>TTE. AMIR</Spanish>
-        <Polish></Polish>
+        <Polish>POR. AMIR</Polish>
       </Key>
 	  <Key ID="STR_LOK_4RARCommandos_dialogue_1B4">
         <English>CPT. ANDREWS</English>
         <Spanish>CAP. ANDREWS</Spanish>
-        <Polish></Polish>
+        <Polish>KPT. ANDREWS</Polish>
       </Key>
 	  <Key ID="STR_LOK_4RARCommandos_radio_1B4">
         <English>Nomad 53 (Cpt. Andrews)</English>
         <Spanish>Nomad 53 (Cap. Andrews)</Spanish>
-        <Polish></Polish>
+        <Polish>Nomad 53 (Kpt. Andrews)</Polish>
       </Key>
 	  <Key ID="STR_LOK_AC130_radio_1B4">
         <English>Wraith 17</English>
         <Spanish>Wraith 17</Spanish>
-        <Polish></Polish>
+        <Polish>Widmo 17</Polish>
       </Key>
 	  <Key ID="STR_LOK_windmill22_radio_1B4">
         <English>Windmill 22</English>
         <Spanish>Windmill 22</Spanish>
-        <Polish></Polish>
+        <Polish>Wiatrak 22</Polish>
       </Key>
 	  <Key ID="STR_LOK_message1_1B4">
         <English>We're closing in on the objetive, ETA: 2 minutes.</English>
         <Spanish>Nos acercamos al objetivo. Tiempo estimado: 2 minutos.</Spanish>
-        <Polish></Polish>
+        <Polish>Zbliżamy się do celu. Czas oczekiwania to dwie minuty.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message2_1B4">
         <English>Gentlemen, lock and load. You know what to do-- as soon as we touch down, I want all JTF 2 operators moving inside the compound ASAP and avoiding open ground.</English>
         <Spanish>Caballeros, quiten el seguro. Ya saben lo que hacer: en cuanto tomemos tierra, quiero que todos los operadores del JTF 2 entren en el complejo lo antes posible y eviten el terreno abierto.</Spanish>
-        <Polish></Polish>
+        <Polish>Panowie, przygotujcie się. Wiecie co robić - jak tylko przyziemimy, wszyscy operatorzy JTF2 wchodzą natychmiast do kompleksu i unikają otwartej przestrzeni.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message3_1B4">
         <English>Hyena will move straight to the mosque and will clear it of any potential hostiles. We'll meet inside the compound.</English>
         <Spanish>Hiena irá directamente a la mezquita y la despejará de cualquier posible hostil. Nos reuniremos dentro del complejo.</Spanish>
-        <Polish></Polish>
+        <Polish>Hiena przemieści się prosto do meczetu i oczyści go ze wszelkich potencjalnych przeciwników. Spotkamy się wewnątrz kompleksu.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message4_1B4">
         <English>Then, we'll link up with the other Hawk units, we'll clear the compound together and we'll kill or capture Bari. Keep your senses straight and this will be a breeze.</English>
         <Spanish>Entonces, nos reuniremos con las otras unidades Halcón, despejaremos juntos el complejo y mataremos o capturaremos a Bari. Afinen los sentidos y esto será pan comido.</Spanish>
-        <Polish></Polish>
+        <Polish>Następnie połączymi się z pozostałymi Jastrzębiami, oczyścimi kompleks razem i pojmiemy lub zabijemy Bariego. Zaufajcie instynktowi, to będzie pestka.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message5_1B4">
         <English>Um, this is Dingo 41, we see flashing lights at our seven o'clock, distance unknown. Please advise, over.</English>
         <Spanish>Eh... aquí Dingo 41, vemos luces destelleantes a nuestras siete, distancia desconocida. Solicito instrucciones, cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Eee, tutaj Dingo 41, widzę mrugające światła na naszej siódmej, dystans nieznany. Proszę o radę, odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message6_1B4">
         <English>All copied, Dingo 41. Those are part of the ACM early warning system. If you're not under fire, you're good. Out.</English>
         <Spanish>Recibido, Dingo 41. Son del sistema de aviso temprano de las ACM. Si no les están disparando, va todo bien. Corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Słyszę cię, Dingo 41. To jest wczesny system ostrzegania wojsk antykoalicji. Jeśli do was nie strzelają to wszystko w porządku. Bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message7_1B4">
         <English>This is Windmill 22. We are within range of the LZs. They look clear, over.</English>
         <Spanish>Aquí Windmill 22. Estamos al alcance de las ZA. Parecen despejadas, cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Tutaj Wiatrak 22. Jesteśmy w zasięgu stref lądowania. Wyglądają na czyste. Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message8_1B4">
         <English>Negative, negative. The LZ is hot! You have guys all over the place! We count at least six to twelve enemy combatants at each LZ!</English>
         <Spanish>Negativo, negativo. ¡La ZA está petada! ¡Hay gente por todas partes! ¡Contamos al menos entre seis y doce combatientes enemigos en cada ZA!</Spanish>
-        <Polish></Polish>
+        <Polish>Odmawiam, odmawiam. Strefy są gorące! Wszędzie pełno kontaktów! Widzimy od sześciu do dwunastu wrogich kombatantów w każdej ze stref!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message9_1B4">
         <English>Crap, we can't see anything with this fog...</English>
         <Spanish>Coño, con esta niebla no se ve nada...</Spanish>
-        <Polish></Polish>
+        <Polish>Cholera, nic nie widzieliśmy przez tę mgłę...</Polish>
       </Key>
 	  <Key ID="STR_LOK_message10_1B4">
         <English>Listen: we're clearing this compound even if it's the last thing we do. Start spinning those miniguns, put us down and get the hell out of here as soon as you do!</English>
         <Spanish>Escuchen: vamos a despejar este complejo aunque sea lo último que hagamos. ¡Empiecen a girar las miniguns, déjennos abajo y salgan cagando hostias en cuanto lo hagan!</Spanish>
-        <Polish></Polish>
+        <Polish>Słuchajcie. Oczyścimy ten kompleks nawet jeżeli to będzie ostatnia rzecz, jaką zrobimy za życia. Zacznijcie kręcić działkami, postawcie nas i spieprzajcie tak szybko, jak tylko się da!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message10_2_1B4">
         <English>Roger that, Captain.</English>
         <Spanish>Recibido, capitán.</Spanish>
-        <Polish></Polish>
+        <Polish>Przyjąłem, kapitanie.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message11_1B4">
         <English>Alright, move, move, move! Head for the buildings and take cover! Stick close in the dust cloud!</English>
         <Spanish>¡Venga, vamos, vamos, vamos! ¡Dirigíos a los edificios y cubríos! ¡No os alejéis en la nube de polvo!</Spanish>
-        <Polish></Polish>
+        <Polish>Dobra, ruchy, ruchy, ruchy! Biegnijcie do budynków i znajdźcie osłony. Trzymajcie się blisko w tej chmurze pyłu!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message12_1B4">
         <English>This is Hawk 13, be advised-- my sniper team will set up overwatch and cover us from the north. They'll take the American JTAC with them to better direct AC-130 fire. Out.</English>
         <Spanish>Aquí Halcón 13, atención: mi equipo de tiradores montará guardia y nos cubrirá desde el norte. Se llevan al JTAC estadounidense para dirigir mejor el fuego del AC-130. Corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Tutaj Jastrząp 13, uwaga - moja sekcja snajperska rozstawi punkt obserwacyjny na północy i będzie nas stamtąd osłaniać. Wezmą amerykańskiego JTACa, by lepiej widział cele dla AC-130. Bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message18_1B4">
         <English>Pike 26, this is Hawk 12. Target eliminated. Confirmed, it's Bari-- he has his characteristic tattoos. Uh, be advised, he was operating a radio, probably calling reinforcements, over.</English>
         <Spanish>Pike 26, aquí Halcón 12. Blanco eliminado. Confirmado, es Bari: tiene sus característicos tatuajes. Este, aviso: estaba usando una radio, seguramente pidiendo refuerzos, cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Pika 26, tutaj Jastrząb 12. Cel wyeliminowany. Potwierdzam tożsamość, to Bari - widać te jego tatuaże. Eee, uwaga, korzystał z radia, prawdopodobnie wzywał wsparcie, odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message19_1B4">
         <English>Acknowledged, Hawk 12. ISR reports a large number of ACM combatants and armed civilians converging on your position. Hold your position and clear it, the helicopters can't risk another hot landing. How copy, over?</English>
         <Spanish>Afirmativo, Halcón 12. El ISR informa de una gran cantidad de combatientes de las ACM y civiles armados acercándose a su posición. Mantengan la posición y despéjenla, los helicópteros no pueden arriesgarse a aterrizar en medio de un tiroteo otra vez. ¿Me recibe? Cambio</Spanish>
-        <Polish></Polish>
+        <Polish>Zrozumiałem Jastrząb 12. ISR zgłasza dużą liczbę wojowników antykoalicji i uzbrojonych cywili zbliżających się do waszej pozycji. Utrzymajcie się tam i pozbądźcie wroga, śmigłowce nie mogą ryzykować kolejnego gorącego lądowania. Jak zrozumiałeś? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message20_1B4">
         <English>All Hawk units, this is Hawk 14. Be advised, we have spotted an ordnance cache inside the compound. Stay clear of the hut on the southwest corner. 20 seconds till detonation, out.</English>
         <Spanish>A todas las unidades Halcón, aquí Halcón 14. Aviso: hemos avistado un alijo de armas dentro del complejo. Apártense de la choza en la esquina suroeste. 20 segundos para la detonación, corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Wszystkie jednostki Jastrząb, tutaj Jastrząb 14. Uwaga, zauważyliśmy skład zaopatrzenia w kompleksie. Trzymajcie się z dala od chaty w południowo zachodnim krańcu. 20 sekund do detonacji, bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message21_1B4">
         <English>All Hawk units, this is Hawk 12. Be advised, we have spotted an ordnance cache inside the compound. Stay clear of the hut on the southwest corner. Moving to detonate, out.</English>
         <Spanish>A todas las unidades Halcón, aquí Halcón 12. Aviso: hemos avistado un alijo de armas dentro del complejo. Apártense de la choza en la esquina suroeste. Pasamos a su detonación, corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Wszystkie jednostki Jastrząb, tutaj Jastrząb 12. Uwaga, zauważyliśmy skład zaopatrzenia w kompleksie. Trzymajcie się z dala od chaty w południowo zachodnim krańcu. Przygotowujemy detonację, bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message22_1B4">
         <English>This is Hawk 12, troops in contact, I repeat, troops in contact! Over!</English>
         <Spanish>¡Aquí Halcón 12, tropas en contacto, repito, tropas en contacto! ¡Cambio!</Spanish>
-        <Polish></Polish>
+        <Polish>Tutaj Jastrząb 12, weszliśmy w kontakt z wrogiem, powtarzam, kontakt z wrogiem! Odbiór!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message23_1B4">
         <English>Roger that Hawk, the AC-130 can provide support, and the Australian QRF is standing by for further orders. Out.</English>
         <Spanish>Recibido, Halcón. El AC-130 puede prestar apoyo, y la FRR australiana está a la espera de órdenes. Corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Zrozumiałem cię, Jastrząb, AC-130 może zapewnić wsparcie, a australijski QRF oczekuje na rozkazy. Bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message24_1B4">
         <English>Hyena 5 to all Hawk units, the mosque is clear. Moving into the compound. Out.</English>
         <Spanish>Hiena 5 a todas las unidades Halcón, mezquita despejada. Entramos en el complejo. Corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Hiena 5 do wszystkich Jastrzębi, meczet jest czysty. Wkraczamy do kompleksu. Bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message27_1B4">
         <English>Solid copy, Pike 26. Out.</English>
         <Spanish>Recibido, Pike 26. Corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Przyjąłem, Pika 26. Bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message28_1B4">
         <English>Alright, everybody listen up! There's more tangos incoming and we have to take them out for the helicopters! Lock and load!</English>
         <Spanish>¡Bien, que todo el mundo me preste atención! ¡Vienen más tangos de camino y tenemos que eliminarlos para los helicópteros! ¡Carguen armas!</Spanish>
-        <Polish></Polish>
+        <Polish>Dobra, Słuchajcie wszyscy! Mamy więcej wrogów przed nami i musimy ich wyjąć, żeby śmigła mogły wylądować! Przygotujcie się!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message29_1B4">
         <English>Goddamn, they're shelling us! Jean, spot those mortars and tell the JTAC to direct gunship fire on them! Over!</English>
         <Spanish>¡Hostias, nos están bombardeando! ¡Jean, localiza esos morteros y dile al JTAC que ordene al avión que dispare! ¡Cambio!</Spanish>
-        <Polish></Polish>
+        <Polish>Cholera, bombardują nas! Jean, znajdź te moździerze i powiedz JTACowi, by skierował ogień Widma na nie! Odbiór!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message30_1B4">
         <English>Roger that, Cap!</English>
         <Spanish>¡Recibido, capi!</Spanish>
-        <Polish></Polish>
+        <Polish>Zrozumiałem, kapitanie!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message31_1B4">
         <English>This is Hawk 13, the mortars are down, over!</English>
         <Spanish>¡Aquí Halcón 13, los morteros han caído, cambio!</Spanish>
-        <Polish></Polish>
+        <Polish>Tutaj Jastrząb 13, moździerze wyeliminowane, odbiór!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message32_1B4">
         <English>That's great, but what the hell are we gonna do about these never-ending waves of tangos?! The AC-130 can't take all of them quickly enough!</English>
         <Spanish>Maravilloso, pero ¡qué cojones vamos a hacer con estas oleadas infinitas de tangos! ¡El AC-130 no puede con todos a la vez!</Spanish>
-        <Polish></Polish>
+        <Polish>Wspaniale, ale co teraz zrobimy z tymi niekończącymi się falami przeciwników?1 AC-130 nie jest w stanie ich wszystkich od razu wyjmować!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message33_1B4">
         <English>Screw this, I'm calling the QRF! Nomad 53, this is Hawk 12, code grey, I repeat, code grey! Get over here as fast as you can! How copy, over?!</English>
         <Spanish>¡A la mierda, voy a llamar a la FRR! ¡Nomad 53, aquí Halcón 12, código gris, repito, código gris! ¡Vengan aquí lo más rápido que puedan! ¿Me reciben? ¡Cambio!</Spanish>
-        <Polish></Polish>
+        <Polish>Pieprzyć to, wzywam wsparcie! Nomad 53, tutaj Jastrząb 12, kod szary, powtarzam, kod szary! Chodźcie tu tak szybko, jak tylko możecie! Jak zrozumieliście? Odbiór!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message35_1B4">
         <English>Solid copy, we're on our way! 3 minutes tops!</English>
         <Spanish>¡Alto y claro, vamos para allá! ¡3 minutos máximo!</Spanish>
-        <Polish></Polish>
+        <Polish>Zrozumiałem, już pędzimy! Maksymalnie 3 minuty!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message36_1B4">
         <English>3 seconds!</English>
         <Spanish>¡Tres segundos!</Spanish>
-        <Polish></Polish>
+        <Polish>3 sekundy!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message37_1B4">
         <English>Nomad 53 to all units-- be advised, we have set up a blocking position 400 metres west of the compound, near the hemp fields. Get over here ASAP! How copy, over?</English>
         <Spanish>Nomad 53 a todas las unidades: atención, hemos formado una posición de bloqueo a 400 metros al oeste del complejo, cerca de los campos de hachís. ¡Vengan aquí ya! ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Nomad 53 do wszystkich - uwaga, będziemy rozstawiać perymetr defensywny 400 metrów na zachód od kompleksu, niedaleko pól uprawnych. Chodźcie tutaj migiem! Jak zrozumieliście? Odbiór!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message38_1B4">
         <English>All copied, we're oscar mike, out! Come on, gentlemen, let's get the hell out of here!</English>
         <Spanish>¡Recibido, vamos de camino, corto! ¡Vamos, caballeros, salgamos de aquí cagando leches!</Spanish>
-        <Polish></Polish>
+        <Polish>Wszyscy zrozumieli, już się zwijamy, bez odbioru! Dalej, panowie, wynośmy się stąd w pizdu!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message39_1B4">
         <English>Sorry we have to leave you hanging, but it looks like we have to go!</English>
         <Spanish>¡Perdón por dejarle con la palabra en la boca, pero parece que tenemos que irnos!</Spanish>
-        <Polish></Polish>
+        <Polish>Wybaczcie, że kazaliśmy wam czekać, ale wyglada na to, że musimy spadać!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message42_1B4">
         <English>Yeah! You call for evac, we'll cover you and all's well that ends well! Let's get to that field!</English>
         <Spanish>¡Ya! ¡Pida evacuación, nosotros los cubrimos y bien está lo que bien acaba! ¡Vamos a ese campo!</Spanish>
-        <Polish></Polish>
+        <Polish>Jasne! Wy dzwonicie po ewakuację, my was osłaniamy i wszystko się dobrze skończmy! Zasuwajmy na to pole!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message43_1B4">
         <English>Dingo 41, this is Hawk 12, under fire and requesting evac immediately! We've linked up with the QRF and set up a landing zone roughly 600 meters west of the target compound, in a poppy field. How copy, over?</English>
         <Spanish>¡Dingo 41, aquí Halcón 12, nos disparan y solicito evacuación inmediata! Nos hemos reunido con la FRR y hemos declarado una zona de aterrizaje a unos 600 metros al oeste del complejo objetivo, en un campo de amapolas. ¿Me recibe? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Dingo 41, tutaj Jastrząb 12, jesteśmy pod ostrzałem i potrzebujemy natychmiastowej ewakuacji! Połączyliśmy się z siłami szybkiego reagowania i przygotowaliśmy strefę lądowania jakieś 600 metrów na zachód od kompleksu, w polu makowym. Jak przyjąłeś? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message44_1B4">
         <English>Solid copy Hawk, we'll ask the Dutch to send an escort Apache with us. Can't take more than 5 minutes. Hold tight till then, out.</English>
         <Spanish>Recibido, Halcón, le pediremos a los holandeses que nos envíen un Apache escolta. No tardaremos más de 5 minutos. Aguanten hasta entonces, corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Zrozumiałem, Jastrząb, zapytamy Holendrów o eskortę Apache. Nie potrwa to dłużej, niż 5 minut. Trzymajcie się do tego czasu, bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message45_1B4">
         <English>The chopper is here! Get a move on lads, you can't stay here for much longer!</English>
         <Spanish>¡Ya está aquí el helicóptero! ¡Métanse caña, señores, no pueden quedarse aquí mucho tiempo más!</Spanish>
-        <Polish></Polish>
+        <Polish>Śmigło tu jest! Zbierajcie się, chłopcy, nie możemy tu dłużej zostać!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message46_1B4">
         <English>What about you?</English>
         <Spanish>¿Y ustedes?</Spanish>
-        <Polish></Polish>
+        <Polish>A co z wami?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message47_1B4">
         <English>We'll be just fine, we've got more firepower than we'd ever want. Plus, there's no room for us in the chopper. Now go!</English>
         <Spanish>Estaremos bien, tenemos más potencia de fuego de la que nos gustaría. Además, no hay espacio en el helicóptero para nosotros. ¡Va!</Spanish>
-        <Polish></Polish>
+        <Polish>Damy sobie radę, mamy większą siłę ognia niż potrzebowaliśmy. Poza tym nie ma dla nas miejsca w śmigle. Lećcie!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message48_1B4">
         <English>Right, godspeed and thank you!</English>
         <Spanish>¡Vale, vayan con Dios y gracias!</Spanish>
-        <Polish></Polish>
+        <Polish>Jasne, dzięki i z Bogiem!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message49_1B4">
         <English>Welcome aboard, lads. You can relax now, that look in your eyes and those wounds are bloody telling...</English>
         <Spanish>Bienvenidos a bordo, amigos. Échense para atrás, esas miradas y esas heridas hablan por sí solas...</Spanish>
-        <Polish></Polish>
+        <Polish>Witajcie na pokładzie, panowie. Możecie się teraz zrelaksować, wasz wzrok i te rany to niezły zwiastun opowieści...</Polish>
       </Key>
 	  <Key ID="STR_LOK_message50_1B4">
         <English>My God, I never thought the Talibs would be so adamant. We barely made it out of there alive...</English>
         <Spanish>Dios mío, jamás pensé que los talis fuesen a ser tan tercos. Hemos salido de ahí por los pelos...</Spanish>
-        <Polish></Polish>
+        <Polish>Mój Boże, nigdy nie sądziłem, że Talibowie mogą być tak uparci. Ledwie uszliśmy z życiem...</Polish>
       </Key>
 	  <Key ID="STR_LOK_message51_1B4">
         <English>Yeah, and the Aussies are still down there... Let's hope they get through this.</English>
         <Spanish>Sí, y los australianos siguen ahí abajo... Esperemos que salgan de esta.</Spanish>
-        <Polish></Polish>
+        <Polish>Taa, a Australijczycy nadal tam siedzą... Lepiej żeby dali sobie radę.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message52_1B4">
         <English>It is the price we have to pay. These insurgents have been terrorizing our country, our people. If we let them be, who knows what they could do...</English>
         <Spanish>Es el precio que tenemos que pagar. Estos insurgentes han estado aterrorizando a nuestro país, a nuestra gente. Si los dejamos estar, quién sabe lo que podrían hacer...</Spanish>
-        <Polish></Polish>
+        <Polish>To jest cena, jaką musimy płacić. Rebelianci terroryzują naszych ludzi, nasz kraj. Jeśli damy im wolną rękę, kto wie, co zrobią...</Polish>
       </Key>
 	  <Key ID="STR_LOK_message53_1B4">
         <English>Bloody hell! This is Dingo 41, be advised-- our Apache has taken small arms fire and it needs to go back to base to repair its hydraulic lines! I sure as all hell hope the LZ is clear! Out!</English>
         <Spanish>¡Me cago en la leche! ¡Aquí Dingo 41, aviso: han disparado a nuestro Apache y tiene que volver a la base para reparar su hidráulica! ¡Espero que la ZA esté despejada! ¡Corto!</Spanish>
-        <Polish></Polish>
+        <Polish>Cholera! Tutaj Dingo 41, uwaga - nasz Apache otrzymał ostrzał z ognia małego kalibru i musi wrócić do bazy w celu naprawy! Jestem cholernie pewien, że strefa lądowania jest już czysta! Bez odbioru!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message54_1B4">
         <English>Jesus, they just don't stop coming! They'll overrun us anytime soon, sir!</English>
         <Spanish>¡Dios mío, no paran de venir! ¡No tardarán en invadirnos, señor!</Spanish>
-        <Polish></Polish>
+        <Polish>Jezusie, oni nie przestają przybiegać! Zaraz nas tu zaleją, sir!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message55_1B4">
         <English>No, Sergeant, they will not! Remain steadfast and don't give up one inch of terrain! Their shitty weapons are no match for us!</English>
         <Spanish>¡No, sargento, no lo harán! ¡Manténganse firmes y no cedan ni un centímetro de terreno! ¡Sus armas de mierda no son rival para nosotros!</Spanish>
-        <Polish></Polish>
+        <Polish>Nie, sierżancie, nie zaleją! Trzymajcie pozycję i nie oddajcie im ani metra ziemi! Ich gówniana broń nie ma z nami szans!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message56_1B4">
         <English>Techie incoming!</English>
         <Spanish>¡Viene un técnico!</Spanish>
-        <Polish></Polish>
+        <Polish>Technical nadjeżdża!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message57_1B4">
         <English>All assault detachment leaders, gather at the T.O.C. for a final briefing!</English>
         <Spanish>¡Que todos los líderes de los destacamentos de asalto se reúnan en el COT para una última reunión!</Spanish>
-        <Polish></Polish>
+        <Polish>Dowódcy wszystkich jednostek szturmowych, zbierzcie się w centrum operacyjnym na ostateczną odprawę!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message58_1B4">
         <English>Men, the assault is officially a go. The Australian SASR has confirmed our HVT is inside his compound, and there are no Taliban checkpoints in the area.</English>
         <Spanish>Señores, el asalto comienza oficialmente El SASR australiano ha confirmado que nuestro blanco está dentro de su complejo y que no hay puestos de control talibanes en la zona.</Spanish>
-        <Polish></Polish>
+        <Polish>Panowie, szturm się oficjalnie rozpoczyna. Australijski SASR potwierdza obecność celu w kompleksie, nie ma żadnyc posterunków Talibów w okolicy.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message59_1B4">
         <English>We proceed as planned-- strike the compound with speed and decision, neutralize all hostile units, breach his home, and capture or kill him.</English>
         <Spanish>Avanzamos según lo planeado: asalten el complejo con velocidad y decisión, neutralicen a todas las unidades hostiles, irrumpan en su hogar y captúrenlo o mátenlo.</Spanish>
-        <Polish></Polish>
+        <Polish>Postępujemy zgodnie z planem - uderzacie w kompleks szybko i zdecydowanie, neutralizujecie przeciwników, szturmujecie jego dom i dokonujecie aresztowania bądź zabijacie.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message60_1B4">
         <English>This assault is pivotal to the success of Operation Perth. Taking Bari out of the equation could turn the tide of Enduring Freedom as a whole here in southern Afghanistan.</English>
         <Spanish>Este asalto es crucial para el éxito de la Operación Perth. Sacar a Bari de la ecuación podría cambiar las tornas de Libertad Duradera en general aquí, en el sur de Afganistán.</Spanish>
-        <Polish></Polish>
+        <Polish>Ten atak jest kluczowy dla sukcesu Operacji Perth. Wyeliminowanie Bariego z listy może pozwolić nam odwrócić dotychczaswy bieg operacji Enduring Freedom tutaj, w południowym Afganistanie.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message61_1B4">
         <English>The 5th Aviation's Chinooks will arrive here in roughly 2 hours. Take your time to brief your subordinates and go through the plan together. We have one shot, make sure you don't miss.</English>
         <Spanish>Los Chinooks del 5.º de Aviación llegarán aquí en unas 2 horas. Tómense su tiempo para informar a sus subalternos y revisar el plan juntos. Tenemos una oportunidad, no la desperdicien.</Spanish>
-        <Polish></Polish>
+        <Polish>Chinooki z 5. Powietrznej przylecą za jakieś dwie godziny. Wykorzystajcie ten czas na odprawienie podkomendnych i przeanalizujcie wspólnie plan. Mamy tylko jedną szansę, nie możemy jej zmarnować.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message62_1B4">
         <English>And remember, you'll have a Predator and a Spectre in the skies, and the 4 RAR's QRF detachment in the Chora Valley will be standing by if the situation escalates.</English>
         <Spanish>Y recuerden, tendrán un Predator y un Spectre en el cielo, y el destacamento FRR del 4.º RAR en el valle de Chora estará a la espera si la situación empeora.</Spanish>
-        <Polish></Polish>
+        <Polish>I pamiętajcie, macie w powietrzu Predatora i Spectre, a na ziemi będzie czekać QRF z 4. Królewskiego, jeśli sytuacja eskaluje.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message63_1B4">
         <English>I think that is all. Best of luck. Dismissed.</English>
         <Spanish>Creo que eso es todo. Mucha suerte. Retírense.</Spanish>
-        <Polish></Polish>
+        <Polish>Top chyba wszystko. Powodzenia. Odmaszerować.</Polish>
       </Key>
 	  <Key ID="STR_LOK_RVPoint_marker_1B4">
         <English>QRF</English>
         <Spanish>FRR</Spanish>
-        <Polish></Polish>
+        <Polish>QRF</Polish>
       </Key>
 	  <Key ID="STR_LOK_QRFbase_marker_1B4">
         <English>COP Danger</English>
         <Spanish>Puesto de avanzada Danger</Spanish>
-        <Polish></Polish>
+        <Polish>PB Danger</Polish>
       </Key>
 	  <Key ID="STR_LOK_checkbody_action_1B4">
         <English>check body</English>
         <Spanish>comprobar el cuerpo</Spanish>
-        <Polish></Polish>
+        <Polish>Sprawdź ciało</Polish>
       </Key>
 	  <Key ID="STR_LOK_checkbody_hint_1B4">
         <English>Don't forget to check the bodies in order to find the HVT! (Hint: it's an action on one of the bodies)</English>
         <Spanish>¡No te olvides de comprobar los cadáveres para encontrar al blanco! (Consejo: es una acción en uno de los cadáveres)</Spanish>
-        <Polish></Polish>
+        <Polish>Nie zapomnij przeszukać ciał w celu znalezienia celu! (Podpowiedź: na jednym z ciał będzie odpowiednia akcja).</Polish>
       </Key>
 	  <Key ID="STR_LOK_AUSbase_marker_1B4">
         <English>FOB Davis</English>
         <Spanish>BOA Davis</Spanish>
-        <Polish></Polish>
+        <Polish>WBO Davis</Polish>
       </Key>
 	  <Key ID="STR_LOK_introtext_1_1B4">
         <English>FOB GRACELAND</English>
         <Spanish>BOA GRACELAND</Spanish>
-        <Polish></Polish>
+        <Polish>WBO GRACELAND</Polish>
       </Key>
 	  <Key ID="STR_LOK_introtext_2_1B4">
         <English>KANDAHAR CITY</English>
         <Spanish>KANDAHAR</Spanish>
-        <Polish></Polish>
+        <Polish>KANDAHAR</Polish>
       </Key>
 	  <Key ID="STR_LOK_introtext_3_1B4">
         <English>JULY 9, 2006</English>
         <Spanish>9 DE JULIO DE 2006</Spanish>
-        <Polish></Polish>
+        <Polish>9 LIPCA 2006 R.</Polish>
       </Key>
 	  <Key ID="STR_LOK_end1_subtitle_1B4">
         <English>Taliban disrupted</English>
         <Spanish>Talibanes alborotados</Spanish>
-        <Polish></Polish>
+        <Polish>Struktury Talibanu zakłócone</Polish>
       </Key>
 	  <Key ID="STR_LOK_end1_description_1B4">
         <English>We were not planning this at all. From the beginning of the operation, Coalition forces have been under constant fire from ACM small arms, technicals, mortars and RPGs. Thanks to the help of an American AC-130 and an Australian Commando QRF, all units have returned to base safe and sound, and most importantly, having assassinated a prominent Taliban commander in the region. This will surely disrupt further Taliban operations in Uruzgan Province.</English>
         <Spanish>Esto no lo estábamos planeando. Desde el principio de la operación, las fuerzas de la Coalición han estado bajo el fuego constante de armas ligeras, técnicos, morteros y RPG de las ACM. Gracias a la ayuda de un AC-130 estadounidense y de una FRR de comandos australianos, todas las unidades han regresado a la base sanas y salvas, y lo que es más importante, habiendo asesinado a un destacado comandante talibán de la región. Esto sin duda desbaratará las operaciones de los talibanes en la provincia de Uruzgán.</Spanish>
-        <Polish></Polish>
+        <Polish>Nie planowaliśmy takiego rozwoju sytuacji. Od początku operacji, sił Koalicji były pod ostrzałem z broni małego kalibru, technicali, moździerzy i wyrzutni RPG. Dzięki wsparciu amerykańskiego AC-130 i australijskich komandosów, wszystkie jednostki wróciły bezpiecznie do bazy, a co najważniejsze, wyeliminowały ważnego oficera Talibów w tym regionie. To na pewno zakłóci operacje Talibów w Prowincji Uruzgan.</Polish>
       </Key>
     </Container>
   </Package>
