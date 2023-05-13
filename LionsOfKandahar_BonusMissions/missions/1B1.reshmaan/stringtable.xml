@@ -5,52 +5,52 @@
 	  <Key ID="STR_LOK_BriefingNotes_1B1">
         <English>EDITOR'S NOTES:&lt;br/&gt;Check ALL your sides, trust me. You can change your loadout on the Teams tab (I wanted to include something similar to an AR-10T or a C7CT, but alas, nothing comes close to them), though the default loadout is perfect for this mission.&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;HeadUp for the original idea and working title</English>
         <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Comprueba TODOS los flancos, créeme. Puedes cambiar de armas en la pestaña de «Equipo» (quería incluir algo que se pareciese a un AR-10T o a un C7CT, pero una pena, no hay nada), aunque el armamento por defecto es perfecto para esta misión.&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;HeadUp por la idea original y el título en funciones</Spanish>
-        <Polish></Polish>
+        <Polish>OD AUTORA:&lt;br/&gt;Miej oczy dookoła głowy. Mozesz zmienić wyposażenie w zakładce Drużyny (chciałem dać coś podobnego do AR-10T albo C7CT, ale niestety nic takiego nie znalazłem), ale domyślne wyposażenie jest idealne na tę misję.&lt;br/&gt;&lt;br/&gt;AUTORZY:&lt;br/&gt;HeadUp - oryginalny pomysł i misja</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingCommand_Text_1B1">
         <English>A. Signal:&lt;br/&gt; RCR HQ - Brig. Gen. FRASER (RCR CO)&lt;br/&gt; Charles Actual - Maj. LUSSIER (ISTAR CO)&lt;br/&gt; Charles 57 - Lt. Col. LAVOIE (1st Battalion CO)&lt;br/&gt; Bravo 39 - Maj. ABTHORPE (Bravo Company CO)&lt;br/&gt; Charles 39 - Maj. SPRAGUE (Charles Company CO)&lt;br/&gt; Charles 36 - Lt. MANLEY (your team)&lt;br/&gt; Charles 37 - Lt. FLETCHER&lt;br/&gt; Charles 42 - Lt. STAMFORD&lt;br/&gt; Charles 43 - Lt. MARCUS</English>
         <Spanish>A. Señal:&lt;br/&gt; CG RCR: Gral. Brig. FRASER (oficial al mando del RCR)&lt;br/&gt; Charles Jefe: May. LUSSIER (oficial al mando del ISTAR)&lt;br/&gt; Charles 57: Tte. Cnel. LAVOIE (oficial al mando del 1.er Batallón)&lt;br/&gt; Bravo 39: May. ABTHORPE (oficial al mando de la Compañía Bravo)&lt;br/&gt; Charles 39: May. SPRAGUE (oficial al mando de la Compañía Charles)&lt;br/&gt; Charles 36: Tte. MANLEY (tu equipo)&lt;br/&gt; Charles 37: Tte. FLETCHER&lt;br/&gt; Charles 42: Tte. STAMFORD&lt;br/&gt; Charles 43: Tte. MARCUS</Spanish>
-        <Polish></Polish>
+        <Polish>A. Znaki wywoławcze:&lt;br/&gt; Dowództwo RCR - Gen. bryg. FRASER (Ofic. dow. RCR)&lt;br/&gt; Charles Actual - Mjr LUSSIER (Ofic. dow. ISTAR)&lt;br/&gt; Charles 57 - Ppłk LAVOIE (Ofic. dow. 1. Batalionu)&lt;br/&gt; Bravo 39 - Mjr ABTHORPE (Ofic. dow. Kompanii Bravo)&lt;br/&gt; Charles 39 - Mjr SPRAGUE (Ofic. dow. Kompanii Charles)&lt;br/&gt; Charles 36 - Por. MANLEY (twój oddział)&lt;br/&gt; Charles 37 - Por. FLETCHER&lt;br/&gt; Charles 42 - Por. STAMFORD&lt;br/&gt; Charles 43 - Por. MARCUS</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingSustainment_Text_1B1">
         <English>1. Supply: Standard desert CADPAT uniforms and tactical vests, CG634 helmets, standard issue Canadian small arms including C7A2 rifles, C8A3 carbines, C9A2 and C6 machine guns, and C14 sniper rifles.&lt;br/&gt;2. Transportation: None. Two LAV IIIs will move in with the infantry in a support role. One LAV will stay behind the river as overwatch. All trucks and G-Wagons are to stay at Major Sprague's command post. Bravo Company will provide overwatch from the west.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Charles Company has 2x embedded medical sergeants, in the event of a mission failure due to substantial casualties, RCR Command will authorize CASEVAC.</English>
         <Spanish>1. Suministros: Uniformes estándar en CADPAT árido y chalectos tácticos, cascos CG634, armas ligeras reglamentarias de Canadá como fusiles C7A2, carabinas C8A3, ametralladoras C9A2 y C6 y fusiles de francotirador C14.&lt;br/&gt;2. Transporte: Ninguno. Dos LAV III avanzarán con la infantería en calidad de apoyo. Un LAV se mantendrá atrás del río como vigía. Todos los camiones y G-Wagons se quedarán en el puesto de mando del mayor Sprague. La Compañía Bravo vigilará desde el oeste.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: La Compañía Charles tiene 2x sargentos médicos asignados. En caso de sufrir una cantidad considerable de bajas, el mando del RCR autorizará CASEVAC.</Spanish>
-        <Polish></Polish>
+        <Polish>1. Wyposażenie: Standardowe uniformy w pustynnym kamuflażu CADPAT i kamizelki taktyczne, hełmy CG634, standardowa kanadyjska broń małokalibrowa, w tym karabiny C7A2, C8A3, karabiny maszynowe C9A2 i C6, karabiny wyborowe C14.&lt;br/&gt;2. Środki transportu: Brak. Dwa LAVy III będą przemieszczać się z piechotą w roli wsparcia ogniowego. Jeden LAV zostanie za rzeką na czatach. Wszystkie ciężarówki i G-Wagony pozostaną na posterunku z Majorem Spraguem. Kompania Bravo zapewni obserwację z zachodu.&lt;br/&gt;3. Usługi: Brak.&lt;br/&gt;4. Konserwacja: Brak.&lt;br/&gt;5. CASEVAC: Kompania Charles dysponuje 2x przydzielonymi medykami, w razie niepowodzenia misji spowodowanego znacznymi stratami dowództwo RCR autoryzuje CASEVAC.</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingExecution_Text_1B1">
         <English>After taking &lt;marker name="marker_4"&gt;Masum Ghar&lt;/marker&gt; and bombing Taliban strongholds yesterday, our standing orders are to cross the Arghandab River and seize this grouping of villages known as &lt;marker name="rugbyMarker"&gt;Pashmul&lt;/marker&gt;, starting with the town of Kezban, in order to cause a massive Taliban withdrawal from the Panjwayi Valley, key to our involvement in Afghanistan. Of course, all elements must remain vigilant at all times and be on constant watch for enemy activity. Charles Company will cross the river alongside two LAV IIIs (Charles 36 and 37 from the south, Charles 42 and 43 from the north), while Bravo Company will provide overwatch from the west.</English>
         <Spanish>Después de tomar &lt;marker name="marker_4"&gt;Masum Ghar&lt;/marker&gt; y bombardear los bastiones talibanes ayer, nuestras órdenes actuales son cruzar el río Arghandab y tomar esta agrupación de pueblos conocida como &lt;marker name="rugbyMarker"&gt;Pashmul&lt;/marker&gt;, empezando por la ciudad de Kezban, para propiciar una retirada masiva talibán del distrito de Panjwai, que es clave para nuestra misión en Afganistán. Por supuesto, todos los elementos deben estar ojo avizor en todo momento y estar atentos a la actividad enemiga. La Compañía Charles cruzará el río junto a dos LAV III (Charles 36 y 37 desde el sur, Charles 42 y 43 desde el norte), mientras que la Compañía Bravo vigilará desde el oeste.</Spanish>
-        <Polish></Polish>
+        <Polish>Po zajęciu &lt;marker name="marker_4"&gt;Masum Ghar&lt;/marker&gt; i zbombardowaniu talibskich fortec w dniu wczorajszym, naszym obecnym zadaniem jest przekroczenie rzeki Arghandab i zajęcie zgrupowania wiosek zwanego &lt;marker name="rugbyMarker"&gt;Pashmul&lt;/marker&gt;, rozpoczniemy od miasta Kebzan w celu spowodowania ucieczki Talibów z doliny Pandżawi, co jest kluczowe w naszym udziale w tej wojnie. Oczywiście wszystkei elementy muszą być czujne i uważać na wrogą aktywność. Kompania Charles przekroczy rzekę wraz z dwoma pojazdami LAV III (Charles 36 i 37 od południa, Charles 42 i 43 od północy), podczas gdy Kompania Bravo zapewni obserwację z zachodu.</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingMission_Text_1B1">
         <English>Who: Charles 36, Charles Company, 1st Battalion Royal Canadian Regiment Battle Group&lt;br/&gt;What: SEIZE Pashmul&lt;br/&gt;Where: In vicinity, Panjwayi Valley&lt;br/&gt;When: 000000ZSEP10&lt;br/&gt;Why: Operation Medusa</English>
         <Spanish>Quién: Charles 36, Compañía Charles, 1.er Batallón del Grupo de Combate del Real Regimiento Canadiense&lt;br/&gt;Qué: TOMAR Pashmul&lt;br/&gt;Dónde: En las inmediaciones, valle de Panjwai&lt;br/&gt;Cuándo: 000000ZSEP10&lt;br/&gt;Por qué: Operación Medusa</Spanish>
-        <Polish></Polish>
+        <Polish>Kto: Charles 36, Kompania Charles, 1. Batalion Królewskiego Regimentu Kanadyjskiego&lt;br/&gt;Co: ZAJĄĆ Pashmul&lt;br/&gt;Gdzie: Okolica Panjwayi Valley&lt;br/&gt;Kiedy: 000000ZWRZ10&lt;br/&gt;Czemu: Operacja Meduza</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingSituation_Text_1B1">
         <English>A. ENEMY FORCES&lt;br/&gt;Size: Unknown&lt;br/&gt;Activity: No movement observed, low radio chatter&lt;br/&gt;Location: Vicinity, &lt;marker name="rugbyMarker"&gt;Pashmul&lt;/marker&gt;&lt;br/&gt;Unit: Unknown, expect Taliban mixed infantry possibly supported by Arab or Chechen fighters&lt;br/&gt;Time Observed: September 3, 2006 0500 hrs&lt;br/&gt;Equipment: Unknown, expect Soviet small arms&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To seize the Taliban-held grouping of villages of Pashmul, force them to retreat from the Panjwayi Valley, secure our hold of the area, and ensure the well-being of all civilians.&lt;br/&gt;2. Adjacent Units: Bravo Company (callsign: Bravo Actual), Task Force 31 (callsign: Eagle 10 Actual), ANA 3rd Kandak (callsign: Lion 1 Actual).&lt;br/&gt;3. Supporting: NATO air strikes are on stand-by in the early hours of this morning. Artillery support will not be available for this mission, they're resupplying from yesterday's bombardment. CASEVAC will only be available by request of RCR Command.</English>
         <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: Se desconoce&lt;br/&gt;Actividad: No se ha observado movimiento, leves vibraciones de radio&lt;br/&gt;Ubicación: Inmediaciones, &lt;marker name="rugbyMarker"&gt;Pashmul&lt;/marker&gt;&lt;br/&gt;Unidades: Se desconoce, cabe esperar infantería mixta talibán con posible apoyo de combatientes árabes y chechenos&lt;br/&gt;Fecha de observación: 3 de septiembre de 2006, 0500 hrs&lt;br/&gt;Equipo: Se desconoce, cabe esperar armas ligeras soviéticas&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Tomar la agrupación talibán de pueblos de Pashmul, obligarlos a retirarse del distrito de Panjwai, asegurar nuestro control sobre la zona y garantizar el bienestar de todos los civiles.&lt;br/&gt;2. Unidades adyacentes: Compañía Bravo (indicativo: Bravo Actual), Fuerza Operativa 31 (indicativo: Eagle 10 Actual), 3.er Kandak del ENA (indicativo: Lion 1 Actual).&lt;br/&gt;3. Apoyo: Habrá ataques aéreos de la OTAN a la espera a primera hora de esta mañana. No habrá apoyo de artillería disponible para esta misión, están reabasteciéndose del bombardeo de ayer. La CASEVAC solo estará autorizada cuando la solicite el mando del RCR.</Spanish>
-        <Polish></Polish>
+        <Polish>A. WROGIE SIŁY&lt;br/&gt;Wielkość: Nieznana&lt;br/&gt;Aktywność: Brak zaobserwowanej aktywności, niska aktywność radiowa&lt;br/&gt;Miejsce: Okolica wioski &lt;marker name="rugbyMarker"&gt;Pashmul&lt;/marker&gt;&lt;br/&gt;Jednostka: Nieznana, spodziewana mieszana piechota Talibów wspierana przez arabskich i czeczeńskich najemników&lt;br/&gt;Czas obserwacji: 3 września 2006 r. - 0500&lt;br/&gt;Wyposażenie: Nieznane, spodziewana sowiecka broń małokalibrowa&lt;br/&gt;&lt;br/&gt;B. SOJUSZNICZE SIŁY&lt;br/&gt;1. Misja i intencje dowództwa: Zająć utrzymywane przez Talibów zbiorowisko wiosek zwane Pashmul, zmusić ich do odwrotu z Pandżwai, zabezpieczenie naszej pozycji i zadbanie o cywili.&lt;br/&gt;2. Jednostki: Kompania Bravo (znak wywoławczy: Bravo Actual), Task Force 31 (znak wywoławczy: Orzeł 10 Actual), 3. Kandak NAA (znak wywoławczy: Lew 1 Actual).&lt;br/&gt;3. Wsparcie: Wsparcie powietrzne jest w trybie oczekiwania od wczesnego poranka. Artyleria nie będzie dostępna podczas tej misji, przezbraja się po wczorajszym bombardowanie. CASEVAC będzie na wezwanie dowództwa RCR.</Polish>
       </Key>
 	  <Key ID="STR_LOK_Briefing_Text_1B1">
         <English>The Dutch and Canadians bombed this town to the ground yesterday, and no enemy movement has been observed yet. We have set up shop near a small civilian compound east of the Arghandab River (very kind of the locals to let us settle here), while we wait for new orders from Brig. Gen. David Fraser. The original plan calls for the Canadian ground assault to take place in two days, so we are just scanning the horizon until then. A Canadian patrol got ambushed here on August 3, so we're being extra cautious to make sure the town is really clear before moving in.</English>
         <Spanish>Los neerlandeses y los canadienses bombardeamos esta ciudad ayer, y no se ha observado movimiento enemigo aún. Nos hemos instalado cerca de un pequeño complejo civil al este del río Arghandab (muy amables los lugareños por dejarnos instalarnos aquí), mientras esperamos nuevas órdenes del general de brigada David Fraser. El plan original prevé que el asalto terrestre canadiense tenga lugar dentro de dos días, así que nos limitamos a otear el horizonte hasta entonces. Una patrulla canadiense cayó en una emboscada aquí el 3 de agosto, así que estamos extremando las precauciones para asegurarnos de que la ciudad está realmente despejada antes de entrar.</Spanish>
-        <Polish></Polish>
+        <Polish>Duńczycy i Kanadyjczycy zbombardowali to miasto do samego piachu, nie zaobserwowano jakichkolwiek wrogich ruchów. Rozstawiliśmy sklep nieopodal małego kompleksu cywilnego na wschód od rzeki Arghandab (miło ze strony miejscowych, że pozwolili nam na to), a w międzyczasie oczekujemy na rozkazy od Mjr bryg. Davida Frasera. Oryginalny plan zakładał kanadyjski szturm sił naziemnych w ciągu dwóch dni, więc do tego czasu po prostu skanujemy horyzont. Kanadyjski patrol został tu zaatakowany 3 sierpnia, więc teraz musimy być bardzo ostrożni i upewnić się, że to miasto jest naprawdę czyste.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_Description_1B1">
         <English>Your commanding officer has issued the hasty order of crossing the Arghandab River and seizing Kezban, a town from a grouping of villages known as Pashmul, from the Taliban. After yesterday's massive bombardment, it shouldn't be too much of a problem, or so say the higher-ups.</English>
         <Spanish>Tu oficial al mando ha dado la precipitada orden de cruzar el río Arghandab y tomar Kezban, una ciudad de la agrupación de pueblos conocida como Pashmul. Después del descomunal bombardeo de ayer, no debería ser muy difícil, o eso dicen los altos cargos.</Spanish>
-        <Polish></Polish>
+        <Polish>Twój oficer dowodzący wydał rozkaz przekroczenia rzeki Arghandab i zajęcia Kezban, miasta ze zgrupowania wiosek Pashmul, które jest pod kontrolą Talibanu. Po wczorajszym bombardowaniu nie powinno to stanowić większego problemu, tak przynajmniej twierdzi góra.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_Title_1B1">
         <English>Seize Kezban</English>
         <Spanish>Tomar Kezban</Spanish>
-        <Polish></Polish>
+        <Polish>Zajmij Kezban</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_2_Description_1B1">
         <English>Kezban seems to be clear, awfully so, and most buildings were left destroyed by yesterday's bombardment. However, there is one white schoolhouse left standing. You have been ordered to investigate it and look for any suspicious activity.</English>
         <Spanish>Kezban parece estar despejado, demasiado, y la mayoría de los edificios están destruidos del bombardeo de ayer. No obstante, hay un colegio blanco en pie. Te han ordenado que lo investigues y busques cualquier muestra de actividad sospechosa.</Spanish>
-        <Polish></Polish>
+        <Polish>Kezban wydaje się być czyste, większość budynków została zniszczona przez wczorajsze bombardowanie. Jednakże w całości ostał się biały budynek szkoły. Otrzymałeś rozkaz zbadania go i znalezienia jakichkolwiek śladów podejrzanej aktywności.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_2_Title_1B1">
         <English>Check the schoolhouse</English>
@@ -60,487 +60,487 @@
 	  <Key ID="STR_LOK_obj2_Description_1B1">
         <English>The white schoolhouse was just a decoy to trigger a massive ambush against the Canadians! Hold your position until Coalition support arrives!</English>
         <Spanish>¡El colegio blanco no era más que un señuelo para desencadenar una emboscada descomunal contra los canadienses! ¡Mantén la posición hasta que llegue el apoyo de la coalición!</Spanish>
-        <Polish></Polish>
+        <Polish>Biały budynek szkoły był tylko podpuchą, by wciągnąć Kanadyjczyków w ogromną zasadzkę! Utrzymaj swoją pozycję aż do przybycia wsparcia Koalicji!</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_Title_1B1">
         <English>Hold your position</English>
         <Spanish>Mantener la posición</Spanish>
-        <Polish></Polish>
+        <Polish>Utrzymaj pozycję</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_1_Description_1B1">
         <English>Ambush! The Taliban are everywhere and they're throwing everything they have at you. Withdraw immediately from the schoolhouse and save your skin! We'll come back for them later.</English>
         <Spanish>¡Emboscada! Hay talibanes en todas partes y os están atacando con todo lo que tienen. ¡Retírate de inmediato del colegio y sálvate el pellejo! Volveremos más tarde a por ellos.</Spanish>
-        <Polish></Polish>
+        <Polish>Zasadzka! Talibowie są wszędzie i rzucają na was wszystko, co mają. Wycofaj się szybko z budynku szkoły i ratuj swoją skórę! Wrócimy po nich później.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_1_Title_1B1">
         <English>Retreat!</English>
         <Spanish>¡Retirada!</Spanish>
-        <Polish></Polish>
+        <Polish>Wycofaj się!</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionTitle_1B1">
         <English>Rugby</English>
         <Spanish>Rugby</Spanish>
-        <Polish></Polish>
+        <Polish>Rugby</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionTitle_Intro_1B1">
         <English>Rugby Intro</English>
         <Spanish>Rugby: Intro</Spanish>
-        <Polish></Polish>
+        <Polish>Rugby: Intro</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionTitle_Outro_1B1">
         <English>Rugby Outro</English>
         <Spanish>Rugby: Outro</Spanish>
-        <Polish></Polish>
+        <Polish>Rugby: Outro</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionDescription_1B1">
         <English>Operation Medusa has commenced. After an intense aerial and artillery bombardment, the Royal Canadian Regiment Battle Group moves into Pashmul in their gamble to secure Panjwayi.</English>
         <Spanish>La Operación Medusa ha comenzado. Después de un intenso bombardeo aéreo y de artillería, el Grupo de Combate del Real Regimiento Canadiense avanza hacia Pashmul en su apuesta por asegurar Panjwai.</Spanish>
-        <Polish></Polish>
+        <Polish>Operacja Meduza rozpoczęła się. Po intensywnym bombardowaniu powietrznym i artyleryjskim Królewski Regiment Kanadyjski wszedł do Pashmul, by rozpocząć zabezpieczanie doliny Pandżwai.</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionDescriptionLocked_1B1">
         <English>Complete 'The Voice of Death' from the main campaign to unlock this mission.</English>
         <Spanish>Completa «La voz de la muerte» de la campaña principal para desbloquear esta misión.</Spanish>
-        <Polish></Polish>
+        <Polish>Ukończ "Głos Śmierci" z głównej kampanii, by odblokować tę misję.</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_text_1B1">
         <English>&lt;t color='#09ff00' size='3.5'&gt;RUGBY&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'The two most powerful warriors are patience and time.'&lt;br/&gt;&lt;br/&gt;-LEO TOLSTOY&lt;/t&gt;</English>
         <Spanish>&lt;t color='#09ff00' size='3.5'&gt;RUGBY&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«Los dos guerreros más poderosos son la paciencia y el tiempo».&lt;br/&gt;&lt;br/&gt;—LEÓN TOLSTÓI&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t color='#09ff00' size='3.5'&gt;RUGBY&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'Dwaj najsiilniejsi wojownicy to cierpliwość i czas..'&lt;br/&gt;&lt;br/&gt;- LEW TOŁSTOJ&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel1_1B1">
         <English>Cpl. Tobias Hedley</English>
         <Spanish>Cabo Tobias Hedley</Spanish>
-        <Polish></Polish>
+        <Polish>Kpr. Tobias Hedley</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel2_1B1">
         <English>1 RCR Battle Group</English>
         <Spanish>1.er Batallón, RCR</Spanish>
-        <Polish></Polish>
+        <Polish>Batalion 1. RCR</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel3_1B1">
         <English>East of Pashmul</English>
         <Spanish>Este de Pashmul</Spanish>
-        <Polish></Polish>
+        <Polish>Na wschód od Pashmul</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel4_1B1">
         <English>September 3, 2006 - 0600</English>
         <Spanish>3 septiembre 2006 - 0600</Spanish>
-        <Polish></Polish>
+        <Polish>3 września 2006 r. - 0600</Polish>
       </Key>
 	  <Key ID="STR_LOK_kelley_dialogue">
         <English>SGT. KELLEY</English>
         <Spanish>SGTO. KELLEY</Spanish>
-        <Polish></Polish>
+        <Polish>SIERŻ. KELLEY</Polish>
       </Key>
 	  <Key ID="STR_LOK_hedley_dialogue">
         <English>CPL. HEDLEY</English>
         <Spanish>CABO HEDLEY</Spanish>
-        <Polish></Polish>
+        <Polish>KPR. HEDLEY</Polish>
       </Key>
 	  <Key ID="STR_LOK_mitchell_dialogue">
         <English>CPL. MITCHELL</English>
         <Spanish>CABO MITCHELL</Spanish>
-        <Polish></Polish>
+        <Polish>KPR. MITCHELL</Polish>
       </Key>
 	  <Key ID="STR_LOK_layne_dialogue">
         <English>SGT. LAYNE</English>
         <Spanish>SGTO. LAYNE</Spanish>
-        <Polish></Polish>
+        <Polish>SIERŻ. LAYNE</Polish>
       </Key>
 	  <Key ID="STR_LOK_kirk_dialogue">
         <English>SGT. KIRK</English>
         <Spanish>SGTO. KIRK</Spanish>
-        <Polish></Polish>
+        <Polish>SIERŻ. KIRK</Polish>
       </Key>
 	  <Key ID="STR_LOK_manley_dialogue">
         <English>LT. MANLEY</English>
         <Spanish>TTE. MANLEY</Spanish>
-        <Polish></Polish>
+        <Polish>POR. MANLEY</Polish>
       </Key>
 	  <Key ID="STR_LOK_manley_radio">
         <English>Charles 36 (Lt. Manley)</English>
         <Spanish>Charles 36 (Tte. Manley)</Spanish>
-        <Polish></Polish>
+        <Polish>Charles 36 (por. Manley)</Polish>
       </Key>
 	  <Key ID="STR_LOK_42_radio">
         <English>Charles 42 (Lt. Stamford)</English>
         <Spanish>Charles 42 (Tte. Stamford)</Spanish>
-        <Polish></Polish>
+        <Polish>Charles 42 (por. Stamford)</Polish>
       </Key>
 	  <Key ID="STR_LOK_43_radio">
         <English>Charles 43 (Lt. Marcus)</English>
         <Spanish>Charles 43 (Tte. Marcus)</Spanish>
-        <Polish></Polish>
+        <Polish>Charles 43 (por. Marcus)</Polish>
       </Key>
 	  <Key ID="STR_LOK_Warthog_radio">
         <English>Warthog 19</English>
         <Spanish>Warthog 19</Spanish>
-        <Polish></Polish>
+        <Polish>Guziec 19</Polish>
       </Key>
 	  <Key ID="STR_LOK_sprague_dialogue">
         <English>MAJ. SPRAGUE</English>
         <Spanish>MAY. SPRAGUE</Spanish>
-        <Polish></Polish>
+        <Polish>MRJ SPRAGUE</Polish>
       </Key>
 	  <Key ID="STR_LOK_fletcher_dialogue">
         <English>LT. FLETCHER</English>
         <Spanish>TTE. FLETCHER</Spanish>
-        <Polish></Polish>
+        <Polish>POR. FLETCHER</Polish>
       </Key>
 	  <Key ID="STR_LOK_lavoie_dialogue">
         <English>LT. COL. LAVOIE</English>
         <Spanish>TTE. CNEL. LAVOIE</Spanish>
-        <Polish></Polish>
+        <Polish>PPŁK LAVOIE</Polish>
       </Key>
 	  <Key ID="STR_LOK_fletcher_radio">
         <English>Charles 37 (Lt. Fletcher)</English>
         <Spanish>Charles 37 (Tte. Fletcher)</Spanish>
-        <Polish></Polish>
+        <Polish>Charles 37 (por. Fletcher)</Polish>
       </Key>
 	  <Key ID="STR_LOK_sprague_radio">
         <English>Charles 39 (Maj. Sprague)</English>
         <Spanish>Charles 39 (May. Sprague)</Spanish>
-        <Polish></Polish>
+        <Polish>Charles 39 (mjr Sprague)</Polish>
       </Key>
 	  <Key ID="STR_LOK_hq_radio">
         <English>RCR HQ (Brig. Gen. Fraser)</English>
         <Spanish>CG RCR (Gral. Brig. Fraser)</Spanish>
-        <Polish></Polish>
+        <Polish>Dowództwo RCR (gen. bryg. Fraser)</Polish>
       </Key>
 	  <Key ID="STR_LOK_lavoie_radio">
         <English>Charles 57 (Lt. Col. Lavoie)</English>
         <Spanish>Charles 57 (Tte. Cnel. Lavoie)</Spanish>
-        <Polish></Polish>
+        <Polish>Charles 57 (ppłk Lavoie)</Polish>
       </Key>
 	  <Key ID="STR_LOK_charles36_radio">
         <English>Charles 36</English>
         <Spanish>Charles 36</Spanish>
-        <Polish></Polish>
+        <Polish>Charles 36</Polish>
       </Key>
 	  <Key ID="STR_LOK_charles37_radio">
         <English>Charles 37</English>
         <Spanish>Charles 37</Spanish>
-        <Polish></Polish>
+        <Polish>Charles 37</Polish>
       </Key>
 	  <Key ID="STR_LOK_charles42_radio">
         <English>Charles 42</English>
         <Spanish>Charles 42</Spanish>
-        <Polish></Polish>
+        <Polish>Charles 42</Polish>
       </Key>
 	  <Key ID="STR_LOK_charles43_radio">
         <English>Charles 43</English>
         <Spanish>Charles 43</Spanish>
-        <Polish></Polish>
+        <Polish>Charles 43</Polish>
       </Key>
 	  <Key ID="STR_LOK_message1_1B1">
         <English>A new day dawns in this godforsaken pot field...</English>
         <Spanish>Amanece un nuevo día en este campo de maría dejado de la mano de Dios...</Spanish>
-        <Polish></Polish>
+        <Polish>Nowy dzień świta na tym zapomnianym przez Boga polu zielska...</Polish>
       </Key>
 	  <Key ID="STR_LOK_message2_1B1">
         <English>You guys really think we'll be crossing the river today?</English>
         <Spanish>¿Pensáis que cruzaremos el río hoy?</Spanish>
-        <Polish></Polish>
+        <Polish>Naprawdę sądzicie, że dziś przejdziemy przez rzekę?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message3_1B1">
         <English>There's no way, man. We gotta get some more reinforcements and make a proper plan. We have no idea what we're facing.</English>
         <Spanish>Ni en broma, tío. Tienen que llegar más refuerzos y tenemos que hacer un plan en condiciones. No tenemos ni idea de a qué nos enfrentamos.</Spanish>
-        <Polish></Polish>
+        <Polish>Nie ma opcji, chłopie. Musimy mieć wsparcie i opracować dobry plan. Nie mamy pojęcia, z czym się mierzymy.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message4_1B1">
         <English>After yesterday's bombardment? I'm telling you, the Taliban will be scared shitless to even poke their heads out. And that's assuming some are still alive.</English>
         <Spanish>¿Después de los bombardeos de ayer? Os lo aseguro, los talibanes estarán tan cagados que ni siquiera asomarán la cabeza. Y eso es suponiendo que algunos sigan vivos.</Spanish>
-        <Polish></Polish>
+        <Polish>Po wczorajszym bombardowaniu? Mówię ci, Taliban zesrał się ze strachu i boi się wychylić łeb. O ile to w ogóle przeżyli.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message5_1B1">
         <English>I wouldn't be so sure... Don't you remember what happened last month? An ambush in this very town when nobody was expecting it? The Talibs are unpredictable, and I think yesterday's airstrike only emboldened them.</English>
         <Spanish>Yo no estaría tan seguro... ¿No te acuerdas de lo que pasó el mes pasado? Una emboscada precisamente en esta ciudad cuando nadie se la esperaba? Los talis son impredecibles, y yo creo que el ataque aéreo de ayer no hizo sino envalentonarlos.</Spanish>
-        <Polish></Polish>
+        <Polish>Nie byłbym tego taki pewien... Nie pamiętasz, co stało się w zeszłym miesiącu? Zasadzka w tym właśnie mieście, gdy nikt się jej nie spodziewał? Talibowie są nieprzewidywalni, a wczorajszy atak tylko ich podjudził...</Polish>
       </Key>
 	  <Key ID="STR_LOK_message6_1B1">
         <English>Come on, don't be a fool. Even the Talibs know better than that. Besides, we'll have LAV support, so what's to worry about?</English>
         <Spanish>Venga ya, no seas ingenuo. Hasta los talis pueden captar una indirecta como esa. Además, tendremos apoyo de LAV, así que ¿de qué preocuparse?</Spanish>
-        <Polish></Polish>
+        <Polish>No weź, nie bądź głupcem. Talibowie nie są aż tak durni. Poza tym będziemy mieć wsparcie LAVów, więc po co się martwić?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message7_1B1">
         <English>I don't think it's a good idea either...</English>
         <Spanish>Yo tampoco creo que sea buena idea...</Spanish>
-        <Polish></Polish>
+        <Polish>Tym bardziej uważam, że to zły pomysł...</Polish>
       </Key>
 	  <Key ID="STR_LOK_message8_1B1">
         <English>All right, silence now, please. Here comes the LT.</English>
         <Spanish>Venga, silencio todo el mundo, por favor. Aquí viene el teniente.</Spanish>
-        <Polish></Polish>
+        <Polish>Dobra już, cicho. Idzie porucznik.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message9_1B1">
         <English>Well boys, the situation is as follows: we're moving into Pashmul now. I don't want any questions, they're orders from above. Understood?</English>
         <Spanish>Bueno, muchachos, la situación es la siguiente: vamos a avanzar hacia Pashmul ahora. No quiero preguntas, son órdenes de arriba. ¿Entendido?</Spanish>
-        <Polish></Polish>
+        <Polish>No, panowie, sytuacja jest następująca - wyruszamy do Pashmul w tej chwili. Nie chcę słucać pytań, to rozkaz z góry. Zrozumiano?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message10_1B1">
         <English>Sir, yes, sir!</English>
         <Spanish>¡Señor, sí, señor!</Spanish>
-        <Polish></Polish>
+        <Polish>Tak jest, sir!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message10_2_1B1">
         <English>Good. Let's get it done. On me.</English>
         <Spanish>Bien. Vamos con ello. Conmigo.</Spanish>
-        <Polish></Polish>
+        <Polish>Dobrze. Weźmy się więc za robotę. Za mną.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message11_1B1">
         <English>You've gotta be kidding me...</English>
         <Spanish>Tienes que estar de broma...</Spanish>
-        <Polish></Polish>
+        <Polish>To chyba jakiś żart...</Polish>
       </Key>
 	  <Key ID="STR_LOK_message12_1B1">
         <English>Charles 39 to Charles 42 and 43: we are crossing the river. Stand by for orders. How copy, over?</English>
         <Spanish>Charles 39 a Charles 42 y 43: estamos cruzando el río. Manténganse a la espera de órdenes. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Charles 39 do Charles 42 i 43 - przechodzimy przez rzekę. Oczekujcie na rozkazy. Jak przyjął, odbiór?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message18_1B1">
         <English>Solid copy, Charles 39. Out.</English>
         <Spanish>Recibido, Charles 39. Corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Zrozumiałem, Charles 39. Bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message19_1B1">
         <English>Sir, why are they sending us across the river? Are we sure it's safe?</English>
         <Spanish>Señor, ¿por qué nos están mandando cruzar el río? ¿Seguro que es seguro?</Spanish>
-        <Polish></Polish>
+        <Polish>Sir, dlaczego przerzucają nas przez rzekę? To na pewno bezpieczne?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message20_1B1">
         <English>What did I say, Corporal? I really have no idea. Stop asking pointless questions and be on the lookout for any potential hostiles.</English>
         <Spanish>¿Yo qué he dicho, cabo? No tengo ni idea. Deje de hacer preguntas estúpidas y esté atento a cualquier posible hostil.</Spanish>
-        <Polish></Polish>
+        <Polish>Co ja mówiłem, kapralu? Nie mam pojęcia. Przestańcie zadawać bezsensowne pytania i wypatrujcie potencjalnego wroga.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message21_1B1">
         <English>Charles 57 Actual, this is Charles 39. We're nearing Pashmul. The river was flowing steady, the LAV crossed without any issues, and no hostiles sighted yet. How copy, over?</English>
         <Spanish>Charles 57 Jefe, aquí Charles 39. Nos acercamos a Pashmul. El río fluía con regularidad, el LAV ha cruzado sin problemas y aún no se han avistado hostiles. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Charles 57 Actual, tutaj Charles 39. Jesteśmy niedaleko Pashmul. Rzeka była spokojna, LAVy przejechały bez problemu, brak wrogów póki co. Jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message22_1B1">
         <English>Solid copy, 39. Fantastic. Keep it up, out.</English>
         <Spanish>Recibido, 39. Fantástico. Sigan así, corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Zrozumiałem, 39. Fantastycznie. Trzymajcie tak dalej. Bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message23_1B1">
         <English>Actual, we're entering the village of Kezban. All clear for now. How copy, over?</English>
         <Spanish>Jefe, estamos entrando en el pueblo de Kezban. Todo despejado por ahora. ¿Me recibe? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Actual, wchodzimy do wioski Kezban. Póki co czysto. Jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message24_1B1">
         <English>Roger that, 39. Stay sharp, out.</English>
         <Spanish>Recibido, 39. Manténganse alerta, corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Zrozumiałem, 39. Miejcie się na baczności. Bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message25_1B1">
         <English>Charles 39 to Charles 42 and 43: we're entering the village. It looks empty. Move in from the north and sweep the area. Over and out.</English>
         <Spanish>Charles 39 a Charles 42 y 43: estamos entrando en el pueblo. Parece vacío. Avancen desde el norte y peinen la zona. Cambio y corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Charles 39 do Charles 42 i 43: wchodzimy do wioski. Wygląda na pustą. Wejdźcie od północy i przeczeszcie teren.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message26_1B1">
         <English>Charles 43, we're on the move. See you inside the town. Godspeed, out.</English>
         <Spanish>Charles 43, nos movemos. Nos vemos dentro de la ciudad. Buena suerte, corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Charles 43, jesteśmy w drodze. Do zobaczenia w mieście. Z Bogiem, bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message27_1B1">
         <English>This is Charles 42. We're inside the town, nearing the white schoolhouse. All clear for now. How copy, over?</English>
         <Spanish>Aquí Charles 42. Estamos dentro de la ciudad, nos acercamos al colegio blanco. Todo despejado por ahora. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Tutaj Charles 42. Jesteśmy w mieście, zbliżamy się do białego budynku szkoły. Na razie czysto. Jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message28_1B1">
         <English>Solid copy, 42. Take positions and hold for the moment. Stay frosty, out.</English>
         <Spanish>Recibido, 42. Tomen posiciones y mantengan por el momento. Ojos abiertos, corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Przyjąłem, 42. Zajmijcie pozycję i wstrzymajcie się na chwilę. Bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message29_1B1">
         <English>Jesus Christ, those howitzers really reduced this town to ashes. It looks deserted.</English>
         <Spanish>Dios mío, los obuses redujeron esta ciudad a cenizas. Parece una ciudad desierta.</Spanish>
-        <Polish></Polish>
+        <Polish>Chryste panie, te haubice serio zrównały miasto z ziemią. Wygląda na opuszczone.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message30_1B1">
         <English>See? No one in their right mind would stay here and let bombs upon bombs rain on them.</English>
         <Spanish>¿Lo ves? Nadie en su sano juicio se quedaría aquí a dejar que le caigan bombas y bombas encima.</Spanish>
-        <Polish></Polish>
+        <Polish>Widzisz? Nikt przy zdrowych zmysłach by tu nie został, zeby bomby spadały im na głowy.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message31_1B1">
         <English>Yeah, I guess...</English>
         <Spanish>Sí, supongo...</Spanish>
-        <Polish></Polish>
+        <Polish>Taa, tak sądzę...</Polish>
       </Key>
 	  <Key ID="STR_LOK_message32_1B1">
         <English>We can never be too sure, men. Keep your eyes peeled and your ears open for any hostiles. We'll rendezvous with Charles 42 and 43 at the white schoolhouse, and only then we'll be able to draw conclusions.</English>
         <Spanish>Nunca se puede estar seguro, señores. Mantengan los ojos bien abiertos y los oídos atentos a cualquier hostil. Nos reuniremos con Charles 42 y 43 en el colegio blanco, y solo entonces podremos sacar conclusiones.</Spanish>
-        <Polish></Polish>
+        <Polish>Nigdy nie można być zbyt pewnym, panowie. Miejcie oczy otwarte szeroko, szukajcie wroga. Spotkamy się z Charles 42 i 43 przy szkole, wtedy zaczniemy wyciągać wnioski.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message33_1B1">
         <English>Roger that, sir. Sorry, sir.</English>
         <Spanish>Recibido, señor. Lo siento, señor.</Spanish>
-        <Polish></Polish>
+        <Polish>Tak jest, sir. Przepraszam, sir.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message35_1B1">
         <English>Charles 36, check that white schoolhouse! We'll form a perimeter meanwhile. Over and out.</English>
         <Spanish>¡Charles 36, comprueben el colegio! Nosotros formaremos un perímetro mientras tanto. Cambio y corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Charles 36, sprawdźcie ten budynek szkoły! My zabezpieczymy perymetr. Bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message36_1B1">
         <English>On it, out! Corporal Hedley, you're up! Move inside and report any suspicious activity. We'll cover you!</English>
         <Spanish>¡Nos ponemos a ello, corto! ¡Cabo Hedley, es su turno! Entre e informe de cualquier actividad sospechosa. ¡Lo cubriremos!</Spanish>
-        <Polish></Polish>
+        <Polish>W drodze, bez odbioru! Kapralu Hedley, zbieraj się! Wejdź do środka i zgłoś wszelką podejrzaną aktywność. Będę cię osłaniać!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message37_1B1">
         <English>Roger that, sir!</English>
         <Spanish>¡Recibido, señor!</Spanish>
-        <Polish></Polish>
+        <Polish>Tak jest, sir!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message38_1B1">
         <English>Fuck, contact, contact! It's an ambush! Everybody find some cover: a rock, a piece of debris, whatever! Hold this position!</English>
         <Spanish>¡Joder, contacto, contacto! ¡Es una emboscada! ¡Pónganse todos a cubierto: con una piedra, escombros, lo que sea! ¡Mantengan la posición!</Spanish>
-        <Polish></Polish>
+        <Polish>Kurwa, kontakt, kontakt! To zasadzka! Wszyscy znajdźcie osłonę - kamień, gruz, cokolwiek! Utrzymać tę pozycję!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message39_1B1">
         <English>Command, we are being attacked by hundreds of Taliban, RPGs and technicals included! Requesting immediate support, over!</English>
         <Spanish>¡Mando, nos están atacando cientos de talibanes con RPG y técnicos! ¡Solicito apoyo inmediato, cambio!</Spanish>
-        <Polish></Polish>
+        <Polish>Dowództwo, jesteśmy atakowani przez setki Talibów, mają erpegi i technikale!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message40_1B1">
         <English>Roger that 39, we've got a Coalition aircraft on standby. ETA is 2 mikes. Hold your ground! Over and out.</English>
         <Spanish>Recibido, 39, tenemos un avión de la coalición a la espera. Tiempo estimado de llegada: 2 minutos. ¡Manténganse firmes! Cambio y corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Zrozumiałem, 39, lotnictwo Koalicji jest w gotowości. Czas oczekiwania 2 minuty. Utrzymujcie pozycję! Bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message41_1B1">
         <English>All Charles units, friendly air is on its way! Hold on!</English>
         <Spanish>¡A todas las unidades Charles, viene apoyo aéreo de camino! ¡Aguanten!</Spanish>
-        <Polish></Polish>
+        <Polish>Wszystkie jednostki Charles, nasze lotnictwo jest w drodze! Trzymać się!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message42_1B1">
         <English>This is Warthog 19, I got your position and I'm inbound with heavy ordnance. Be advised: danger close. I repeat, danger close. ETA: 30 seconds. Over and out.</English>
         <Spanish>Aquí Warthog 19, tengo su posición y estoy llegando con artillería pesada. Atención: peligro cercano. Repito, peligro cercano. Tiempo estimado de llegada: 30 segundos. Cambio y corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Tutaj Guziec 19, znalazłem waszą pozycję i jestem w drodze z ciężkimi ładunkami. Uwaga, będzie niebezpiecznie blisko. Powtarzam, niebezpiecznie blisko. Czas oczekiwania, 30 sekund. Bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message43_1B1">
         <English>Thank God you're here, Warthog 19! All Charles units, air will arrive in 30 seconds, stay clear of the schoolhouse!</English>
         <Spanish>¡Gracias a Dios que ha venido, Warthog 19! ¡A todas las unidades Charles, el apoyo llegará en 30 segundos, aléjense del colegio!</Spanish>
-        <Polish></Polish>
+        <Polish>Dzieki Bogu, że tu jesteś, Guziec 19! Wszystkie jednostki Charlie, lotnictwo będzie za pół minuty, odsunąć się od szkoły!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message44_1B1">
         <English>All Charles units, SITREP!</English>
         <Spanish>¡A todas las unidades Charles, informe de situación!</Spanish>
-        <Polish></Polish>
+        <Polish>Wszystkie Charlesy, raport!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message45_1B1">
         <English>Charles 36, barely holding on!</English>
         <Spanish>¡Charles 36, aguantando a duras penas!</Spanish>
-        <Polish></Polish>
+        <Polish>Charles 36 ledwo się trzyma!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message46_1B1">
         <English>Charles 37, 2 KIA and 3 wounded!</English>
         <Spanish>¡Charles 37, 2 muertos y 3 heridos!</Spanish>
-        <Polish></Polish>
+        <Polish>Charles 37, dwóch martwych i trzech rannych!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message47_1B1">
         <English>Charles 42, several wounded, I don't know how many KIA!</English>
         <Spanish>¡Charles 42, varios heridos, no sé cuántos caídos!</Spanish>
-        <Polish></Polish>
+        <Polish>Charles 42, wielu rannych, nie wiem ilu martwych!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message48_1B1">
         <English>Charles 43, we're dying here!</English>
         <Spanish>¡Charles 43, nos están masacrando!</Spanish>
-        <Polish></Polish>
+        <Polish>Charles 43, zdychamy tu!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message49_1B1">
         <English>Fuck! Charles 57 Actual, we're taking heavy casualties! The Taliban don't stop coming, we need to get out of here NOW!</English>
         <Spanish>¡Joder! ¡Charles 57 Jefe, tenemos muchas bajas! ¡No paran de venir talibanes, tenemos que salir de aquí YA!</Spanish>
-        <Polish></Polish>
+        <Polish>Kurwa! Charles 57 Actual, mamy ogromne straty! Talibowie się nie wycofują, musimy się stąd wydostać TERAZ!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message50_1B1">
         <English>Understood 39, retreat back to the river! Take as many wounded with you as you can, I'll talk this over with Fraser! Over and out!</English>
         <Spanish>¡Entendido, 39, repliéguense de vuelta al río! ¡Traigan a todos los heridos que puedan, lo hablaré con Fraser! ¡Cambio y corto!</Spanish>
-        <Polish></Polish>
+        <Polish>Zrozumiałem cię, 39, wycofajcie się do rzeki! Weźcie tylu rannych, ilu tylko zdołacie, przegadam to z Fraserem! Bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message51_1B1">
         <English>Solid copy on all, out! All Charles units, we can't take on them all, we're getting the hell out of here! Back to the river!</English>
         <Spanish>¡Alto y claro, corto! ¡A todas las unidades Charles, no podemos con todos, nos largamos de aquí cagando hostias! ¡Vuelta al río!</Spanish>
-        <Polish></Polish>
+        <Polish>Zrozumiałem! Wszystkie jednostki Charles, nie załatwimy ich, musimy się stąd zabierać w cholerę! Wracamy do rzeki!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message52_1B1">
         <English>Sir, I have to differ. It's too risky-- we don't know the flow rate or depth of the river, we don't even know how many hostiles there are in Kezban!</English>
         <Spanish>Señor, he de discrepar. Es demasiado arriesgado, no conocemos el caudal o la profundidad del río, ¡ni siquiera sabemos cuántos hostiles hay en Kezban!</Spanish>
-        <Polish></Polish>
+        <Polish>Sir, muszę się nie zgodzić. Jest zbyt niebezpiecznie, nie znamy głębokości ani prędkości tej rzeki, nie wiemy nawet ilu wrogów jest w Kezban!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message53_1B1">
         <English>Lieutenant Colonel, I am certain the artillery did its job. The enemy presence in the village will be minimal, if any.</English>
         <Spanish>Teniente coronel, estoy seguro de que la artillería hizo su trabajo. La presencia enemiga en el pueblo será mínima, si es que hay.</Spanish>
-        <Polish></Polish>
+        <Polish>Podpułkowniku, jestem pewien, że artyleria zrobiła to, o co ją proszono. Wroga obecność w wiosce będzie minimalna, o ile w ogóle.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message54_1B1">
         <English>Sir, I have to insist. It is not prudent to make an attack plan in 15 minutes without prior notice to the troops. I advise waiting for Dutch and Danish reinforcements, and the bridgelayers, and then making a move.</English>
         <Spanish>Señor, tengo que insistir. No es prudente trazar un plan de ataque en 15 minutos sin previo aviso a las tropas. Recomiendo esperar a los refuerzos neerlandeses y daneses y a los lanzapuentes, y entonces mover ficha.</Spanish>
-        <Polish></Polish>
+        <Polish>Sir, nalegam. Nie powinniśmy realizować planu ataku zrobionego w 15 minut bez poprzedniej informacji dla piechoty. Zalecam poczekać na Duńczyków i Holendrów, oraz na mosty pontonowe, wtedy ruszymy.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message55_1B1">
         <English>Lt. Col. Lavoie, my plan has already been delayed for days on end. It is now or never. Inform your subordinates and report back to me. Over and out.</English>
         <Spanish>Tte. Cnel. Lavoie, llevan días aplazando mi plan. Es ahora o nunca. Informe a sus subalternos y preséntese ante mí. Cambio y corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Podpułkowniku Lavoie, mój plan już i tak został opóźniony o dzień. Teraz albo nigdy. Poinformuj podwładnych i zgłoś się do mnie z powrotem. Bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message56_1B1">
         <English>Are we sure about this, sir? The Taliban are surrounded, there's no need to rush this.</English>
         <Spanish>¿Estamos seguros de esto, señor? Los talibanes están rodeados, no hay necesidad de apresurarse.</Spanish>
-        <Polish></Polish>
+        <Polish>Jesteśmy tego pewni, sir? Taliban jest otoczony, nie ma powodu, by się spieszyć.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message57_1B1">
         <English>At this point, we don't have much of a choice. I've delayed this stupid assault of his as much as I could, you can only have so many arguments with a senior officer.</English>
         <Spanish>A estas alturas, no nos queda otra. Bastante he retrasado ya este asalto de locos, uno no puede estar discutiendo con un oficial superior todo lo que quiera.</Spanish>
-        <Polish></Polish>
+        <Polish>W tej chwili nie mamy wyboru. Przesuwałem ten durny szturm tak długo, jak tylko się dało, nie można kłócić się ze starszym oficerem bez końca.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message58_1B1">
         <English>COs, tell your men we are moving at a moment's notice. I'll stay here and report to Fraser. Godspeed.</English>
         <Spanish>Oficiales, comuniquen a sus hombres que avanzaremos sobre la marcha. Yo me quedaré aquí a informar a Fraser. Buena suerte.</Spanish>
-        <Polish></Polish>
+        <Polish>Dowódcy, przekażcie ludziom, że za chwilę wyruszamy. Ja zostanę tu i zgłoszę się do Frasera. Z Bogiem.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message59_1B1">
         <English>Charles 39 to Charles 42 and 43: orders from above-- we'll be crossing the river immediately. Stand by and wait for my orders. Over and out.</English>
         <Spanish>Charles 39 a Charles 42 y 43, órdenes de arriba: cruzaremos el río de inmediato. Esperen a mis órdenes. Cambio y corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Charles 39 do Charles 42 i 43, rozkazy z góry - będziemy natychmiast przechodzić przez rzekę. Oczekujcie na dalsze rozkazy. Bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message60_1B1">
         <English>What's the plan, sir?</English>
         <Spanish>¿Cuál es el plan, señor?</Spanish>
-        <Polish></Polish>
+        <Polish>Jaki jest plan, sir?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message61_1B1">
         <English>The plan? Go get your boys. We're going in. Follow me.</English>
         <Spanish>¿El plan? Vaya a por sus chicos. Nos vamos. Síganme.</Spanish>
-        <Polish></Polish>
+        <Polish>Plan? Weź swoich chłopaków. Wchodzimy. Za mną.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message62_1B1">
         <English>Sir, all Charles units have retreated back to the command post. Several wounded and KIA, one LAV down. Please advise, over.</English>
         <Spanish>Señor, todas las unidades Charles se han replegado al puesto de mando. Varios heridos y caídos en combate, un LAV perdido. Solicito instrucciones, cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Sir, wszystkie jednostki Charles wycofały się z powrotem do psoterunku. Wielu rannych i zabitych. Proszę o radę, odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message63_1B1">
         <English>Tend to the wounded and stay clear of Pashmul. We'll come back tomorrow with reinforcements. Out.</English>
         <Spanish>Atiendan a los heridos y manténganse alejados de Pashmul. Volveremos mañana con refuerzos. Corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Połatajcie rannych i nie zbliżajcie się do Pashmul. Wrócimy tam jutro ze wsparciem. Bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message64_1B1">
         <English>Move up with the LAV! Use it as cover if we run into trouble!</English>
         <Spanish>¡Avancen con el LAV! ¡Úsenlo como cobertura si nos metemos en problemas!</Spanish>
-        <Polish></Polish>
+        <Polish>Podchodźcie razem z LAVem! Używajcie go jako osłony, jeśli będziemy mieć problem!</Polish>
       </Key>
 	  <Key ID="STR_LOK_hint_1B1">
         <English>Fall back to the river! Due to the AI sometimes getting stuck in firefights for hours and hours, you don't have to wait for your team. Just make your way to the starting point, stay alive and it will count. If any of your allies manage to retreat faster than you, it will count as well.</English>
         <Spanish>¡Retírate de vuelta al río! Como la IA se puede tirar horas enfrascada en un tiroteo, no hace falta que esperes a tu equipo. Tan solo vuelve al punto de partida, que no te maten y contará. Si algún aliado tuyo logra retirarse antes que tú, también contará.</Spanish>
-        <Polish></Polish>
+        <Polish>Wycofaj się do rzeki! Ze względu na AI nieumiejące czasem zerwać kontaktu przez długie godziny, nie musisz czekać na swój oddział. Po prostu wycofaj się do punktu startowego, przeżyj, i będzie to zaliczone. Jeśli którykolwiek z twoich sojuszników wycofa się szybciej niż ty, to też się będzie liczyć.</Polish>
       </Key>
 	  <Key ID="STR_LOK_end1_subtitle_1B1">
         <English>Successfully retreated</English>
         <Spanish>Retirada satisfactoria</Spanish>
-        <Polish></Polish>
+        <Polish>Ucieczka powiodła się</Polish>
       </Key>
 	  <Key ID="STR_LOK_end1_description_1B1">
         <English>Everything seemed quiet at the town of Kezban, but things dramatically turned sour when Charles Company found out it was all a setup for a massive motorized ambush. With little support and heavy casualties, your regiment was forced to fall back, essentially returning to the starting position. But tomorrow things will go better, right?</English>
         <Spanish>Todo parecía tranquilo en la ciudad de Kezban, pero las cosas se torcieron drásticamente cuando la Compañía Charles descubrió que todo era una trampa para una descomunal emboscada motorizada. Con poco apoyo y muchas bajas, tu regimiento se vio obligado a retirarse, básicamente volviendo al punto de partida. Pero mañana será otro día, ¿verdad?</Spanish>
-        <Polish></Polish>
+        <Polish>Kezban wydawało się być cichym miastem, ale wszystko się obróciło o 180 stopni, gdy Kompania Charles zorientowała się, że była to skrzętnie przygotowana zmotoryzowana zasadzka. Mając małe wsparcie i mnóstwo ofiar, twój regiment został zmuszony do wycofania się, tym samym wracając do pozycji startowej. Ale jutro będzie lepiej, co nie?</Polish>
       </Key>
     </Container>
   </Package>

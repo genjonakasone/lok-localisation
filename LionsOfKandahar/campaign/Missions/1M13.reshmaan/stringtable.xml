@@ -5,477 +5,477 @@
 	  <Key ID="STR_LOK_BriefingNotes_1M13">
         <English>EDITOR'S NOTES:&lt;br/&gt;Hints: Don't let your squad get distracted by the chaos of battle, use the terrain and command them to hold fire and act accordingly when on the move, just don't forget to go weapons hot if you come into contact with the enemy. You've got artillery at your fingertips, son-- don't hesitate to use it!&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;Toby Keith - Courtesy of the Red, White, and Blue&lt;br/&gt;The Allman Brothers Band - Midnight Rider</English>
         <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Consejos: Que tu escuadrón no se distraiga con el caos de la batalla, usa el terreno y ordénales que no disparen cuando avances. No te olvides de darles vía libre para disparar al entrar en contacto con el enemigo. Tienes artillería al alcance de la mano, hijo... ¡no dudes en usarla!&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Toby Keith - Courtesy of the Red, White, and Blue&lt;br/&gt;The Allman Brothers Band - Midnight Rider</Spanish>
-        <Polish></Polish>
+        <Polish>OD AUTORA:&lt;br/&gt;Nie daj twojemu oddziałowi się rozproszyć chaosem bitwy, wykorzystuj teren i każ im wstrzymywać ogień, gdy się przemieszczasz, ale pamiętaj o otwieraniu ognia, gdy napotkasz przeciwnika. Pod ręką masz wsparcie artyleryjskie, korzystaj z niego, póki możesz!&lt;br/&gt;&lt;br/&gt;MUZYKA:&lt;br/&gt;Toby Keith - Courtesy of the Red, White, and Blue&lt;br/&gt;The Allman Brothers Band - Midnight Rider</Polish>
       </Key>
 	  <Key ID="STR_LOK_DiaryText_1M13">
         <English>It's been a tense and exhausting few days, but we finally have the sort of backup we need to defend &lt;marker name="markerSperwanGhar"&gt;Sperwan Ghar&lt;/marker&gt; and win the Battle of Panjwayi. The Canadian forces of Charles Co. have finally managed to regroup and take Objective Rugby, and they've reinforced their positions into an F.O.B. at &lt;marker name="markerMasumGhar"&gt;Masum Ghar&lt;/marker&gt;. The 10th Mountain Division's Comanche Co. has also entered the fray, thanks to Maj. Gen. Freakley staying true to his word that we would get the support we needed. Not only have they reinforced our defenses here at Sperwan Ghar, but they are now technically under SOF command. Jared has planned an operation to clear Objective Billiards to our north, so they will be sweeping southwest, but our concern will be mostly to the south and keeping it secure. Fortunately, the 10th Mtn. Div. also brought in a group of M119 105mm Howitzers, they're ready for fire our missions from &lt;marker name="markerKeybariGhar"&gt;Keybari Ghar&lt;/marker&gt;. On top of that, the ANA's 3rd Kandak is in fighting form, they have surely earned their titles of the Lions of Kandahar. Lt. Ali, along with Taz and his team will assist our push on Zangabar Ghar.</English>
         <Spanish>Han sido unos días tensos y agotadores, pero por fin tenemos el tipo de apoyo que necesitamos para defender &lt;marker name="markerSperwanGhar"&gt;Sperwan Ghar&lt;/marker&gt; y ganar la batalla de Panjwai. Las fuerzas canadienses de la Compañía Charles han logrado reagruparse y tomar el objetivo Rugby por fin, y han reforzado sus posiciones en una BOA en &lt;marker name="markerMasumGhar"&gt;Masum Ghar&lt;/marker&gt;. La Compañía Comanche de la 10.ª División de Montaña también ha entrado en la refriega, gracias a que el mayor general Freakley cumplió su palabra de darnos el apoyo que necesitábamos. No solo han reforzado nuestras defensas aquí en Sperwan Ghar, sino que técnicamente están bajo las órdenes de las Fuerzas Especiales. Jared ha planeado una operación para despejar el objetivo Billiards al norte, así que atacarán hacia el sudoeste, pero nosotros nos centraremos más en el sur y en que esté asegurado. Por suerte, la 10.ª de Montaña también ha traído un par de obuses M119 de 105 mm. Están listos para disparar a nuestra orden desde &lt;marker name="markerKeybariGhar"&gt;Keybari Ghar&lt;/marker&gt;. Encima, el 3.er Kandak del ENA está en plena forma. Se han ganado el título de los leones de Kandahar. El teniente Ali, junto a Taz y su equipo, nos ayudarán en nuestro asalto a Zangabar Ghar.</Spanish>
-        <Polish></Polish>
+        <Polish>To było intensywne i wyczerpujące kilka dni, ale nareszcie udało nam się zdobyć wsparcie potrzebne do obrony &lt;marker name="markerSperwanGhar"&gt;Sperwan Ghar&lt;/marker&gt; i wygrania Bitwy o Pandżwai. Kanadyjczycy z Kompanii Charles przegrupowali się i zajęli Punkt Rugby oraz zbudowali bazę w &lt;marker name="markerMasumGhar"&gt;Masum Ghar&lt;/marker&gt;. Kompania Comanche z 10. Górskiej także dołączyła do zabawy, wszystko dzięki mjr bryg. Freakley'owi, który dotrzymał słowa, że da nam wsparcie, któego potrzebujemy. Oni nie tylko wzmocnili naszą obronę w Sperwan Ghar, ale też technicznie są pod dowództwem sił specjalnych. Jared zaplanował operację wyczyszczenia Punktu Billiards na północy, więc będą przeczesywać południowy zachód, ale nasza uwaga skupi się na pilnowaniu południa. 10. Górska załatwiła też parę haubic M119 105mm, są gotowe na zadania z punktu &lt;marker name="markerKeybariGhar"&gt;Keybari Ghar&lt;/marker&gt;. Na dodatek 3. Kandak NAA jest gotowy do walki, zdecydowanie zasłużyli sobie na miano Lwów z Kandaharu. Por. Ali wraz z Tazem i jego oddziałem pomogą nam w misji popchnięcia Zangabar Ghar.</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingCommand_Text_1M13">
         <English>A. Signal:&lt;br/&gt; Eagle 10 Actual - Lt. Col. BOLDUC (TF 31 CO)&lt;br/&gt; Lion 1 Actual - Col. SHINSHA (ANA Kandahar Bgde. CO)&lt;br/&gt; Talon 30 Actual - Col. JARED (ODA 331 CO)&lt;br/&gt; Talon 26 - Cpt. HODGE&lt;br/&gt; Talon 31 - Cpt. RUSTY (you)&lt;br/&gt; Talon 36 - Cpt. BRUCE&lt;br/&gt; Lion 18 - Lt. Ali&lt;br/&gt; Lion 32 - Taz&lt;br/&gt; Lima 84 - MEDEVAC</English>
         <Spanish>A. Señal:&lt;br/&gt; Eagle 10 Jefe: Tte. Cnel. BOLDUC (oficial al mando de la TF 31)&lt;br/&gt; León 1 Jefe: Cnel. SHINSHA (oficial al mando de la brig. de Kandahar del ENA)&lt;br/&gt; Talon 30 Jefe: Cnel. JARED (oficial al mando de la ODA 331)&lt;br/&gt; Talon 26: Cap. HODGE&lt;br/&gt; Talon 31: Cap. RUSTY (tú)&lt;br/&gt; Talon 36: Cap. BRUCE&lt;br/&gt; León 18: Tte. Ali&lt;br/&gt; León 32: Taz&lt;br/&gt; Lima 84: MEDEVAC</Spanish>
-        <Polish></Polish>
+        <Polish>A. Znaki wywoławcze:&lt;br/&gt; Orzeł 10 Actual - Ppłk BOLDUC (Ofic. dow. TF31)&lt;br/&gt; Lew 1 Actual - Płk SHINSHA (Ofic. dow. Bryg. Kandahar NAA)&lt;br/&gt; Talon 30 Actual - Płk JARED (Ofic. dow. ODA 331)&lt;br/&gt; Talon 26 - Kpt. HODGE&lt;br/&gt; Talon 31 - Kpt. RUSTY (ty)&lt;br/&gt; Talon 36 - Kpt. BRUCE&lt;br/&gt; Lew 18 - Por. Ali&lt;br/&gt; Lew 32 - Taz&lt;br/&gt; Lima 84 - MEDEVAC</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingSustainment_Text_1M13">
         <English>1. Supply: Standard US SOF Desert BDUs and ACUs or fleece jackets, CIRAS vests, MICH2001 helmets, standard issue US small arms including M16s, M4A1 carbines, MP5 SMGs, Mossberg shotguns, M249 and Mk 48 SAWs, and Mk 12, M24, SR-25, and M107 sniper rifles. The ANA has also opened their armory to you for this mission: Afghan standard-issue and special weapons are now available, including AKM, AK-74, AKS-74U, M70 and Vz. 58 rifles, PKM and RPK machine guns, SVD sniper rifle systems, assorted handguns, and RPGs.&lt;br/&gt;2. Transportation: All Talon GMVs have been moved into defensive positions per Bill's direction. You'll be on foot for this one.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Talon 31 has 1x Embedded Medical Sergeant - Riley. In the event of substantial casualties, Talon 30 Actual will authorize CASEVAC or insertion by ODA 331 QRF.</English>
         <Spanish>1. Suministros: Uniformes estándar de combate de fuerzas especiales en camuflaje desierto y UCP o forros polares, chalecos CIRAS, cascos MICH 2001, armas reglamentarias de EE. UU. como fusiles M16A4, carabinas M4A1, subfusiles MP5, escopetas Mossberg, ametralladoras Mk. 48 y M249, y fusiles de tirador Mk. 12, M24, SR-25 y M107. El ENA también os ha abierto su arsenal para esta misión. Hay disponibles armas especiales y reglamentarias afganas, como fusiles AKM, AK-74, AKS-74U, M70 y Vz. 58, ametralladoras PKM y RPK, fusiles de francotirador SVD, pistolas varias y RPG.&lt;br/&gt;2. Transporte: Bill ha colocado todos los GMV de los Talon en posiciones defensivas, te tocará ir a pie esta vez.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Talon 31 tiene 1x sargento médico asignado, Riley. En caso de sufrir una cantidad considerable de bajas, Talon 30 Jefe autorizará CASEVAC y la inserción de la FRR de la ODA 331.</Spanish>
-        <Polish></Polish>
+        <Polish>1. Wyposażenie: Standardowe pustynne BDU i ACU sił specjalnych USA, kamizelki CIRAS, hełmy MICH 2001, standardowa broń małokalibrowa, w tym M16, M4A1, MP5, strzelby Mossberg, karabiny maszynowe M249 i Mk48, karabiny wyborowe Mk12, M24, SR-25 i M107. NAA udostępniło też swoją zbrojownię na czas tej misji: afgańskie standardowe uzbrojenie i broń specjalna są dostępne, w tym karabiny AKM, AK-74, ASK-74U, M70, Vz.58, karabiny maszynowe PKM i RPK, karabiny wyborowe SVD oraz pistolety i granatniki.&lt;br/&gt;2. Środki transportu: Wszystkie pojazdy Talonu zostały przeniesione na pozycje defensywne zgodnie z zaleceniami Billa. Będziesz poruszać się pieszo.&lt;br/&gt;3. Usługi: Brak.&lt;br/&gt;4. Konserwacja: Brak.&lt;br/&gt;5. CASEVAC: Talon 31 dysponuje jednym przydzielonym medykiem - Rileyem. W razie znacznych strat Talon 30 Actual autoryzuje CASEVAC lub insercję sił szybkiego reagowania ODA 331.</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingExecution_Text_1M13">
         <English>Talon 26 has been assigned to various defensive posts surrounding our makeshift T.O.C. Talon 30 is coordinating with the CO's of the 3rd Kandak and the 10th Mtn. Div. in the T.O.C. Talon 31 (your unit) has been called from their post to the T.O.C. Talon 36 Alpha (Bruce), along with two of his guys and about 20 from the ANA, were sent to patrol a set of compounds past the line earlier this morning. Defensive positions have been reinforced by Comanche Co. and the 3rd Kandak. All units are weapons free on any hostiles spotted in the vicinity. Unless otherwise directed, all teams are to remain at their designated posts unless ordered otherwise by their respective CO.</English>
         <Spanish>Talon 26 ha sido asignado a varios puestos defensivos que rodean nuestro COT improvisado. Talon 30 se está coordinando con los oficiales al mando del 3.er Kandak y la 10.ª División de Montaña en el COT. Talon 31 (tu unidad) ha sido convocado en el COT. Talon 36 Alfa (Bruce), junto a dos de sus chicos y unos veinte del ENA, fueron enviados a patrullar un conjunto de edificios más allá del frente esta mañana. Las posiciones defensivas han sido reforzadas por la Compañía Comanche y el 3.er Kandak. Todas las unidades tienen vía libre para disparar a cualquier hostil avistado en las inmediaciones. A menos que se indique lo contrario, todos los equipos deben permanecer en sus puestos designados.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 26 został przydzielony do różnych punktów obrony otaczających tymczasowe Centrum Operacji Taktycznych. Talon 30 współpracuje wraz z 3. Kandakiem i 10. Górską w bazie. Talon 31 (twoja jednostka) został wezwany z posterunku do centrum. Talon 36 Alfa (Bruce) wraz z dwoma swoimi ludźmi i ok. 20 żołnierzami z NAA, zostali wysłani na patrol w stronę kilku kompleksów poza linią obrony. Nasze umocnienia zostały też wzmocnione przez kompanię Comanche i 3. Kandak. Wszystkie jednostki mogą strzelać do przeciwnika napotkanego w okolicy bez rozkazu. Do czasu zmiany rozkazu, wszystkie oddziały mają pozostać na swoich pozycjach.</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingMission_Text_1M13">
         <English>Who: Talon 31, ODA 331, Task Force 31 (TF31)&lt;br/&gt;What: DEFEND Sperwan Ghar&lt;br/&gt;Where: In vicinity, Panjwayi Valley&lt;br/&gt;When: 000000ZSEP10&lt;br/&gt;Why: Support of Operation Medusa</English>
         <Spanish>Quién: Talon 31, ODA 331, Fuerza Operativa 31 (TF 31)&lt;br/&gt;Qué: DEFENDER Sperwan Ghar&lt;br/&gt;Dónde: En las inmediaciones, valle de Panjwai&lt;br/&gt;Cuándo: 000000ZSEP10&lt;br/&gt;Por qué: Apoyo a la Operación Medusa</Spanish>
-        <Polish></Polish>
+        <Polish>Kto: Talon 31, ODA 331, Task Force 31 (TF31)&lt;br/&gt;Co: BRONIĆ Sperwan Ghar&lt;br/&gt;Gdzie: Okolica doliny Pandżwai&lt;br/&gt;Kiedy: 000000ZWRZ10&lt;br/&gt;Czemu: Wsparcie Operacji Meduza</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingSituation_Text_1M13">
         <English>A. ENEMY FORCES&lt;br/&gt;Size: Estimated 150-400 in vicinity + reinforcements, 500-1,500 in the AO at large&lt;br/&gt;Activity: Heavy movement in the immediate vicinity, radio intercepts confirm the Taliban are attempting a last-ditch effort at retaking Sperwan Ghar.&lt;br/&gt;Location: Vicinity, &lt;marker name="markerSperwanGhar"&gt;Sperwan Ghar&lt;/marker&gt;&lt;br/&gt;Unit: Taliban mixed infantry supported by Arab and Chechen fighters&lt;br/&gt;Time Observed: September 10, 2006 0600 hrs&lt;br/&gt;Equipment: Assorted small arms including AK-47s, G3A6s, and RPK Machineguns, RPG AT Weapons&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To defend Sperwan Ghar against the enemy assault. Be advised: Charles and Comanche Companies will be performing a sweep through the Panjwayi valley, intended to flush the Taliban out of the area once and for all.&lt;br/&gt;2. Adjacent Units: ODA 331 Team 26 (callsign: Talon 26), ODA 331 Command Team (callsign: Talon 30), ODA 331 Team 36 (callsign: Talon 36), 10th Mountain Division Comanche Co. (callsign: Comanche 1 Actual), ANA 3rd Kandak (callsign: Lion 1 Actual), Canadian 1 RCR Battle Group, Charles Co. (callsign: Charles Actual).&lt;br/&gt;3. Supporting: An F/A-18 fighter wing has been committed to patrolling the airspace for today. Artillery support will be available for this mission, thanks to our friends in Comanche Company positioned at Keybari Ghar to our north. Two (2) M119 Howitzers are at our disposal-- use Radio Hotel (0-8), select an available howitzer, then the ammo type, and confirm a target for the fire mission. Remember, it will take approximately 60 seconds for the rounds to reach their target. CASEVAC will be available by request of Talon 30 Actual, ODA 331's CO.</English>
         <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: Se estiman 150-400 en las inmediaciones + refuerzos, 500-1500 en el AO en general&lt;br/&gt;Actividad: Mucho movimiento en las inmediaciones, las intercepciones de radio confirman que los talibanes están dando manotazos de ahogado para retomar Sperwan Ghar.&lt;br/&gt;Ubicación: Inmediaciones, &lt;marker name="markerSperwanGhar"&gt;Sperwan Ghar&lt;/marker&gt;&lt;br/&gt;Unidades: Infantería mixta talibán con apoyo de combatientes árabes y chechenos&lt;br/&gt;Fecha de observación: 10 de septiembre de 2006, 0600 hrs&lt;br/&gt;Equipo: armas ligeras variadas como AK-47, G3A6 y ametralladoras RPK, granadas antitanque RPG&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Defender Sperwan Ghar del asalto enemigo. Atención: las compañías Charles y Comanche barrerán el valle de Panjwai con la intención de expulsar a los talibanes de la zona de una vez por todas.&lt;br/&gt;2. Unidades adyacentes: Equipo 26 de la ODA 331 (indicativo: Talon 26), equipo de mando de la ODA 331 (indicativo: Talon 30), equipo 36 de la ODA 331 (indicativo: Talon 36), Compañía Comanche de la 10.ª División de Montaña (indicativo: Comanche 1 Jefe), 3.er Kandak del ENA (indicativo: León 1 Jefe), 1.er Grupo de Combate del Real Regimiento Canadiense, Compañía Charles (indicativo: Charles Jefe).&lt;br/&gt;3. Apoyo: Un ala de cazas F/A-18 patrullará el espacio aéreo en el día de hoy. Habrá apoyo de artillería para esta misión, gracias a nuestros amigos de la Compañía Comanche que se han instalado en Keybari Ghar al norte. Dos (2) obuses M119 están a nuestra disposición. Usa la radio Hotel (0-8), selecciona un obús disponible, luego el tipo de munición, y confirma un blanco para la misión de artillería. Recuerda, los proyectiles tardarán unos 60 segundos en llegar al blanco. La CASEVAC solo estará autorizada cuando la solicite Talon 30 Jefe, el oficial al mando de la ODA 331.</Spanish>
-        <Polish></Polish>
+        <Polish>A. WROGIE SIŁY&lt;br/&gt;Wielkość: Około 150-400 w okolicy + możliwe wsparcie, 500-1500 w całej strefie operacyjnej.&lt;br/&gt;Aktywność: Spore przemieszczenia w bezpośredniej okolicy, przechwycona komunikacja radiowa potwierdza gromadzenie sił przez Talibów w celu przejęcia Sperwan Ghar.&lt;br/&gt;Miejsce: Okolica &lt;marker name="markerSperwanGhar"&gt;Sperwan Ghar&lt;/marker&gt;&lt;br/&gt;Jednostka: Mieszana piechota Talibanu wspierana przez arabskich i czeczeńskich najemników.&lt;br/&gt;Czas obserwacji: 10 września 2006 r. - 0600&lt;br/&gt;Wyposażenie: Różnorodna broń małokalibrowa, w tym karabiny AK-47, G3A6, RPK, wyrzutnie granatów ppanc&lt;br/&gt;&lt;br/&gt;B. SOJUSZNICZE SIŁY&lt;br/&gt;1. Misja i intencje dowództwa: Bronić Sperwan Ghar przed nieprzyjacielskim szturmem. Kompanie Charles i Comanche przeprowadzą rozpoznanie przez dolinę Pandżwai w celu przegnania Talibanu z tego miejsca raz na zawsze.&lt;br/&gt;2. Jednostki: Oddział 26 ODA 331 (znak wywoławczy: Talon 26), Oddział dowodzenia ODA 331 (znak wywoławczy: Talon 30), Oddział 36 ODA 331 (znak wywoławczy: Talon 36), 10. Dywizja Górska, Kompania Comanche (znak wywoławczy: Comanche 1 Actual), 3. Kandak NAA (znak wywoławczy: Lew 1 Actual), Kanadyjska 1. RCR, Kompania Charles (znak wywoławczy: Charles Actual).&lt;br/&gt;3. Wsparcie: Dywizjon myśliwców F/A-18 został wyznaczony do patrolu przestrzeni powietrznej tego dnia. Wsparcie artyleryjskie będzie dostępne w trakcie tej misji dzięki przyjaciołom z Kompanii Comanche umiejscowionych w Keybari Ghar na północy. DwIE (2) haubice M119 są do naszej dyspozycji - użyj opcji Radio Hotel (0-8), wybierz dostępną haubicę, typ amunicji i potwierdź cel misji ogniowej. Pamiętaj, potrzebne będzie ok. 60 sekund, zanim pociski dolecą do celu. CASEVAC jest dostępny na wezwanie Talona 30 Actual, oficera dowodzącego ODA 331.</Polish>
       </Key>
 	  <Key ID="STR_LOK_Briefing_Text_1M13">
         <English>This is it. The Taliban are making their final assault on our positions. If we can defeat them today, they'll be broken and forced to retreat. If we win here, we'll be geared to push them from Kandahar, the city first, then the entire province.&lt;br/&gt;&lt;br/&gt;Easier said than done. The enemy is attacking from the north, west, and south-- they're moving fast and shooting surprisingly straight. It's absolutely crucial that we keep Zangabar Ghar from becoming a foothold for the enemy, but even with reinforcements, we're tied down. The task is going to fall to Rusty and his team. I'm putting all available support at your disposal: Artillery from the 10th Mtn. Div. and an AH-64 Apache.&lt;br/&gt;&lt;br/&gt;Oh, also... We sent Bruce and an ANA contingent of about 20 men to patrol way ahead, he better get his ass back here soon or he could be in trouble. Keep an ear open for any word from Bruce or either of his two guys Ben or J.D.</English>
         <Spanish>Hasta aquí hemos llegado. Los talibanes están realizando su último asalto a nuestras posiciones. Si los derrotamos hoy, estarán rotos y se verán obligados a retirarse. Si ganamos aquí, estaremos preparados para expulsarlos de Kandahar, primero de la ciudad y luego de toda la provincia.&lt;br/&gt;&lt;br/&gt;Es más fácil decirlo que hacerlo. El enemigo ataca desde el norte, el oeste y el sur; avanzan rápido y disparan con una precisión sorprendente. Es absolutamente crucial que evitemos que Zangabar Ghar se convierta en un punto de apoyo para el enemigo, pero, aun con refuerzos, estamos atados de pies y manos. Rusty y su equipo se encargarán de ello. Pongo a vuestra disposición todo el apoyo disponible: artillería de la 10.ª de Montaña y un AH-64 Apache.&lt;br/&gt;&lt;br/&gt;Ah, y... enviamos a Bruce y a un contingente del ENA de unos 20 hombres a patrullar más adelante, será mejor que vuelvan pronto o podrían estar en problemas. Estad atentos por si Bruce o cualquiera de sus dos muchachos, Ben o JT, dicen algo.</Spanish>
-        <Polish></Polish>
+        <Polish>Dziś wielki dzień. Taliban planuje przeprowadzić ostateczny szturm na nasze pozycje. Jeśli damy radę ich dziś pokonać, rozbiją sie i będą zmuszeni do ucieczki. Jeśli wygramy, będziemy mieć siłęwystarczającą do wypchnięcia ich z Kandaharu - najpierw z miasta, potem z całej prowincji.&lt;br/&gt;&lt;br/&gt;Łatwiej jednak mówić, niż robić. Wróg zamierza zaatakować z północy, zachodu i południa... Przemieszczają się szybko i strzelają wyjątkowo celnie. To bardzo ważne, żebyśmy nie pozwolili przeciwnikowi zająć Zangabar Ghar, ale nawet z posiłkami nie mamy za dużego pola do manewru. Zadanie to przypadnie Rusty'emu i jego oddziałowi. Daję wam do dyspozycji całe dostępne wsparcie: artyleria od 10. Górskiej i AH-64 Apache.&lt;br/&gt;&lt;br/&gt; Jeszcze jedno... Wysłaliśmy Bruce'a i kontyngent 20 żołnierzy z NAA do patrolowania przedpola, lepiej niech wróci tu albo będzie mieć kłopoty. Nasłuchuj radia, czy nie odezwie się Bruce albo któryś z jego ludzi, Ben lub J.D.</Polish>
       </Key>
 	  <Key ID="STR_LOK_AfghanSoldier_1M13">
         <English>AFGHAN SOLDIER</English>
         <Spanish>SOLDADO AFGANO</Spanish>
-        <Polish></Polish>
+        <Polish>AFGAŃSKI ŻOŁNIERZ</Polish>
       </Key>
 	  <Key ID="STR_LOK_everyone_1M13">
         <English>EVERYONE</English>
         <Spanish>TODOS</Spanish>
-        <Polish></Polish>
+        <Polish>WSZYSCY</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj0_Description_1M13">
         <English>You have been called to the makeshift T.O.C. atop Sperwan Ghar, where Jared, Shinsha, and Major Martin of the 10th Mountain Division's Comanche Company are going over the final details of the sweep operation.</English>
         <Spanish>Te han convocado en el COT improvisado en la cima de Sperwan Ghar, donde Jared, Shinsha y el mayor Martin de la Compañía Comanche de la 10.ª División de Montaña están repasando los últimos detalles de la operación de barrido.</Spanish>
-        <Polish></Polish>
+        <Polish>Zostałeś wezwany do tymczasowego Centrum Operacji Taktycznych na Sperwan Ghar, gdzie Jared, Shinsha i major Martin z Kompanii Comanche z 10. Górskiej omawiają ostatnie szczegóły operacji.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj0_Title_1M13">
         <English>Finish briefing with Jared</English>
         <Spanish>Terminar la reunión con Jared</Spanish>
-        <Polish></Polish>
+        <Polish>Ukończ odprawę z Jaredem</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_Description_1M13">
         <English>Before you try to take Zangabar Ghar all by yourself, you should round up your team. They have assembled outside the makeshift command center, give them the rundown and then move out.</English>
         <Spanish>Antes de intentar tomar Zangabar Ghar por tu cuenta, deberías reunir a tu equipo. Se han reunido fuera del centro de mando improvisado, infórmalos y luego sal.</Spanish>
-        <Polish></Polish>
+        <Polish>Zanim spróbujesz zająć Zangabar Ghar w pojedynkę, powinieneś najpierw zebrać oddział. Twoi ludzie czekają na zewnątrz COT, streść im plan i wyruszcie.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_Title_1M13">
         <English>Gather your team</English>
         <Spanish>Reunir al equipo</Spanish>
-        <Polish></Polish>
+        <Polish>Zbierz ludzi</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_2_Description_1M13">
         <English>You and your team must retake Zangabar Ghar from the Taliban forces attempting to establish a foothold. Make your way over, and be sure to keep an eye out for Lt. Ali and his team, along with Taz, both whom will provide fire support.</English>
         <Spanish>Tu equipo y tú debéis retomar Zangabar Ghar de las fuerzas talibanes que intentan establecer un punto de apoyo. Dirígete hacia allí y no pierdas de vista al teniente Ali y a su equipo, así como a Taz, que os proporcionarán fuego de apoyo.</Spanish>
-        <Polish></Polish>
+        <Polish>Ty i twój oddział musicie odbić Zangabar Ghar z rąk żołnierzy Talibanu, którzy próbują się tam okopać. Udaj się tam i miej oko na por. Aliego i jego oddział, który razem z Tazem zapewnią wam wsparcie ogniowe.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_2_Title_1M13">
         <English>Retake Zangabar Ghar</English>
         <Spanish>Retomar Zangabar Ghar</Spanish>
-        <Polish></Polish>
+        <Polish>Odbij Zangabar Ghar</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_Description_1M13">
         <English>Bruce's team is cut off and knee-deep in shit. Your team is the only one close enough to get to them in time. Get to the compound where Bruce and his team are pinned down!</English>
         <Spanish>El equipo de Bruce está aislado y hasta el cuello de mierda. Tu equipo es el único lo bastante cerca como para llegar a tiempo a ellos. ¡Ve al complejo donde Bruce y su equipo están acorralados!</Spanish>
-        <Polish></Polish>
+        <Polish>Oddział Bruce'a jest oddcięty i po uszy w gównie. Twoja ekipa jest jedyną na tyle blisko, by dostać się do sojuszników na czas. Biegnij do kompleksu, w którym kryje się Bruce i jego oddział!</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_Title_1M13">
         <English>Relieve Talon 36</English>
         <Spanish>Aliviar a Talon 36</Spanish>
-        <Polish></Polish>
+        <Polish>Wesprzyj Talona 36</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_1_Description_1M13">
         <English>Bruce's team is cut off and knee-deep in shit. Your team is the only one close enough to get to them in time. Get to the compound where Bruce and his team are pinned down!</English>
         <Spanish>El equipo de Bruce está aislado y hasta el cuello de mierda. Tu equipo es el único lo bastante cerca como para llegar a tiempo a ellos. ¡Ve al complejo donde Bruce y su equipo están acorralados!</Spanish>
-        <Polish></Polish>
+        <Polish>Oddział Bruce'a jest oddcięty i po uszy w gównie. Twoja ekipa jest jedyną na tyle blisko, by dostać się do sojuszników na czas. Biegnij do kompleksu, w którym kryje się Bruce i jego oddział!</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_1_Title_1M13">
         <English>Move to Bruce's position</English>
         <Spanish>Avanzar a la posición de Bruce</Spanish>
-        <Polish></Polish>
+        <Polish>Idź na pozycję Bruce'a</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_2_Description_1M13">
         <English>You got to Talon 36's position and Bruce is alive, but his team is surrounded by the Taliban from all sides! Help them defend the compound!</English>
         <Spanish>¡Has llegado a la posición de Talon 36 y Bruce está vivo, pero su equipo está rodeado por los talibanes desde todos los flancos! ¡Ayúdalos a defender el complejo!</Spanish>
-        <Polish></Polish>
+        <Polish>Dotarłeś do pozycji Talona 36, Bruce żyje, ale jego oddział jest otoczony przez Talibów z każdej strony! Pomóż im obronić kompleks!</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_2_Title_1M13">
         <English>Defend the compound</English>
         <Spanish>Defender el complejo</Spanish>
-        <Polish></Polish>
+        <Polish>Broń kompleksu</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionTitle_1M13">
         <English>The Dragon's Back</English>
         <Spanish>La espalda del dragón</Spanish>
-        <Polish></Polish>
+        <Polish>Smocze plecy</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionTitle_Intro_1M13">
         <English>Mission 13 Intro</English>
         <Spanish>Misión 13: Intro</Spanish>
-        <Polish></Polish>
+        <Polish>Misja 13: Intro</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionTitle_Outro_1M13">
         <English>Credits</English>
         <Spanish>Créditos</Spanish>
-        <Polish></Polish>
+        <Polish>Autorzy</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionDescription_1M13">
         <English>Now that the Canadians have regrouped and renewed their offensive, and we have been reinforced by the 10th Mountain Division, a massive sweep of the valley is underway. This is the enemy's last stand, we must defeat them here.</English>
         <Spanish>Ahora que los canadienses se han reagrupado y han renovado su ofensiva y que a nosotros nos ha reforzado la 10.ª División de Montaña, toca barrer el valle entero. Esta es la última defensa del enemigo, debemos derrotarlos aquí y ahora.</Spanish>
-        <Polish></Polish>
+        <Polish>Teraz, gdy Kanadyjczycy przegrupowali się i ponowili ofensywę, a nas wzmocniła 10. Górska, nadszedł czas na wielkie przeczesanie doliny. To jest ostateczna bitwa wroga, musimy ich pokonać właśnie w tym miejscu.</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_text_1M13">
         <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER XIII - The Dragon's Back&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'Anything worth fighting for is worth fighting dirty for.'&lt;br/&gt;&lt;br/&gt;-UNKNOWN&lt;/t&gt;</English>
         <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO XIII: La espalda del dragón&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«Vale la pena luchar sucio por todo aquello por lo que merece la pena luchar».&lt;br/&gt;&lt;br/&gt;—DESCONOCIDO&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t color='#FFA500' size='3.5'&gt;ROZDZIAŁ XIII - Smocze plecy&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'Wszystko, o co warto walczyć, jest warte nieczystej walki.'&lt;br/&gt;&lt;br/&gt;- NIEZNANY AUTOR&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_outro_text1_1M13">
         <English>&lt;t size='2.5'&gt;Captain Rusty Bradley&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Voiced by HeadUp&lt;/t&gt;</English>
         <Spanish>&lt;t size='2.5'&gt;Capitán Rusty Bradley&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Doblado por HeadUp&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='2.5'&gt;Kapitan Rusty Bradley&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Głos podłożył HeadUp&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_outro_text2_1M13">
         <English>&lt;t size='2.5'&gt;Colonel Jared Hill&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Voiced by AZCoder&lt;/t&gt;</English>
         <Spanish>&lt;t size='2.5'&gt;Coronel Jared Hill&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Doblado por AZCoder&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='2.5'&gt;Pułkownik Jared Hill&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Głos podłożył AZCoder&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_outro_text3_1M13">
         <English>&lt;t size='2.5'&gt;Sergeant Bill Brown&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Voiced by Laqueesha&lt;/t&gt;</English>
         <Spanish>&lt;t size='2.5'&gt;Sargento Bill Brown&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Doblado por Laqueesha&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='2.5'&gt;Sierżant Bill Brown&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Głos podłożył Laqueesha&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_outro_text4_1M13">
         <English>&lt;t size='2.5'&gt;Sergeant Dave Smith&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Voiced by Kommiekat&lt;/t&gt;</English>
         <Spanish>&lt;t size='2.5'&gt;Sargento Dave Smith&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Doblado por Kommiekat&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='2.5'&gt;Sierżant Dave Smith&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Głos podłożył Kommiekat&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_outro_text5_1M13">
         <English>&lt;t size='2.5'&gt;Staff Sergeant Jude Voss&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Voiced by Laqueesha&lt;/t&gt;</English>
         <Spanish>&lt;t size='2.5'&gt;Sargento primero Jude Voss&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Doblado por Laqueesha&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='2.5'&gt;Starszy sierżant Jude Voss&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Głos podłożył Laqueesha&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_outro_text6_1M13">
         <English>&lt;t size='2.5'&gt;Sergeant Riley Stevens&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Voiced by SavageCDN&lt;/t&gt;</English>
         <Spanish>&lt;t size='2.5'&gt;Sargento Riley Stevens&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Doblado por SavageCDN&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='2.5'&gt;Sierżant Riley Stevens&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Głos podłożył SavageCDN&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_outro_text7_1M13">
         <English>&lt;t size='2.5'&gt;Sergeant Brian Myers&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Voiced by Krytosss&lt;/t&gt;</English>
         <Spanish>&lt;t size='2.5'&gt;Sargento Brian Myers&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Doblado por Krytosss&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='2.5'&gt;Sierżant Brian Myers&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Głos podłożył Krytosss&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_outro_text8_1M13">
         <English>&lt;t size='2.5'&gt;Sergeant Smitty&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Voiced by Domokun&lt;/t&gt;</English>
         <Spanish>&lt;t size='2.5'&gt;Sargento Smitty&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Doblado por Domokun&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='2.5'&gt;Sierżant Smitty&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Głos podłożył Domokun&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_outro_text9_1M13">
         <English>&lt;t size='2.5'&gt;Sergeant Zack Harrison&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Voiced by AZCoder&lt;/t&gt;</English>
         <Spanish>&lt;t size='2.5'&gt;Sargento Zack Harrison&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Doblado por AZCoder&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='2.5'&gt;Sierżant Zack Harrison&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Głos podłożył AZCoder&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_outro_text10_1M13">
         <English>&lt;t size='2.5'&gt;Captain Hodge&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Voiced by Kommiekat&lt;/t&gt;</English>
         <Spanish>&lt;t size='2.5'&gt;Capitán Hodge&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Doblado por Kommiekat&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='2.5'&gt;Kapitan Hodge&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Głos podłożył Kommiekat&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_outro_text11_1M13">
         <English>&lt;t size='2.5'&gt;Captain Bruce Scullion&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Voiced by Kommiekat&lt;/t&gt;</English>
         <Spanish>&lt;t size='2.5'&gt;Capitán Bruce Scullion&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Doblado por Kommiekat&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='2.5'&gt;Kapitan Bruce Scullion&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Głos podłożył Kommiekat&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_outro_text12_1M13">
         <English>&lt;t size='2.5'&gt;Colonel Shinsha&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Voiced by HeadUp&lt;/t&gt;</English>
         <Spanish>&lt;t size='2.5'&gt;Coronel Shinsha&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Doblado por HeadUp&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='2.5'&gt;Pułkownik Shinsha&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Głos podłożył HeadUp&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_outro_text13_1M13">
         <English>&lt;t size='2.5'&gt;Sergeant Taz&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Voiced by HeadUp&lt;/t&gt;</English>
         <Spanish>&lt;t size='2.5'&gt;Sargento Taz&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Doblado por HeadUp&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='2.5'&gt;Sierżant Taz&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Głos podłożył HeadUp&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_outro_text14_1M13">
         <English>&lt;t size='2.5'&gt;Lieutenant Ali Hussein&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Voiced by Laqueesha&lt;/t&gt;</English>
         <Spanish>&lt;t size='2.5'&gt;Teniente Ali Hussein&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Doblado por Laqueesha&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='2.5'&gt;Porucznik Ali Hussein&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Głos podłożył Laqueesha&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_outro_text15_1M13">
         <English>&lt;t size='2.5'&gt;Various NATO soldiers&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Voiced by Wiki&lt;/t&gt;</English>
         <Spanish>&lt;t size='2.5'&gt;Varios soldados de la OTAN&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Doblado por Wiki&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='2.5'&gt;Żołnierze NATO&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;Głos podłożył Wiki&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_outro_text16_1M13">
         <English>&lt;t size='1.5'&gt;T O   B E   C O N T I N U E D . . .&lt;/t&gt;</English>
         <Spanish>&lt;t size='1.5'&gt;C O N T I N U A R Á . . .&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='1.5'&gt;C I Ą G   D A L S Z Y   N A S T Ą P I . . .&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel1_1M13">
         <English>Cpt. Rusty Bradley</English>
         <Spanish>Cap. Rusty Bradley</Spanish>
-        <Polish></Polish>
+        <Polish>Kpt. Rusty Bradley</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel2_1M13">
         <English>ODA 331, US Army SF</English>
         <Spanish>ODA 331, Ejérc. de EE. UU.</Spanish>
-        <Polish></Polish>
+        <Polish>ODA 331, siły specjalne US Army</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel3_1M13">
         <English>Atop Sperwan Ghar</English>
         <Spanish>En la cima de Sperwan Ghar</Spanish>
-        <Polish></Polish>
+        <Polish>Szczyt Sperwan Ghar</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel4_1M13">
         <English>September 10, 2006 - 0820</English>
         <Spanish>10 septiembre 2006 - 0820</Spanish>
-        <Polish></Polish>
+        <Polish>10 września 2006 r. - 0820</Polish>
       </Key>
 	  <Key ID="STR_LOK_Viper04_1M13">
         <English>Viper 04</English>
         <Spanish>Viper 04</Spanish>
-        <Polish></Polish>
+        <Polish>Żmija 04</Polish>
       </Key>
 	  <Key ID="STR_LOK_Artillery_1M13">
         <English>Alpha Bravo 62</English>
         <Spanish>Alfa Bravo 62</Spanish>
-        <Polish></Polish>
+        <Polish>Alfa Bravo 62</Polish>
       </Key>
 	  <Key ID="STR_LOK_message1_1M13">
         <English>We've got the bastards right where we want them. Now that we've got the combined force of Charles and Comanche companies, we're ready to clean house. I've planned a massive sweep across the entire valley.</English>
         <Spanish>Tenemos a los cabrones justo donde los queríamos. Ahora que contamos con las fuerzas combinadas de las compañías Charles y Comanche, estamos listos para hacer limpieza. He planeado un barrido masivo de todo el valle.</Spanish>
-        <Polish></Polish>
+        <Polish>Mamy gnojków tam, gdzie ich chcieliśmy. Teraz, z połączonymi siłami kompanii Charles i kompanii Comanche, możemy posprzątać. Zaplanowałem ogromne przeczesanie wszerz doliny.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message2_1M13">
         <English>This marks the beginning of the end for our enemies, I am sure of this. My men are ready to meet the Talibs head on.</English>
         <Spanish>Este es el principio del fin para nuestros enemigos. Estoy convencido. Mis hombres están listos para plantarles cara a los talibanes.</Spanish>
-        <Polish></Polish>
+        <Polish>Te oznaczenia rozpoczynają koniec naszych wrogów. Jestem tego pewien. Moi ludzie są gotowi wyjść Talibom naprzeciw.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message3_1M13">
         <English>The bulk of our guys are up north, we should have visual any minute now.</English>
         <Spanish>El grueso de nuestros hombres están al norte, deberíamos tener visual en cualquier momento.</Spanish>
-        <Polish></Polish>
+        <Polish>Większość naszych jest na północy, będziemy mieć na nich widok lada chwila.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message4_1M13">
         <English>Komandan, commander! We have visual on a concentrated force in the vicinity of Zangabar Ghar!</English>
         <Spanish>¡Komandan, comandante! ¡Tenemos visual de una fuerza concentrada en las inmediaciones de Zangabar Ghar!</Spanish>
-        <Polish></Polish>
+        <Polish>Dowódco, dowódco! Mamy kontakt wzrokowy z siłami przeciwnika w okolicy Zangabar Ghar!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message5_1M13">
         <English>Shit, the Talibs are making their move too! My men and Bruce's team will be cut off!</English>
         <Spanish>¡Mierda, los talis también están moviendo ficha! ¡Mis hombres y el equipo de Bruce quedarán acorralados!</Spanish>
-        <Polish></Polish>
+        <Polish>Cholera, Talibowie przyjęli własną taktykę! Moi ludzie i oddział Bruce'a będą odcięci!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message6_1M13">
         <English>Rusty, your team is the one for job, I know I can count on you for this.</English>
         <Spanish>Rusty, tu equipo es el idóneo para esto. Sé que puedo contar contigo.</Spanish>
-        <Polish></Polish>
+        <Polish>Rusty, twoja ekipa się nadaje do tej roboty, wiem, że mogę wam zaufać.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message7_1M13">
         <English>You didn't even have to ask, sir. My men are formed up and ready to rock 'n' roll, we can head out right now.</English>
         <Spanish>No hacía falta ni preguntarlo, señor. Mis hombres están en formación y listos para dar caña, podemos partir ahora mismo.</Spanish>
-        <Polish></Polish>
+        <Polish>Nawet nie musicie pytać, sir. Moi ludzie są gotowi na rock'n'rolla, wyruszymy od razu.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message8_1M13">
         <English>Captain, don't forget about the howitzers we set up on Keybari Ghar. Give 'em a hard day's work, but just remember they're a few klicks north of here, so it'll take about one mike for your splash.</English>
         <Spanish>Capitán, no se olvide de los obuses que hemos instalado en Keybari Ghar. Hágales trabajar, pero recuerde que están a unos kilómetros al norte de aquí, así que la explosión tardará un minuto.</Spanish>
-        <Polish></Polish>
+        <Polish>Kapitanie, nie zapomnij o haubicach, które rozstawiliśmy na Keybari Ghar. Niech sobie dziś popracują, ale pamiętajcie, że są kilka kilometrów na północ, więc będzie potrzeba około minuty na trafienie.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message9_1M13">
         <English>Much obliged, sir. We'll put them to good use.</English>
         <Spanish>Muchas gracias, señor. Les daremos un buen uso.</Spanish>
-        <Polish></Polish>
+        <Polish>Dziękuję, sir. Bardzo się nam przydadzą.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message10_1M13">
         <English>Rusty!... Good luck.</English>
         <Spanish>¡Rusty! Buena suerte.</Spanish>
-        <Polish></Polish>
+        <Polish>Rusty!... Powodzenia.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message11_1M13">
         <English>Alright guys, we need to high-tail it down to Zangabar Ghar to kick the Taliban's final counter-attack in the fuckin' teeth. Fall in!</English>
         <Spanish>Muy bien, chicos, tenemos que llegar a Zangabar Ghar para meterles un patadón en los dientes a los talibanes de una vez por todas. ¡Formen filas!</Spanish>
-        <Polish></Polish>
+        <Polish>Dobra, panowie, musimy zasuwać do Zangabar Ghar, by skopać Talibom dupę w ostatecznym ataku. Do szeregu!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message12_1M13">
         <English>The Eagle flies again!</English>
         <Spanish>¡El águila vuelve a volar!</Spanish>
-        <Polish></Polish>
+        <Polish>Orzeł znów frunie!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message18_1M13">
         <English>Hooah!</English>
         <Spanish>¡Hooah!</Spanish>
-        <Polish></Polish>
+        <Polish>Hu-ła!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message19_1M13">
         <English>You the one who's been hoardin' all the Doritos and Funyuns, Zack? Or was it you, Brian, you pothead, you got the munchies down there?</English>
         <Spanish>¿Eres tú el que ha estado acaparando los Doritos y los Funyuns, Zack? ¿O eras tú, Brian, so porrero, estás con los munchies o qué?</Spanish>
-        <Polish></Polish>
+        <Polish>To ty jesteś kitrałeś wszystkie Doritosy i Funyuny, Zack? Czy może ty, Brian, ćpunie, zeżarłeś wszystko?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message20_1M13">
         <English>Hey, hey guys. I don't do dope, no sir. Not out here, at least. A couple puffs of this shit and you'll be patrolling in circles for hours, dude.</English>
         <Spanish>Ey, ey, chicos. No me drogo, no, señor. Aquí no, al menos. Le das un par de caladas a esta mierda y te tiras horas patrullando dando vueltas, tío.</Spanish>
-        <Polish></Polish>
+        <Polish>Hej, hej, panowie. Nie jaram, o nie, sir. Przynajmniej nie tutaj. Parę buchów tego gówna i będzie się patrolować w kółeczku przez godziny.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message21_1M13">
         <English>Talon 31 to Talon 30 Actual, Zangabar Ghar has been cleared of all hostiles. I say again, Zangabar is clear, sir. How copy? Over.</English>
         <Spanish>Talon 31 a Talon 30 Jefe, hemos despejado Zangabar Ghar de todos los hostiles. Repito, Zangabar despejada, señor. ¿Me recibe? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 do Talona 30 Actual, Zangabar Ghar jest wolne od przeciwników. Powtarzam, Zangabar jest czyste, sir. Jak przyjł? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message22_1M13">
         <English>Talon 30 Actual to Talon 31, outstanding work. Try and see if you can get a visual on Bruce's compound.</English>
         <Spanish>Talon 30 Jefe a Talon 31, un trabajo maravilloso. A ver si pueden conseguir visual del complejo de Bruce.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 30 Actual do Talona 31, doskonała robota. Spróbujcie nawiązać kontakt wzrokowy z kompleksem Bruce'a.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message23_1M13">
         <English>Talon 36 to Talon 30 Actual, we are troops in contact!</English>
         <Spanish>¡Talon 36 a Talon 30 Jefe, tenemos tropas en contacto!</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 36 do Talona 30 Actual, weszliśmy w kontakt z przeciwnikiem!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message24_1M13">
         <English>We need air ASAP! We are going to get overrun unless we get some help.</English>
         <Spanish>¡Necesitamos apoyo aéreo lo antes posible! Nos van a invadir si no nos ayudan.</Spanish>
-        <Polish></Polish>
+        <Polish>Potrzebujemy wsparcia natychmiast! Okrążą nas, jeśli nikt nam nie pomoże.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message25_1M13">
         <English>I am in contact with a couple of enemy platoons. One element has closed fifty meters. We are taking accurate small arms fire. I have two Whiskey India Alpha. I am going to need a MEDEVAC, but no LZ set. How copy? Over.</English>
         <Spanish>Hemos entablado contacto con un par de pelotones enemigos. Un elemento está a cincuenta metros de nosotros. Estamos recibiendo fuego preciso de armas ligeras. Tengo dos heridos. Voy a necesitar MEDEVAC, pero no hay ninguna ZA fijada. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Mam kontakt z kilkoma plutonami wroga. Jeden element w odległości pięćdziesięciu metrów. Otrzymujemy celny ogień małego kalibru. Mam dwóch rannych. Będzie mi potrzebny MEDEVAC ale nie mamy strefy lądowania. Jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message26_1M13">
         <English>Talon 30 to Talon 36, hang tight, help is coming. How copy? Over.</English>
         <Spanish>Talon 30 a Talon 36, aguanten, la ayuda va de camino. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 30 do Talona 36, trzymajcie się, kawaleria nadchodzi. Jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message27_1M13">
         <English>We are going to fucking die if you don't get in here! Do you understand? We are going to fucking die if they do not get us some air! Over.</English>
         <Spanish>¡Vamos a morir si no vienen aquí! ¿Lo entienden? ¡Vamos a ser putos fiambres si no nos consiguen apoyo aéreo! Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Zaraz tu, kurwa, zdechniemy, jeśli nie przyjdziecie! Rozumiesz? Kurewsko szybko zdechniemy jeśli nas nie odciążycie! Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message28_1M13">
         <English>This is Eagle 10. You are doing a great job out there. You've got the enemy right where you want them. Keep the pressure on. It is coming. Hang in there.</English>
         <Spanish>Aquí Eagle 10. Están haciendo un gran trabajo ahí fuera. Tienen al enemigo justo donde lo querían. Sigan presionando. Va para allá. Aguanten.</Spanish>
-        <Polish></Polish>
+        <Polish>Tutaj Orzeł 10. Dobrze wam tam idzie. Macie przeciwnika tam, gdzie chcieliście. Ciśnijcie ich dalej. Lada chwila to skończymy. Trzymajcie się.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message29_1M13">
         <English>This is Talon 36, the Captain is down! Six of the ANA are wounded. J.T. and I are the only ones left!</English>
         <Spanish>¡Aquí Talon 36, el capitán ha caído! Hay seis heridos del ENA. ¡Solo quedamos JT y yo!</Spanish>
-        <Polish></Polish>
+        <Polish>Tutaj Talon 36, kapitan dostał! Sześciu NAA jest rannych. Tylko ja i J.D. stoimy na nogach!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message30_1M13">
         <English>We have got to do something. Talon 31 to Talon 30 Actual, I am going to go down there and try and get them out. Talon 26, knock a wedge in.</English>
         <Spanish>Tenemos que hacer algo. Talon 31 a Talon 30 Jefe, voy a intentar bajar y sacarlos de ahí. Talon 26, hagan hueco.</Spanish>
-        <Polish></Polish>
+        <Polish>Musimy coś zrobić. Talon 31 do Talona 30 Actual, wchodzę tam i spróbuję ich wyciągnąć. Talon 26, trzymajcie się.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message31_1M13">
         <English>Roger that, 31. I'm trying to get us some Charlie Alpha Sierra. Get in there and give them some fire support, over and out.</English>
         <Spanish>Recibido, 31. Estoy intentando conseguir apoyo aéreo cercano. Vayan ahí y presten apoyo de fuego, cambio y corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Zrozumiałem, 31. Próbuję załatwić jakieś wsparcie powietrzne. Wchodźcie tam i wesprzyjcie ich, bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message32_1M13">
         <English>We're here! Where's Bruce?</English>
         <Spanish>¡Ya estamos aquí! ¿Y Bruce?</Spanish>
-        <Polish></Polish>
+        <Polish>Jesteśmy już! Gdzie Bruce?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message33_1M13">
         <English>He's in the main building, first floor, sir!</English>
         <Spanish>¡Está en el edificio principal, primera planta, señor!</Spanish>
-        <Polish></Polish>
+        <Polish>Jest w głównym budynku, pierwsze piętro, sir!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message34_1M13">
         <English>You guys got here just in time for the party.</English>
         <Spanish>Venís justo a tiempo para la fiesta.</Spanish>
-        <Polish></Polish>
+        <Polish>Zdążyliście na imprezę na czas.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message35_1M13">
         <English>Bruce! You're still up!</English>
         <Spanish>¡Bruce! ¡Sigues vivo!</Spanish>
-        <Polish></Polish>
+        <Polish>Bruce! Nadal żyjesz!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message36_1M13">
         <English>We've got incoming from the north, west and south, we need every man who can pull a trigger. They'll be on us any minute now! Get ready!</English>
         <Spanish>Vienen desde el norte, el oeste y el sur, necesitamos a cualquier persona que pueda apretar el gatillo. ¡Estarán aquí en cualquier momento! ¡Preparaos!</Spanish>
-        <Polish></Polish>
+        <Polish>Mamy wrogów nadchodzących z północy, zachodu i południa, potrzebujemy każdego, kto może pociągnąć za spust. Wejdą nam na głowy lada chwila! Przygotować się!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message37_1M13">
         <English>Talon 31 to Talon 30 Actual, the enemy counter-attack has been defeated! They're on the run.</English>
         <Spanish>¡Talon 31 a Talon 30 Jefe, hemos derrotado el contraataque enemigo! Están huyendo.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 do Talona 30 Actual, wrogi kontratak został odparty! Uciekają.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message38_1M13">
         <English>Eagle 10 Actual to all Talon elements, we've just received word that the Taliban are now in full retreat. Outstanding work, men! Sperwan Ghar will officially become a firebase. You fought hard to get the hill, now we'll use it to hold the valley.</English>
         <Spanish>Eagle 10 Jefe a todos los elementos Talon, acabamos de recibir la noticia de que los talibanes se retiran. ¡Excelente trabajo, muchachos! Sperwan Ghar se convertirá oficialmente en una base. Han luchado duro para hacerse con la colina, ahora la usaremos para mantener el valle.</Spanish>
-        <Polish></Polish>
+        <Polish>Orzeł 10 Actual do wszystkich elementów Talon, włąśnie otrzymaliśmy informację, że Talibowie się całkowicie wycofują. Doskonała robota, panowie! Sperwan Ghan oficjalnie stanie się bazą ogniową. Ciężko walczyliście o tę górę, teraz użyjemy jej do utrzymania doliny.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message39_1M13">
         <English>Whew! Not bad for thirty Green Berets and fifty Afghan soldiers!</English>
         <Spanish>¡Fiu! ¡No está mal para treinta Boinas Verdes y cincuenta soldados afganos!</Spanish>
-        <Polish></Polish>
+        <Polish>Uff! Nie tak źle, jak na 30 Zielonych Beretów i 50 Afgańskich żołnierzy?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message40_1M13">
         <English>Talon 31, this is Viper 04, lookin' for a party. Request guns hot, inbound. How copy, over.</English>
         <Spanish>Talon 31, aquí Viper 04, buscando guerra. Solicito permiso para disparar. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31, tutaj Żmija 04, chcemy dołączyć do imprezy. Prosimy o otwarcie ognia. Jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message41_1M13">
         <English>Viper 04, you are cleared hot. Come on heading of 202 degrees. Listen carefully: Taliban are attempting to overrun my team on the south side of the dried-out riverbed. You have no restrictions. My initials are Romeo Bravo. Bring the heat NOW, we need it.</English>
         <Spanish>Viper 04, permiso concedido. Diríjanse a 202 grados. Escuchen con atención: los talibanes están intentando abrumar a mi equipo en el lado sur del lecho del río seco. No tienen restricciones. Mis iniciales son Romeo Bravo. Vengan con la artillería YA, la necesitamos.</Spanish>
-        <Polish></Polish>
+        <Polish>Żmija 04, możecie strzelać. Podejdźcie z 202 stopni. Słuchajcie uważnie - Talibowie próbują szturmować mój oddział od południowej strony dna rzeki. Walcie, czym tylko się da. Moje iniciały to Romeo Bravo. Walcie teraz, potrzebujemy tego.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message42_1M13">
         <English>Whoa, that's all enemy? Let's even the odds.</English>
         <Spanish>Vaya, ¿todos esos son enemigos? Vamos a igualar los equipos.</Spanish>
-        <Polish></Polish>
+        <Polish>Łał, to wszystko to przeciwnicy? Wyrównajmy szanse.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message43_1M13">
         <English>Talon 31, this is Viper 04. Coming out. Winchester.</English>
         <Spanish>Talon 31, aquí Viper 04. Nos vamos. Winchester.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31, tutaj Żmija 04. Odlatuję. Koniec amunicji.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message44_1M13">
         <English>Major General Benjamin Freakley said you boys could use a hand. He's placed Comanche Company under your operational command, sir.</English>
         <Spanish>El mayor general Benjamin Freakley dijo que les vendría bien un cable. Ha puesto a la Compañía Comanche bajo su mando operativo, señor.</Spanish>
-        <Polish></Polish>
+        <Polish>Generał sztabowy Benjamin Freakley powiedział, że przydałaby wam się mała pomoc. Umieścił Kompanię Comanche pod waszym dowództwem operacyjnym, sir.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message45_1M13">
         <English>We brought in some artillery, slung under a couple Chinooks, and set up a small battery a few klicks north on Keybari Ghar.</English>
         <Spanish>Hemos traído artillería con un par de Chinooks y hemos montado una pequeña batería a unos kilómetros al norte, en Keybari Ghar.</Spanish>
-        <Polish></Polish>
+        <Polish>Załatwiliśmy trochę artylerii, podpięliśmy ją pod Chinooki i rozstawilismy małą baterię kilka kilometrów na północ, na Keybari Ghar.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message46_1M13">
         <English>And Charles Company has regrouped and broken out, they're back on the move and have seized the initiative.</English>
         <Spanish>Y la Compañía Charles se ha reagrupado, vuelven a estar en la ofensiva y han tomado la iniciativa.</Spanish>
-        <Polish></Polish>
+        <Polish>A Kompania Charles przegrupowała się i wyłamała, są już z powrotem w ruchu i przejęli inicjatywę.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message47_1M13">
         <English>Colonel, sir. I think it's time to put an end to this Taliban bullshit most ricky-tick. What do you say?</English>
         <Spanish>Coronel, señor. Creo que es hora de poner fin a esta pantomima talibán lo antes posible. ¿Qué opina?</Spanish>
-        <Polish></Polish>
+        <Polish>Pułkowniku, sir. Myślę, że czas skończyć z tymi pieprzonymi Talibami raz na zawsze. Co pan na to?</Polish>
       </Key>
 	  <Key ID="STR_LOK_end1_subtitle_1M13">
         <English>Taliban defeated</English>
         <Spanish>Talibanes derrotados</Spanish>
-        <Polish></Polish>
+        <Polish>Taliban pokonany</Polish>
       </Key>
 	  <Key ID="STR_LOK_end1_description_1M13">
         <English>We did it! We beat 'em! Radio intercepts confirm the Taliban are in a full-on retreat. Comanche Company is right on their tails! We're gonna chase their asses right out of Kandahar!</English>
         <Spanish>¡Lo conseguimos! ¡Les hemos vencido! Las intercepciones de radio confirman que los talibanes se retiran. ¡La Compañía Comanche les pisa los talones! ¡Vamos a mandarlos a tomar por culo de Kandahar!</Spanish>
-        <Polish></Polish>
+        <Polish>Udało nam się! Pokonaliśmy ich! Przejęta transmisja radiowa wskazuje, że Talibowie są w pełnym odwrocie. Kompania Comanche siedzi im na ogonach! Przegnamy ich z całego Kandaharu!</Polish>
       </Key>
 	  <Key ID="STR_LOK_lost_subtitle_1M13">
         <English>Position overrun</English>
         <Spanish>Posición invadida</Spanish>
-        <Polish></Polish>
+        <Polish>Pozycja zaatakowana</Polish>
       </Key>
 	  <Key ID="STR_LOK_lost_description_1M13">
         <English>The Taliban have overrun ODA 331 and the ANA's position atop Sperwan Ghar and massacred them!</English>
         <Spanish>¡Los talibanes han invadido la posición de la ODA 331 y el ENA en la cima de Sperwan Ghar y los han masacrado!</Spanish>
-        <Polish></Polish>
+        <Polish>Talibowie zalali pozycję ODA 331 i NAA na Sperwan Ghar i ich zmasakrowali!</Polish>
       </Key>
     </Container>
   </Package>

@@ -5,277 +5,277 @@
 	  <Key ID="STR_LOK_BriefingNotes_1M10">
         <English>EDITOR'S NOTES:&lt;br/&gt;This mission is a very abstract rendition of the actual events, and is not meant to 'gamify' or trivialize this act of bravery, but rather confront you with a similar challenge. With so many enemies swarming your position, you will be vulnerable, and you will be forced to decide whether to shoot or to scoot. Balance is the key.&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;None so far...</English>
         <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Esta misión es una representación muy abstracta de los sucesos reales, y con ella no se pretende en absoluto trivializar este acto de coraje, sino ponerte en una tesitura parecida. Como hay tantos enemigos intentando invadir tu posición, serás vulnerable y te verás obligado a decidir entre disparar o correr. En el punto medio se encuentra la virtud.&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Nada de momento...</Spanish>
-        <Polish></Polish>
+        <Polish>OD AUTORA:&lt;br/&gt;Ta misja jest bardzo abstrakcyjnym odtworzeniem prawdziwych wydarzeń i nie ma na celu trywializować tego aktu odwagi, ale raczej postawić cię przed podobnym wyzwaniem. Mają wielu wrogów rzucających się na twoją pozycję, będziesz bardzo wystawiony na ostrzał, i będziesz zmuszony decydować, czy chcesz strzelać, czy też uciekać. Balans jest najważniejszy.&lt;br/&gt;&lt;br/&gt;MUZYKA:&lt;br/&gt;Póki co brak...</Polish>
       </Key>
 	  <Key ID="STR_LOK_RustyDiary_Text_1M10">
         <English>This single HEROIC act, by my account, as a witness and as the Ground Assault Commander for the operation to seize Sperwan Ghar, was the BRAVEST and most VALOROUS thing I have ever witnessed in 3 combat rotations in Afghanistan, 14 years in the Army and my 36 years of life. SSG Jude Voss's quick, decisive and selfless actions that day directly saved two soldiers' lives and carried the initiative of the battle ... There is no higher honor in the place of time and military history than the way Jude conducted himself that day as an American soldier. It was a day I shall never forget. I have walked with heroes. I hope someone finds this note.&lt;br/&gt;&lt;br/&gt;Captain Rusty Bradley&lt;br/&gt;Sept. 5, 2006</English>
         <Spanish>Solo este acto HEROICO, según lo relato, como testigo y comandante del asalto terrestre durante la operación para tomar Sperwan Ghar, fue lo más VALIENTE y VALEROSO que jamás he presenciado en tres servicios militares en Afganistán, 14 años en el Ejército y 36 años de vida. Las acciones rápidas, decisivas y desinteresadas del SG1.º Jude Voss ese día salvaron directamente la vida de dos soldados y llevaron la iniciativa de la batalla... No hay mayor honor en el lugar del tiempo y de la historia militar que la forma en que Jude se comportó aquel día como soldado estadounidense. Fue un día que jamás olvidaré. He caminado junto a héroes. Espero que alguien encuentre esta nota.&lt;br/&gt;&lt;br/&gt;Capitán Rusty Bradley&lt;br/&gt;5 sept. 2006</Spanish>
-        <Polish></Polish>
+        <Polish>Ten pojedynczy, HEROICZNY czyn, moim zdaniem, jako świadka i dowódcy naziemnej części operacji polegającej na zajęciu Sperwan Ghar, był najodważniejszym i najdumniejszym wydarzeniem, jakie miałem okazję obserwować w ciągu ostatnich 3 rotacji w Afganistanie, 14 lat w Armii i 36 lat życia. Szybkie, zdecydowane i bezinteresowne działania star. sierż. Jude'a Vossa tylko w tym dniu ocaliły życia dwóch ludzi i pociągnęły inicjatywę bitwy... Nie ma większego honoru w historii armii i jakiejkolwiek innej, niż to, w jaki sposób Jude poświęcił się tego dnia jako amerykański żołnierz. To był dzień, którego nigdy nie zapomnę. Maszerowałem z bohaterami. Mam nadzieję, że ktoś znajdzie tę notatkę.&lt;br/&gt;&lt;br/&gt;Kapitan Rusty Bradley&lt;br/&gt;5 września 2006 r.</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingCommand_Text_1M10">
         <English>A. Signal:&lt;br/&gt; Eagle 10 Actual - Lt. Col. BOLDUC (TF 31 CO)&lt;br/&gt; Lion 1 Actual - Col. SHINSHA (ANA Kandahar Bgde. CO)&lt;br/&gt; Talon 30 Actual (your unit) - Col. JARED (ODA 331 CO)&lt;br/&gt; Talon 26 - Cpt. HODGE&lt;br/&gt; Talon 31 - Cpt. RUSTY&lt;br/&gt; Talon 36 - Cpt. BRUCE&lt;br/&gt; Buffalo 22 - MEDEVAC</English>
         <Spanish>A. Señal:&lt;br/&gt; Eagle 10 Jefe: Tte. Cnel. BOLDUC (oficial al mando de la TF 31)&lt;br/&gt; León 1 Jefe: Cnel. SHINSHA (oficial al mando de la brig. de Kandahar del ENA)&lt;br/&gt; Talon 30 Jefe (tu unidad): Cnel. JARED (oficial al mando de la ODA 331)&lt;br/&gt; Talon 26: Cap. HODGE&lt;br/&gt; Talon 31: Cap. RUSTY&lt;br/&gt; Talon 36: Cap. BRUCE&lt;br/&gt; Buffalo 22: MEDEVAC</Spanish>
-        <Polish></Polish>
+        <Polish>A. Sygnały wywoławcze:&lt;br/&gt; Orzeł 10 Actual - Ppłk. BOLDUC (Ofic. dow. TF31)&lt;br/&gt; Lew 1 Actual - Płk SHINSHA (Ofic. dow. Bryg. Kandahar NAA)&lt;br/&gt; Talon 30 Actual (twoja jednostka) - Płk JARED (Ofic. dow. ODA 331)&lt;br/&gt; Talon 26 - Kpt. HODGE&lt;br/&gt; Talon 31 - Kpt. RUSTY&lt;br/&gt; Talon 36 - Kpt. BRUCE&lt;br/&gt; Bawół 22 - MEDEVAC</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingSustainment_Text_1M10">
         <English>1. Supply: Standard US SOF Desert BDUs and ACUs or fleece jackets, CIRAS vests, MICH2001 helmets, standard issue US small arms including M16s, M4A1 carbines, MP5 SMGs, Mossberg shotguns, M249 and Mk 48 SAWs, and Mk 12, M24, SR-25, and M107 sniper rifles.&lt;br/&gt;2. Transportation: All Talon GMVs not committed to the assault are instead committed to defending the CCP or transporting the wounded.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Talon 31 has 1x Embedded Medical Sergeant - Riley. Medical Sergeants Greg and Steve will remain to the south and serve with the QRF, in the event of a mission failure due to substantial casualties, Talon 30 Actual will authorize CASEVAC and insertion by ODA 331 QRF.</English>
         <Spanish>1. Suministros: Uniformes estándar de combate de fuerzas especiales en camuflaje desierto y UCP o forros polares, chalecos CIRAS, cascos MICH 2001, armas reglamentarias de EE. UU. como fusiles M16A4, carabinas M4A1, subfusiles MP5, escopetas Mossberg, ametralladoras Mk. 48 y M249, y fusiles de tirador Mk. 12, M24, SR-25 y M107.&lt;br/&gt;2. Transporte: Todos los GMV de los Talon que no participen en el asalto se remitirán a defender el PRB o transportar heridos.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Talon 31 tiene 1x sargento médico asignado, Riley. Los sargentos médicos Greg y Steve se quedarán en el sur y servirán con la FRR. En caso de fracaso debido a una cantidad considerable de bajas, Talon 30 Jefe autorizará CASEVAC y la inserción de la FRR de la ODA 331.</Spanish>
-        <Polish></Polish>
+        <Polish>1. Wyyposażenie: Standardowe pustynne BDU i ACU sił specjalnych US Army, kamizelki CIRAS, hełmy MICH2001, standardowa amerykańska broń małokalibrowa, w tym M16, M4A1, MP5, strzelby Mossberg, karabiny maszynowe M249 i Mk48, karabiny snajperskie Mk12, M24, SR-25 i M107.&lt;br/&gt;2. Środki transportu: Wszystkie pojazdy Talonu nie biorące udziału w szturmie zostały wykorzystane do ochrony punktu zbornego rannych lub do transportu żołnierzy.&lt;br/&gt;3. Usługi: Brak.&lt;br/&gt;4. Konserwacja: Brak.&lt;br/&gt;5. CASEVAC: Talon 31 dysponuje 1x medykiem - Rileyem. Medycy Greg i Steve pozostaną na południu wraz z oddziałami szybkiego reagowania. W razie niepowodzenia misji spowodowanego znacznymi stratami, Talon 30 Actual autoryzuje CASEVAC i insercję sił szybkiego reagowania ODA 331.</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingExecution_Text_1M10">
         <English>It's pretty fucking simple gentlemen: kill the enemy, don't get killed. Follow orders and we'll get through this yet.</English>
         <Spanish>Sencillo de cojones, caballeros: matad al enemigo, que no os maten. Seguid las órdenes y saldremos de esta.</Spanish>
-        <Polish></Polish>
+        <Polish>To jest kurewsko proste, panowie: zabić wroga, nie dać się trafić. Słuchajcie rozkazów, a wszyscy wyjdziemy z tego cało.</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingMission_Text_1M10">
         <English>Who: Talon 31, ODA 331, Task Force 31 (TF31)&lt;br/&gt;What: DEFEND the CCP&lt;br/&gt;Where: In vicinity, Panjwayi Valley&lt;br/&gt;When: 080000ZSEP5&lt;br/&gt;Why: Support of Sperwan Ghar assault, support of Operation Medusa</English>
         <Spanish>Quién: Talon 31, ODA 331, Fuerza Operativa 31 (TF 31)&lt;br/&gt;Qué: DEFENDER el PRB&lt;br/&gt;Dónde: En las inmediaciones, valle de Panjwai&lt;br/&gt;Cuándo: 080000ZSEP5&lt;br/&gt;Por qué: Apoyo al asalto a Sperwan Ghar, apoyo a la Operación Medusa</Spanish>
-        <Polish></Polish>
+        <Polish>Kto: Talon 31, ODA 331, Task Force 31 (TF31)&lt;br/&gt;Co: BRONIĆ punktu gromadzenia rannych&lt;br/&gt;Gdzie: Okolica doliny Pandżwai&lt;br/&gt;Kiedy: 080000ZWRZ5&lt;br/&gt;Czemu: Wsparcie szturmu na Sperwan Ghar, wsparcie Operacji Meduza</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingSituation_Text_1M10">
         <English>A. ENEMY FORCES&lt;br/&gt;Size: Estimated 100-200 in vicinity + reinforcements, 500-2,000 in the AO at large&lt;br/&gt;Activity: Heavy movement to the east, radio traffic intercepted calling for reinforcements from the east, north and west&lt;br/&gt;Location: Vicinity, &lt;marker name="markerSperwan"&gt;Sperwan Ghar&lt;/marker&gt;&lt;br/&gt;Unit: Taliban mixed infantry supported by Arab and Chechen fighters&lt;br/&gt;Time Observed: September 5, 2006 0800 hrs&lt;br/&gt;Equipment: Assorted small arms including AK-47s, G3A6s, and RPK Machineguns, RPG AT Weapons&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To defend the &lt;marker name="markerCCP"&gt;casualty collection point (CCP)&lt;/marker&gt; until we can get reinforcements and/or air support and MEDEVAC.&lt;br/&gt;2. Adjacent Units: ODA 331 Team 26 (callsign: Talon 26), ODA 331 Command Team (callsign: Talon 30), ODA 331 Team 36 (callsign: Talon 36), ANA 3rd Kandak (callsign: Lion 1 Actual), Canadian 1 RCR Battle Group, Charles Co. (callsign: Charles Actual).&lt;br/&gt;3. Supporting: Although we have been begging for more air support, the situation on the field is too unreliable to factor it into our plan, especially following yesterday's unfortunate friendly fire incident that nearly crippled Charles Co. Still, Talon 30 Actual will be on the horn as much as humanly possible trying to get something up above. Artillery support will not be available for this mission. CASEVAC has been requested by Talon 30 Actual, ODA 331's CO. Current status is they are preparing to spin up, but we do not have an ETA at this time.</English>
         <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: Se estiman 100-200 en las inmediaciones, 500-2000 en el AO en general&lt;br/&gt;Actividad: Mucho movimiento al este, tráfico de radio interceptado pidiendo refuerzos del este, el norte y el oeste&lt;br/&gt;Ubicación: Inmediaciones, &lt;marker name="markerSperwan"&gt;Sperwan Ghar&lt;/marker&gt;&lt;br/&gt;Unidades: Infantería mixta talibán con apoyo de combatientes árabes y chechenos&lt;br/&gt;Fecha de observación: 5 de septiembre de 2006, 0800 horas&lt;br/&gt;Equipo: armas ligeras variadas como AK-47, G3A6 y ametralladoras RPK, granadas antitanque RPG&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Defender el &lt;marker name="markerCCP"&gt;punto de recogida de bajas (PRB)&lt;/marker&gt; hasta que podamos conseguir refuerzos y/o apoyo aéreo y MEDEVAC.&lt;br/&gt;2. Unidades adyacentes: Equipo 26 de la ODA 331 (indicativo: Talon 26), equipo de mando de la ODA 331 (indicativo: Talon 30), equipo 36 de la ODA 331 (indicativo: Talon 36), 3.er Kandak del ENA (indicativo: León 1 Jefe), 1.er Grupo de Combate del Real Regimiento Canadiense, Compañía Charles (indicativo: Charles Jefe).&lt;br/&gt;3. Apoyo: Aunque hemos pedido más apoyo aéreo a voces, la situación en el terreno es demasiado variable como para tenerla en cuenta en nuestro plan, sobre todo después del desafortunado incidente de fuego amigo de ayer que casi incapacita a la Compañía Charles. Aun así, Talon 30 Jefe estará al teléfono todo lo que pueda estar una persona humana para intentar conseguir algo. No habrá apoyo de artillería para esta misión. Talon 30 Jefe, el oficial al mando de la ODA 331, ha solicitado CASEVAC. Su estado actual es que se están preparando para despegar, pero no tenemos un tiempo estimado de llegada de momento.</Spanish>
-        <Polish></Polish>
+        <Polish>A. WROGIE SIŁY&lt;br/&gt;Wielkość: Około 100-200 w okolicy + posiłki, 500-2000 w całej strefie operacyjnej&lt;br/&gt;Aktywność: Spore manewry na wschodzie, przechwycona transmisja radiowa wzywająca posiłki ze wschodu, północy i zachodu&lt;br/&gt;Miejsce: Okolica &lt;marker name="markerSperwan"&gt;Sperwan Ghar&lt;/marker&gt;&lt;br/&gt;Jednostka: Mieszana lekka piechota Talibów wspierana przez arabskich i czeczeńskich wojowników&lt;br/&gt;Czas obserwacji: 5 września 2006 r. - 0800&lt;br/&gt;Wyposażenie: Broń małokalibrowa, w tym AK-47, G3A6, karabiny RPK, wyrzutnie granatów ppanc&lt;br/&gt;&lt;br/&gt;B. SOJUSZNICZE SIŁY&lt;br/&gt;1. Misja i intencje dowództwa: Bronić &lt;marker name="markerCCP"&gt;punktu gromadzenia rannych&lt;/marker&gt; do czasu przybycia posiłków, wsparcia powietrznego oraz MEDEVACa.&lt;br/&gt;2. Jednostki: Oddział 26 ODA 331 (znak wywoławczy: Talon 26), Oddział dowodzenia ODA 331 (znak wywoławczy: Talon 30), Oddział 36 ODA 331 (znak wywoławczy: Talon 36), 3. Kandak NAA (znak wywoławczy: Lew 1 Actual), Kanadyjska 1. RCR, Kompania Charles (znak wywoławczy: Charles Actual).&lt;br/&gt;3. Wsparcie: Choć błagaliśmy o wsparcie powietrzne, sytuacja na polu bitwy jest zbyt nieprzewidywalna, by móc go wliczyć do naszego planu, w szczególności biorąc pod uwagę wczorajszy niefortunny incydent friendly fire, który znacznie okaleczył Kompanię Charles. Talon 30 Actual będzie wisieć na słuchawce i prosić o jakiekolwiek wsparcie powietrzne. Wsparcie artyleryjskie nie będzie dostępne podczas tej misji. CASEVAC został wezwany przez Talon 30 Actual, oficera dowodzącego ODA 331. Jego obecny status to przygotowywanie się do wylotu, nie otrzymaliśmy przybliżonego czasu oczekiwania.</Polish>
       </Key>
 	  <Key ID="STR_LOK_Briefing_Text_1M10">
         <English>Early word coming off the top of the hill is that we have managed to dislodge the Taliban. Rusty, Bruce, and Hodge's teams are trying to force them into retreating back to the west into the city, and north away from Sperwan Ghar. Meanwhile, the radios are alive with Talib radio traffic calling for reinforcements, which appear to be very close to our position at the &lt;marker name="markerCCP"&gt;casualty collection point (CCP)&lt;/marker&gt; on the east side of Sperwan Ghar, above our former buffer zone. This fight has been hard-fought and not without casualties on our side. Our position is somewhat exposed to the enemy, and it is the least-defended point on the ridge. If the enemy diverts all those guys retreating to our side, we will be in a world of shit. Talon 30 Actual has been on the horn begging for air support of any kind, CASEVAC is being prepped but we do not yet have an ETA. We need to protect the CCP at all costs until help can arrive.</English>
         <Spanish>Lo que nos llega de la cima de la colina es que hemos conseguido desalojar a los talibanes. Los equipos de Rusty, Bruce y Hodge intentan obligarlos a retirarse al oeste, hacia la ciudad, y al norte. Mientras tanto, las radios talis no hacen más que pedir refuerzos, que parecen estar muy cerca de nuestra posición en el &lt;marker name="markerCCP"&gt;punto de recogida de bajas (PRB)&lt;/marker&gt; en el lado este de Sperwan Ghar, por encima de nuestra anterior zona neutral. Este combate ha estado muy reñido y no ha estado exento de bajas por nuestra parte. Nuestra posición está algo expuesta al enemigo y es el punto menos defendido de la cresta. Si el enemigo desvía a todos los que se retiran hacia nuestro lado, estaremos hasta el cuello de mierda. Talon 30 Jefe ha estado al teléfono pidiendo apoyo aéreo de cualquier tipo; se está preparando la CASEVAC, pero aún no tenemos un tiempo estimada de llegada. Tenemos que proteger el PRB a toda costa hasta que llegue la ayuda.</Spanish>
-        <Polish></Polish>
+        <Polish>Wczesne informacje docierające ze wzgórza są takie, że udało nam się zepchnąć Taliban. Oddziały Rusty'ego, Bruce'a i Hodge'a próbują zmusić ich do wycofania się na zachód, do miasta, lub na północ, z dala od Sperwan Ghar. W tym samym czasie radia Talibów tętnią od próśb o wsparcie, które wydaje się być bardzo blisko naszej pozycji w &lt;marker name="markerCCP"&gt;punkcie gromadzenia rannych&lt;/marker&gt; po wschodniej stronie Sperwan Ghar, nad ostatnią strefą buforową. Ta walka byłą ciężka i nie obyło się bez ofiar po naszej stronie. Nasza pozycja jest nieco wystawiona na przeciwnika i jest najsłabiej bronionym punktem na grani. Jeśli wróg skieruje tu wycofujjących się wojowników, będziemy tonąć w gównie. Talon 30 Actual błaga o jakiekolwiek wsparcie powietrzne, CASEVAC jest przygotowywany, ale nie wiemy jeszcze ile to potrwa. Musimy chronić punkt wszelkimi środkami, nim dotrze pomoc.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_Description_1M10">
         <English>The &lt;marker name="markerCCP"&gt;casualty collection point (CCP)&lt;/marker&gt; is taking heavy small arms fire from the nearby compounds. You must protect the CCP at all costs. Take up a defensive position and do not leave the area unless ordered to do so.</English>
         <Spanish>El &lt;marker name="markerCCP"&gt;punto de recogida de bajas (PRB)&lt;/marker&gt; está recibiendo fuego intenso de armas ligeras desde los edificios cercanos. Tienes que proteger el PRB a toda costa. Adopta una posición defensiva y no abandones la zona a menos que se te ordene.</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;marker name="markerCCP"&gt;Punkt gromadzenia rannych&lt;/marker&gt; otrzymuje spory ostrzał z broni małokalibrowej z pobliskich kompleksów. Musisz bronić punktu za wszelką cenę. Zajmij pozycję obronną i nie opuszczaj strefy, dopóki nie padnie inny rozkaz.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_Title_1M10">
         <English>Defend the CCP</English>
         <Spanish>Defender el PRB</Spanish>
-        <Polish></Polish>
+        <Polish>Broń punktu gromadzenia rannych</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_Description_1M10">
         <English>An IED has turned one of the GMVs into a fireball, launching Greg and Sean, one of our medical sergeants and an ETT respectively, out into the surrounding area. The entire CCP is pinned down or worse, only you can rescue your two comrades.</English>
         <Spanish>Un IED ha convertido uno de los GMV en una bola de fuego, lanzando a Greg y Sean, uno de nuestros sargentos médicos y un instructor táctico respectivamente, por los aires. El PRB entero está acorralado o peor, solo tú puedes rescatar a tus dos camaradas.</Spanish>
-        <Polish></Polish>
+        <Polish>IED zamienił jeden z naszych pojazdów w kulę ognia, a Greg i Sean, odpowiednio medyk i instruktor taktyki, zostali wystrzeleni gdzieś w okoliczne krzaki. Cały punkt gromadzenia rannych jest pod ostrzałem, tylko ty możesz uratować swoich dwóch towarzyszy.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_Title_1M10">
         <English>Rescue Greg and Sean</English>
         <Spanish>Rescatar a Greg y Sean</Spanish>
-        <Polish></Polish>
+        <Polish>Uratuj Grega i Seana</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_1_Description_1M10">
         <English>An IED has turned one of the GMVs into a fireball, launching Greg, one of the team's medical sergeants, out into the surrounding area. The entire CCP is pinned down or worse, only you can carry him to safety until Riley arrives.</English>
         <Spanish>Un IED ha convertido uno de los GMV en una bola de fuego, lanzando a Greg, uno de nuestros sargentos médicos, por los aires. El PRB entero está acorralado o peor, solo tú puedes ponerlo a salvo hasta que llegue Riley.</Spanish>
-        <Polish></Polish>
+        <Polish>IED zamienił jeden z naszych pojazdów w kulę ognia, a Greg, jeden z naszych medyków, został wystrzelony gdzieś w okoliczne krzaki. Cały punkt gromadzenia rannych jest pod ostrzałem, tylko ty możesz zaprowadzić go w bezpieczne miejsce, dopóki nie dotrze Riley.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_1_Title_1M10">
         <English>Rescue Greg</English>
         <Spanish>Rescatar a Greg</Spanish>
-        <Polish></Polish>
+        <Polish>Uratuj Grega</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_2_Description_1M10">
         <English>An IED has turned one of the GMVs into a fireball, launching Sean, an embedded tactical trainer (ETT), out into the surrounding area. The entire CCP is pinned down or worse, only you can carry him to safety until Riley arrives.</English>
         <Spanish>Un IED ha convertido uno de los GMV en una bola de fuego, lanzando a Sean, un instructor táctico asignado, por los aires. El PRB entero está acorralado o peor, solo tú puedes ponerlo a salvo hasta que llegue Riley.</Spanish>
-        <Polish></Polish>
+        <Polish>IED zamienił jeden z naszych pojazdów w kulę ognia, a Sean, jeden z naszych instruktorów taktyki, został wystrzelony w okoliczne krzaki. Cały punkt gromadzenia rannych jest pod ostrzałem, tylko ty możesz zaprowadzić go w bezpieczne miejsce, dopóki nie dotrze Riley.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_2_Title_1M10">
         <English>Rescue Sean</English>
         <Spanish>Rescatar a Sean</Spanish>
-        <Polish></Polish>
+        <Polish>Uratuj Seana</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_3_Description_1M10">
         <English>You have successfully moved Greg and Sean to safety. Rusty and his detachment are on their way to treat them; defend your mates until they arrive!</English>
         <Spanish>Has transportado a Greg y Sean a un lugar seguro. Rusty y su destacamento van de camino a tratarlos; ¡defiende a tus compañeros hasta que lleguen!</Spanish>
-        <Polish></Polish>
+        <Polish>Udało ci się przenieść Grega i Seana w bezpieczne miejsce. Rusty i jego oddział są już w drodze, by ich opatrzeć. Broń swoich towarzyszy, dopóki nie dotrą!</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_3_Title_1M10">
         <English>Defend Greg and Sean</English>
         <Spanish>Defender a Greg y Sean</Spanish>
-        <Polish></Polish>
+        <Polish>Broń Grega i Seana</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_4_Description_1M10">
         <English>Rusty and Riley are finally here, and MEDEVAC is on its way. Defend the LZ until the choppers arrive.</English>
         <Spanish>Rusty y Riley han llegado por fin, y la MEDEVAC va de camino. Defiende la ZA hasta que lleguen los helicópteros.</Spanish>
-        <Polish></Polish>
+        <Polish>Rusty i Riley wreszcie tu są, MEDEVAC jest już w drodze. Broń strefy lądowania do czasu pojawienia się śmigłowca.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_4_Title_1M10">
         <English>Defend the evac point</English>
         <Spanish>Defiende el punto de evacuación</Spanish>
-        <Polish></Polish>
+        <Polish>Broń punktu</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionTitle_1M10">
         <English>Friends for Life</English>
         <Spanish>Amigos de por vida</Spanish>
-        <Polish></Polish>
+        <Polish>Przyjaciele na zawsze</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionTitle_Intro_1M10">
         <English>Mission 10 Intro</English>
         <Spanish>Misión 10: Intro</Spanish>
-        <Polish></Polish>
+        <Polish>Misja 10: Intro</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionTitle_Outro_1M10">
         <English>Mission 10 Outro</English>
         <Spanish>Misión 10: Outro</Spanish>
-        <Polish></Polish>
+        <Polish>Misja 10: Outro</Polish>
       </Key>
 	  <Key ID="STR_LOK_Buffalo22_1M10">
         <English>Buffalo 22</English>
         <Spanish>Buffalo 22</Spanish>
-        <Polish></Polish>
+        <Polish>Bawół 22</Polish>
       </Key>
 	  <Key ID="STR_LOK_DragHint_1M10">
         <English>Hint: Use the DRAG and CARRY actions to move your wounded squadmates to a safer location.</English>
         <Spanish>Consejo: Usa las acciones DRAG y CARRY para llevar a tus compañeros heridos a un lugar más seguro.</Spanish>
-        <Polish></Polish>
+        <Polish>Podpowiedź: Użyj akcji DRAG i CARRY, by przenieść swoich towarzyszy w bezpieczniejsze miejsce.</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionDescription_1M10">
         <English>As SSG Jude Voss, show what you're made of when disaster strikes. Help defend the casualty collection point (CCP) from enemy counter-attacks and prepare to go above and beyond for your brothers in arms.</English>
         <Spanish>Como el sargento primero Jude Voss, muestra de qué pasta estás hecho cuando ocurre un desastre. Ayuda a defender el punto de recogida de bajas (PRB) de los contraataques enemigos y prepárate para dar lo mejor de ti por tus compañeros de armas.</Spanish>
-        <Polish></Polish>
+        <Polish>Jako st. sierż. Jude Voss masz pokazać, na co cię stać, gdy dzieje się źle. Pomóż chronić punkt gromadzenia rannych przed wrogimi kontratakami i przygotuj się na przezwyciężanie własnych ograniczeń, by ratować towarzyszy broni.</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_text_1M10">
         <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER X - Friends for Life&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'American soldiers in battle don't fight for what some presidents say on TV, they don't fight for mom, apple pie, the American flag. They fight for one another.'&lt;br/&gt;&lt;br/&gt;-COLONEL HAL MOORE (7th Cavalry, Vietnam)&lt;/t&gt;</English>
         <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO X: Amigos de por vida&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«Los soldados estadounidenses no luchan por lo que dicen los presidentes por la televisión, no luchan por mamá, por la tarta de manzana o por la bandera. Luchan los unos por los otros».&lt;br/&gt;&lt;br/&gt;—CORONEL HAL MOORE (7.º de Caballería, Vietnam)&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t color='#FFA500' size='3.5'&gt;ROZDZIAŁ X - Przyjaciele na zawsze&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'Amerykańscy żołnierze w boju nie walczą o to, co mówią prezydenci w TV, nie walczą za matkę, ciastko, flagę Ameryki. Walczą za każdego swojego.'&lt;br/&gt;&lt;br/&gt;- PUŁKOWNIK HAL MOORE (7. Płk Kawalerii, Wietnam)&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel1_1M10">
         <English>SSG Jude Voss</English>
         <Spanish>SG1.º Jude Voss</Spanish>
-        <Polish></Polish>
+        <Polish>St. sierż. Jude Voss</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel2_1M10">
         <English>ODA 331, US Army SF</English>
         <Spanish>ODA 331, Ejérc. de EE. UU.</Spanish>
-        <Polish></Polish>
+        <Polish>ODA 331, siły specjalne US Army</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel3_1M10">
         <English>CCP, Sperwan Ghar</English>
         <Spanish>PRB, Sperwan Ghar</Spanish>
-        <Polish></Polish>
+        <Polish>PGR, Sperwan Ghar</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel4_1M10">
         <English>September 5, 2006 - 0805</English>
         <Spanish>5 septiembre 2006 - 0805</Spanish>
-        <Polish></Polish>
+        <Polish>5 września 2006 r. - 0805</Polish>
       </Key>
 	  <Key ID="STR_LOK_message1_1M10">
         <English>Captain, Captain, Taliban moving back of school.</English>
         <Spanish>Capitán, capitán movimiento talibán detrás del colegio.</Spanish>
-        <Polish></Polish>
+        <Polish>Kapitanie, kapitanie, Talibowie wycofują się ze szkoły.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message2_1M10">
         <English>I left six Afghans.</English>
         <Spanish>Dejé a seis afganos.</Spanish>
-        <Polish></Polish>
+        <Polish>Zostawiłem sześciu Afgańczyków.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message3_1M10">
         <English>Rusty, the six Afghans are up here with me. No one is in the school.</English>
         <Spanish>Rusty, los seis afganos están conmigo. No hay nadie en el colegio.</Spanish>
-        <Polish></Polish>
+        <Polish>Rusty, tych sześciu Afgańców jest ze mną. Nikogo już nie ma w szkole.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message4_1M10">
         <English>All Talon 30 elements: Talon 31 Alpha is moving to clear the school, check your fire.</English>
         <Spanish>A todos los elementos Talon 30: Talon 31 Alfa va a despejar el colegio, alto el fuego.</Spanish>
-        <Polish></Polish>
+        <Polish>Do wszystkich elementów Talon 30 - Talon 31 Alfa wchodzi, by oczyścić szkołę, nie strzelać.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message5_1M10">
         <English>Fuck, we've got incoming hostiles, keep the CCP safe! If it moves, light it the fuck up!</English>
         <Spanish>¡Mierda, vienen hostiles, mantened el PRB a salvo! ¡Si algo se mueve, lo coséis a tiros!</Spanish>
-        <Polish></Polish>
+        <Polish>Kurwa mać, zbliżają się przeciwnicy, pilnuje PGRa! Jeśli coś się rusza, rozjebcie to w pizdu!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message6_1M10">
         <English>Greg and Sean are on their way up the road, keep your eyes peeled and keep 'em covered!</English>
         <Spanish>¡Greg y Sean vienen por la carretera, ojos bien abiertos y cubridlos!</Spanish>
-        <Polish></Polish>
+        <Polish>Greg i Sean już jadą drogą, skupcie się i ich osłaniajcie!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message7_1M10">
         <English>Talon 30 Alpha, Talon 30, eyes on Greg and Sean's GMV.</English>
         <Spanish>Talon 30 Alfa, Talon 30, veo el GMV de Greg y Sean.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 30 Alfa, Talon 30, widzę pojazd Grega i Seana.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message8_1M10">
         <English>Eagle 10, this is Talon 30, we are under heavy fire, requesting immediate air support, we can't hold out much longer!</English>
         <Spanish>¡Eagle 10, aquí Talon 30, estamos recibiendo fuego intenso, solicito apoyo aéreo inmediato, no podremos aguantar mucho más!</Spanish>
-        <Polish></Polish>
+        <Polish>Orzeł 10, tutaj Talon 30, jesteśmy pod ciężkim ostrzałem, prosimy o natychmiastowe wsparcie z powietrza, nie utrzymamy się dłużej!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message9_1M10">
         <English>Talon 30, this is Talon 31. Schoolhouse is secured once again, how copy? Over.</English>
         <Spanish>Talon 30, aquí Talon 31. El colegio vuelve a estar seguro, ¿me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 30, tutaj Talon 31. Szkoła jest znów bezpieczna, jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message10_1M10">
         <English>Oh God.</English>
         <Spanish>Dios mío.</Spanish>
-        <Polish></Polish>
+        <Polish>Boże.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message11_1M10">
         <English>That was Greg and Sean... Fuck. Talon 30 Alpha, do you read me? Jared?! Come in, over!</English>
         <Spanish>Esos eran Greg y Sean... Hostia. Talon 30 Alfa, ¿me recibe? ¡Jared! ¡Adelante, cambio!</Spanish>
-        <Polish></Polish>
+        <Polish>To byli Greg i Sean... Kurwa. Talon 30 Alfa, słyszysz mnie? Jared?! Zgłoś się, odbiór!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message12_1M10">
         <English>Talon 31 Alpha, this is Jude, Greg and Sean's GMV just hit a roadside bomb...it looks bad. I'm moving in but I need backup.</English>
         <Spanish>Talon 31 Alfa, aquí Jude, una bomba en la carretera acaba de reventar el GMV de Greg y Sean... tiene mala pinta. Voy a avanzar, pero necesitaré refuerzos.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 Alfa, tutaj Jude, pojazd Grega i Sama właśnie oberwał od IEDa... Wygląda to źle. Wchodzę, ale potrzebuję wsparcia.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message13_1M10">
         <English>Hang tight, Jude. I'm on my way!</English>
         <Spanish>¡Aguanta, Jude, voy para allá!</Spanish>
-        <Polish></Polish>
+        <Polish>Trzymaj się, Jude. Już jadę!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message14_1M10">
         <English>Jude, it's me, Rusty. Get them to a safe location and dig in, I'm oscar mike to your position, over.</English>
         <Spanish>Jude, soy yo, Rusty. Llévalos a una ubicación segura y atrinchérate, voy de camino a tu posición, cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Jude, to ja, Rusty. Weź ich w bezpieczne miejsce i przyczaj się, jadę już na twoją pozycję, odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message15_1M10">
         <English>Sweet mother of God. Riley, get over here fast! Brian, grab any other medics and bring a trauma bag from one of the trucks. Then, we need to link all the defensive positions together.</English>
         <Spanish>Santa madre de Dios. ¡Riley, ven aquí ya! Brian, trae a cualquier médico más que haya y un botiquín de uno de los camiones. Luego, tenemos que vincular todas las posiciones defensivas.</Spanish>
-        <Polish></Polish>
+        <Polish>Słotka mateczko Boża. Riley, chodź tu, szybko! Brian, bierz jakiegoś medyka i przynieś apteczkę z ciężarówki. Potem połączymy się na pozycjach obronnych.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message16_1M10">
         <English>Which one is worse?</English>
         <Spanish>¿Cuál está peor?</Spanish>
-        <Polish></Polish>
+        <Polish>Który wygląda gorzej?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message17_1M10">
         <English>His heart rate is low as well as his blood pressure. He needs blood and level three attention fast... He's in the golden hour.</English>
         <Spanish>Su ritmo cardiaco es bajo, así como su presión arterial. Necesita sangre y atención de nivel tres rápido... Está en la hora dorada.</Spanish>
-        <Polish></Polish>
+        <Polish>Jego puls jest niski, ciśnienie też. Potrzebuje krwi i opieki trzeciego stopnia, i to szybko... Ma godzinę.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message18_1M10">
         <English>I'm back up... I'm alright.</English>
         <Spanish>Ya estoy... Estoy bien.</Spanish>
-        <Polish></Polish>
+        <Polish>Już wstaję... Nic mi nie jest.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message19_1M10">
         <English>We have MEDEVAC birds inbound, CAS will come in with them. Hang tight, team! Hold this position-- Greg, Sean, and the other wounded are counting on you!</English>
         <Spanish>Vienen pájaros de MEDEVAC de camino, el apoyo aéreo vendrá con ellos. ¡Aguantad, equipo! ¡Mantened esta posición, Greg, Sean y los demás heridos cuentan con vosotros!</Spanish>
-        <Polish></Polish>
+        <Polish>Śmigła MEDEVACa już lecą, CAS wraz z nimi. Trzymajcie się, ekipo! Trzymajcie tę pozycję... Greg, Sean i reszta na was liczą!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message20_1M10">
         <English>Buffalo 22 to Talon 30, we are inbound to the AO, ETA: 5 mikes, we have Alpha Hotel 64 support coming in with us. Stay down and try to hold them off, how copy, over?</English>
         <Spanish>Buffalo 22 a Talon 30, vamos de camino al AO, tiempo estimado de llegada: 5 minutos. Traemos apoyo de Alfa Hotel 64. Agachen la cabeza e intenten mantenerlos a raya, ¿me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Bawół 22 do Talona 30, jesteśmy już w drodze do strefy, czas oczekiwania - 5 minut, mamy Alfa Hotel 64 w towarzystwie. Głowy nisko i brońcie się, jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message21_1M10">
         <English>Hey, Jude. You are a friend of mine for life, like it or not.</English>
         <Spanish>Oye, Jude. Eres amigo mío de por vida, te guste o no.</Spanish>
-        <Polish></Polish>
+        <Polish>Hej, Jude. Jesteś moim przyjacielem na zawsze, czy ci się to podoba, czy nie.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message22_1M10">
         <English>I feel the same way.</English>
         <Spanish>Yo opino lo mismo.</Spanish>
-        <Polish></Polish>
+        <Polish>Uważam tak samo.</Polish>
       </Key>
 	  <Key ID="STR_LOK_end1_subtitle_1M10">
         <English>Greg and Sean rescued</English>
         <Spanish>Greg y Sean rescatados</Spanish>
-        <Polish></Polish>
+        <Polish>Greg i Sean uratowani</Polish>
       </Key>
 	  <Key ID="STR_LOK_end1_description_1M10">
         <English>Under intense enemy fire and with little to no cover, you selflessly risked your life to pull your two brothers in arms from the burning wreckage of a GMV that was completely destroyed by an IED. You moved them to safety and kept them alive long enough to be evacuated from the battlefield. Miraculously, both of them survive, and the lifelong friendship between Jude and Greg is able to last for a longer time than either would have expected.</English>
         <Spanish>Bajo un fuego enemigo intenso y sin apenas cobertura, arriesgaste desinteresadamente tu vida para sacar a tus dos compañeros de armas de los restos en llamas de un GMV que había quedado completamente destruido por un IED. Los pusiste a salvo y los mantuviste con vida el tiempo suficiente para que pudieran ser evacuados del campo de batalla. Milagrosamente, ambos han sobrevivido, y la amistad de por vida entre Jude y Greg puede durar más de lo que ninguno de los dos habría esperado.</Spanish>
-        <Polish></Polish>
+        <Polish>Pomimo intensywnego ognia przeciwnika i prawie zerową osłoną, bezinteresownie zaryzykowałeś swoje życie, by wyciągnąć dwóch braci z płonącego wraku GMV, który został całkowicie zniszczony przez IEDa. Przeniosłeś ich w bezpieczne miejsce i utrzymywałeś przy życiu wystarczająco długo, by mogli być ewakuowani z pola bitwy. Szczęśliwie obaj uratowali, a dożywotnia przyjaźń między Judem i Gregiem będzie trwać jeszcze dłużej, niż obaj się spodziewali.</Polish>
       </Key>
     </Container>
   </Package>

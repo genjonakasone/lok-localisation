@@ -5,277 +5,277 @@
 	  <Key ID="STR_LOK_BriefingNotes_1M4">
         <English>EDITOR'S NOTES:&lt;br/&gt;Follow orders and stay in formation when necessary and things will go smoothly.&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;None so far...</English>
         <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Sigue tus órdenes y mantente en formación cuando sea necesario y todo irá como la seda.&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Nada de momento...</Spanish>
-        <Polish></Polish>
+        <Polish>OD AUTORA:&lt;br/&gt;Wykonuj rozkazy i trzymaj się formacji, gdy pozwala na to sytuacja, a wszystko się uda.&lt;br/&gt;&lt;br/&gt;MUZYKA:&lt;br/&gt;Póki co brak...</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingCommand_Text_1M4">
         <English>A. Signal:&lt;br/&gt; Eagle 10 Actual - Lt. Col. BOLDUC (TF 31 CO)&lt;br/&gt; Lion 1 Actual - Col. SHINSHA (ANA Kandahar Bgde. CO)&lt;br/&gt; Lion 32 - Sgt. Taz (you)&lt;br/&gt; Talon 30 Actual - Col. JARED (ODA 331 CO)&lt;br/&gt; Talon 26 - Cpt. HODGE&lt;br/&gt; Talon 31 - Cpt. RUSTY&lt;br/&gt; Talon 36 - Cpt. BRUCE&lt;br/&gt; Mustang 51 - MEDEVAC</English>
         <Spanish>A. Señal:&lt;br/&gt; Eagle 10 Jefe: Tte. Cnel. BOLDUC (oficial al mando de la TF 31)&lt;br/&gt; León 1 Jefe: Cnel. SHINSHA (oficial al mando de la brig. de Kandahar del ENA)&lt;br/&gt; León 32 - Sgto. Taz (tú)&lt;br/&gt;Talon 30 Jefe: Cnel. JARED (oficial al mando de la ODA 331)&lt;br/&gt; Talon 26: Cap. HODGE&lt;br/&gt; Talon 31: Cap. RUSTY&lt;br/&gt; Talon 36: Cap. BRUCE&lt;br/&gt; Mustang 51: MEDEVAC</Spanish>
-        <Polish></Polish>
+        <Polish>A. Znaki wywoławcze:&lt;br/&gt; Orzeł 10 Actual - Ppłk BOLDUC (Ofic. dow. TF31)&lt;br/&gt; Lew 1 Actual - Płk. SHINSHA (Ofic. dow. Bryg. Kandahar NAA)&lt;br/&gt; Lew 32 - Sierż. Taz (ty)&lt;br/&gt; Talon 30 Actual - Płk. JARED (Ofic. dow. ODA 331)&lt;br/&gt; Talon 26 - Kpt. HODGE&lt;br/&gt; Talon 31 - Kpt. RUSTY&lt;br/&gt; Talon 36 - Kpt. BRUCE&lt;br/&gt; Mustang 51 - MEDEVAC</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingSustainment_Text_1M4">
         <English>1. Supply: Outfitting for 3rd Kandak Commando Fireteam is current standard-issue US BDUs and Chicom gear, ANA standard issue weapons and armament lended by the US, including AKM, AK-74, AKS-74U, M4A1, G3A3 and M70 rifles, M240, M249, PKM, and RPK machineguns, SVD sniper rifles, assorted handguns, and RPGs.&lt;br/&gt;2. Transportation: Lion 32 will make use of 1x Toyota Hilux with a DShKM machine gun.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Lion 32 has 1x embedded medic, in the event of a mission failure due to substantial casualties, Lion 1 Actual or Talon 30 will authorize CASEVAC and/or insertion by ODA 331 QRF.</English>
         <Spanish>1. Suministros: El material del escuadrón de comandos del 3.er Kandak son uniformes estadounidenses de combate en camuflaje boscoso y portacargadores Chicom, armas reglamentarias del ENA y armamento prestado por EE. UU., entre los que se incluyen fusiles AKM, AK-74, AKS-74U, M4A1, M70 y G3A6, ametralladoras M240, M249, PKM y RPK, fusiles de tirador SVD, pistolas varias y RPG.&lt;br/&gt;2. Transporte: León 32 empleará 1x Toyota Hilux con una ametralladora DShKM montada.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: León 32 tiene 1x médico asignado. En caso de fracaso debido a una cantidad considerable de bajas, León 1 Jefe o Talon 30 Jefe autorizará CASEVAC y/o la inserción de la FRR de la ODA 331.</Spanish>
-        <Polish></Polish>
+        <Polish>1. Wyposażenie: Wyposażenie dla komandosów 3. Kandaku to standardowe amerykańskie BDU i Chicom oraz standardowa broń NAA i USA, w tym AKM, AK-74, AKS-74U, M4A1, G3A3 i karabiny M70, M240, M249, PKM, PKP, karabiny snajperskie SVD, pistolety i wyrzutnie granatów&lt;br/&gt;2. Transport: Lew 32 może korzystać z pojedynczego wozu model Toyota Hilux z zamontowanym karabinem DShKM.&lt;br/&gt;3. Zasoby: Brak.&lt;br/&gt;4. Konserwacja: Brak.&lt;br/&gt;5. CASEVAC: Lew 32 posiada jednego przydzielonego medyka. W razie niepowodzenia misji spowodowanego poniesionymi stratami, Lew 1 Actual oraz Talon 30 zautoryzują CASEVAC i/lub wprowadzą siły szybkiego reagowania ODA 331.</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingExecution_Text_1M4">
         <English>At the moment, all Lion elements have been ordered to hold position, with the exception of Lion 32. Taz and his team are to report to Lion 1 Actual at the front of the convoy near Talon 30's HMMWV for further instructions regarding the execution of this task.</English>
         <Spanish>Por el momento, se ha ordenado a todos los elementos León que mantengan la posición, con la excepción de León 32. Taz y su equipo se presentarán ante León 1 Jefe a la cabeza del convoy, cerca del HMMWV de Talon 30, para recibir instrucciones adicionales sobre la ejecución de esta tarea.</Spanish>
-        <Polish></Polish>
+        <Polish>W tej chwili wszystkie Lwy otrzymały rozkaz utrzymania pozycji, za wyjątkiem Lwa 32. Taz i jego oddział mają zgłosić się do Lwa 1 Actual na czubku konwoju, nieopodal HMMWV Talona 30, by otrzymać nowe rozkazy związane z wykonaniem tego zadania.</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingMission_Text_1M4">
         <English>Who: Lion 32, 3rd Kandak, ANA 2nd Battalion&lt;br/&gt;What: SCOUT Compounds to the North&lt;br/&gt;Where: In vicinity, Panjwayi Valley&lt;br/&gt;When: 172000ZAUG30&lt;br/&gt;Why: Support of Operation Medusa</English>
         <Spanish>Quién: León 32, 3.er Kandak, 2.º Batallón del ENA&lt;br/&gt;Qué: RECONOCER el complejo al norte&lt;br/&gt;Dónde: En las inmediaciones, distrito de Panjwai&lt;br/&gt;Cuándo: 172000ZAUG30&lt;br/&gt;Por qué: Apoyo a la Operación Medusa</Spanish>
-        <Polish></Polish>
+        <Polish>Kto: Lew 32, 2. Batalion, 3. Kandak NAA&lt;br/&gt;Co: ZWIAD kompleksów budynków na północy&lt;br/&gt;Gdzie: Pobliska okolica, dolina Pandżwai&lt;br/&gt;Kiedy: 172000ZSIE30&lt;br/&gt;Czemu: Wsparcie Operacji Meduza</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingSituation_Text_1M4">
         <English>A. ENEMY FORCES&lt;br/&gt;Size: Unknown, estimated 100-200 in area at-large&lt;br/&gt;Activity: Unknown movement levels, heavy radio chatter is our only clue of enemy strength&lt;br/&gt;Location: Vicinity, Panjwayi Valley including &lt;marker name="marker_Compounds"&gt;compounds&lt;/marker&gt; observed to the north&lt;br/&gt;Unit: Taliban mixed light infantry possibly supported by foreign fighters&lt;br/&gt;Time Observed: August 30, 2006&lt;br/&gt;Equipment: Small arms, RPG AT Weapons, assorted technicals and Soviet-era static defenses&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To draw Taliban attention toward our presence in the Red Desert, away from larger troop movements of NATO ground forces into the Panjwayi Valley.&lt;br/&gt;2. Adjacent Units: ODA 331 Team 31 (callsign: Talon 31), ODA 331 Team 26 (callsign: Talon 26), ODA 331 Command Team (callsign: Talon 30), ODA 331 QRF (callsign: Tabasco 19), ANA Regular Infantry (2nd Battalion, 3rd Kandak, led by Lt. Col. Shinsha).&lt;br/&gt;3. Supporting: CAS will not be available for this mission. Artillery support will not be available for this mission. CASEVAC will only be available by request of Lion 1 Actual, 3rd Kandak's CO.</English>
         <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: Se desconoce, se estima en 100-200 en la zona en general&lt;br/&gt;Actividad: Niveles de movimiento desconocido, las fuertes vibraciones de radio son nuestro único indicio del poderío enemigo&lt;br/&gt;Ubicación: Inmediaciones, distrito de Panjawi, incluidos los &lt;marker name="marker_Compounds"&gt;edificios&lt;/marker&gt; observados al norte&lt;br/&gt;Unidades: Infantería ligera mixta talibán con posible apoyo de combatientes extranjeros&lt;br/&gt;Fecha de observación: 30 de agosto de 2006&lt;br/&gt;Equipo: armas ligeras, granadas antitanque RPG, técnicos variopintos y defensas estáticas de la era soviética&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Atraer la atención talibán a nuestra presencia en el Desierto Rojo y desviarla de los mayores movimientos de las fuerzas terrestres de la OTAN hacia el distrito de Panjwai.&lt;br/&gt;2. Unidades adyacentes: Equipo 31 de la ODA 331 (indicativo: Talon 31), Equipo 26 de la ODA 331 (indicativo: Talon 26), equipo de mando de la ODA 331 (indicativo: Talon 30), FRR de la ODA 331 (indicativo: Tabasco 19), infantería regular del ENA (2.º Batallón, 3.er Kandak, liderado por el Tte. Cnel. Shinsha).&lt;br/&gt;3. Apoyo: No habrá apoyo aéreo cercano para esta misión. No habrá apoyo de artillería para esta misión. La CASEVAC solo estará autorizada cuando la solicite León 1 Jefe, el oficial al mando del 3.er Kandak.</Spanish>
-        <Polish></Polish>
+        <Polish>A. WROGIE SIŁY&lt;br/&gt;Liczba: Nieznana, około 100-200 osób w strefe&lt;br/&gt;Aktywność: Nieznany poziom ruchu, duże obciążenie łączności radiowej jest jedyną wskazówką o sile wroga&lt;br/&gt;Miejsce: Okolica doliny Pandżwai, w tym &lt;marker name="marker_Compounds"&gt;kompleksy budynków&lt;/marker&gt; zaobserwowane na północy&lt;br/&gt;Jednostka: Mieszana lekka piechota Talibanu, prawdopodobnie wspierana przez obcych najemników&lt;br/&gt;Czas obserwacji: 30 sierpnia 2006 r.&lt;br/&gt;Wyposażenie: Broń małokalibrowa, granatniki przeciwpancerne, opancerzone pojazdy typu technical i post-sowieckie umocnienia stacjonarne&lt;br/&gt;&lt;br/&gt;B. SOJUSZNICZE SIŁY&lt;br/&gt;1. Misja i oczekiwania dowództwa: Odciągnąć uwagę Talibów w stronę naszej obecności na Czerwonej Pustyni, z dala od większych sił NATO przemieszczających się do doliny Pandżwai.&lt;br/&gt;2. Jednostki: Oddział 31 ODA 331 (znak wywoławczy: Talon 31), Oddział 26 ODA 331 (znak wywoławczy: Talon 26), Oddział dowodzenia ODA 331 (znak wywoławczy: Talon 30), siły szybkiego reagowania ODA 331 (znak wywoławczy: Tabasco 19), regularna piechota NAA (2. Batalion, 3. Kandak, dowodzony przez Ppłka Shinshę).&lt;br/&gt;3. Wsparcie: CAS nie będzie dostępny podczas tej misji. Artyleria nie będzie dostępna podczas tej misji. CASEVAC będzie dostępny tylko na wezwanie Lwa 1 Actual, oficera dowodzącego 3. Kandaku.</Polish>
       </Key>
 	  <Key ID="STR_LOK_Briefing_Text_1M4">
         <English>We have successfully completed our journey through the Red Desert. Now that we have swung around the Panjwayi valley's southern flank, we must find the best way to enter it ahead of Op. Medusa in order to support our NATO allies when they commence the main assault. At the edge of the Red Desert, the convoy has come to a brief halt. All Lion elements are to hold position unless ordered to do otherwise.</English>
         <Spanish>Hemos terminado nuestra travesía a través del Desierto Rojo. Ahora que hemos rodeado el flanco sur del distrito de Panjwai, debemos encontrar la mejor manera de entrar en él en vísperas de la Operación Medusa para apoyar a nuestros aliados de la OTAN cuando comiencen el asalto principal. En los confines del Desierto Rojo, el convoy se ha detenido brevemente. Todos los elementos León deben mantener su posición a menos que se les ordene lo contrario.</Spanish>
-        <Polish></Polish>
+        <Polish>Z powodzeniem udało nam się ukończyć podróż przez Czerwoną Pustynię. Gdy już okrążyliśmy dolinę Pandżwai od południowej flanki, musimy znaleźć najlepsze miejsca do wejścia w nią przed Operacją Meduza w celu wsparcia sojuszników z NATO, gdy oni będą przeprowadzać główne natarcie. Na skraju Czerwonej Pustyni konwój dokonał krótkiego postoju. Wszystkie Lwy mają utrzymać pozycję, dopóki nie otrzymają innego rozkazu.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_Description_1M4">
         <English>Your 3-man motorized commando team has been ordered to report to the convoy's forward position to receive orders from Col. Shinsha and his counterparts in ODA 331.</English>
         <Spanish>Tu equipo motorizado de tres hombres ha recibido la orden de presentarse en la posición avanzada del convoy para recibir órdenes del coronel Shinsha y sus homólogos de la ODA 331.</Spanish>
-        <Polish></Polish>
+        <Polish>Twój trzyosobowy, zmotoryzowany oddział komandosów otrzymał rozkaz zgłoszenia się na czubku konwoju, by otrzymać polecenia od Płk. Shinshy i jego odpowiedników z ODA 331.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_Title_1M4">
         <English>Report to Col. Shinsha</English>
         <Spanish>Presentarse ante el Cnel. Shinsha</Spanish>
-        <Polish></Polish>
+        <Polish>Zgłoś się do Płk. Shinshy</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_2_Description_1M4">
         <English>Your 3-man motorized commando team has been ordered to advance into the group of compounds past the last dunes of the Red Desert.</English>
         <Spanish>Tu equipo motorizado de tres hombres ha recibido la orden de avanzar hacia el grupo de edificios al otro lado de las últimas dunas del Desierto Rojo.</Spanish>
-        <Polish></Polish>
+        <Polish>Twój 3-osobowy, zmotoryzowany oddział komandosów otrzymał rozkaz przesunięcia się do kompleksu budynków za ostatnimi wydmami Czerwonej Pustyni.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_2_Title_1M4">
         <English>Secure the village</English>
         <Spanish>Asegurar la aldea</Spanish>
-        <Polish></Polish>
+        <Polish>Zabezpiecz wioskę</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_Description_1M4">
         <English>Your 3-man motorized commando team has been ordered to advance into the group of compounds past the last dunes of the Red Desert. The area was eerie and quiet, but it wasn't long before you were ordered to link up with Rusty's team.</English>
         <Spanish>Tu equipo motorizado de tres hombres ha recibido la orden de avanzar hacia el grupo de edificios al otro lado de las últimas dunas del Desierto Rojo. La zona era inquietante y tranquila, pero no ha pasado mucho tiempo antes de que se te ordenara unirte al equipo de Rusty.</Spanish>
-        <Polish></Polish>
+        <Polish>Twoja 3-osobowa, zmotoryzowana drużyna komandosów otrzymała polecenie przemieszczenia się do kompleksu budynków za ostatnimi wydmami Czerwonej Pustyni. Rejon ten był cichy i pusty, ale nie minęło wiele czasu, nim nakazano wam połaczyć się z oddziałem Rusty'ego.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_Title_1M4">
         <English>Link up with Rusty's team</English>
         <Spanish>Unirse al equipo de Rusty</Spanish>
-        <Polish></Polish>
+        <Polish>Dołącz do oddziału Rusty'ego</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_1_Description_1M4">
         <English>Rendezvous on the other side of the mountain to the north-east. You may follow either Humvee or go your own way.</English>
         <Spanish>Reúnete con los estadounidenses al otro lado de la montaña al noreste. Puedes seguir a cualquier Humvee o ir por tu cuenta.</Spanish>
-        <Polish></Polish>
+        <Polish>Dotrzyj na drugą stronę góry na północnym wschodzie. Możesz podążać za Humvee albo jechać własną trasą.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_1_Title_1M4">
         <English>Rendezvous on the mountain</English>
         <Spanish>Reúnete en la montaña</Spanish>
-        <Polish></Polish>
+        <Polish>Spotkaj się na wzgórzu</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionTitle_1M4">
         <English>Cat and Mouse</English>
         <Spanish>Gato y ratón</Spanish>
-        <Polish></Polish>
+        <Polish>Kot i mysz</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionTitle_Intro_1M4">
         <English>Mission 4 Intro</English>
         <Spanish>Misión 4: Intro</Spanish>
-        <Polish></Polish>
+        <Polish>Misja 4: Intro</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionTitle_Outro_1M4">
         <English>Mission 4 Outro</English>
         <Spanish>Misión 4: Outro</Spanish>
-        <Polish></Polish>
+        <Polish>Misja 4: Outro</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionDescription_1M4">
         <English>You are Taz, an experienced team leader in Shinsha's 3rd Kandak. Your team is being sent to scout the area to the north for enemy contacts.</English>
         <Spanish>Eres Taz, un experimentado líder de equipo del 3.er Kandak de Shinsha. Envían a tu equipo a reconocer la zona al norte en busca de contactos enemigos.</Spanish>
-        <Polish></Polish>
+        <Polish>Nazywasz się Taz, jesteś doświadczonym dowódcą drużyny z 3. Kandaku Shinshy. Twój oddział został wysłany na zwiad północnej strefy w celu odszukania wrogich kontaktów.</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_text_1M4">
         <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER IV - Cat and Mouse&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'If you know the enemy and know yourself, you need not fear the result of a hundred battles.&lt;br/&gt;If you know yourself but not the enemy, for every victory gained you will also suffer a defeat.&lt;br/&gt;If you know neither the enemy nor yourself, you will succumb in every battle.'&lt;br/&gt;&lt;br/&gt;-SUN TZU&lt;/t&gt;</English>
         <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO IV: Gato y ratón&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«Si conoces al enemigo y te conoces a ti mismo, no debes temer el resultado de cientos de batallas.&lt;br/&gt;Si te conoces a ti mismo pero no al enemigo, por cada victoria que ganes también sufrirás una derrota.&lt;br/&gt;Si no conoces ni al enemigo ni a ti mismo, sucumbirás en cada batalla».&lt;br/&gt;&lt;br/&gt;—SUN TZU&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t color='#FFA500' size='3.5'&gt;ROZDZIAŁ IV - Kot i mysz&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'Jeśli znasz wroga i siebie, nie musisz obawiać się wyniku nawet setki bitew.&lt;br/&gt;Jeśli znasz siebie, ale nie wroga, za każdą wygraną przyjdzie ci przypłacić porażką.&lt;br/&gt;Jeżeli nie znasz ani siebie, ani wroga, poniesiesz klęskę w każdej walce.'&lt;br/&gt;&lt;br/&gt;- SUN TZU&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel1_1M4">
         <English>Sgt. Shamsulla aka Taz</English>
         <Spanish>Sgto. Shamsulla alias Taz</Spanish>
-        <Polish></Polish>
+        <Polish>Sierż. Shamsulla "Taz"</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel2_1M4">
         <English>ANA 2nd Bn., 3rd Kandak</English>
         <Spanish>2.º Bn., 3.er Kandak, ENA</Spanish>
-        <Polish></Polish>
+        <Polish>2. Batalion, 3. Kandak NAA</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel3_1M4">
         <English>Near Panjwayi Valley</English>
         <Spanish>Cerca del valle de Panjwai</Spanish>
-        <Polish></Polish>
+        <Polish>Niedaleko doliny Pandżwai</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel4_1M4">
         <English>August 30, 2006 - 1720</English>
         <Spanish>30 agosto 2006 - 1720</Spanish>
-        <Polish></Polish>
+        <Polish>30 sierpnia 2006 r. - 1720</Polish>
       </Key>
 	  <Key ID="STR_LOK_message1_1M4">
         <English>Lion 1 Actual to Lion 32, report to my position for new orders on the double, over and out.</English>
         <Spanish>León 1 Jefe a León 32, preséntese rápido en mi posición para recibir nuevas órdenes, cambio y corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Lew 1 Actual do Lwa 32, zgłoście się na mojej pozycji po nowe rozkazy, migiem. Bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message2_1M4">
         <English>Jared, this is the guy I was telling you about.</English>
         <Spanish>Mira, Jared, este es el tío del que te estaba hablando.</Spanish>
-        <Polish></Polish>
+        <Polish>Jared, to jest ten gość, o którym ci opowiadałem.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message3_1M4">
         <English>So, Rusty says you're a natural born operator.</English>
         <Spanish>Rusty dice que eres un operador nato.</Spanish>
-        <Polish></Polish>
+        <Polish>A więc Rusty mówi, że jesteś urodzonym operatorem.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message4_1M4">
         <English>I would trust Taz with my life, this task is no problem for his team.</English>
         <Spanish>Confiaría en Taz con mi vida, esta tarea no es un problema para su equipo.</Spanish>
-        <Polish></Polish>
+        <Polish>Powierzyłbym Tazowi własne życie, to zadanie nie będzie problemem dla jego drużyny.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message5_1M4">
         <English>Alright, we're about to exit the desert, looks like there's a group of houses up ahead. Move up and check it out.</English>
         <Spanish>Bien, estamos a punto de salir del desierto. Parece que hay un grupo de casas más adelante. Adelántate y echa un vistazo.</Spanish>
-        <Polish></Polish>
+        <Polish>No dobra, za niedługo opuścimy pustynię, wygląda na to, że przed nami są jakieś domy. Przemieśćcie się tam i je sprawdźcie.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message6_1M4">
         <English>If there are civilians, ask them where the Taliban are hiding. If there are Taliban... well, you know what to do.</English>
         <Spanish>Si hay civiles, pregúntales dónde se esconden los talibanes. Si hay talibanes... bueno, tú ya sabes qué hacer.</Spanish>
-        <Polish></Polish>
+        <Polish>Jeśli natkniecie się na cywili, wypytajcie ich o kryjówki talibów. Jeśli to Talibowie... Cóż, wiesz, co macie robić.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message7_1M4">
         <English>Lion 32 to Lion 1 Actual, we have reached the compounds. It looks deserted here, over.</English>
         <Spanish>León 32 a León 1 Jefe, hemos llegado al complejo. Parece desierto, cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Lew 32 do Lwa 1 Actual, dotarliśmy do kompleksu. Miejsce wygląda na porzucone, odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message8_1M4">
         <English>Lion 1 Actual to Lion 32, solid copy, be sure of this - check the houses, out.</English>
         <Spanish>León 1 Jefe a León 32, recibido. Asegúrense, comprueben las casas, corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Lew 1 Actual do Lwa 32, przyjąłem, upewnijcie się dwukrotnie. Przeszukajcie domy, bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message9_1M4">
         <English>Lion 1 Actual to Lion 32, you have new orders: Rusty's team is going to recon the mountain to your north-east.</English>
         <Spanish>León 1 Jefe a León 32, nuevas órdenes: el equipo de Rusty va a reconocer la montaña a su noreste.</Spanish>
-        <Polish></Polish>
+        <Polish>Lew 1 Actual do Lwa 32, macie nowe rozkazy: oddział Rusty'ego dokona zwiadu wzgórza na północny wschód od was.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message10_1M4">
         <English>You are to link up with Rusty's team: hold your position until they arrive and then follow.</English>
         <Spanish>Se unirán al equipo de Rusty. Mantengan la posición hasta que lleguen y síganlos.</Spanish>
-        <Polish></Polish>
+        <Polish>Macie się połączyć z oddziałem Rusty'ego. Utrzymujcie pozycję, dopóki nie dotrą do was, a następnie jedźcie za nimi.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message11_1M4">
         <English>This space looks lived-in, but it's empty.</English>
         <Spanish>Este sitio parece habitado, pero está vacío.</Spanish>
-        <Polish></Polish>
+        <Polish>To miejsce wygląda na zamieszkałe, ale nikogo tu nie ma.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message12_1M4">
         <English>Another empty house... Where is everyone?</English>
         <Spanish>Otra casa vacía... ¿Dónde está todo el mundo?</Spanish>
-        <Polish></Polish>
+        <Polish>Kolejny pusty dom... Gdzie są wszyscy?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message13_1M4">
         <English>This place is eerie and lifeless.</English>
         <Spanish>Este sitio está muerto y da miedo.</Spanish>
-        <Polish></Polish>
+        <Polish>To miejsce jest głuche i bez życia.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message14_1M4">
         <English>Sleeping mats. The inhabitants must be gone.</English>
         <Spanish>Tapetes para dormir. Los inquilinos deben haberse marchado.</Spanish>
-        <Polish></Polish>
+        <Polish>Maty i śpiwory. Mieszkańcy niedawno sobie stąd poszli.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message15_1M4">
         <English>This one is clear.</English>
         <Spanish>Esta está despejada.</Spanish>
-        <Polish></Polish>
+        <Polish>Tutaj czysto.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message16_1M4">
         <English>There is evidence someone was here recently.</English>
         <Spanish>Hay pruebas de que alguien ha estado aquí hace poco.</Spanish>
-        <Polish></Polish>
+        <Polish>Oto dowód, że ktoś tu niedawno był.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message17_1M4">
         <English>Looks like there's nothing here.</English>
         <Spanish>Aquí parece que no hay nada.</Spanish>
-        <Polish></Polish>
+        <Polish>Chyba niczego tu nie ma.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message18_1M4">
         <English>Hey Taz! Why don't you stick with me, Dave's going to split off and meet us at the other side of the mound.</English>
         <Spanish>¡Eh, Taz! ¿Por qué no te quedas conmigo? Dave va a separarse y se reunirá con nosotros al otro lado del montículo.</Spanish>
-        <Polish></Polish>
+        <Polish>Hej, Taz! Może dołączysz do mnie, Dave musi się oddzielić i spotka się z nami po drugiej stronie nasypu.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message19_1M4">
         <English>Talon 31 to Talon 30 Actual, nothing to report so far.</English>
         <Spanish>Talon 31 a Talon 30 Jefe, nada de lo que informar hasta ahora.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 do Talona 30 Actual, nie mamy póki co nic do zgłoszenia.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message20_1M4">
         <English>What's this? Looks like footprints, lots of them.</English>
         <Spanish>¿Qué es esto? Parecen pasos, muchos.</Spanish>
-        <Polish></Polish>
+        <Polish>A co to? Wygląda jak ślady butów, sporo ich.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message21_1M4">
         <English>Everybody stay alert, this pass looks perfect for an ambush.</English>
         <Spanish>Estad todos alerta, este paso es perfecto para una emboscada.</Spanish>
-        <Polish></Polish>
+        <Polish>Wszyscy miejcie się na baczności, ten przesmyk jest idealny na zasadzkę.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message22_1M4">
         <English>Talon 31 to Talon 30, I think I see something...</English>
         <Spanish>Talon 31 a Talon 30, creo que veo algo...</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 do Talona 30, chyba coś tu widzę...</Polish>
       </Key>
 	  <Key ID="STR_LOK_message23_1M4">
         <English>Talon 30 Actual to all units, proceed with caution, we're not here to start the battle early.</English>
         <Spanish>Talon 30 Jefe a todas las unidades, procedan con cautela, no hemos venido a empezar la batalla antes de tiempo.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 30 do wszystkich jednostek, postępujcie ostrożnie, nie chcemy rozpoczynać tej bitwy zbyt wcześnie.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message24_1M4">
         <English>RPG shells and spent casings, targets... We found ourselves a training camp. Lemme fill Jared in...</English>
         <Spanish>Proyectiles de RPG y casquillos, blancos... Acabamos de encontrar un campo de entrenamiento. Voy a avisar a Jared...</Spanish>
-        <Polish></Polish>
+        <Polish>Pociski RPG, łuski po nabojach, tarcze... Trafiliśmy na obóz treningowy. Lepiej powiadomię Jareda...</Polish>
       </Key>
 	  <Key ID="STR_LOK_message25_1M4">
         <English>Get out of there, now!</English>
         <Spanish>¡Salid de ahí por patas!</Spanish>
-        <Polish></Polish>
+        <Polish>Zabierać się stamtąd, już!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message26_1M4">
         <English>Hold position.</English>
         <Spanish>Mantened la posición.</Spanish>
-        <Polish></Polish>
+        <Polish>Utrzymać pozycję.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message27_1M4">
         <English>We're turning off the road now.</English>
         <Spanish>Nos salimos de la carretera.</Spanish>
-        <Polish></Polish>
+        <Polish>Teraz zjeżdżamy z trasy.</Polish>
       </Key>
 	  <Key ID="STR_LOK_shinsha_action_1M4">
         <English>report to Shinsha</English>
         <Spanish>presentarse ante Shinsha</Spanish>
-        <Polish></Polish>
+        <Polish>zgłoś się do Shinshy</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerCompounds_1M4">
         <English>Village</English>
         <Spanish>Aldea</Spanish>
-        <Polish></Polish>
+        <Polish>Wioska</Polish>
       </Key>
 	  <Key ID="STR_LOK_end1_subtitle_1M4">
         <English>Taliban located</English>
         <Spanish>Talibanes localizados</Spanish>
-        <Polish></Polish>
+        <Polish>Zlokalizowano Talibów</Polish>
       </Key>
 	  <Key ID="STR_LOK_end1_description_1M4">
         <English>Your team came across a group of abandoned compounds, which may have initially housed civilians, but now appears to be quarters for the Taliban. Ordered ahead to scout further northeast, you stumbled upon a training camp that was clearly in-use. Your group came under fire, but you were ordered by your superiors to break contact and fall back. We will probably insert further to the west now.</English>
         <Spanish>Tu equipo se topó con un grupo de edificios abandonados, que en un principio podían haber albergado a civiles, pero que ahora parecen ser cuarteles de los talibanes. Tras recibir la orden de explorar más al noreste, os topasteis con un campo de entrenamiento que estaba claramente en uso. Atacaron a tu grupo, pero vuestros superiores os ordenaron interrumpir el contacto y retiraros. Probablemente nos insertaremos más al oeste ahora.</Spanish>
-        <Polish></Polish>
+        <Polish>Twój oddział natrafił na kompleksy opuszczonych budynków, które niegdyś były zamieszkiwane przez wieśniaków, ale teraz stały się kwaterami Talibów. Wykonując rozkaz zwiadu na północny wschód natrafiacie na obóz treningowy, który zdecydowanie niedawno tętnił życiem. Twoja grupa została ostrzelana, ale twoi przełożeni nakazali zerwać kontakt i wycofać się. Teraz prawdopodobnie przemieścimy się na zachód.</Polish>
       </Key>
     </Container>
   </Package>

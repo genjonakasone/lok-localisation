@@ -5,602 +5,602 @@
 	  <Key ID="STR_LOK_BriefingNotes_1M5">
         <English>EDITOR'S NOTES:&lt;br/&gt;None so far...&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;Kiln - Rustdusk</English>
         <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Nada de momento...&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Kiln - Rustdusk</Spanish>
-        <Polish></Polish>
+        <Polish>OD AUTORA:&lt;br/&gt;Póki co nic...&lt;br/&gt;&lt;br/&gt;MUZYKA:&lt;br/&gt;Kiln - Rustdusk</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingNotes_phase2_1M5">
         <English>EDITOR'S NOTES:&lt;br/&gt;None so far...&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;None so far...</English>
         <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Nada de momento...&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Nada de momento...</Spanish>
-        <Polish></Polish>
+        <Polish>OD AUTORA:&lt;br/&gt;Póki co nic...&lt;br/&gt;&lt;br/&gt;Muzyka:&lt;br/&gt;Póki co brak...</Polish>
       </Key>
 	  <Key ID="STR_LOK_RustyDiary_Text_1M5">
         <English>After shifting our positions and coordinating a much-needed resupply, we came into contact with a Kuchi tribesman passing through the area who agreed to tell us what he had seen of the enemy in exchange for water. I wouldn't blame him, the Talibs aren't handing out bottled water and it's so hot out that we all have sun rash on our arms, legs, and backs. The Panjwayi Valley is lush, even here near the border with the desert, with lots of hills and trees that act as the perfect natural pockets for concealing a tent or two and even a campfire. We'll have to tread lightly, but we can't move into our blocking positions to support Op. Medusa without ensuring the path is clear for the convoy.</English>
         <Spanish>Después de cambiar de posición y coordinar un reabastecimiento muy necesario, entablamos contacto con un miembro de una tribu kuchi que pasaba por la zona que aceptó contarnos lo que sabía del enemigo a cambio de agua. No lo culpo, los talis no regalan agua embotellada y hace tanto calor que nos han salido sarpullidos en los brazos, las piernas y la espalda. El valle de Panjwai es exuberante, incluso cerca de la frontera con el desierto, con muchas colinas y árboles que actúan como bolsas naturales perfectas para ocultar una tienda de campaña o dos e incluso una hoguera. Tendremos que andarnos con cuidado, pero no podremos avanzar hacia nuestras posiciones de bloqueo para prestar apoyo en la Operación Medusa sin asegurarnos de que el camino está despejado para el convoy.</Spanish>
-        <Polish></Polish>
+        <Polish>Po zmianie pozycji i koordynacji tak bardzo potrzebnego odnowienia zaopatrzenia, nawiązaliśmy kontakt z plemieńcem z Kuczi, który nas mijał, i zgodził się powiedzieć wszystko o naszym wrogu w zamian za wodę. Nie zdziwiło mnie to, Talibowie nie wydają butelkowanej wody pitnej, a w tym rejonie jest tak gorąco, że wszyscy mamy poparzenia na ramionach, nogach i plecach. Dolina pandżwai jest zielona i żyzna, nawet tutaj, na granicy z pustynią - wiele gór i drzew, które osłaniają nas, nasze namioty i ogniska. Musimy stąpać ostrożnie, ale nie jesteśmy jeszcze w stanie rozpocząć wsparcia Operacji Meduza bez upewnienia się wcześniej, że trasa konwoju jest bezpieczna.</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingCommand_Text_1M5">
         <English>A. Signal:&lt;br/&gt; Eagle 10 Actual - Lt. Col. BOLDUC (TF 31 CO)&lt;br/&gt; Lion 1 Actual - Col. SHINSHA (ANA Kandahar Bgde. CO)&lt;br/&gt; Talon 30 Actual - Col. JARED (ODA 331 CO)&lt;br/&gt; Talon 26 - Cpt. HODGE&lt;br/&gt; Talon 31 (your unit) - Cpt. RUSTY&lt;br/&gt; Talon 36 - Cpt. BRUCE&lt;br/&gt; Buffalo 27 - MEDEVAC</English>
         <Spanish>A. Señal:&lt;br/&gt; Eagle 10 Jefe: Tte. Cnel. BOLDUC (oficial al mando de la TF 31)&lt;br/&gt; León 1 Jefe: Cnel. SHINSHA (oficial al mando de la brig. de Kandahar del ENA)&lt;br/&gt; Talon 30 Jefe: Cnel. JARED (oficial al mando de la ODA 331)&lt;br/&gt; Talon 26: Cap. HODGE&lt;br/&gt; Talon 31 (tu unidad): Cap. RUSTY&lt;br/&gt; Talon 36: Cap. BRUCE&lt;br/&gt; Buffalo 27: MEDEVAC</Spanish>
-        <Polish></Polish>
+        <Polish>A. Znaki wywoławcze:&lt;br/&gt; Orzeł 10 Actual - Ppłk BOLDUC (Ofic. dow. TF31)&lt;br/&gt; Lew 1 Actual - Płk SHINSHA (Ofic. dow. Bryg. Kandahar NAA)&lt;br/&gt; Talon 30 Actual - Płk JARED (Ofic. dow. ODA 331)&lt;br/&gt; Talon 26 - Kpt. HODGE&lt;br/&gt; Talon 31 (twoja jednostka) - Kpt. RUSTY&lt;br/&gt; Talon 36 - Kpt. BRUCE&lt;br/&gt; Bawół 27 - MEDEVAC</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingCommand_Text_phase2_1M5">
         <English>A. Signal:&lt;br/&gt; Eagle 10 Actual - Lt. Col. BOLDUC (TF 31 CO)&lt;br/&gt; Lion 1 Actual - Col. SHINSHA (ANA Kandahar Bgde. CO)&lt;br/&gt; Talon 30 Actual - Col. JARED (ODA 331 CO)&lt;br/&gt; Talon 26 - Cpt. HODGE&lt;br/&gt; Talon 31 - Cpt. RUSTY (you)&lt;br/&gt; Talon 36 - Cpt. BRUCE&lt;br/&gt; Buffalo 27 - MEDEVAC</English>
         <Spanish>A. Señal:&lt;br/&gt; Eagle 10 Jefe: Tte. Cnel. BOLDUC (oficial al mando de la TF 31)&lt;br/&gt; León 1 Jefe: Cnel. SHINSHA (oficial al mando de la brig. de Kandahar del ENA)&lt;br/&gt; Talon 30 Jefe: Cnel. JARED (oficial al mando de la ODA 331)&lt;br/&gt; Talon 26: Cap. HODGE&lt;br/&gt; Talon 31: Cap. RUSTY (tú)&lt;br/&gt; Talon 36: Cap. BRUCE&lt;br/&gt; Buffalo 27: MEDEVAC</Spanish>
-        <Polish></Polish>
+        <Polish>A. Znaki wywoławcze:&lt;br/&gt; Orzeł 10 Actual - Ppłk BOLDUC (Ofic. dow. TF31)&lt;br/&gt; Lew 1 Actual - Płk. SHINSHA (Ofic. dow. Bryg. Kandahar NAA)&lt;br/&gt; Talon 30 Actual - Płk JARED (Ofic. dow. ODA 331)&lt;br/&gt; Talon 26 - Kpt. HODGE&lt;br/&gt; Talon 31 - Kpt. RUSTY (ty)&lt;br/&gt; Talon 36 - Kpt. BRUCE&lt;br/&gt; Bawół 27 - MEDEVAC</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingSustainment_Text_1M5">
         <English>1. Supply: Customized night op kit: Olive Drab lightweight arid climate uniform and CIRAS vest with shemagh wrap for concealment, olive drab MICH2001 helmets, customized US small arms including covert M4A1 rifles, MP5SD SMGs, and special-issue sniper rifle systems including the SR-25 and M107.&lt;br/&gt;2. Transportation: All Talon GMVs (with the exception of Hodge's) are undergoing routine maintenance this evening and will remain at our position. You will have to procure transportation in the field if needed.&lt;br/&gt;3. Services: Vehicle Repair capability at starting position, provided the vehicle can make it back. Sgt. Bill also carries a toolkit in order to disable any potential IEDs.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Talon 31 has 1x Embedded Medical Sergeant, in the event of a mission failure due to substantial casualties, Talon 30 Actual will authorize CASEVAC and insertion by ODA 331 QRF.</English>
         <Spanish>1. Suministros: Equipo de operaciones nocturnas personalizado: uniforme ligero en verde militar para climas áridos y chaleco CIRAS con un palestino para encubrirse, cascos MICH 2001 en verde militar, armas ligeras de EE. UU. personalizadas como carabinas M4A1 silenciadas, subfusiles MP5SD6 y sistemas de francotirador especiales como el SR-25 y el M107.&lt;br/&gt;2. Transporte: Todos los GMV de los Talon (salvo el de Hodge) estarán de mantenimiento esta noche y permanecerán en nuestra posición. Tendrás que buscar transporte en el campo de ser necesario.&lt;br/&gt;3. Servicios: Posibilidad de reparar vehículos en el punto de inicio, siempre y cuando el vehículo pueda realizar el camino de vuelta. El Sgto. Bill lleva también un kit de herramientas para desactivar cualquier artefacto explosivo.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Talon 31 tiene 1x sargento médico asignado. En caso de fracaso debido a una cantidad considerable de bajas, Talon 30 Jefe autorizará CASEVAC y la inserción de la FRR de la ODA 331.</Spanish>
-        <Polish></Polish>
+        <Polish>1. Wyposażenie: Spersonalizowane wyposażenie do operacji nocnych: oliwkowy uniform i kamizelki CIRAS oraz chusty do ukrycia tożsamości, oliwkowe hełmy MICH2001, personalizowane amerykańskie karabiny, w tym M4A1, MP5SD i specjalne karabiny snajperskie SR-25 i M107&lt;br/&gt;2. Środki transportu: Wszystkie pojazdy elementu Talon (za wyjątkiem Hodge'a) przechodzą rutynową kontrolę i pozostaną na pozycji startowej. Jeśli transport kołowy będzie potrzebny, musisz znaleźć go po drodze.&lt;br/&gt;3. Usługi: Stacja naprawy pojazdów na pozycji startowej, pod warunkiem że pojazd może wrócić. Sirż. Bill posiada zestaw narzędzi, by neutralizować potencjalne IEDy.&lt;br/&gt;4. Konserwacja: Brak.&lt;br/&gt;5. CASEVAC: Talon 31 posiada jednego przydzielonego medyka, w razie niepowodzenia misji spowodowanego znacznymi stratami Talon 30 Actual autoryzuje CASEVAC i przeprowadzi insercję sił szybkiego reagowania ODA 331.</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingSustainment_Text_phase2_1M5">
         <English>1. Supply: Standard US SOF Desert BDUs and ACUs or fleece jackets, CIRAS vests, MICH2001 helmets, standard issue US small arms including M16s, M4A1 carbines, MP5 SMGs, Mossberg shotguns, M249 and Mk 48 SAWs, and Mk 12, M24, SR-25, and M107 sniper rifles.&lt;br/&gt;2. Transportation: All Talon GMVs (with the exception of Hodge's) are undergoing routine maintenance this evening and will remain at our position. You will have to procure transportation in the field if needed.&lt;br/&gt;3. Services: Vehicle Repair capability at starting position, provided the vehicle can make it back. Sgt. Bill also carries a toolkit in order to disable any potential IEDs.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Talon 31 has 1x Embedded Medical Sergeant, in the event of a mission failure due to substantial casualties, Talon 30 Actual will authorize CASEVAC and insertion by ODA 331 QRF.</English>
         <Spanish>1. Suministros: Uniformes estándar de combate de fuerzas especiales en camuflaje desierto y UCP o forros polares, chalecos CIRAS, cascos MICH 2001, armas reglamentarias de EE. UU. como fusiles M16A4, carabinas M4A1, subfusiles MP5, escopetas Mossberg, ametralladoras Mk. 48 y M249, y fusiles de tirador Mk. 12, M24, SR-25 y M107.&lt;br/&gt;2. Transporte: Todos los GMV de los Talon (salvo el de Hodge) estarán de mantenimiento esta noche y permanecerán en nuestra posición. Tendrás que buscar transporte en el campo de ser necesario.&lt;br/&gt;3. Servicios: Posibilidad de reparar vehículos en el punto de inicio, siempre y cuando el vehículo pueda realizar el camino de vuelta. El Sgto. Bill lleva también un kit de herramientas para desactivar cualquier artefacto explosivo.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Talon 31 tiene 1x sargento médico asignado. En caso de fracaso debido a una cantidad considerable de bajas, Talon 30 Jefe autorizará CASEVAC y la inserción de la FRR de la ODA 331.</Spanish>
-        <Polish></Polish>
+        <Polish>1. Wyposażenie: Standardowe pustynne BDU, ACU i kamizelki sił specjalnych USA, kamizelki CIRAS, hełmy MICH2001, standardowa broń małokalibrowa w tym M16, M4A1, MP5, strzelby Mossberg, karabiny maszynowe M249 i Mk48, karabiny Mk 12, M24, SR-25 i M107.&lt;br/&gt;2. Środki transportu: Wszystkie pojazdy elementu Talon (za wyjątkiem Hodge'a) przechodzą rutynową kontrolę i pozostaną na pozycji startowej. Jeśli transport kołowy będzie potrzebny, musisz znaleźć go po drodze.&lt;br/&gt;3. Usługi: Stacja naprawcza pojazdów dostępna na pozycji startowej, o ile pojazd da radę do niej dojechać. Sierż. Bill posiada zestaw narzędzi, by móc rozbrajać wszelkie napotkane IEDy.&lt;br/&gt;4. Konserwacja: Brak.&lt;br/&gt;5. CASEVAC: Talon 31 posiada jednego przydzielonego medyka, w razie niepowodzenia misji spowodowanego znacznymi stratami Talon 30 Actual autoryzuje CASEVAC i przeprowadzi insercję sił szybkiego reagowania ODA 331.</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingExecution_Text_1M5">
         <English>The three objectives can be surveyed in any order the operator sees fit. Talon 31 will move to each location and confirm it, eliminating any enemies that may be present. When all three locations have been confirmed clear and reported to Talon 30, Talon 31 will be granted clearance to end the recon phase of the mission. Following the completion of recon, the convoy will advance toward the designated blocking positions. Be advised: the mission may change or evolve as new information becomes available in the field.</English>
         <Spanish>El operador puede escudriñar los tres objetivos en el orden que considere oportuno. Talon 31 avanzará a cada ubicación y la confirmará, eliminando a cualquier enemigo que haya presente. Cuando las tres ubicaciones estén despejadas y Talon 30 haya sido informado, Talon 31 recibirá autorización para finalizar la fase de reconocimiento de la misión. Una vez finalizado el reconocimiento, el convoy avanzará hacia las posiciones de bloqueo designadas. Atención: la misión puede cambiar o evolucionar a medida que se disponga de nueva información sobre el terreno.</Spanish>
-        <Polish></Polish>
+        <Polish>Wszystkie trzy zadania można wykonać w dowolnej, wybranej przez operatora kolejności. Talon 31 przemieści się do każdego z wyznaczonych miejsc i potwierdzi ich zgodność z danymi wywiadu, wyeliminuje też wszelki opór, jaki może napotkać. Gdy trzy lokacje zostaną potwierdzone i zgłoszone Talonowi 30, Talon 31 otrzyma zgodę na zakończenie fazy zwiadowczej swojej misji. Po jej ukończeniu, konwój przemieści się w stronę wyznaczonych pozycji. Uwaga: misja może się rozwinąć lub zmienić w zaleności od pozyskanych informacji w polu.</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingMission_Text_1M5">
         <English>Who: Talon 31, ODA 331, Task Force 31 (TF31)&lt;br/&gt;What: INVESTIGATE possible enemy presence, NEUTRALIZE all hostile forces&lt;br/&gt;Where: In vicinity, Panjwayi Valley&lt;br/&gt;When: 010000ZAUG31&lt;br/&gt;Why: Support of Operation Medusa</English>
         <Spanish>Quién: Talon 31, ODA 331, Fuerza Operativa 31 (TF 31)&lt;br/&gt;Qué: INVESTIGAR la posible presencia enemiga, NEUTRALIZAR a todas las fuerzas hostiles&lt;br/&gt;Dónde: En las inmediaciones, distrito de Panjwai&lt;br/&gt;Cuándo: 010000ZAUG31&lt;br/&gt;Por qué: Apoyo a la Operación Medusa</Spanish>
-        <Polish></Polish>
+        <Polish>Kto: Talon 31, ODA 331, Task Force 31 (TF31)&lt;br/&gt;Co: ZBADAĆ potencjalną obecność wroga, ZNEUTRALIZOWAĆ wszystkie wrogie siły&lt;br/&gt;Gdzie: Okolica doliny Pandżwai&lt;br/&gt;Kiedy: 010000ZSIE31&lt;br/&gt;Czemu: Wsparcie Operacji Meduza</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingSituation_Text_1M5">
         <English>A. ENEMY FORCES&lt;br/&gt;Size: 30-50 + possible reinforcements&lt;br/&gt;Activity: Light movement, moderate radio chatter&lt;br/&gt;Location: Vicinity, &lt;marker name="markerPanjwayi"&gt;southern Panjwayi Valley&lt;/marker&gt;&lt;br/&gt;Unit: Taliban mixed light infantry possibly supported by foreign fighters&lt;br/&gt;Time Observed: August 24-26, 2006&lt;br/&gt;Equipment: Small arms, RPG AT Weapons, Hilux Trucks, SUVs, Motorcycles, and Soviet-era static defenses&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To verify intelligence reports of enemy positions in the southern Panjwayi Valley, and eliminate any and all targets of opportunity between us and our intended blocking positions to our north.&lt;br/&gt;2. Adjacent Units: ODA 331 Team 26 (callsign: Talon 26), ODA 331 Command Team (callsign: Talon 30), ODA 331 Team 36 (callsign: Talon 36), ANA Regular Infantry (2nd Battalion, 3rd Kandak, led by Lt. Col. Shinsha, callsign: Lion 1 Actual).&lt;br/&gt;3. Supporting: CAS will not be available for this mission. Artillery support will not be available for this mission. CASEVAC will only be available by request of Talon 30 Actual, ODA 331's CO.</English>
         <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: 30-50 + posibles refuerzos&lt;br/&gt;Actividad: Movimiento leve, vibraciones de radio moderadas&lt;br/&gt;Ubicación: Inmediaciones, &lt;marker name="markerPanjwayi"&gt;sur del valle de Panjwai&lt;/marker&gt;&lt;br/&gt;Unidades: Infantería ligera mixta talibán con posible apoyo de combatientes extranjeros&lt;br/&gt;Fecha de observación: 24-26 de agosto de 2006&lt;br/&gt;Equipo: armas ligeras, granadas antitanque RPG, todoterrenos Hilux, vehículos utilitarios, motocicletas y defensas estáticas de la era soviética&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Verificar los informes de inteligencia de posiciones enemigas al sur del distrito de Panjwai y eliminar cualquier blanco de oportunidad entre nosotros y nuestras posiciones de bloqueo previstas al norte.&lt;br/&gt;2. Unidades adyacentes: Equipo 26 de la ODA 331 (indicativo: Talon 26), equipo de mando de la ODA 331 (indicativo: Talon 30), equipo 36 ODA 331 (indicativo: Talon 36), infantería regular del ENA (2.º Batallón, 3.er Kandak, liderado por el Tte. Cnel. Shinsha, indicativo: León 1 Jefe).&lt;br/&gt;3. Apoyo: No habrá apoyo aéreo cercano para esta misión. No habrá apoyo de artillería para esta misión. La CASEVAC solo estará autorizada cuando la solicite Talon 30 Jefe, el oficial al mando de la ODA 331.</Spanish>
-        <Polish></Polish>
+        <Polish>A. WROGIE SIŁY&lt;br/&gt;Wielkość: 30-50 + możliwe wsparcie&lt;br/&gt;Aktywność: Niewielkie przemieszczenia, średnie obciążenie radia&lt;br/&gt;Miejsce: Okolica &lt;marker name="markerPanjwayi"&gt;południa doliny Pandżwai&lt;/marker&gt;&lt;br/&gt;Jednostka: Mieszana lekka piechota Talibanu, prawdopodobnie wspierana przez obcych najemników&lt;br/&gt;Czas obserwacji: 24-26 sierpnia 2006 r.&lt;br/&gt;Ekwipunek: Broń małokalibrowa, wyrzutnie granatów ppanc, samochody typu Hilux, SUVy, motocykle i post-sowieckie umocnienia stacjonarne&lt;br/&gt;&lt;br/&gt;B. SOJUSZNICZE SIŁY&lt;br/&gt;1. Misja i oczekiwania dowództwa: Zweryfikować informacje wywiadowcze na temat wrogich pozycji w południowej części doliny Pandżwai i wyeliminować wszelkie wrogie siły między pozycją startową a pozycją końcową na północy.&lt;br/&gt;2. Jednostki: Oddział 26 ODA 331 (znak wywoławczy: Talon 26), Oddział dowodzenia ODA 331 (znak wywoławczy: Talon 30), Oddział 36 ODA 331 (znak wywoławczy: Talon 36), regularna piechota NAA (2. Batalion, 3. Kandak dowodzony przez ppłk. Shinshę, znak wywoławczy: Lew 1 Actual).&lt;br/&gt;3. Wsparcie: CAS nie będzie dostępny podczas tej misji. Artyleria nie będzie dostępna podczas tej misji. CASEVAC będzie dostępny jedynie na żądanie Talona 30 Actual, oficera dowodzącego ODA 331.</Polish>
       </Key>
 	  <Key ID="STR_LOK_Briefing_Text_1M5">
         <English>We have shifted our entire convoy to the west and plan to move north from here, even if it means fighting our way up. A local Kuchi tribesman has revealed to us a number of possible enemy positions. Jared has ordered the reconnaissance of these positions: we need to investigate each for any sign of hostile forces and eliminate them where found as quietly as possible. If we do this right, we will be in our blocking positions with what looks like a bit of downtime, as scuttlebutt suggests that Op. Medusa will be delayed.</English>
         <Spanish>Hemos desplazado todo nuestro convoy hacia el oeste y planeamos movernos hacia el norte desde aquí, aunque eso signifique abrirnos paso luchando. Un miembro de una tribu kuchi nos ha revelado una serie de posibles posiciones enemigas. Jared ha ordenado el reconocimiento de estas posiciones: tenemos que investigar cada una de ellas en busca de cualquier indicio de fuerzas hostiles y eliminarlas allí donde las encontremos lo más discretamente posible. Si lo hacemos bien, estaremos en nuestras posiciones de bloqueo con lo que podrían ser horas muertas, ya que los rumores dan a entender que la Operación Medusa se retrasará.</Spanish>
-        <Polish></Polish>
+        <Polish>Przesunęliśmy cały konwój na zachód i planujemy stąd przesunąć się na północ, nawet jeśli oznaczłoby to przebicie się siłą. Miejscowy plemiennik z Kuczi wyjawił nam możliwe miejsca przebywania Talibów. Jared nakazał przeprowadzenie zwiadu w tych pozycjach: musimy zbadać każdą z nich pod kątem obecności wrogich sił i wyeliminować je możliwie po cichu. Jeśli misja zostanie poprawnie przeprowadzona, uda nam się dotrzeć do pozycji końcowej z niewielkim opóźnieniem.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_Description_1M5">
         <English>Your team and truck are positioned toward the rear of the convoy, move up to the front and report in to &lt;marker name="markerODA331"&gt;Jared&lt;/marker&gt; for the specifics of tonight's patrol.</English>
         <Spanish>Tu equipo y tu camión están posicionados en la retaguardia del convoy. Adelántate y preséntate ante &lt;marker name="markerODA331"&gt;Jared&lt;/marker&gt; para que te dé los detalles de la patrulla de esta noche.</Spanish>
-        <Polish></Polish>
+        <Polish>Twój oddział i ciężarówka są umiejscowione na tyle konwoju, przemieść się na jego front i zgłoś do &lt;marker name="markerODA331"&gt;Jareda&lt;/marker&gt;, by otrzymać szczegóły na temat nocnego patrolu.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_Title_1M5">
         <English>Report to Jared</English>
         <Spanish>Presentarse ante Jared</Spanish>
-        <Polish></Polish>
+        <Polish>Zgłoś się do Jareda</Polish>
       </Key>
 	  <Key ID="STR_LOK_objK_Description_1M5">
         <English>In exchange for a few bottles of water and some common courtesy, two local Kuchi tribesmen (brothers-in-law, as it happens) have been very helpful, despite a disposition to support the Taliban in the past. We sent a few MREs and bottles of water as a goodwill gesture to the &lt;marker name="markerObjK"&gt;Kuchi encampment&lt;/marker&gt; nearby. Chances are he would have more to tell if you paid him a visit... just make sure you bring Victor, our interpreter, before you head over there or you won't be able to communicate.</English>
         <Spanish>A cambio de unas botellas de agua y un poco de cortesía, dos miembros de una tribu kuchi local (cuñados, por lo visto) han sido de gran ayuda, pese a su tendencia a apoyar a los talibanes en el pasado. Enviamos unas pocas raciones y botellas de agua como gesto de buena fe al &lt;marker name="markerObjK"&gt;campamento kuchi&lt;/marker&gt; cercano. Es probable que tenga más cosas que contarte si le haces una visita... pero asegúrate de llevar a Victor, nuestro intérprete, antes de ir allí, o no podrás comunicarte.</Spanish>
-        <Polish></Polish>
+        <Polish>W zamian za kilka butelek wody i odrobinę życzlliwości, dwóch Afgańczyków z plemienia Kuczi (szwagrowie, tak się złożyło) bardzo nam pomogli, nawet mimo popierania Talibów w przeszłości. Przekazaliśmy trochę racji żywnościowych i wody jako gest dobrej woli do &lt;marker name="markerObjK"&gt;obozu Kuczi&lt;/marker&gt; w okolicy. Być może powiedzą nam więcej, jeśli ich odwiedzisz... Upewnij się tylko, że weźmiesz ze sobą Victora, nasztego tłumacza, inaczej nie będziesz w stanie z nimi rozmawiać.</Polish>
       </Key>
 	  <Key ID="STR_LOK_objK_Title_1M5">
         <English>Optional: Speak to Kuchi tribesman</English>
         <Spanish>Opcional: Hablar con la tribu kuchi</Spanish>
-        <Polish></Polish>
+        <Polish>Opcjonalne: Porozmawiaj z plemieniem Kuczi</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_Description_1M5">
         <English>You and Greg have been tasked with scouting the desert in front of your convoy in order to ensure a safe route for tomorrow. You are free to do your tasks in the order you want to, but get the job done.</English>
         <Spanish>A Greg y a ti os han asignado la tarea de reconocer el desierto de delante del convoy para asegurar una ruta segura para mañana. Eres libre de realizar las tareas en el orden que prefieras, pero haz tu trabajo.</Spanish>
-        <Polish></Polish>
+        <Polish>Ty i Greg otrzymaliście zadanie przeprowadzenia zwiadu na pustyni z przodu konwoju, by upewnić się, że jutro pokonamy resztę trasy bezpiecznie. Zadania możecie wykonać w dowolnej kolejności, ważne, by wszystkie zostały zrobione.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_Title_1M5">
         <English>Ensure a safe route for the convoy</English>
         <Spanish>Asegurar una ruta segura para el convoy</Spanish>
-        <Polish></Polish>
+        <Polish>Zabezpiecz trasę konwoju</Polish>
       </Key>
 	  <Key ID="STR_LOK_objA_Description_1M5">
         <English>There is an &lt;marker name="markerObjA"&gt;abandoned mine&lt;/marker&gt; directly to our north, with a path that leads to the road. This is our only entry point to the road, so we need it to be clear. Hodge took one of his trucks up to scout it out under strict ROE not to fire unless fired upon. Recommend you speak to him first for a SITREP, but it's up to you.</English>
         <Spanish>Hay una &lt;marker name="markerObjA"&gt;mina abandonada&lt;/marker&gt; justo al norte, con un sendero que lleva a la carretera. Es nuestro único punto de entrada a la carretera, así que necesitamos que esté despejada. Hodge envió uno de sus camiones a reconocerla bajo la estricta norma de no disparar a menos que ellos disparen antes. Se recomienda que hables con él para que te informe de la situación, pero allá tú.</Spanish>
-        <Polish></Polish>
+        <Polish>Na północ od naszej pozcyji znajduje się &lt;marker name="markerObjA"&gt;opuszczona kopalnia&lt;/marker&gt; ze ścieżką, która prowadzi do drogi. To jedyne miejsce pozwalające nam przejechać dalej, więc kopalnia musi zostać oczyszczona. Hodge wziął jedną z ciężarówek, by przeprowadzić zwiad pod ścisłą zasadą, by nie otwierać ognia dopóki nie bedzie zagrożenia. Porozmawiaj z nim, by zdał ci raport, jeśli chcesz.</Polish>
       </Key>
 	  <Key ID="STR_LOK_objA_Title_1M5">
         <English>Recon abandoned mine</English>
         <Spanish>Reconocer la mina abandonada</Spanish>
-        <Polish></Polish>
+        <Polish>Zbadaj opuszczoną kopalnię</Polish>
       </Key>
 	  <Key ID="STR_LOK_objB_Description_1M5">
         <English>The local tribesman revealed the location of a Taliban &lt;marker name="markerObjB"&gt;camp&lt;/marker&gt; nestled somewhere in the hills. This is the kind of position the Talibs would retreat to after staging an ambush. Thanks to his intel from having passed by it before with his herd (and his sentiment from losing a couple sheep in the process), we can make sure it's out of the equation from this night forward.</English>
         <Spanish>El miembro de la tribu local nos desveló la ubicación de un &lt;marker name="markerObjB"&gt;campamento&lt;/marker&gt; talibán enclavado en algún lugar de las colinas. Es el tipo de posición a la que se retirarían los talibanes después de tender una emboscada. Gracias a su información por haber pasado por allí con su rebaño (y su tristeza por haber perdido un par de ovejas en el proceso), podemos asegurarnos de que quede completamente al margen a partir de esta noche.</Spanish>
-        <Polish></Polish>
+        <Polish>Lokalni plemieńcy wyjawili położenie &lt;marker name="markerObjB"&gt;obozu Talibów&lt;/marker&gt; gdzieś w góórach. Jest to jedno z miejsc, do którego rebelianci wycofaliby się po przeprowadzeniu zasadzki. Dzięki tej wiedzy możemy zadbać tej nocy o to, by Talibowie nie stanowili jakiegokolwiek zagrożenia na tym odcinku.</Polish>
       </Key>
 	  <Key ID="STR_LOK_objB_Title_1M5">
         <English>Recon suspected camp</English>
         <Spanish>Reconocer el supuesto campamento</Spanish>
-        <Polish></Polish>
+        <Polish>Zbadaj podejrzany obóz</Polish>
       </Key>
 	  <Key ID="STR_LOK_objC_Description_1M5">
         <English>We confirmed our suspicions that there would be some sort of roadside &lt;marker name="markerObjC"&gt;checkpoint&lt;/marker&gt; in enemy hands - if the abandoned mine is in enemy hands, chances are they'd set up a forward position along the road somewhere. The Kuchi tribesman also warned us to stay away from the road. The pass appears to open up to the valley at this point, forming a natural bottleneck. Check out the area and clear it if there's anything there.</English>
         <Spanish>Confirmamos nuestra sospecha de que habría alguna especie de &lt;marker name="markerObjC"&gt;punto de control&lt;/marker&gt; en manos enemigas. Si la mina abandonada está en manos enemigas, lo más probable es que montaran un puesto de avanzada a lo largo de la carretera. El miembro de la tribu kuchi también nos avisó de que nos alejáramos de la carretera. El paso parece abrirse al valle en este punto, formando un cuello de botella natural. Comprueba la zona y despéjala si hay algo.</Spanish>
-        <Polish></Polish>
+        <Polish>Potwierdziliśmy nasze podejrzenia, że na drodze znajduje sie kontrolowany przez przeciwnika &lt;marker name="markerObjC"&gt;punkt kontrolny&lt;/marker&gt; - jeśli opuszczona kopalnia jest przez nich okupowana, istnieje szansa na to, że przygotowali wysunięty posterunek gdzieś wzdłuż drogi. Plemieńcy z Kuczi ostrzegli nas, by trzymać się z dala od drogi. Trasa konwoju prowadzi przez dolinę, tym samym tworząc naturalny przesmyk. Miejsce to należy oczyścić, jeśli cokolwiek się tam znajduje.</Polish>
       </Key>
 	  <Key ID="STR_LOK_objC_Title_1M5">
         <English>Recon suspected checkpoint</English>
         <Spanish>Reconocer el supuesto punto de control</Spanish>
-        <Polish></Polish>
+        <Polish>Zbadaj podejrzany posterunek</Polish>
       </Key>
 	  <Key ID="STR_LOK_objK2_Description_1M5">
         <English>The Kuchi tribesman revealed that the Taliban have planted an improvised explosive device (IED) somewhere in the village of &lt;marker name="markerUsaimah"&gt;Usaimah&lt;/marker&gt; nearby. Approach with caution! Before you can dispose of the IED, you need to find and eliminate the controller. Once he is down, the bomb should be safe to approach and perform simple explosive ordinance disposal (EOD) procedures to dismantle the bomb and neutralize the threat. Of course, our convoy could always steer around it, so this is not a mandatory objective.</English>
         <Spanish>El miembro de la tribu kuchi ha desvelado que los talibanes han plantado un artefacto explosivo improvisado (IED) en alguna parte del pueblo cercano de &lt;marker name="markerUsaimah"&gt;Usaimah&lt;/marker&gt;. ¡Acércate con cautela! Antes de desactivar el IED, tendrás que encontrar y neutralizar al controlador. Cuando haya caído, debería ser seguro acercarse a la bomba y aplicar simples procedimientos de desactivación de explosivos para desmantelar la bomba y neutralizar la amenaza. Por supuesto, nuestro convoy siempre podría esquivarlo, así que no es un objetivo obligatorio.</Spanish>
-        <Polish></Polish>
+        <Polish>Plemieńcy z Kuczi wyjawili, że Talibowie podłożyli improwizowany ładunek wybuchowy (IED) gdzieś w niedalekiej wiosce &lt;marker name="markerUsaimah"&gt;Usaimah&lt;/marker&gt;. Należy zachować ostrożność! Nim zneutralizujesz IEDa, musisz wyeliminować osobę z zapalnikiem. Po jego eliminacji będziesz mógł zbliżyć się do ładunku i przeprowadzić prosty proces neutralizacji ładunku. Oczywiście konwój może go po prostu ominąć, więc nie jest to wymagana część zadania.</Polish>
       </Key>
 	  <Key ID="STR_LOK_objK2_intel_Description_1M5">
         <English>You found a notebook that revealed the Taliban have planted an improvised explosive device (IED) somewhere in the village of &lt;marker name="markerUsaimah"&gt;Usaimah&lt;/marker&gt; nearby. Approach with caution! Before you can dispose of the IED, you need to find and eliminate the controller. Once he is down, the bomb should be safe to approach and perform simple explosive ordinance disposal (EOD) procedures to dismantle the bomb and neutralize the threat. Of course, our convoy could always steer around it, so this is not a mandatory objective.</English>
         <Spanish>Has encontrado un cuaderno que revela que los talibanes han plantado un artefacto explosivo improvisado (IED) en alguna parte del pueblo cercano de &lt;marker name="markerUsaimah"&gt;Usaimah&lt;/marker&gt;. ¡Acércate con cautela! Antes de desactivar el IED, tendrás que encontrar y neutralizar al controlador. Cuando haya caído, debería ser seguro acercarse a la bomba y aplicar simples procedimientos de desactivación de explosivos para desmantelar la bomba y neutralizar la amenaza. Por supuesto, nuestro convoy siempre podría esquivarlo, así que no es un objetivo obligatorio.</Spanish>
-        <Polish></Polish>
+        <Polish>Znajdujesz notatnik zawierający informację, że Talibowie podłożyli improwizowany ładunek wybuchowy (IED) gdzieś w niedalekiej wiosce &lt;marker name="markerUsaimah"&gt;Usaimah&lt;/marker&gt;. Należy zachować ostrożność! Nim zneutralizujesz IEDa, musisz wyeliminować osobę z zapalnikiem. Po jego eliminacji będziesz mógł zbliżyć się do ładunku i przeprowadzić prosty proces neutralizacji ładunku. Oczywiście konwój może go po prostu ominąć, więc nie jest to wymagana część zadania.</Polish>
       </Key>
 	  <Key ID="STR_LOK_objK2_Title_1M5">
         <English>Optional: Locate and defuse the IED in Usaimah</English>
         <Spanish>Opcional: Localizar y desactivar el IED de Usaimah</Spanish>
-        <Polish></Polish>
+        <Polish>Opcjonalne: Zlokalizuj i rozbrój IEDa w Usaimah</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj3_Description_1M5">
         <English>This morning, Jared noticed some unusual activity coming from this &lt;marker name="markerPhase2house"&gt;compound&lt;/marker&gt;, which also features what appears to be a crude radio antenna. Strike while the iron's hot and see if you can take a prisoner or two, or maybe find some intel.</English>
         <Spanish>Jared ha notado esta mañana actividad inusual desde este &lt;marker name="markerPhase2house"&gt;edificio&lt;/marker&gt;, que presenta lo que aparenta ser una antena de radio rudimentaria. Aprovecha y a ver si puedes tomar un prisionero o dos, o tal vez encontrar algo de información.</Spanish>
-        <Polish></Polish>
+        <Polish>Tego ranka Jared zauważył niecodzienną aktywność w &lt;marker name="markerPhase2house"&gt;tym kompleksie&lt;/marker&gt;, na którym widać coś przypominającego antenę radiową. Uderzcie w to miejsce, póki jest jeszcze taka możliwość i zobaczcie, czy możecie kogoś wziąć żywcem lub znaleźć jakiekolwiek informacje.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj3_Title_1M5">
         <English>Hit the compound</English>
         <Spanish>Asaltar el edificio</Spanish>
-        <Polish></Polish>
+        <Polish>Zaatakuj kompleks</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionTitle_1M5">
         <English>The Notebook</English>
         <Spanish>El cuaderno</Spanish>
-        <Polish></Polish>
+        <Polish>Notatnik</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionTitle_Intro_1M5">
         <English>Mission 5 Intro</English>
         <Spanish>Misión 5: Intro</Spanish>
-        <Polish></Polish>
+        <Polish>Misja 5: Intro</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionTitle_Outro_1M5">
         <English>Mission 5 Outro</English>
         <Spanish>Misión 5: Outro</Spanish>
-        <Polish></Polish>
+        <Polish>Misja 5: Outro</Polish>
       </Key>
 	  <Key ID="STR_LOK_Kuchi_Dialogue_1M5">
         <English>KUCHI TRIBESMAN</English>
         <Spanish>MIEMBRO DE LA TRIBU KUCHI</Spanish>
-        <Polish></Polish>
+        <Polish>PLEMIENNIK KUCZI</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionDescription_1M5">
         <English>You must conduct a night-time recon sweep of the southern Panjwayi Valley, clearing a number of objectives to pave the way for the convoy to reach the designated blocking positions.</English>
         <Spanish>Debes llevar a cabo un reconocimiento nocturno del sur del distrito de Panjwai y despejar una serie de objetivos para allanar el camino y que el convoy llegue a las posiciones de bloqueo designadas.</Spanish>
-        <Polish></Polish>
+        <Polish>Musisz przeprowadzić nocny zwiad południowej części doliny Kuczi, oczyścić kilka strategicznych punktów, by umożliwić konwojowi bezpieczną podróż do miejsca docelowego.</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_text_1M5">
         <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER V - The Notebook&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'Do not touch anything unnecessarily. Beware of pretty girls in dance halls and parks who may be spies, as well as bicycles, revolvers, uniforms, arms, dead horses, and men lying on roads - there is nothing there accidentally.'&lt;br/&gt;&lt;br/&gt;-SOVIET INFANTRY MANUAL&lt;/t&gt;</English>
         <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO V: El cuaderno&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«No toques nada sin razón. Cuidado con las chicas guapas en los salones de baile y los parques que podrían ser espías, así como con las bicicletas, los revólveres, los uniformes, las armas, los caballos muertos y los hombres tirados en la carretera. Nada está ahí por accidente».&lt;br/&gt;&lt;br/&gt;—MANUAL DE INFANTERÍA SOVIÉTICO&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t color='#FFA500' size='3.5'&gt;ROZDZIAŁ V - Notatnik&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'Nie dotykaj czegokolwiek bez powodu. Uważaj na ładne kobiety w tańcu, podejrzanych gości, którzy mogą być szpiegami. Uważaj na rowery, rewolwery, mundury, ramiona, martwe konie, ludzi leżących na drodze - nic nie dzieje się przypadkiem.'&lt;br/&gt;&lt;br/&gt;- SOWIECKI PORADNIK ŻOŁNIERSKI&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel1_1M5">
         <English>Sgt. Bill Brown</English>
         <Spanish>Sgto. Bill Brown</Spanish>
-        <Polish></Polish>
+        <Polish>Sierż. Bill Brown</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel1_phase2_1M5">
         <English>Cpt. Rusty Bradley</English>
         <Spanish>Cap. Rusty Bradley</Spanish>
-        <Polish></Polish>
+        <Polish>Kpt. Rusty Bradley</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel2_1M5">
         <English>ODA 331, US Army SF</English>
         <Spanish>ODA 331, Ejérc. de EE. UU.</Spanish>
-        <Polish></Polish>
+        <Polish>ODA 331, siły specjalne US Army</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel3_1M5">
         <English>8km from blocking pos.</English>
         <Spanish>8km de pos. de bloqueo</Spanish>
-        <Polish></Polish>
+        <Polish>8 kilometrów od pozycji końcowej</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel4_1M5">
         <English>August 31, 2006 - 1815</English>
         <Spanish>31 agosto 2006 - 1815</Spanish>
-        <Polish></Polish>
+        <Polish>31 sierpnia 2006 r. - 1815</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel3_phase2_1M5">
         <English>Southern Panjwayi Valley</English>
         <Spanish>Sur del valle de Panjwai</Spanish>
-        <Polish></Polish>
+        <Polish>Południe doliny Pandżwai</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel4_phase2_1M5">
         <English>September 1, 2006 - 0920</English>
         <Spanish>1 septiembre 2006 - 0920</Spanish>
-        <Polish></Polish>
+        <Polish>1 września 2006 r. - 0920</Polish>
       </Key>
 	  <Key ID="STR_LOK_message1_1M5">
         <English>You and Greg got balls, going out there just the two of you.</English>
         <Spanish>Greg y tú tenéis huevos para salir ahí fuera los dos solos.</Spanish>
-        <Polish></Polish>
+        <Polish>Ty i Greg musicie mieć wielkie jaja, idziecie tam tylko we dwójkę.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message2_1M5">
         <English>I'd be out there too, but you gotta keep the patrol small and agile.</English>
         <Spanish>Yo también iría, pero la patrulla tiene que ser pequeña y ágil.</Spanish>
-        <Polish></Polish>
+        <Polish>Też bym tam poszedł, ale patrol musi być mały i szybki.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message3_1M5">
         <English>Yeah, but who knows what the hell is out there, Rusty and his guys almost got ambushed.</English>
         <Spanish>Ya, pero a saber qué hay por ahí. A Rusty y sus chicos casi los emboscan.</Spanish>
-        <Polish></Polish>
+        <Polish>Taa, ale kto wie, co nas tam spotka? Rusty i jego ludzie prawie wpadli w zasadzkę.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message4_1M5">
         <English>Man, I ain't afraid of none of that shit, we'll see them long before they see us.</English>
         <Spanish>Macho, a mí eso no me da ningún miedo. Los veremos mucho antes de que ellos nos vean a nosotros.</Spanish>
-        <Polish></Polish>
+        <Polish>Chłopie, nic z tych rzeczy mnie nie przeraża, zobaczymy ich dużo szybciej niż oni wypatrzą nas.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message5_1M5">
         <English>Yes, but this is not the only thing you must worry about, they have traps, they know the land, and they know we're here.</English>
         <Spanish>Sí, pero eso es lo único por lo que deberían preocuparse. Tienen trampas, conocen el terreno y saben que estamos aquí.</Spanish>
-        <Polish></Polish>
+        <Polish>Tak, ale Talibowie to nie jedyne, czego musicie się obawiać. Oni rozstawiają pułapki, znają te tereny, wiedzą, że tu jesteśmy.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message6_1M5">
         <English>Not necessarily, dude. Sounds like they think we're further east. Still, stay safe, Bill.</English>
         <Spanish>No necesariamente, tío. Parece que creen que estamos más al este. Aun así, ten cuidado, Bill.</Spanish>
-        <Polish></Polish>
+        <Polish>Nie powiedziałbym. Raczej myślą, że jesteśmy bardziej na wschód. Tak czy inaczej, pilnuj się, Bill.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message7_1M5">
         <English>Alright, alright guys, quit worrying. Me and Greg'll be back in a few hours. Save me some coffee, will ya?</English>
         <Spanish>Venga, va, chavales, no os preocupéis. Greg y yo volveremos en unas horas. Guardadme un poco de café, ¿vale?</Spanish>
-        <Polish></Polish>
+        <Polish>Dobra, dobra już, chłopcy, przestańcie się martwić. Ja i Greg wrócimy za parę godzin. Zostawcie mi trochę kawy, dobra?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message8_1M5">
         <English>Good luck.</English>
         <Spanish>Buena suerte.</Spanish>
-        <Polish></Polish>
+        <Polish>Powodzenia.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message9_1M5">
         <English>Good luck, brother.</English>
         <Spanish>Buena suerte, hermano.</Spanish>
-        <Polish></Polish>
+        <Polish>Powodzenia, bracie.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message10_1M5">
         <English>Uh-huh, good luck.</English>
         <Spanish>Eso, buena suerte.</Spanish>
-        <Polish></Polish>
+        <Polish>Ehe, powodzenia.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message11_1M5">
         <English>The two of you motherfuckers look like ninjas, I love it.</English>
         <Spanish>Parecéis unos putos ninjas, me encanta.</Spanish>
-        <Polish></Polish>
+        <Polish>Wy dwaj skurwiele wyglądacie jak nindża, podoba mi się to.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message12_1M5">
         <English>I sure wouldn't wanna be on the business end of your rifles....</English>
         <Spanish>Desde luego no me gustaría que me tuvieseis a punta de pistola...</Spanish>
-        <Polish></Polish>
+        <Polish>Zdecydowanie nie chciałbym być po złej stronie waszych karabinów...</Polish>
       </Key>
 	  <Key ID="STR_LOK_message13_1M5">
         <English>Alright, so you read the WARNO I assume-- keep an eye out for Hodge near the abandoned mine.</English>
         <Spanish>Vale, doy por hecho que os habéis leído la advertencia: ojo con Hodge cerca de la mina abandonada.</Spanish>
-        <Polish></Polish>
+        <Polish>Dobra, zakładam, że czytaliscie WARNO - uważajcie na Hodge'a, który jest niedaleko opuszczonej kopalni.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message13_2_1M5">
         <English>We're not sure what else you may find out there, but the bottom line is we need to ensure we have a safe route for the convoy, so eliminate any threats you can handle, report the ones you can't.</English>
         <Spanish>No sabemos bien qué más habrá por ahí, pero en resumidas cuentas: tenemos que asegurarnos de tener una ruta segura para el convoy, por lo que eliminad cualquier amenaza que podáis, informad de las que no.</Spanish>
-        <Polish></Polish>
+        <Polish>Nie wiemy, co tam dokładnie znajdziecie, ale najważniejsze jest zabezpieczenie trasy dla konwoju, więc wyeliminujcie każde napotkane zagrożenie, zgłaszajcie natomiast te, z którymi możecie nie dać rady.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message14_1M5">
         <English>Shit, sir-- there ain't a thing we won't be able to handle.</English>
         <Spanish>Joder, señor, podremos con todo.</Spanish>
-        <Polish></Polish>
+        <Polish>Cholera, sir... Nie ma wielu rzeczy, z którymi sobie nie poradzimy.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message15_1M5">
         <English>Watch your ass out there either way, fellas. And remember, our Kuchi tribesman friend may have more to share now that he's eaten his dinner, grab Victor and pay him a visit if you want. Dismissed.</English>
         <Spanish>Mucho cuidado ahí fuera igualmente, señores. Y recordad, a nuestro colega tribal kuchi le podría apetecer compartir más cosas ahora que ha cenado. Id a por Victor y hacedle una visita si queréis. Podéis retiraros.</Spanish>
-        <Polish></Polish>
+        <Polish>Tak czy siak, pilnujcie swoich dup, koledzy. I pamiętajcie, nasi przyjaciele z Kuczi mogą mieć trochę więcej informacji, gdy już zjedli kolację. Złapcie Victora i odwiedźcie ich, jeśli chcecie. Odmaszerować.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message16_1M5">
         <English>Hey Victor, you mind taking a walk with me and Greg to speak to our Kuchi tribesman pal?</English>
         <Spanish>Oye, Victor, ¿te importa dar una vuelta con Greg y conmigo para hablar con nuestro amigo kuchi?</Spanish>
-        <Polish></Polish>
+        <Polish>Hej, Victor, Chcesz się przejść ze mną i Gregiem do kolegi z Kuczi?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message17_1M5">
         <English>As long as you don't take me in the field with you after, I am completely exhausted.</English>
         <Spanish>Siempre y cuando no me lleven con ustedes al campo, estoy agotadísimo.</Spanish>
-        <Polish></Polish>
+        <Polish>Jeśli nie bedziecie mnie ciągnąć ze sobą przez cały region, jestem kompletnie zmęczony.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message18_1M5">
         <English>Get your ass up and over that hill, you lazy piece a' dogshit!</English>
         <Spanish>¡Mueve ese culo y sube la colina, vago de los cojones!</Spanish>
-        <Polish></Polish>
+        <Polish>Ciągnij tę dupę w górę, leniwy gnoju!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message19_1M5">
         <English>[IN PASHTO] Salaam alaikum, my friend. We were wondering if you could tell us anything more about the Talibs in the area.</English>
         <Spanish>[EN PASTÚN] Salam aleikum, amigo mío. Nos preguntábamos si nos podría contar algo más sobre los talis en la zona.</Spanish>
-        <Polish></Polish>
+        <Polish>[W PASZTO] Salam alejkum, przyjacielu. Zastanawialiśmy się, czy moglibyście powiedzieć nam coś więcej o Talibach w tym miejscu.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message20_1M5">
         <English>[IN PASHTO] Alaikum salaam...have I not told you enough already? Must I take my flock and go fight them for you? *sighs* Alright. I have had my flock here for most of the season, I take my flock north to graze, but I prefer the air up here.</English>
         <Spanish>[EN PASTÚN] Aleikum salam... ¿no les he contado bastante ya? ¿Tengo que ir a luchar con ustedes con mi rebaño? *suspira* Está bien. He tenido mi rebaño aquí la mayor parte de la temporada, llevo mi rebaño al norte a pastar, pero prefiero el aire de aquí arriba.</Spanish>
-        <Polish></Polish>
+        <Polish>[W PASZTO] Alejkum salam... Nie powiedziałem wam już wystarczająco duż? Czy mam zebrać swoją trzodę i jeszcze walczyć dla was? *wzdycha* Dobrze. Przez większość sezonu zwierzęta mam tutaj, zabieram je na północne pastwiska, ale wolę tutejszy wiatr.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message21_1M5">
         <English>What's he sayin'?</English>
         <Spanish>¿Qué dice?</Spanish>
-        <Polish></Polish>
+        <Polish>Co on gada?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message22_1M5">
         <English>A bunch of bull's shit so far.</English>
         <Spanish>Un montón de chorradas hasta ahora.</Spanish>
-        <Polish></Polish>
+        <Polish>Póki co tylko bzdury.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message23_1M5">
         <English>[IN PASHTO] I am not yet finished, you horse's ass: When I take my flock north, I hear explosions coming from the abandoned mine.</English>
         <Spanish>[EN PASTÚN] Aún no he terminado, impertinente. Cuando llevo mi rebaño al norte, escucho exposiones desde la mina abandonada.</Spanish>
-        <Polish></Polish>
+        <Polish>[W PASZTO] Jeszcze nie skończyłem, koński zadzie: gdy zabieram trzodę na północ, słyszę wybuchy z opuszczonej kopalni.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message23_2_1M5">
         <English>I know that mine has been shut down since the Soviets were here, so it cannot be dynamite from mining. They must be making bombs there, or something.</English>
         <Spanish>Sé que esa mina lleva clausurada desde que vinieron los soviéticos, así que no puede ser dinamita de la minería. Tienen que estar haciendo bombas o algo.</Spanish>
-        <Polish></Polish>
+        <Polish>Wiem, że kopalnię zamknięto gdy jeszcze byli tu Sowieci, więc to nie może być dynami. Talibowie muszą tam robić bomby albo coś.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message232_1M5">
         <English>[IN PASHTO] Thank you, my friend. [IN ENGLISH] He said he has heard explosions coming from the mine. It sounds like the Talibs are making bombs, maybe training there.</English>
         <Spanish>[EN PASTÚN] Gracias, amigo mío. [EN INGLÉS] Dice que ha escuchado explosiones desde la mina. Parece que los talis están haciendo bombas, puede que entrenando.</Spanish>
-        <Polish></Polish>
+        <Polish>[W PASZTO] Dziękuję, przyjacielu. [PO ANGIELSKU] Powiedział, że słyszał wybuchy dochodzące z kopalni. Talibowie mogą robić tam ładunki wybuchowe, być może też ćwiczą.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message24_1M5">
         <English>Alright, so we should expect a sizable force dug into the mine, good thing Hodge took a team out that way. We'll make damn sure to watch out for IEDs.</English>
         <Spanish>Vale, o sea que cabría esperar una fuerza considerable atrincherada en la mina. Menos mal que Hodge envió un equipo para allá. Nos aseguraremos de estar atentos a los IED.</Spanish>
-        <Polish></Polish>
+        <Polish>No dobrze, powinniśmy się więc spodziewać dość sporo kontaktów okopanych w tym miejscu, dobrze, że Hodge zabrał tam swój oddział. Będziemy zważać na wszelkie IEDy.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message25_1M5">
         <English>[IN PASHTO] This is not all. When I passed through a village on the road to the north, I was warned by the locals not to use the intersection. You should be careful, I think they set up a trap in that village.</English>
         <Spanish>[EN PASTÚN] Eso no es todo. Cuando crucé un pueblo en la carretera al norte, los lugareños me advirtieron que no usase la intersección. Deberían tener cuidado, creo que han tendido una trampa en ese pueblo.</Spanish>
-        <Polish></Polish>
+        <Polish>[W PASZTO] To nie wszystko. Gdy mijałem wioskę po drodze na północ, miejscowi ostrzegli mnie, by nie korzystać ze skrzyżowania. Powinniście być ostrożni, prawdopodobnie rebelianci przygotowali pułapkę w tej wiosce.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message26_1M5">
         <English>Oh... he also says there is a bomb in one of the villages along the road to Panjwayi. He must be talking about Usaimah.</English>
         <Spanish>Ah... también dice que hay una bomba en uno de los pueblos a lo largo de la carretera hacia Panjwai. Se referirá a Usaimah.</Spanish>
-        <Polish></Polish>
+        <Polish>Och... Mówi też, że w jednej z wiosek na drodze do Pandżwai jest bomba. Chyba chodzi mu o Usaimah.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message27_1M5">
         <English>Shit, that makes things a little more complicated. We'll see if we can go check it out tonight. Thanks, Victor, make sure we give our buddy here a few more bottles of water or a chocolate bar or something.</English>
         <Spanish>Mierda, eso complica un poco más las cosas. Veremos si podemos ir a echarle un vistazo esta noche. Gracias, Victor, asegúrate de darle a nuestro amigo un par de botellas más de agua o una chocolatina o algo.</Spanish>
-        <Polish></Polish>
+        <Polish>Cholera, to nieco komplikuje sprawy. Zobaczymy, czy damy radę tam dziś podejść. Dzięki, Victor, upewnij się, że nasz kolega dostanie parę butelek wody i czekoladę, czy coś.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message28_1M5">
         <English>Ask him if he knows where the Taliban planted their IED.</English>
         <Spanish>Pregúntale si sabe dónde plantaron los talibanes el IED.</Spanish>
-        <Polish></Polish>
+        <Polish>Zapytaj go, czy wie, gdzie Talibowie podłożyli IEDa.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message29_1M5">
         <English>[IN PASHTO] Salaam aleikum, brother. Do you know where the Taliban have planted a bomb?</English>
         <Spanish>[EN PASTÚN] Salam aleikum, hermano. ¿Sabe dónde han plantado los talibanes una bomba?</Spanish>
-        <Polish></Polish>
+        <Polish>[W PASZTO] Salam alejkum, bracie. Czy wiesz, gdzie Talibowie podłożyli bombę?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message30_1M5">
         <English>[IN PASHTO] They actually planted a bomb? I... I heard they have been warning people to stay away from the intersection in the village of Usaimah on the road to the north.</English>
         <Spanish>[EN PASTÚN] ¿La han plantado al final? Escuché... que han estado advirtiendo a la gente que se alejasen de la intersección en el pueblo de Usaimah, en la carretera al norte.</Spanish>
-        <Polish></Polish>
+        <Polish>[W PASZTO] Bombę? Ja... Ja słyszałem, że ostrzegali ludzi, by nie zbliżali się do skrzyżowania w wiosce Usaimah, na północy.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message30_2_1M5">
         <English>Bastards would put their own people in the way of danger? I spit on the cowards. *spits*</English>
         <Spanish>¿Esos bastardos pondrían a su propio pueblo en peligro? Escupo a los cobardes. *escupe*</Spanish>
-        <Polish></Polish>
+        <Polish>Dranie wystawiliby własnych ludzi na niebezpieczeństwo? Pluję na tych tchórzy.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message31_1M5">
         <English>[IN PASHTO] Thank you, my friend. [IN ENGLISH] He says they have been warning civilians to stay away from the intersection in the village of Usaimah.</English>
         <Spanish>[EN PASTÚN] Gracias, amigo mío. [EN INGLÉS] Dice que han estado advirtiendo a los civiles que se alejasen de la intersección en el pueblo de Usaimah.</Spanish>
-        <Polish></Polish>
+        <Polish>[W PASZTO] Dziękuję, przyjacielu. [PO ANGIELSKU] Koleś mówi, że Talibowie ostrzegali cywili, by nie zbliżali się do skrzyżowania w Usaimah.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message32_1M5">
         <English>Shit, that's what I was afraid of. Alright, Victor, tell our buddy thank you. We'll see if we can get this mess cleaned up tonight.</English>
         <Spanish>Joder, me lo temía. Vale, Victor, dale las gracias a nuestro amigo. A ver si podemos arreglarlo esta noche.</Spanish>
-        <Polish></Polish>
+        <Polish>Niech to szlag, spodziewałem się tego. Dobra, Victorze, podziękuj przyjacielowi. Zobaczymy, czy damy radę ogarnąć ten bajzel dziś w nocy.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message33_1M5">
         <English>Talon 31 to Talon 30 Actual, we have what looks like an IED factory at the abandoned mine. How copy, over?</English>
         <Spanish>Talon 31 a Talon 30 Jefe, tenemos lo que parece ser una fábrica de IED en la mina abandonada. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 do Talona 30 Actual, wygląda na to, że w opuszczonej kopalni znajduje się fabryka ładunków wybuchowych. Jak przyjął?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message34_1M5">
         <English>Talon 30 Actual to Talon 31, that's a solid copy. Bad news, there has to be one somewhere in the AO. See if you can find out how many and where, maybe there's some intel lying around, or try talking to our new buddy, out.</English>
         <Spanish>Talon 30 Jefe a Talon 31, alto y claro. Malas noticias: tiene que haber IED en el AO. Intenten averiguar cuántos y dónde. A lo mejor tienen inteligencia por ahí tirada, o prueben a hablar con nuestro nuevo amigo. Corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 30 Actual przyjął, głośno i wyraźnie. Złe wieści, część z tych ładunków musi być podłożona w strefie operacyjnej. Dowiedzcie się gdzie są i ile, może znajdziecie zdjęcia, albo porozmawiajcie z naszym nowym przyjacielem. Bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message35_1M5">
         <English>Talon 31 to Talon 30 Actual, looks like our Kuchi friend wasn't lyin' -- we've got a bomb factory of some sort here. That confirms the threat in the village. How copy, over?</English>
         <Spanish>Talon 31 a Talon 30 Jefe, parece que nuestro coleguita kuchi no mentía: aquí hay una especie de fábrica de bombas. Se confirma la amenaza en el pueblo. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 do Talona 30 Actual, nasz przyjaciel z Kuczi nie kłamał - mamy tutaj coś w stylu fabryki bomb. To potwierdza zagrożenie w wiosce. Jak przyjął?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message36_1M5">
         <English>Talon 30 Actual to Talon 31, loud and clear. Hodge's team will lock down the area, proceed to your next objective. Out.</English>
         <Spanish>Talon 30 Jefe a Talon 31, alto y claro. El equipo de Hodge confinará la zona. Continúen con su siguiente objetivo, corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 30 Actual do Talona 31, przyjąłem. Oddział Hodge'a zabezpieczy teren, udajcie się do następnego celu. Bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message37_1M5">
         <English>Talon 31 to Talon 30 Actual, we've found the enemy camp, about a half-dozen hostiles. Area is clear, how copy, over?</English>
         <Spanish>Talon 31 a Talon 30 Jefe, hemos encontrado el campamento enemigo, una media docena de hostiles. La zona está despejada. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 do Talona 30 Actual, znaleźliśmy wrogi obóz, około pół tuzina wrogów. Strefa jest już czysta, jak przyjął?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message38_1M5">
         <English>Talon 30 Actual to Talon 31, solid copy on all. Proceed with the mission, over and out.</English>
         <Spanish>Talon 30 Jefe a Talon 31, todo recibido. Continúen con la misión, cambio y corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 30 Actual do Talona 31, wszystko zrozumiałem. Róbcie postępy dalej, bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message39_1M5">
         <English>Talon 31 to Talon 30 Actual, we've found the enemy camp, it's empty. Area appears to be clear, how copy, over?</English>
         <Spanish>Talon 31 a Talon 30 Jefe, hemos encontrado el campamento enemigo, está vacío. La zona parece despejada. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 do Talona 30 Actual, znaleźliśmy wrogi obóz, jest pusty. Strefa wygląda na czystą, jak przyjął?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message40_1M5">
         <English>Talon 30 Actual to Talon 31, solid copy. Proceed with the mission, out.</English>
         <Spanish>Talon 30 Jefe a Talon 31, recibido. Continúen con la misión, corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 30 Actual do Talona 31, przyjąłem. Róbcie dalsze postępy, bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message41_1M5">
         <English>Talon 31 to Talon 30 Actual, we found the checkpoint, dropped about a half-dozen hostiles. Area's clear now. How copy, over?</English>
         <Spanish>Talon 31 a Talon 30 Jefe, hemos encontrado el punto de control, una media docena de hostiles eliminados. La zona está despejada. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 do Talona 30 Actual, znaleźliśmy punkt kontrolny, wybiliśmy jakieś pół tuzina przeciwników. Miejsce jest zabezpieczone. Jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message42_1M5">
         <English>Talon 30 Actual to Talon 31, solid copy on that. Proceed to your next objective, over and out.</English>
         <Spanish>Talon 30 Jefe a Talon 31, recibido. Continúen con su siguiente objetivo, cambio y corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 30 Actual do Talona 31, zrozumiałem. Przejdźcie do następnego zadania, bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message43_1M5">
         <English>Talon 31 to Talon 30 Actual, we found the checkpoint, it's deserted. Left a Dushka here and everything. Area appears to be clear though, how copy, over?</English>
         <Spanish>Talon 31 a Talon 30 Jefe, hemos encontrado el punto de control, está desierto. Han dejado una Dushka aquí y todo. La zona parece estar despejada. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 do Talona 30 Atual, znaleźliśmy punkt kontrolny, jest opuszczony. Talibowie zostawili diszkę i sporo innego sprzętu. Strefa wyglądad na czystą. Jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message44_1M5">
         <English>Talon 30 Actual to Talon 31, solid copy. Proceed to your next objective, over and out.</English>
         <Spanish>Talon 30 Jefe a Talon 31, recibido. Continúen con su siguiente objetivo, cambio y corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 30 Actual do Talona 31, przyjąłem. Kontynuujcie swoje zadanie, bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message45_1M5">
         <English>Talon 31 to Talon 30 Actual, we have completed our patrol, all three locations are clear.</English>
         <Spanish>Talon 31 a Talon 30 Jefe, hemos completado nuestra patrulla, todas las tres ubicaciones están despejadas.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 do Talona 30 Actual, zakończyliśmy patrol, wszystkie trzy miejsca zostały oczyszczone.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message46_1M5">
         <English>Talon 30 Actual to Talon 31, that's a solid copy. Excellent work, Talon 31, out-fucking-standing. Let me know when you wanna end the recon patrol, over and out.</English>
         <Spanish>Talon 30 Jefe a Talon 31, recibido. Un trabajo excelente, Talon 31, de puto campeonato. Avísenme cuando quieran terminar la patrulla de reconocimiento, cambio y corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 30 Actual do Talona 31, zrozumiałem. Doskonała robota, Talon 31, dosko-kurwa-nała. Dajcie znać, gdy będziecie chcieli wrócić, bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message47_1M5">
         <English>See that pole sticking up out of that hut off in the distance? Take a look. It looks like a radio antenna, or a flagpole, doesn't it?</English>
         <Spanish>¿Ves ese poste que sobresale de esa choza a lo lejos? Echa un vistazo. Parece una antena de radio o un asta de bandera, ¿a que sí?</Spanish>
-        <Polish></Polish>
+        <Polish>Widzisz ten kij wystający z chaty, o tam? Przyjrzyj się. Wygląda jak maszt radiowy albo maszt flagi, co nie?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message48_1M5">
         <English>Sure does, doesn't it? I can take my team in for a closer look, what do you think?</English>
         <Spanish>Sí lo parece, ¿eh? Puedo llevarme a mi equipo y verlo más de cerca, ¿qué te parece?</Spanish>
-        <Polish></Polish>
+        <Polish>Tak, rzeczywiście. Mogę zabrać tam swój zespół i sprawdzić, co ty na to?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message49_1M5">
         <English>We have the element of surprise if it is anything. I have a bad feeling about this shit. Get in there quick and try to catch 'em off guard. If whatever they're up to is harmless we'll just've been extra cautious.</English>
         <Spanish>Contamos con el factor sorpresa si de algo sirve. Esto me da mala espina. Métete ahí rápido e intenta pillarlos con la guardia baja. Si lo que sea que estén haciendo es inofensivo, habremos tenido cuidado.</Spanish>
-        <Polish></Polish>
+        <Polish>Jeśli to rzeczywiście antena, mamy element zaskoczenia po naszej stronie. Mam złe przeczucia co do tego gówna. Wejdźcie tam szybko, spróbujcie kogoś aresztować, jeśli to możliwe. Musimy być ostrożni.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message50_1M5">
         <English>Freeze! Hands on your head! Don't move! Don't fucking move!</English>
         <Spanish>¡Alto! ¡Las manos donde pueda verlas! ¡Que nadie se mueva! ¡Que nadie mueva un puto dedo!</Spanish>
-        <Polish></Polish>
+        <Polish>Stać! Ręce za głowę! Nie ruszać się! Nie ruszać, kurwa!</Polish>
       </Key>
 	  <Key ID="STR_LOK_message51_1M5">
         <English>Talon 31 to Talon 30 Actual, we've found something. Could be juicy, how copy, over?</English>
         <Spanish>Talon 31 a Talon 30 Jefe, hemos encontrado algo. Podría ser jugoso. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 do Talona 30 Actual, znaleźliśmy coś. Może mieć spore znaczenie, jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message52_1M5">
         <English>Copy that, 31. What is it?</English>
         <Spanish>Recibido, 31. ¿Qué es?</Spanish>
-        <Polish></Polish>
+        <Polish>Odebrałem, 31. Co to?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message53_1M5">
         <English>A notebook. Can't tell what any of it says, but it looks important. I caught one of the savages trying to hide it, over.</English>
         <Spanish>Un cuaderno. No entiendo ni papa de lo que dice, pero parece importante. He pillado a uno de los salvajes intentando esconderlo, cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Dziennik. Nie rozumiem, co jest w nim napisane, ale wygląda na dość ważny. Złapałem jednego z rebeliantów, gdy próbował go ukryć, odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message54_1M5">
         <English>Talon 30 Actual to Talon 31, solid copy on all. Good job, oscar mike up to your location, over and out.</English>
         <Spanish>Talon 30 Jefe a Talon 31, todo recibido. Buen trabajo, nos ponemos en marcha hacia su posición. Cambio y corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 30 Actual do Talona 31, zrozumiałem. Dobra robota, jedziemy już na waszą pozycję, bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message55_1M5">
         <English>Talon 31 to Talon 30 Actual, we've located intel pinpointing the location of an IED along our route. It's in Usaimah, how copy? Over.</English>
         <Spanish>Talon 31 a Talon 30 Jefe, hemos encontrado información que señala la ubicación de un IED a lo largo de nuestra ruta. Está en Usaimah, ¿me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 do Talona 30 Actual, znaleźliśmy dane lokalizujące podłożonego IEDa na drodze konwoju. Jest w Usaimah, jak zrozumiałeś?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message56_1M5">
         <English>Talon 31 to Talon 30 Actual, we're now entering Usaimah village, we're going to try and neutralize the IED threat. How copy? Over.</English>
         <Spanish>Talon 31 a Talon 30 Jefe, estamos entrando en Usaimah, vamos a intentar neutralizar la amenaza de IED. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 do Talona 30 Actual, właśnie wjeżdżamy do Usaimah, postaramy się zneutralizować zagrożenie bombowe. Jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message57_1M5">
         <English>This is Talon 31 to Talon 30 Actual, IED threat has been eliminated. The route through Usaimah is cleared, over.</English>
         <Spanish>Aquí Talon 31 para Talon 30 Jefe, la amenaza de IED ha sido eliminada. La ruta a través de Usaimah está limpia, cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Tutaj Talon 31 do Talona 30 Actual, zagrożenie IED wyeliminowane. Droga przez Usaimah jest już czysta, odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message58_1M5">
         <English>I've got two guys and a marksman in position, you want me to send 'em in with you?</English>
         <Spanish>Tengo a dos muchachos y un tirador en posición, ¿quieres que los mande con vosotros?</Spanish>
-        <Polish></Polish>
+        <Polish>Mam dwóch ludzi i strzelca wyborowego na pozycji, mam ich z tobą wysłać?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message59_1M5">
         <English>Roger that. Talon 30 Actual, this is Talon 26: strike team is oscar mike and weapons hot.</English>
         <Spanish>Recibido. Talon 30 Jefe, aquí Talon 26: el equipo de asalto se pone en marcha con las armas listas.</Spanish>
-        <Polish></Polish>
+        <Polish>Zrozumiałem. Talon 30 Actual, tutaj Talon 26. Oddział uderzeniowy wyrusza, będziemy atakować cel..</Polish>
       </Key>
 	  <Key ID="STR_LOK_phase1_intermission_1M5">
         <English>&lt;t size='1.5'&gt;Thanks to the recon sweep, we were able to push up further, but we moved with extra caution, keeping off the roads wherever possible. By sunrise, Jared picked out a suspicious feature on an unassuming compound along our route: a radio antenna... We had the drop on them.&lt;/t&gt;.</English>
         <Spanish>&lt;t size='1.5'&gt;Gracias a la patrulla de reconocimiento, pudimos avanzar, pero con una precaución extrema, manteniéndonos alejados de las carreteras en la medida de lo posible. Al amanecer, Jared detectó un elemento sospechoso en un edificio modesto a lo largo de nuestra ruta: una antena de radio... Los teníamos enfilados.&lt;/t&gt;.</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='1.5'&gt;Dzięki zwiadowi okolicy udało nam się przemieścić nieco dalej, ale robiliśmy to ostrożnie, z dala od dróg, jeśli to było możliwe. O wschodzie słonca Jared zauważył podejrzany element jednego z kompleksów na naszej drodze: antenę radiową... Musimy na nią uderzyć.&lt;/t&gt;.</Polish>
       </Key>
 	  <Key ID="STR_LOK_kuchi_ied_action_1M5">
-        <English>ask for IED location</English>
+        <English>ask for IED Location</English>
         <Spanish>preguntar ubicación del IED</Spanish>
-        <Polish></Polish>
+        <Polish>zapytaj o położenie bomby</Polish>
       </Key>
 	  <Key ID="STR_LOK_kuchi_activity_action_1M5">
         <English>ask for enemy activity</English>
         <Spanish>preguntar por la actividad enemiga</Spanish>
-        <Polish></Polish>
+        <Polish>zapytaj o aktywność wroga</Polish>
       </Key>
 	  <Key ID="STR_LOK_spotted_hint_1M5">
         <English>You have been spotted! Watch out for enemy reinforcements!</English>
         <Spanish>¡Te han visto! ¡Cuidado con los refuerzos enemigos!</Spanish>
-        <Polish></Polish>
+        <Polish>Zauważono cię! Uważaj na wrogie posiłki</Polish>
       </Key>
 	  <Key ID="STR_LOK_ied_disarm_hint_1M5">
         <English>The IED's controller is down! It is safe to dismantle now.</English>
         <Spanish>¡El controlador del IED ha caído! Ya es seguro desactivarlo.</Spanish>
-        <Polish></Polish>
+        <Polish>Kontroler bomby został wyeliminowany! Można ją teraz bezpiecznie zneutralizować.</Polish>
       </Key>
 	  <Key ID="STR_LOK_yessupport_action_1M5">
         <English>Yes to support</English>
         <Spanish>Sí al apoyo</Spanish>
-        <Polish></Polish>
+        <Polish>Zgódź się na wsparcie</Polish>
       </Key>
 	  <Key ID="STR_LOK_nosupport_action_1M5">
         <English>No to support</English>
         <Spanish>No al apoyo</Spanish>
-        <Polish></Polish>
+        <Polish>Odmów wsparcie</Polish>
       </Key>
 	  <Key ID="STR_LOK_notebook_action_1M5">
         <English>pick up the notebook</English>
         <Spanish>coger el cuaderno</Spanish>
-        <Polish></Polish>
+        <Polish>podnieś notatnik</Polish>
       </Key>
 	  <Key ID="STR_LOK_intel_action_1M5">
         <English>pick up bomb plans</English>
         <Spanish>coger planos de bombas</Spanish>
-        <Polish></Polish>
+        <Polish>podnieś plany bomby</Polish>
       </Key>
 	  <Key ID="STR_LOK_supplies_marker_1M5">
         <English>Supply drop</English>
         <Spanish>Entrega de suministros</Spanish>
-        <Polish></Polish>
+        <Polish>Zrzut zaopatrzenia</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerKuchi_1M5">
         <English>Kuchi Encampment</English>
         <Spanish>Campamento kuchi</Spanish>
-        <Polish></Polish>
+        <Polish>Obóz Kuczi</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerCamp_1M5">
         <English>Taliban Camp?</English>
         <Spanish>¿Campamento talibán?</Spanish>
-        <Polish></Polish>
+        <Polish>Obóz Talibów?</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerCheckpoint_1M5">
         <English>Taliban Checkpoint?</English>
         <Spanish>¿Punto de control talibán?</Spanish>
-        <Polish></Polish>
+        <Polish>Punkt kontrolny Talibów?</Polish>
       </Key>
 	  <Key ID="STR_LOK_endPatrol_hint_1M5">
         <English>The mission is not over yet! Use your radio (0-0-1) to end your patrol and advance to Phase 2.</English>
         <Spanish>¡La misión aún no ha terminado! Usa la radio (0-0-1) para terminar la patrulla y pasar a la fase 2.</Spanish>
-        <Polish></Polish>
+        <Polish>Misja się jeszcze nie skończyła! Skorzystaj z radia (0-0-1) by zakończyć patrol i przejść do Fazy 2.</Polish>
       </Key>
 	  <Key ID="STR_LOK_end1_subtitle_1M5">
         <English>Notebook found</English>
         <Spanish>Cuaderno encontrado</Spanish>
-        <Polish></Polish>
+        <Polish>Notatnik znaleziony</Polish>
       </Key>
 	  <Key ID="STR_LOK_end1_description_1M5">
         <English>After a long night's work under the cover of darkness, you completed your mission-- but the work wasn't done yet. After investigating a suspicious compound to discover that it was a Taliban command center, you found a notebook filled with valuable intel and the names of the enemy field commanders.</English>
         <Spanish>Tras una larga noche de trabajo al amparo de la oscuridad, cumpliste tu misión, pero el trabajo no había terminado. Tras investigar un complejo sospechoso y descubrir que era un centro de mando talibán, encontraste un cuaderno con información valiosa y los nombres de los comandantes de campo enemigos.</Spanish>
-        <Polish></Polish>
+        <Polish>Po całonocnych działaniach w ciemności udało ci się skończyć misję - ale praca jeszcze się nie skończyła. Po zbadaniu podejrzanego kompleksu okazało się, że to centrum dowodzenia Talibów, a w nim znalazłeś notatnik pełen wartościowych informacji i nazwisk wrogich oficerów.</Polish>
       </Key>
     </Container>
   </Package>

@@ -5,62 +5,62 @@
 	  <Key ID="STR_LOK_BriefingNotes_1M11">
         <English>EDITOR'S NOTES:&lt;br/&gt;If the Taliban manage to penetrate the defensive perimeter, you will inevitably be killed and the mission will fail. A hint (do not read further if you do not want a semi-spoiler) is to focus your fire on defending Sperwan Ghar from all enemy attacks first, and then strike the enemy positions when things have calmed down.&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;None so far...</English>
         <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Si los talibanes consiguen penetrar en el perímetro defensivo, te matarán y la misión será un fracaso. Un consejo (no sigas leyendo si no quieres un medio spoiler) es centrar primero el fuego en defender Sperwan Ghar de todos los ataques enemigos y luego destruir las posiciones enemigas cuando las cosas se hayan calmado.&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Nada de momento...</Spanish>
-        <Polish></Polish>
+        <Polish>OD AUTORA:&lt;br/&gt;Jeśli Talibowie zdołają przebić się przez perymetr, z pewnością zostaniecie zabici, a misja nie powiedzie się. Podpowiedź (nie czytaj, jeśli nie chcesz sobie spojlerować): skup się na bronieniu Sperwan Ghar przed wrogimi atakami, potem strzelaj we wrogie pozycje, gdy wszystko się uspokoi.&lt;br/&gt;&lt;br/&gt;MUZYKA:&lt;br/&gt;Póki co brak...</Polish>
       </Key>
 	  <Key ID="STR_LOK_DiaryText_1M11">
         <English>Mother,&lt;br/&gt;&lt;br/&gt;Apologies for writing to you a bit late, past few weeks've been busy, but I'm keepin' safe.&lt;br/&gt;&lt;br/&gt;Cowboys are lookin' real good this year, wish I could be there watchin' the season opener with y'all, there's nothin' I miss quite as much as a BBQ with the whole clan back in Ft. Worth, the Jags gettin' stomped, weenies and steak on the grill, a little top-shelf bourbon in the glass... These are the thoughts I keep with me, deep inside, that keep me going. May not be the most sophisticated, but it's us, and I still miss it. Times were hard as a sprout comin' up in White Settlement, but I realize now that you did the best you could for our kin and for me. Funny how it takes being on the other side of the world in a combat zone to realize how good we had it. We had each other, and God willing, I'll return and we can try to come back together as a family. Stay well and tell everyone to try not to worry too much, they all see you as the leader whether they want to say it aloud or not.&lt;br/&gt;&lt;br/&gt;Your lovin' son,&lt;br/&gt;&lt;br/&gt;Bill&lt;br/&gt;</English>
         <Spanish>Madre:&lt;br/&gt;&lt;br/&gt;Perdón por escribirte un poco tarde, he estado ocupado estas últimas semanas, pero estoy bien.&lt;br/&gt;&lt;br/&gt;Los Cowboys tienen todas las de ganar este año, ojalá estar allí viendo el partido de inicio con vosotros. No hay nada que eche tanto de menos como una barbacoa con todo el clan en Fort Worth, que aplasten a los Jags, salchichas y chuletones a la brasa, un vasito de bourbon de primera... Estos son los pensamientos que guardo en mi interior y que me hacen seguir adelante. No serán los más sofisticados, pero es lo que somos, y lo echo de menos. Fueron tiempos difíciles en White Settlement, pero ahora me doy cuenta de que hiciste lo que pudiste por los nuestros y por mí. Es curioso cómo hace falta estar al otro lado del mundo, en una zona de guerra, para darse cuenta de lo bien que nos iba. Nos teníamos los unos a los otros y, Dios mediante, volveré y podremos intentar volver a ser una familia. Cuídate y diles a todos que no se preocupen demasiado, todos te ven como la líder aunque no lo digan en voz alta.&lt;br/&gt;&lt;br/&gt;Tu hijo que te quiere,&lt;br/&gt;&lt;br/&gt;Bill&lt;br/&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>Wybacz, że piszę do ciebie tak późno, ostatnie tygodnie mieliśmy dużo roboty, ale pilnuję się.&lt;br/&gt;&lt;br/&gt;Kowboje wyglądają dziś całkiem nieźle, chciałbym być tam i oglądać otwarcie sezonu razem z tobą, niczego mi tak nie brakuje jak barbecue z całym klanem w Ft. Worth, z kiepłbasą i stekami na grillu, odrobiną górnopółkowego burbonu w szklance... To są myśli, które się mnie trzymają, głęboko wewnątrz, pozwalają mi iść przed siebie. Może nie są to najbardziej finezyjne rzeczy, ale to nadal my i nadal za tym tęsknię. Czasy były ciężkie, ale teraz rozumiem, że robiłaś wszystko, co dobre dla nas, dla mnie. Śmieszne, ile czasu potrzeba spędzić po drugiej stronie na polu bitwy, by zrozumieć, jak dobrze nam było. Mieliśmy siebie, a z Bożą pomocą wrócę, i będziemy mogli znów spróbować stać się rodziną. Trzymaj się i powiedz wszystkim, żeby się nie zamartwiali, wszyscy tam widzą cię jako przywódcę, czy ci się to podoba, czy nie.&lt;br/&gt;&lt;br/&gt;Twój kochający syn,&lt;br/&gt;&lt;br/&gt;Bill&lt;br/&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingCommand_Text_1M11">
         <English>A. Signal:&lt;br/&gt; Eagle 10 Actual - Lt. Col. BOLDUC (TF 31 CO)&lt;br/&gt; Lion 1 Actual - Col. SHINSHA (ANA Kandahar Bgde. CO)&lt;br/&gt; Talon 30 Actual - Col. JARED (ODA 331 CO)&lt;br/&gt; Talon 26 - Cpt. HODGE&lt;br/&gt; Talon 31 (your unit) - Cpt. RUSTY&lt;br/&gt; Talon 36 - Cpt. BRUCE&lt;br/&gt; Lima 84 - MEDEVAC</English>
         <Spanish>A. Señal:&lt;br/&gt; Eagle 10 Jefe: Tte. Cnel. BOLDUC (oficial al mando de la TF 31)&lt;br/&gt; León 1 Jefe: Cnel. SHINSHA (oficial al mando de la brig. de Kandahar del ENA)&lt;br/&gt; Talon 30 Jefe: Cnel. JARED (oficial al mando de la ODA 331)&lt;br/&gt; Talon 26: Cap. HODGE&lt;br/&gt; Talon 31 (tu unidad): Cap. RUSTY&lt;br/&gt; Talon 36: Cap. BRUCE&lt;br/&gt; Lima 84: MEDEVAC</Spanish>
-        <Polish></Polish>
+        <Polish>A. Sygnały wywoławcze:&lt;br/&gt; Orzeł 10 Actual - Ppłk BOLDUC (Ofic. dow. TF 31)&lt;br/&gt; Lew 1 Actual - Płk SHINSHA (Ofic. dow. Bryg. Kandahar NAA)&lt;br/&gt; Talon 30 Actual - Płk JARED (Ofic. dow. ODA 331)&lt;br/&gt; Talon 26 - Kpt. HODGE&lt;br/&gt; Talon 31 (twoja jednostka) - Kpt. RUSTY&lt;br/&gt; Talon 36 - Kpt. BRUCE&lt;br/&gt; Lima 84 - MEDEVAC</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingSustainment_Text_1M11">
         <English>1. Supply: Standard US SOF Desert BDUs and ACUs or fleece jackets, CIRAS vests, MICH2001 helmets, standard issue US small arms including M16s, M4A1 carbines, MP5 SMGs, Mossberg shotguns, M249 and Mk 48 SAWs, and Mk 12, M24, SR-25, and M107 sniper rifles.&lt;br/&gt;2. Transportation: All Talon GMVs have been moved into defensive positions and Dave has declared both of Talon 31's vehicles out of service for repairs.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Talon 31 has 1x Embedded Medical Sergeant - Riley. The ANA 3rd Kandak's medical team will be embedded within the patrols in Greg's absence. In the event of substantial casualties, Talon 30 Actual will authorize CASEVAC or insertion by ODA 331 QRF.</English>
         <Spanish>1. Suministros: Uniformes estándar de combate de fuerzas especiales en camuflaje desierto y UCP o forros polares, chalecos CIRAS, cascos MICH 2001, armas reglamentarias de EE. UU. como fusiles M16A4, carabinas M4A1, subfusiles MP5, escopetas Mossberg, ametralladoras Mk. 48 y M249, y fusiles de tirador Mk. 12, M24, SR-25 y M107.&lt;br/&gt;2. Transporte: Todos los GMV de los Talon están en posiciones defensivas y Dave ha declarado fuera de servicio los dos vehículos de Talon 31 para repararlos.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Talon 31 tiene 1x sargento médico asignado, Riley. El equipo médico del 3.er Kandak del ENA estará asignado a las patrullas a falta de Greg. En caso de sufrir una cantidad considerable de bajas, Talon 30 Jefe autorizará CASEVAC y la inserción de la FRR de la ODA 331.</Spanish>
-        <Polish></Polish>
+        <Polish>1. Wyposażenie: Standardowe pustynne BDU i ACU sił specjalnych USA, kamizelki CIRAS, hełmy MICH2001, standardowa amerykańska broń małokalibrowa, w tym M16, M4A1, MP5, strzelby Mossberg, karabiny maszynowe M249 i Mk48, karabiny snajperskie Mk12, M24, SR-25 i M107.&lt;br/&gt;2. Środki transportu: Wszystkie pojazdy Talonu zostały umieszczone w pozycjach obronnych, Dave zgłosił obydwa pojazdy Talona 31 jako niesprawne.&lt;br/&gt;3. Usługi: Brak.&lt;br/&gt;4. Konserwacja: Brak.&lt;br/&gt;5. CASEVAC: Talon 31 dysponuje jednym przydzielonym medykiem - Rileyem. Oddział medyczny 3. Kandaku będzie przydzielony do patroli podczas nieobecność Grega. W razie znacznych strat, Talon 30 Actual autoryzuje CASEVAC bądx insercję sił szybkiego reagowania ODA 331.</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingExecution_Text_1M11">
         <English>This mission can be broken into two (2) crucial objectives, both should be pursued using AC-130 support using the satellite phone (next to Ron). Be advised: Trying to take on the Taliban counter-attacks on-foot is likely to get you killed fast.&lt;br/&gt;&lt;br/&gt;Objective 1 - Defend our positions atop Sperwan Ghar while avoiding any friendly casualties. (Failure to do so will result in an immediate mission failure)&lt;br/&gt;&lt;br/&gt;Objective 2 - Destroy key enemy strongpoints throughout the northern AO while avoiding friendly fire on Charles Co. (See Tasks for details about each individual target)</English>
         <Spanish>La misión se puede desgranar en dos (2) objetivos cruciales, los cuales se deberían cumplir usando apoyo de AC-130 gracias al teléfono satelital (al lado de Ron). Atención: intentar enfrentarte a los contraataques talibanes a pie hará que te maten.&lt;br/&gt;&lt;br/&gt;Objetivo 1: Defender nuestras posiciones en la cima de Sperwan Ghar a la par que evitar bajas aliadas (no conseguirlo será misión fallida al instante).&lt;br/&gt;&lt;br/&gt;Objetivo 2: Destruir los puntos de defensa enemigos a lo largo del AO septentrional a la par que evitar el fuego amigo contra la Compañía Charles (véanse las tareas para obtener detalles sobre cada objetivo).</Spanish>
-        <Polish></Polish>
+        <Polish>Tę misję można podzielić na dwa (2) krytyczne zadania, obydwa powinny zostać wykonane przez AC-130 przy użyciu telefonu satelitarnego (obok Rona). Uwaga: próba odparcia talibskich kontrataków na piechotę naprawdopodobniej szybko cię zabije.&lt;br/&gt;&lt;br/&gt;Zadanie 1 - Bronić naszych pozycji na szczycie Sperwan Ghar i unikać wszelkich sojuszniczych strat. (Sojusznicze straty poskutkują przegraniem misji)&lt;br/&gt;&lt;br/&gt;Zadanie 2 - Zmiszczyć kluczowe punkty strategiczne wroga w północnej strefie operacyjnej unikając ognia sojuszniczego wobec Kompanii Charles (zobacz zakładkę "Zadania" by poznać szczegóły poszczególnych zadań)</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingMission_Text_1M11">
         <English>Who: Talon 31, ODA 331, Task Force 31 (TF31)&lt;br/&gt;What: DEFEND Sperwan Ghar&lt;br/&gt;Where: In vicinity, Panjwayi Valley&lt;br/&gt;When: 000000ZSEP6&lt;br/&gt;Why: Support of Operation Medusa</English>
         <Spanish>Quién: Talon 31, ODA 331, Fuerza Operativa 31 (TF 31)&lt;br/&gt;Qué: DEFENDER Sperwan Ghar&lt;br/&gt;Dónde: En las inmediaciones, valle de Panjwai&lt;br/&gt;Cuándo: 000000ZSEP6&lt;br/&gt;Por qué: Apoyo a la Operación Medusa</Spanish>
-        <Polish></Polish>
+        <Polish>Kto: Talon 31, ODA 331, Task Force 31 (TF31)&lt;br/&gt;Co: BRONIĆ Sperwan Ghar&lt;br/&gt;Gdzie: Okolica doliny Pandżwai&lt;br/&gt;Kiedy: 000000ZWRZ6&lt;br/&gt;Czemu: Wsparcie Operacji Meduza</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingSituation_Text_1M11">
         <English>A. ENEMY FORCES&lt;br/&gt;Size: Estimated 300-400 in vicinity + reinforcements, 500-1,500 in the AO at large&lt;br/&gt;Activity: Heavy movement to the north, northeast, and northwest&lt;br/&gt;Location: Vicinity, &lt;marker name="markerSperwanGhar"&gt;Sperwan Ghar&lt;/marker&gt;&lt;br/&gt;Unit: Taliban mixed infantry supported by Arab and Chechen fighters&lt;br/&gt;Time Observed: September 5, 2006 1700 hrs&lt;br/&gt;Equipment: Assorted small arms including AK-47s, G3A6s, and RPK Machineguns, RPG AT Weapons, Hilux pickup trucks and gun trucks, V3S and Ural troop transports&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: Coordinate Close Air Support (CAS) from positions atop Sperwan Ghar, destroy key enemy strongpoints to the north, while at the same time defending our positions from enemy counter-attacks.&lt;br/&gt;2. Adjacent Units: ODA 331 Team 26 (callsign: Talon 26), ODA 331 Command Team (callsign: Talon 30), ODA 331 Team 36 (callsign: Talon 36), ANA 3rd Kandak (callsign: Lion 1 Actual), Canadian 1 RCR Battle Group, Charles Co. (callsign: Charles Actual).&lt;br/&gt;3. Supporting: Eagle 10 managed to get us enough air support for around-the-clock cover this evening if we're smart with our targets. Three (3) AC-130 Spectre Gunships will be able to patrol our sector and coordinate fire, one at a time. Once we've used all three runs (regardless of how much ammo we expended), if the job isn't done, we'll have to go down there and do it by-hand, which you know will be hairy. Artillery support will not be available for this mission. CASEVAC will be available by request of Talon 30 Actual, ODA 331's CO.</English>
         <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: Se estiman 300-400 en las inmediaciones + refuerzos, 500-1500 en el AO en general&lt;br/&gt;Actividad: Mucho movimiento al norte, noreste y noroeste&lt;br/&gt;Ubicación: Inmediaciones, &lt;marker name="markerSperwanGhar"&gt;Sperwan Ghar&lt;/marker&gt;&lt;br/&gt;Unidades: Infantería mixta talibán con apoyo de combatientes árabes y chechenos&lt;br/&gt;Fecha de observación: 5 de septiembre de 2006, 1700 hrs&lt;br/&gt;Equipo: armas ligeras variadas como AK-47, G3A6 y ametralladoras RPK, granadas antitanque RPG, todoterrenos Hilux y camiones artillados, transportes de tropas V3S y Ural&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Coordinar apoyo aéreo cercano (CAS) desde posiciones en la cima de Sperwan Ghar, destruir puntos de defensa enemigos clave al norte, y al mismo tiempo defender nuestras posiciones de los contraataques enemigos.&lt;br/&gt;2. Unidades adyacentes: Equipo 26 de la ODA 331 (indicativo: Talon 26), equipo de mando de la ODA 331 (indicativo: Talon 30), equipo 36 de la ODA 331 (indicativo: Talon 36), 3.er Kandak del ENA (indicativo: León 1 Jefe), 1.er Grupo de Combate del Real Regimiento Canadiense, Compañía Charles (indicativo: Charles Jefe).&lt;br/&gt;3. Apoyo: Eagle 10 nos consiguió suficiente apoyo aéreo para cubrirnos las 24 horas del día esta noche si somos inteligentes con nuestros objetivos. Tres (3) aviones artillados AC-130 Spectre podrán patrullar nuestro sector y coordinar el fuego, de uno en uno. Una vez concluidas las tres pasadas (independientemente de la munición que hayamos gastado), si con eso no ha servido, tendremos que bajar y hacerlo a mano, y ya sabéis que será peliagudo. No habrá apoyo de artillería para esta misión. La CASEVAC solo estará autorizada cuando la solicite Talon 30 Jefe, el oficial al mando de la ODA 331.</Spanish>
-        <Polish></Polish>
+        <Polish>A. WROGIE SIŁY&lt;br/&gt;Wielkość: Około 300-400 w okolicy + wsparcie, 500-1500 w strefie operacyjnej&lt;br/&gt;Aktywność: Spore manewry na północy, północnym wschodzie i północnym zachodzie&lt;br/&gt;Miejsce: Okolica &lt;marker name="markerSperwanGhar"&gt;Sperwan Ghar&lt;/marker&gt;&lt;br/&gt;Jednostka: Mieszana piechota Talibanu wspierana przez arabskich i czeczeńskich najemników&lt;br/&gt;Czas obserwacji: 5 września 2006 r. - 1700&lt;br/&gt;Wyposażenie: Broń małokalibrowa, w tym AK-47, G3A6, karabiny RPK, wyrzutnie granatów ppanc, samochody Hilux, ciężarówki V3S i Ural&lt;br/&gt;&lt;br/&gt;B. SOJUSZNICZE SIŁY&lt;br/&gt;1. Misja i intencje dowództwa: Koordynacja bliskiego wsparcia z powietrza (CAS) ze szczytu Sperwan Ghar, zniszczenie wrogich umocnień na północy oraz bronienie własnych pozycji przed wrogimi kontratakami.&lt;br/&gt;2. Jednostki: Oddział 26 ODA 331 (znak wywoławczy: Talon 26), Oddział dowodzenia ODA 331 (znak wywoławczy: Talon 30), Oddział 36 ODA 331 (znak wywoławczy: Talon 36), 3. Kandak NAA (znak wywoławczy: Lew 1 Actual), Kanadyjska 1. RCR, Kompania Charles (znak wywoławczy: Charles Actual).&lt;br/&gt;3. Wsparcie: Orzeł 10 zdołał wezwać dla nas wystarczająco wsparcia powietrznego by zapewnić ogólne wsparcie tego wieczora, jeśli będziemy odpowiednio podchodzić do celów. Trzy (3) samoloty AC-130 Spectre będą patrolować sektor i koordynować ogień, po jednym na raz. Gdy wykorzystamy wszystkie trzy samoloty (bez względu na zużytą amunicję), jeśli nie skończymy roboty, będziemy musieli zejść na dół i ją dokończyć ręcznie, co może być bardzo ryzykowne. Wsparcie artyleryjskie nie będzie dostępne podczas tej misji. CASEVAC będzie dostępny na żadanie Talona 30 Actual, oficera dowodzącego ODA 331.</Polish>
       </Key>
 	  <Key ID="STR_LOK_Briefing_Text_1M11">
         <English>We have consolidated our entire force upon the peaks of &lt;marker name="markerSperwanGhar"&gt;Sperwan Ghar&lt;/marker&gt; - It is ours now, and the tables have been turned. Now, the Taliban have lost their most valuable OP, they have lost their ability to coordinate ambushes and attacks on the Canadians from afar. The enemy has mostly retreated from Sperwan Ghar, back down into their positions in the village of Ishfaq, and the forests and hills beyond it. Radio chatter is abuzz with enemy logistics. They are bringing fighters out from their holes in the city, we've heard at least 300 are attempting to cross over the dried-out riverbed to our north-west tonight. Fortunately, now that we are on top of the mountain and it's night time, the AC-130s are on-station and requesting permission to engage. Dave, you and Ron, our JTAC, will have operational control over the Spectres for first shift tonight (using the satellite uplink resting on Ole' Girl's hood) while Rusty and Brian get some much-needed shuteye - Bill and Zack will man the GMVs. Even with the air support, our task will be a challenge-- we need to destroy 8 different enemy strongpoints in order to stall their plans for a counter-attack, but we must also ensure that the ones still in the AO trying to move on our positions right now do not make it up the hill. If they manage to break our perimeter, all of our blood and sweat will be for nought. We need to hold onto Sperwan Ghar at all costs.</English>
         <Spanish>Hemos consolidado todas nuestras fuerzas en los picos de &lt;marker name="markerSperwanGhar"&gt;Sperwan Ghar&lt;/marker&gt;. Son nuestros, le hemos dado la vuelta a la tortilla. Ahora, los talibanes han perdido su PO más valioso, han perdido su capacidad de coordinar emboscadas y ataques contra los canadienses desde lejos. El enemigo se ha retirado de Sperwan Ghar de vuelta a sus posiciones en el pueblo de Ishfaq y los bosques y las colinas más allá. La radio no para de vibrar con logística enemiga. Están trayendo combatientes de sus hoyos en la ciudad, hemos escuchado que al menos 300 van a intentar cruzar el lecho seco a nuestro noroeste esta noche. Por suerte, ahora que estamos en la cima de la montaña y es de noche, los AC-130 están a la espera y solicitan permiso para atacar. Dave, tú y Ron, nuestro JTAC, tendréis el control operacional de los Spectres durante el primer turno de guardia (usando el teléfono satelital encima del capó de Ole Girl) mientras Rusty y Brian descansan un poco. Bill y Zack controlarán los GMV. Aun con el apoyo aéreo, nuestra tarea será todo un desafío: tenemos que destruir 8 puntos de defensa enemigos distintos para frustrar sus planes de contraatacar, pero también debemos asegurarnos de que los que estén en el AO e intenten avanzar hacia nuestras posiciones ahora mismo no suban la colina. Si logran penetrar en nuestro perímetro, toda esta sangre y este sudor habrán sido en vano. Tenemos que aferrarnos a Sperwan Ghar a toda costa.</Spanish>
-        <Polish></Polish>
+        <Polish>Skupiliśmy wszystkie nasze oddziały na szczytach &lt;marker name="markerSperwanGhar"&gt;Sperwan Ghar&lt;/marker&gt; - teraz są nasze, role się odwróciły. Taliban stracił swój najważniejszy punkt obserwacyjny, starcili możliwość koordynowania zasadzek i ataków na Kanadyjczyków. Wróg w większości wycofał się ze Sperwan Ghar, wrócił do swoich pozycji w wiosce Ishfaq oraz do lasów i gór za nią. Radio brzęczy informacjami o wrogiej logistyce. Sprowadzają wojowników z dziur w mieście, przynajmniej 300 ma próbować przejść wysuszone dno rzeki na północnym zachodzie. Na szczęście, gdy już jesteśmy na szczycie góry i jest noc, AC-130tki są gotowe i oczekują na nasze wezwanie. Dave, ty i Ron, nasz JTAC, będziecie mieć operacyjną kontrolę nad samolotami Spectre podczas pierwszej nocnej zmiany (z wykorzystaniem łącza satelitarnego spoczywającego na masce Ole Girl), podczas gdy Rusty i Brian zaznają potrzebnego odpoczynku - Bill i Zack obsadzą samochody. Nawet ze wsparciem powietrznym, to zadanie będzie trudne - musimy zniszczyć 8 wrogich pozycji w celu zatrzymania ich planów kontrofensywy, ale musimy też być pewni, że ci znajdujący się w strefie operacyjnej nie dotrą na górę. Jeśli zdołają złamać perymetr, cała ta przelana krew i ten pot będą na nic. Musimy za wszelką cenę utrzymać Sperwan Ghar.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_Description_1M11">
         <English>By all means necessary, we absolutely must keep all enemies out of our &lt;marker name="markerPerimeter"&gt;defensive perimeter&lt;/marker&gt;. If they manage to break through our lines, they will slaughter us and we'll have nowhere to go. Call in AC-130 support, surely they'll be able to keep the Taliban at bay.</English>
         <Spanish>Sea como sea, tenemos que mantener a todos los enemigos alejados de nuestro &lt;marker name="markerPerimeter"&gt;perímetro defensivo&lt;/marker&gt;. Si consiguen penetrar en nuestras líneas, nos masacrarán a todos y no tendremos adónde ir. Pide apoyo de AC-130, seguro que ellos pueden mantener a los talibanes a raya.</Spanish>
-        <Polish></Polish>
+        <Polish>Bez względu na wszystko musimy utrzymać wrogów z dala od &lt;marker name="markerPerimeter"&gt;perymetru obronnego&lt;/marker&gt;. Jeśli zdołają przebić się przez nasze szeregi, wybiją nas, nie będziemy mieć dokąd uciec. Wezwij wsparcie AC-130, na pewno będą w stanie odeprzeć wojska Talibów.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_Title_1M11">
         <English>Call in AC-130 support</English>
         <Spanish>Pedir apoyo de AC-130</Spanish>
-        <Polish></Polish>
+        <Polish>Wezwij wsparcie AC-130</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_action_1M11">
         <English>call AC-130</English>
         <Spanish>llamar al AC-130</Spanish>
-        <Polish></Polish>
+        <Polish>wezwij AC-130</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_AC_Description_1M11">
         <English>By all means necessary, we absolutely must keep all enemies out of our &lt;marker name="markerPerimeter"&gt;defensive perimeter&lt;/marker&gt;. If they manage to break through our lines, they will slaughter us and we'll have nowhere to go.</English>
         <Spanish>Sea como sea, tenemos que mantener a todos los enemigos alejados de nuestro &lt;marker name="markerPerimeter"&gt;perímetro defensivo&lt;/marker&gt;. Si consiguen penetrar en nuestras líneas, nos masacrarán a todos y no tendremos adónde ir.</Spanish>
-        <Polish></Polish>
+        <Polish>Bez względu na wszystko musimy utrzymać wroga z dala od &lt;marker name="markerPerimeter"&gt;perymetru obronnego&lt;/marker&gt;. Jeśli zdołają przebić się przez nasze linie, wybiją nas, i nie będziemy mieli gdzie uciec.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_AC_Title_1M11">
         <English>Defend our position</English>
@@ -70,297 +70,297 @@
 	  <Key ID="STR_LOK_obj1_AC2_Description_1M11">
         <English>By all means necessary, we absolutely must keep all enemies out of our &lt;marker name="markerPerimeter"&gt;defensive perimeter&lt;/marker&gt;. If they manage to break through our lines, they will slaughter us and we'll have nowhere to go. Keep them off our hill, but watch out for the strobes-- ones with the strobes are our guys! If they breach our defenses, this mission will have been a complete failure!</English>
         <Spanish>Sea como sea, tenemos que mantener a todos los enemigos alejados de nuestro &lt;marker name="markerPerimeter"&gt;perímetro defensivo&lt;/marker&gt;. Si consiguen penetrar en nuestras líneas, nos masacrarán a todos y no tendremos adónde ir. Que no lleguen a la colina, pero ¡atención a las luces estroboscópicas: los que las llevan son nuestros chicos! ¡Si atraviesan nuestras defensas, esta misión habrá sido un fracaso total!</Spanish>
-        <Polish></Polish>
+        <Polish>Bez względu na wszystko musimy utrzymać wroga z dala od &lt;marker name="markerPerimeter"&gt;perymetru obronnego&lt;/marker&gt;. Jeśli zdołają przebić się przez nasze linie, wybiją nas, i nie będziemy mieli gdzie uciec. Trzymaj ich zdala od góry, ale uważaj na stroboskopy - ci ze światłem stroboskopowym to nasi! Jeśli wróg przełamie naszą obronę, to będzie kompletna porażka!</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_AC2_Title_1M11">
         <English>Defend Sperwan Ghar</English>
         <Spanish>Defender Sperwan Ghar</Spanish>
-        <Polish></Polish>
+        <Polish>Broń Sperwan Ghar</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_alpha_Description_1M11">
         <English>The first, most immediate target in our vicinity is the village of &lt;marker name="markerObjA"&gt;Ishfaq&lt;/marker&gt;. The civilians have all been cleared out, probably long before we even showed up. It's been a primary Taliban staging area from square one. We will level the whole village if we have to, but it must be clear of hostiles.</English>
         <Spanish>El primer blanco más inmediato en nuestras inmediaciones es el pueblo de &lt;marker name="markerObjA"&gt;Ishfaq&lt;/marker&gt;. Los civiles ya han desalojado el lugar, probablemente mucho antes de que llegáramos nosotros. Ha sido una zona principal de los talibanes desde el principio. Arrasaremos todo el pueblo si es necesario, pero debe estar limpio de hostiles.</Spanish>
-        <Polish></Polish>
+        <Polish>Pierwszy, najbliższy cel w okolicy to wioska &lt;marker name="markerObjA"&gt;Ishfaq&lt;/marker&gt;. Cywile zostali ewakuowani, prawdopodobnie zmyli się stamdą zanim przyszliśmy. To była głównie pozycja wykorzystywana przez Talibów. Jeśli trzeba, zrównamy wioskę z ziemią, byleby była wolna od wrogów.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_alpha_Title_1M11">
         <English>Objective A: Clear Ishfaq</English>
         <Spanish>Objetivo A: Despejar Ishfaq</Spanish>
-        <Polish></Polish>
+        <Polish>Zadanie A: Oczyść Ishfaq</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_bravo_Description_1M11">
         <English>The Taliban have been occupying &lt;marker name="markerObjB"&gt;this compound&lt;/marker&gt; and appear to be using it for refuel and repairs. If we destroy it, not only will we damage their logistical capabilities, but transports in the field that come across their makeshift motorpool reduced to a pile of flaming rubble will think twice about continuing on further.</English>
         <Spanish>Los talibanes han estado ocupando &lt;marker name="markerObjB"&gt;este complejo&lt;/marker&gt; y parecen usarlo para repostar y reparar. Si lo destruimos, no solo debilitaremos sus habilidades logísticas, sino que los transportes sobre el terreno que se encuentren con su improvisado parque móvil reducido a un montón de escombros en llamas se lo pensarán dos veces antes de seguir adelante.</Spanish>
-        <Polish></Polish>
+        <Polish>Taliban okupuje &lt;marker name="markerObjB"&gt;ten kompleks&lt;/marker&gt; i wydaje się go używać do napraw i tankowania pojazdów. Jeśli go zniszczymy, nie tylko ograniczymy ich możliwości logistyczne, ale ich transporty w polu nie będą miały do czego wracać i zastanowią się dwa razy, co zamierzają zrobić.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_bravo_Title_1M11">
         <English>Objective B: Clear Taliban motor pool</English>
         <Spanish>Objetivo B: Despejar el parque móvil talibán</Spanish>
-        <Polish></Polish>
+        <Polish>Zadanie B: Oczyścić punkt naprawczy Talibów</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_charlie_Description_1M11">
         <English>Today at dusk, we deflected a counter-attack from our east and decimated the hostile group, but a number of them managed to escape back through the trees where we tracked them moving toward the town of &lt;marker name="markerObjC"&gt;Ahlam&lt;/marker&gt;. Who knows what kind of chaos those guys could cause if there are still civilians hunkered down. We need to be surgical here and take them out without damaging the rest of the town.</English>
         <Spanish>Hoy al amanecer, repelimos un contraataque desde el este y diezmamos al grupo hostil, pero varios de ellos han conseguido escapar de vuelta a través de los árboles, donde los hemos rastreado avanzando hacia la ciudad de &lt;marker name="markerObjC"&gt;Ahlam&lt;/marker&gt;. Quién sabe qué tipo de caos podrían causar esos tipos si aún hay civiles resguardados. Tenemos que ser quirúrgicos aquí y eliminarlos sin dañar el resto de la ciudad.</Spanish>
-        <Polish></Polish>
+        <Polish>Dziś o zmierzchu odparliśmy kontratak z wschodu i zdziesiątkowaliśmy siły przeciwnika, ale część z nich zdołała uciec przez drzewa aż do miasta &lt;marker name="markerObjC"&gt;Ahlam&lt;/marker&gt;. Można się domyślać, jaki chaos mogą spowodować, jeśli w tym miejscu nadal są cywile. Musimy być chirurgicznie precyzyjni i wyeliminować ich bez niszczenia miasta.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_charlie_Title_1M11">
         <English>Objective C: Clear hostiles from Ahlam</English>
         <Spanish>Objetivo C: Despejar Ahlam de hostiles</Spanish>
-        <Polish></Polish>
+        <Polish>Zadanie C: Wybij przeciwników w Ahlam</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_delta_Description_1M11">
         <English>We've been intercepting an awful lot of radio chatter about this grid ref. Brian and Smitty, together with their ANA counterparts, deciphered that this is the smaller one of two &lt;marker name="markerObjD"&gt;field camps&lt;/marker&gt; being used to launch attacks on the Canadians and by tomorrow, us as well. Clear it, but make sure you don't fire on the Canadians (check for strobes).</English>
         <Spanish>Hemos estado interceptando muchísimas conversaciones de radio en estas coordenadas. Brian y Smitty, junto con sus homólogos del ENA, han descifrado que este es el más pequeño de dos &lt;marker name="markerObjD"&gt;campamentos&lt;/marker&gt; que usan los talibanes para lanzar ataques contra los canadienses y, para mañana, nosotros. Despéjalo, pero asegúrate de no disparar a los canadienses (mira las luces estroboscópicas).</Spanish>
-        <Polish></Polish>
+        <Polish>Przejęliśmy sporo komunikatów radiowych na temat tych koordynatów. Brian i Smitty wraz z odpowiednikami w NAA rozszyfrowali, że jest to jeden z dwóch &lt;marker name="markerObjD"&gt;obozów&lt;/marker&gt;, które Talibowie wykorzystywali do rozpoczynania ataków na Kanadyjczyków, a jutro zapewne i na nas. Oczyść go, ale upewnij się, że nie ostrzelasz Kompanii Charles (wyglądaj stroboskopów).</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_delta_Title_1M11">
         <English>Objective D: Clear Taliban field camp</English>
         <Spanish>Objetivo D: Despejar el campamento talibán</Spanish>
-        <Polish></Polish>
+        <Polish>Zadanie D: Oczyść obóz Talibów</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_echo_Description_1M11">
         <English>Talibs holed up in the Keybari range reported shortly ago that they would join in the counter-attack, leaving their positions in the north where NATO has begun re-focus their attack. There is a &lt;marker name="markerObjE"&gt;rally point&lt;/marker&gt; we picked up where they are setting up in the forests at the foot of the mountains. Remove them from the equation.</English>
         <Spanish>Los talis atrincherados en la cordillera de Keybari informaron hace poco de que se unirían al contraataque, abandonando sus posiciones en el norte, donde la OTAN ha comenzado a reorientar su ataque. Hay un &lt;marker name="markerObjE"&gt;punto de reunión&lt;/marker&gt; que hemos detectado donde se están instalando en los bosques en la falda de las montañas. Elimínalos de la ecuación.</Spanish>
-        <Polish></Polish>
+        <Polish>Talibowie, którzy okopali się w Keybari, niedawno podali przez radio, że wezmą udział w kontrataku i porzucą swoje pozycje na północy, gdzie NATO kontynuowało swój atak. Zauważyliśmy &lt;marker name="markerObjE"&gt;punkt zborny&lt;/marker&gt; wroga w lesie, pod górami. Pozbądź się ich.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_echo_Title_1M11">
         <English>Objective E: Clear Taliban field camp</English>
         <Spanish>Objetivo E: Despejar el campamento talibán</Spanish>
-        <Polish></Polish>
+        <Polish>Zadanie E: Oczyść obóz Talibów</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_foxtrot_Description_1M11">
         <English>These assholes have been sluggish packing up their &lt;marker name="markerObjF"&gt;HQ&lt;/marker&gt; to retreat since we took Sperwan Ghar, now in the chaos of the counter-attack they appear to be holding position. This is a golden opportunity, although we fully expect a new HQ to pop up in its place. We can sieze initiative here. Also, it is a rally point for forces attacking from Masum Ghar, so they will come at us from this direction. Keep it clear.</English>
         <Spanish>Estos cabronazos han tardado en recoger su &lt;marker name="markerObjF"&gt;«CG»&lt;/marker&gt; para retirarse desde que tomamos Sperwan Ghar. Ahora, en medio del caos del contraataque, parecen estar manteniendo la posición. Es una oportunidad de oro, aunque sabemos de sobra que saldrá un nuevo CG en su lugar. Podemos tomar la iniciativa aquí y ahora. Además, es un punto de reunión para las fuerzas que atacan desde Masum Ghar, así que vendrán desde esta dirección. Que no pasen.</Spanish>
-        <Polish></Polish>
+        <Polish>Te dupki strasznie się obijają ze zwijaniem &lt;marker name="markerObjF"&gt;bazy&lt;/marker&gt; od czasu, gdy zajęliśmy Sperwan Ghar, teraz chyba w ogóle zdecydowali się utrzymać pozycję. To idealna okazja na atak, choć spodziewamy się, że na miejsce tej bazy dowódczej powstanie jakaś inna. Możemy przejąć inicjatywę. Jest to też punkt zborny sił atakujących z Masum Ghar, więc przyjdą do nas z tego kierunku. Zajmij się tym.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_foxtrot_Title_1M11">
         <English>Objective F: Clear Taliban field HQ</English>
         <Spanish>Objetivo F: Despejar el CG de campaña talibán</Spanish>
-        <Polish></Polish>
+        <Polish>Zadanie F: Oczyść bazę Talibów</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_golf_Description_1M11">
         <English>The second, and larger, of two &lt;marker name="markerObjG"&gt;field camps&lt;/marker&gt; being used as a staging point for attacks from the north, both on the Canadians and on us. This position needs to be inoperable to keep any future counter-attacks further south and out in the open desert of the riverbed.</English>
         <Spanish>El segundo y mayor &lt;marker name="markerObjG"&gt;campamento&lt;/marker&gt; se usa como punto de partida para los ataques desde el norte, tanto contra los canadienses como contra nosotros. Hay que dejar esta posición inoperable para mantener los contraataques futuros al sur y en el desierto abierto del lecho del río.</Spanish>
-        <Polish></Polish>
+        <Polish>Drugi, większy z &lt;marker name="markerObjG"&gt;obozów polowych&lt;/marker&gt; jest wykorzystywany do przegrupowywania sił atakujących z północy zarówno nas, jak i Kanadyjczyków. Ta pozycja musi wyjść z użytku, by kontrataki zatrzymać na północy i od strony pustyni.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_golf_Title_1M11">
         <English>Objective G: Clear Taliban field camp</English>
         <Spanish>Objetivo G: Despejar el campamento talibán</Spanish>
-        <Polish></Polish>
+        <Polish>Zadanie G: Oczyść obóz Talibów</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_hotel_Description_1M11">
         <English>We've been observing sporadic movement in and out of &lt;marker name="markerObjH"&gt;this compound&lt;/marker&gt; all evening, but the Taliban seem to be aware that we are watching, so they are clearly hiding. We're not sure who may be hiding in there, but if they are carrying weapons and aren't carrying strobes, they are to be considered hostile combatants.</English>
         <Spanish>Hemos estado observando movimientos esporádicos en &lt;marker name="markerObjH"&gt;este complejo&lt;/marker&gt; y a las afueras toda la noche, pero los talibanes parecen saber que los estamos observando, así que se están escondiendo. No sabemos bien quién se está escondiendo ahí, pero, si llevan armas y no llevan luces estroboscópicas, se considerarán combatientes hostiles.</Spanish>
-        <Polish></Polish>
+        <Polish>Obserwujemy sporadyczne przemieszczenia do i z &lt;marker name="markerObjH"&gt;tego kompleksu&lt;/marker&gt; przez całe popołudnie, ale Talibowie wydają się wiedzieć, że ich widzimy, więc zaczęli się chować. Nie wiemy dokładnie, kto może tam być, ale jeśli mają broń, a nie są oświetleni strobo, należy uznać ich za wrogich kombatantów.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_hotel_Title_1M11">
         <English>Objective H: Clear Taliban compound</English>
         <Spanish>Objetivo H: Despejar el complejo talibán</Spanish>
-        <Polish></Polish>
+        <Polish>Zadanie H: Oczyść talibski kompleks</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_Description_1M11">
         <English>The Afghans and ODA 331 are surrounded at Sperwan Ghar. Your mission is to clear all seven Taliban strongholds surrounding the hills and ensure no hostiles get near friendly positions.</English>
         <Spanish>Los afganos y la ODA 331 están rodeados en Sperwan Ghar. Tu misión es despejar todos los siete bastiones talibanes que rodean las colinas y asegurarte de que ningún hostil se acerque a las posiciones aliadas.</Spanish>
-        <Polish></Polish>
+        <Polish>Afgańczcy i ODA 331 są otoczeni na Sperwan Ghar. Twoją misją jest oczyścić wszystkie siedem punktów Talibów otaczających góry i upewnić się, że żaden wróg nie zbliży się do sojuszniczych pozycji.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_Title_1M11">
         <English>Clear all objectives</English>
         <Spanish>Despejar todos los objetivos</Spanish>
-        <Polish></Polish>
+        <Polish>Wykonaj wszystkie zadania</Polish>
       </Key>
 	  <Key ID="STR_LOK_AC130_hintTitle_1M11">
         <English>Operating the AC-130</English>
         <Spanish>Operar el AC-130</Spanish>
-        <Polish></Polish>
+        <Polish>Operowanie AC-130</Polish>
       </Key>
 	  <Key ID="STR_LOK_Wraith19_1M11">
         <English>Wraith 19</English>
         <Spanish>Wraith 19</Spanish>
-        <Polish></Polish>
+        <Polish>Widmo 19</Polish>
       </Key>
 	  <Key ID="STR_LOK_AC130_hint1_1M11">
         <English>AUTOPILOT: The pilot will loiter around Sperwan Ghar, giving you a clear line of sight to each and every one of the objectives. You can easily complete the mission with the default settings if you don't want to mess around with the aircraft. However, should you want to get closer or focus on one single position, you can do so by going into 'Autopilot GS' in the action menu. Then, click on the map to set the center point of your loitering area, type in your desired radius, height and speed, and turn 'A/P OFF' to 'ON' to activate autopilot.</English>
         <Spanish>PILOTO AUTOMÁTICO: El piloto dará vueltas alrededor de Sperwan Ghar, dándote una línea de tiro directa a todos y cada uno de los objetivos. Puedes completar la misión perfectamente con los ajustes predeterminados si no quieres trastear con el avión. No obstante, si quieres acercarte o centrarte en una sola posición, puedes hacerlo pulsando «Autopilot GS» en el menú de acciones. Luego, pulsa en el mapa para marcar el centro de la circunferencia, introduce el radio, el alto y la velocidad deseados y cambia «A/P OFF» a «ON» para activar el piloto automático.</Spanish>
-        <Polish></Polish>
+        <Polish>AUTOPILOT: Pilot będzie krążył nad Sperwan Ghar, tym samym dając ci czyste pole widzenia na każdy ze strategicznych punktów. Możesz z łatwością ukończyć misję z domyślnymi ustawieniami, jeśli nie chcesz bawić się lotnictwem. Jednakże jeśli chcesz zbliżyć się lub skupić do pojedynczego miejsca, możesz to zrobić wybierając "Autopilot GS" z menu akcji. Następnie kliknij na mapie, by wybrać środek pozycji krążącej, podaj wybraną wysokość, promień okręgu i prędkość, i włącz "A/P OFF" na "ON" by aktywować autopilota.</Polish>
       </Key>
 	  <Key ID="STR_LOK_AC130_hint2_1M11">
         <English>WEAPONS: Your weapons are: 1) 25mm GAU-12/U (25, 50 and 100-round burst settings); 2) 40mm Bofors and 105mm M102 howitzer; 4) laser designator. To operate the AC-130's weaponry, you'll first need to turn on your laser designator, then lock onto it (default key: T) until your crosshair becomes a green square, at which point the guns will range automatically and you'll be able to fire. If you can't lock onto the laser, aim somewhere far from the action and keep pressing T. Also, be advised that your shots will not land perfectly on target, especially at longer distances, so you'll need to account for that (to make up for that handicap, you have infinite ammo, so enjoy wasting millions of dollars of taxpayer money).</English>
         <Spanish>ARMAS: Tus armas son: 1) GAU-12/U de 25 mm (ráfagas de 25, 50 y 100 proyectiles); 2) Bofors de 40mm y obús M102 de 105 mm; 4) designador láser. Para usar las armas del AC-130, primero tendrás que activar el designador láser y luego fijarlo (tecla por defecto: T) hasta que el punto de mira se convierta en un cuadrado verde, momento en el que los cañones se calibrarán automáticamente y podrás disparar. Si no puedes fijar el láser, apunta a cualquier lado lejos del combate y pulsa T todo el rato. Recuerda también que los disparos no darán en el blanco exacto, sobre todo a distancias más largas, así que tendrás que tenerlo en cuenta (para compensar esa desventaja, tienes munición infinita, así que disfruta gastando millones de dólares de los contribuyentes).</Spanish>
-        <Polish></Polish>
+        <Polish>UZBROJENIE: Do twojego uzbrojenia należą: 1) działko GAU-12/8 25mm (serie 25-, 50- i 100-nabojowe); 2) działo Bofors 40mm i haubica M120 105mm; 4) wskaźnik laserowy. By korzystać z uzbrojenia AC-130, musisz najpierw włączyć wskaźnik laserowy, zablokowac się na nim (domyślny klawisz: T) aż celownik zamieni się w zielony kwadrat, wtedy uzbrojenie automatycznie ustali odległość i będziesz mógł prowadzić celny ogień. Jeśli nie możesz zablokować się na laserze, szczególnie na większych dystansach, wyceluj gdzieś poza strefą walki i wciskaj cały czas T. Pamiętaj też, że twoje pociski nie będą lądować idealnie w celu, tym bardziej na dłuższym dystansie, więc musisz brać na to poprawkę (by to nieco ułatwić masz nieskończoną amunicję, więc korzystaj śmiało i marnuj miliony dolarów z podatków bez zmartwień).</Polish>
       </Key>
 	  <Key ID="STR_LOK_AC130_hint3_1M11">
         <English>OTHER FEATURES: You can switch between night vision and thermal optics by pressing the night vision key (default: N). You can also mark various positions on your HUD through the action menu: 'Mark RP' for reference points, 'Mark HP' for hostile points, and 'Mark FP' for friendly points. This can be useful in this mission-- I recommend marking Sperwan Ghar as a friendly position.</English>
         <Spanish>OTRAS CARACTERÍSTICAS: Puedes cambiar entre visión nocturna y termal pulsando la tecla de visión nocturna (N por defecto). También puedes marcar varias posiciones en la interfaz a través del menú de acciones: «Mark RP» para puntos de referencia, «Mark HP» para puntos hostiles y «Mark FP» para puntos aliados. Puede ser útil en esta misión, yo recomiendo marcar Sperwan Ghar como una posición aliada.</Spanish>
-        <Polish></Polish>
+        <Polish>INNE OPCJE: Możesz przełączać się między noktowizją i termowizją poprzez wciskanie klawisza noktowizji (domyślnie: N). Możesz też zaznaczać różne miejsca w interfejsie poprzez menu akcji: "Mark RP" do punktów odniesienia, "Mark HP" dla wrogich punktów oraz "Mark FP" do przyjaznych punktów. Może się to przydać w tej misji - polecam oznaczyć Sperwan Ghar jako przyjazny punkt.</Polish>
       </Key>
 	  <Key ID="STR_LOK_AC130_hint4_1M11">
         <English>TEAM SWITCH: By pressing the team switch key (default: U), you'll be able to switch between Dave and the AC-130 TV operator all you want. Keep in mind however that you'll be vulnerable as Dave on the ground and that an AI AC-130 will not complete the mission on its own.</English>
         <Spanish>CAMBIO DE PERSONAJE: Al pulsar la tecla de cambio de equipo (U por defecto), podrás cambiar entre Dave y el operador de TV del AC-130 todo lo que quieras. No obstante, ten en cuenta que serás vulnerable como Dave en el terreno y que un AC-130 de la IA no completará la misión por su cuenta.</Spanish>
-        <Polish></Polish>
+        <Polish>PRZEŁĄCZANIE DRUŻYNY: Wciskając klawisz przełączania drużyny (domyslnie: U), możesz przełączać się między Davem a AC-130 kiedy tylko potrzebujesz. Pamiętaj tylko, że będziesz bardzo podatny</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionTitle_1M11">
         <English>Holding On at All Costs</English>
         <Spanish>Aguantando a toda costa</Spanish>
-        <Polish></Polish>
+        <Polish>Za wszelką cenę</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionTitle_Intro_1M11">
         <English>Mission 11 Intro</English>
         <Spanish>Misión 11: Intro</Spanish>
-        <Polish></Polish>
+        <Polish>Misja 11: Intro</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionTitle_Outro_1M11">
         <English>Mission 11 Outro</English>
         <Spanish>Misión 11: Outro</Spanish>
-        <Polish></Polish>
+        <Polish>Misja 11: Outro</Polish>
       </Key>
 	  <Key ID="STR_LOK_MissionDescription_1M11">
         <English>We now hold Sperwan Ghar, taking it proved challenge enough, but holding it might make yesterday look easy. As Dave, use AC-130 gunship support to defend Sperwan Ghar and cripple key rally points of the enemy counter-attack.</English>
         <Spanish>Sperwan Ghar es nuestra. Tomarla ya de por sí fue todo un reto, pero defenderla podría hacer que lo de ayer pareciera sencillo. Como Dave, usa apoyo de AC-130 para defender Sperwan Ghar y destruir los puntos de reunión clave del contraataque enemigo.</Spanish>
-        <Polish></Polish>
+        <Polish>Obecnie jesteśmy w posiadaniu Sperwan Ghar, jego zajęcie było nielada wyzwaniem, ale pozostanie będzie nieporównywalnie trudniejsze. Jako Dave, wykorzystaj wsparcie AC-130 by bronić Sperwan Ghar i okaleczyć kluczowe punkty Talibów w ich systemie kontrataków.</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_text_1M11">
         <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER XI - Holding On at All Costs&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'History does not entrust the care of freedom to the weak or timid.'&lt;br/&gt;&lt;br/&gt;-DWIGHT D. EISENHOWER&lt;/t&gt;</English>
         <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO XI: Aguantando a toda costa&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«La historia no confía el cuidado de la libertad a los débiles o a los tímidos».&lt;br/&gt;&lt;br/&gt;—DWIGHT D. EISENHOWER&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t color='#FFA500' size='3.5'&gt;ROZDZIAŁ XI - Zaw szelką cenę&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'Historia nie powierza opieki nad wolnością słabym czy bojaźliwym.'&lt;br/&gt;&lt;br/&gt;- DWIGHT D. EISENHOWER&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel1_1M11">
         <English>Sgt. Dave Smith</English>
         <Spanish>Sgto. Dave Smith</Spanish>
-        <Polish></Polish>
+        <Polish>Sierż. Dave Smith</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel2_1M11">
         <English>ODA 331, US Army SF</English>
         <Spanish>ODA 331, Ejérc. de EE. UU.</Spanish>
-        <Polish></Polish>
+        <Polish>ODA 331, siły specjalne US Army</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel3_1M11">
         <English>Atop Sperwan Ghar</English>
         <Spanish>En la cima de Sperwan Ghar</Spanish>
-        <Polish></Polish>
+        <Polish>Szczyt Sperwan Ghar</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_intel4_1M11">
         <English>September 6, 2006 - 0230</English>
         <Spanish>6 septiembre 2006 - 0230</Spanish>
-        <Polish></Polish>
+        <Polish>6 września 2006 r. - 0230</Polish>
       </Key>
 	  <Key ID="STR_LOK_message1_1M11">
         <English>Hey Dave, we got AC-130 support on station, you wanna do the honors?</English>
         <Spanish>Eh, Dave, tenemos apoyo de AC-130 a la espera, ¿quieres hacer los honores?</Spanish>
-        <Polish></Polish>
+        <Polish>Hej, Dave, mamy już dostęp do AC-130, chcesz czynić honory?</Polish>
       </Key>
 	  <Key ID="STR_LOK_message2_1M11">
         <English>Shhh! Rusty's about to doze off, let's give him the ol' 105 mm alarm clock.</English>
         <Spanish>¡Chsss! Rusty se está quedando frito, vamos a ponerle el buen despertador de 105 mm.</Spanish>
-        <Polish></Polish>
+        <Polish>Ćśś! Rusty zaraz przyśnie, dajmy mu posłuchać dzwonka alarmu o średnicy 105mm.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message3_1M11">
         <English>Dude, this ain't the time to be playing games, hate to break it to you, pal. Spectre says we got enemy movement all around us.</English>
         <Spanish>Tío, no es momento de hacer bromitas, lamento decírtelo, socio. El Spectre dice que tenemos movimiento enemigo por todas partes.</Spanish>
-        <Polish></Polish>
+        <Polish>Chłopie, nie czas na gierki, przykro mi. Widmo twierdzi, że mamy ruch przeciwnika dookoła naszej pozycji.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message4_1M11">
         <English>Hey, lighten up brother, we can keep them at bay and serve 'em a hurtin', you just leave that to me.</English>
         <Spanish>Eh, relájate, hermano, podemos mantenerlos a raya y darles caña, tú déjamelo a mí.</Spanish>
-        <Polish></Polish>
+        <Polish>Ej, słuchaj, bracie, damy radę trzymać ich z dala i jeszcze im dowalić, zostaw to mnie.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message5_1M11">
         <English>Objective Alpha is clear, I say again, Alpha is clear, how copy? Over.</English>
         <Spanish>Objetivo Alfa despejado, repito, Alfa despejado. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Punkt Alfa jest czysty, powtarzam, punkt Alfa czysty, jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message6_1M11">
         <English>Objective Bravo is clear. I repeat, Objective Bravo is clear, how copy? Over.</English>
         <Spanish>Objetivo Bravo despejado. Repito, Bravo despejado. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Punkt Bravo jest czysty. Powtarzam, punkt Bravo czysty. Jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message7_1M11">
         <English>Objective Charlie is clear of hostiles, say again, Charlie is cleared. How copy? Over.</English>
         <Spanish>El objetivo Charlie está limpio de hostiles, repito, Charlie limpio. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Punkt Charlie został oczyszczony z przeciwników, powtarzam Charlie jest czysty. Jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message8_1M11">
         <English>Objective Delta has been cleared of hostiles, I say again, Objective Delta is clear. How copy? Over.</English>
         <Spanish>El objetivo Delta está despejado de hostiles, repito, el objetivo Delta está despejado. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Punkt Delta został oczyszczony z wrogów, powtarzam, punkt Delta czysty. Jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message9_1M11">
         <English>All hostiles down at Objective Echo, I repeat, Echo has been cleared of all hostiles. How copy? Over.</English>
         <Spanish>Todos los hostiles abatidos en el objetivo Echo, repito, Echo despejado de todos los hostiles. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Wszyscy przeciwnicy wyeliminowani w punkcie Echo, powtarzam, punkt Echo wolny od wroga. Jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message10_1M11">
         <English>Objective Foxtrot is clear, repeat, Foxtrot clear, lots of little pieces down there. How copy? Over.</English>
         <Spanish>Objetivo Foxtrot despejado, repito, Foxtrot despejado, veo muchos trocitos ahí abajo. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Punkt Foxtrot jest czysty, powtarzam, Foxtrot czysty, wszystko rozwalone w drobny mak. Jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message11_1M11">
         <English>Objective Golf is clear, say again, Objective Golf clear, zero sign of enemy activity, over.</English>
         <Spanish>Objetivo Golf despejado, repito, objetivo Golf despejado, cero señas de actividad enemiga, cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Punkt Golf jest czysty, powtarzam, punkt Golf czysty, brak śladów dalszej aktywności wroga, odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message12_1M11">
         <English>Objective Hotel is clear, I say again, Objective Hotel is now clear. How copy? Over.</English>
         <Spanish>Objetivo Hotel despejado, repito, el objetivo Hotel está despejado. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Punkt Hotel jest czysty, powtarzam, punkt Hotel jest czysty. Jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message13_1M11">
         <English>This is Wraith 19 to Talon 31, all objectives have been cleared, we count over 100 kills, great working with you boys. Wraith 19 is Winchester. We are now Romeo Tango Bravo, over and out.</English>
         <Spanish>Aquí Wraith 19 a Talon 31, todos los objetivos han sido despejados, contamos más de 100 bajas, un placer trabajar con ustedes. Wraith 19 está sin munición. Volvemos a la base, cambio y corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Tutaj Widmo 19 do Talona 31, wszystkie punkty zostały oczyszczony, naliczyliśmy ponad 100 potwierdzonych trafień, świetnie się z wami pracowało. Widmo 19 się wyzerowało. Wracamy do bazy, bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message14_1M11">
         <English>Looks like you were right, Rusty barely stirred, he's sleepin' like a baby.</English>
         <Spanish>Parece que tenías razón, Rusty apenas se ha movido, está durmiendo como un bebé.</Spanish>
-        <Polish></Polish>
+        <Polish>Chyba miałeś rację, Rusty ledwie się poruszył, śpi jak dziecko.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message15_1M11">
         <English>I fuckin' told you, dude. Let's wait until the next one arrives on station to wake him up for guard duty. Then it's my turn to catch some shut-eye.</English>
         <Spanish>Si te lo había dicho, coño. Vamos a esperar a que llegue el siguiente para despertarlo y que monte guardia. Y entonces me toca a mí pegar ojo.</Spanish>
-        <Polish></Polish>
+        <Polish>Mówiłem ci, kurwa. Poczekajmy aż przyleci nastepny, by obudzić go na zmianę warty. Potem ja sobie utnę komara.</Polish>
       </Key>
 	  <Key ID="STR_LOK_message16_1M11">
         <English>Talon 26 Actual to Talon 31, we've got enemies on the hill, get that Spectre to clear 'em off or we're gonna be up shit's creek! Over!</English>
         <Spanish>¡Talon 26 Jefe a Talon 31, tenemos enemigos en la colina, que el Spectre se encargue de ellos o vamos a estar de mierda hasta el cuello! ¡Cambio!</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 26 Actual do Talona 31, mamy wrogów na wzgórzu, niech Widmo się nimi zajmie albo zacznie się straszne gówno! Odbiór!</Polish>
       </Key>
 	  <Key ID="STR_LOK_callmessage1_1M11">
         <English>Talon 31 to Wraith 19, the Taliban are amassing their forces in strongholds around Sperwan Ghar. We believe they're planning to make their move tonight or tomorrow morning. We may need some air support over here, how copy, over?</English>
         <Spanish>Talon 31 a Wraith 19, los talibanes están reuniendo fuerzas en bastiones alrededor de Sperwan Ghar. Creemos que planean mover ficha esta noche o mañana por la mañana. Nos podría venir bien un poco de apoyo aéreo. ¿Me reciben? Cambio.</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 do Widma 19, Taliban gromadzi swoje siły w twierdzach wokół Sperwan Ghar. Wierzymy, że planują wykonać ruch w nocy albo jutro rano. Możemy tu potrzebować wsparcia, jak przyjął? Odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_callmessage2_1M11">
         <English>This is Wraith 19. We hear you, Talon 31, we're on our way. Rest easy, we'll take care of this, over and out.</English>
         <Spanish>Aquí Wraith 19. Entendido, Talon 31, vamos de camino. Descansen, nosotros nos encargamos de esto, cambio y corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Tutaj Widmo 19. Zrozumiałem, Talon 31, jesteśmy w drodze. Spokojnie, zajmiemy się tym, odbiór.</Polish>
       </Key>
 	  <Key ID="STR_LOK_callmessage3_1M11">
         <English>Much obliged, Wraith 19. Watch out for the strobe lights atop the hill, those are us! Happy hunting, out.</English>
         <Spanish>Muchas gracias, Wraith 19. ¡Atención a las luces estroboscópicas en la cima de la colina, esos somos nosotros! Feliz caza, corto.</Spanish>
-        <Polish></Polish>
+        <Polish>Wielkie dzięki, Widmo 19. Uważajcie na stroboskopy na szczycie wzgórza, to jesteśmy my! Miłego polowania, bez odbioru.</Polish>
       </Key>
 	  <Key ID="STR_LOK_callmessage4_1M11">
         <English>Shit, we lost our connection. Let me try again.</English>
         <Spanish>Mierda, hemos perdido la conexión. A ver que pruebe otra vez.</Spanish>
-        <Polish></Polish>
+        <Polish>Cholera, straciliśmy połączenie. Pozwól mi spróbować jeszcze raz.</Polish>
       </Key>
 	  <Key ID="STR_LOK_end1_subtitle_1M11">
         <English>Taliban strongholds destroyed</English>
         <Spanish>Bastiones talibanes destruidos</Spanish>
-        <Polish></Polish>
+        <Polish>Fortece Talibanu zniszczone</Polish>
       </Key>
 	  <Key ID="STR_LOK_end1_description_1M11">
         <English>With over 110 confirmed kills, the AC-130 support ensured Sperwan Ghar would remain in the hands of ODA 331 and the 3rd Kandak.</English>
         <Spanish>Con más de 110 bajas confirmadas, el apoyo de AC-130 ha garantizado que Sperwan Ghar siga en manos de la ODA 331 y el 3.er Kandak.</Spanish>
-        <Polish></Polish>
+        <Polish>Wraz z ponad 110 potwierdzonymi zabiciami, wsparcie AC-130 tylko umocniło nas w przekonaniu, że Sperwan Ghar pozostanie w rękach ODA 331 i 3. Kandaku.</Polish>
       </Key>
 	  <Key ID="STR_LOK_lost_subtitle_1M11">
         <English>Position overrun</English>
         <Spanish>Posición invadida</Spanish>
-        <Polish></Polish>
+        <Polish>Pozycja spustoszona</Polish>
       </Key>
 	  <Key ID="STR_LOK_lost_description_1M11">
         <English>The Taliban have overrun ODA 331 and the ANA's position atop Sperwan Ghar and massacred them!</English>
         <Spanish>¡Los talibanes han invadido la posición de la ODA 331 y el ENA en la cima de Sperwan Ghar y los han masacrado!</Spanish>
-        <Polish></Polish>
+        <Polish>Talibowie zalali pozycję ODA 331 i nAA na szczycie Sperwan Ghar i ich zmasakrowali!</Polish>
       </Key>
     </Container>
   </Package>
