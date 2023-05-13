@@ -52,6 +52,11 @@
         <Spanish>Presentarse ante Jared</Spanish>
         <Polish></Polish>
       </Key>
+	  <Key ID="STR_LOK_objJared_action_1M12">
+        <English>report to Jared</English>
+        <Spanish>presentarse ante Jared</Spanish>
+        <Polish></Polish>
+      </Key>
 	  <Key ID="STR_LOK_obj1_Description_1M12">
         <English>You volunteered to perform a battle damage assessment (BDA) on the village of Ishfaq, but first, you must let Lt. Ali of the ANA know you are heading over so his team can provide you with backup. Once you have spoken to Lt. Ali, move to Ishfaq and rendezvous with Brian on the south side, then sweep north-ward and report in.</English>
         <Spanish>Te has ofrecido voluntario para realizar una evaluación de daños del pueblo de Ishfaq, pero antes debes informar al teniente Ali del ENA de que te diriges allí para que su equipo pueda proporcionarte apoyo. Una vez que hayas hablado con el teniente Ali, dirígete a Ishfaq y reúnete con Brian en el lado sur, luego peina la zona hacia el norte e informa.</Spanish>
@@ -63,8 +68,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_action_1M12">
-        <English>Lt. Ali: Ishfaq BDA</English>
-        <Spanish>Tte. Ali: evaluación de daños de Ishfaq</Spanish>
+        <English>speak to Lt. Ali</English>
+        <Spanish>hablar con el Tte. Ali</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_1_Description_1M12">
@@ -118,8 +123,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_action_1M12">
-        <English>Sgt. Riley: Compound overwatch</English>
-        <Spanish>Sgto. Riley: vigilar el complejo</Spanish>
+        <English>speak to Riley</English>
+        <Spanish>hablar con Riley</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_1_Description_1M12">
@@ -163,8 +168,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_obj3_action_1M12">
-        <English>Cpt. Bruce: Zangabar patrol</English>
-        <Spanish>Cap. Bruce: patrullar Zangabar</Spanish>
+        <English>speak to Bruce</English>
+        <Spanish>hablar con Bruce</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_obj3_1_Description_1M12">

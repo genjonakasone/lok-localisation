@@ -268,8 +268,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_supplies_action_1M3">
-        <English>Radio supplies located</English>
-        <Spanish>Informar de los suministros</Spanish>
+        <English>report supplies located</English>
+        <Spanish>informar de los suministros</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_supplies_marker_1M3">

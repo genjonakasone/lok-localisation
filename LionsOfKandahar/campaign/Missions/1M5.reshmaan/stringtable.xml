@@ -528,13 +528,13 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_kuchi_ied_action_1M5">
-        <English>Ask: IED Location</English>
-        <Spanish>Preguntar ubicación del IED</Spanish>
+        <English>ask for IED location</English>
+        <Spanish>preguntar ubicación del IED</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_kuchi_activity_action_1M5">
-        <English>Ask: Enemy activity</English>
-        <Spanish>Preguntar por la actividad enemiga</Spanish>
+        <English>ask for enemy activity</English>
+        <Spanish>preguntar por la actividad enemiga</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_spotted_hint_1M5">
@@ -558,13 +558,13 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_notebook_action_1M5">
-        <English>Pick up the notebook</English>
-        <Spanish>Coger el cuaderno</Spanish>
+        <English>pick up the notebook</English>
+        <Spanish>coger el cuaderno</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_intel_action_1M5">
-        <English>Pick up bomb plans</English>
-        <Spanish>Coger planos de bombas</Spanish>
+        <English>pick up bomb plans</English>
+        <Spanish>coger planos de bombas</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_supplies_marker_1M5">

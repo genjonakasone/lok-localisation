@@ -93,8 +93,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_4_action_1M8">
-        <English>Report to Jared</English>
-        <Spanish>Presentarse ante Jared</Spanish>
+        <English>report to Jared</English>
+        <Spanish>presentarse ante Jared</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_Description_1M8">
@@ -118,8 +118,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_1_action_1M8">
-        <English>Talk to Zack</English>
-        <Spanish>Hablar con Zack</Spanish>
+        <English>talk to Zack</English>
+        <Spanish>hablar con Zack</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_2_Description_1M8">
@@ -143,8 +143,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_2_action_1M8">
-        <English>Talk to Shinsha</English>
-        <Spanish>Hablar con Shinsha</Spanish>
+        <English>talk to Shinsha</English>
+        <Spanish>hablar con Shinsha</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_4_Description_1M8">
@@ -497,11 +497,6 @@
         <Spanish>No podía estar mucho tiempo fuera. Hasta he traído cositas: suficiente Copenhagen y Gatorade en polvo para todos.</Spanish>
         <Polish></Polish>
       </Key>
-	  <Key ID="STR_LOK_mortarhint_stop_1M8">
-        <English>Hint: To set up the mortar, aim at the tripod bag while carrying the mortar backpack and select 'Assemble Mk6 Mortar' from the actions menu.</English>
-        <Spanish>Consejo: Para montar el mortero, pon el punto de mira en la bolsa con el trípode mientras cargas con la mochila del mortero y selecciona la acción «Montar Mortero Mk6» del menú de acciones.</Spanish>
-        <Polish></Polish>
-      </Key>
 	  <Key ID="STR_LOK_mortarhint2_stop_1M8">
         <English>Don't forget to use the handy Artillery Computer! Check the grid markings Bill will provide to the mortar team, line them up, choose a proper distance and send those shells flying!</English>
         <Spanish>¡No te olvides de usar la calculadora de artillería! Escucha las coordenadas que dará Bill al equipo de morteros, alinéalas, elige la carga y distancia adecuadas ¡y a lanzar proyectiles!</Spanish>
@@ -535,6 +530,11 @@
 	  <Key ID="STR_LOK_civishit_hint_1M8">
         <English>You just killed a civilian!</English>
         <Spanish>¡Acabas de matar a un civil!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_setupmortar_action_1M8">
+        <English>set up the mortar</English>
+        <Spanish>montar el mortero</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_end1_subtitle_1M8">

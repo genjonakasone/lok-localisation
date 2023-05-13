@@ -38,8 +38,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_obja_Description_1B2">
-        <English>Command has been seriously giving us the cold shoulder. We have few vehicles, no tanks like the rest of the squadrons have, we don't even have enough NVGs to go on the offensive at night against a much technologically inferior Taliban. Fortunately, the Americans at Firebase Toledo have agreed to graciously lend us some of their NVGs. On the flip side and to cancel out that favour, they refuse to go all the way down to FOB Sherbrooke, so you'll have to move to Toledo in person.</English>
-        <Spanish>El alto mando nos ha estado haciendo el vacío. Tenemos pocos vehículos, no tenemos tanques como el resto de los escuadrones, ni siquiera tenemos suficientes gafas de visión nocturna para realizar ofensivas de noche contra unos talibanes muy tecnológicamente inferiores. Por suerte, los estadounidenses de la Base Toledo han aceptado cedernos algunas de sus gafas. Lo malo es que se niegan a venir hasta la BOA Sherbrooke, así que tendrás que ir a Toledo en persona.</Spanish>
+        <English>Command has been seriously giving us the cold shoulder. We have few vehicles, the ones we have are in poor state, we don't even have enough NVGs to go on the offensive at night against a much technologically inferior Taliban. Fortunately, the Americans at Firebase Toledo have agreed to graciously lend us some of their NVGs. On the flip side and to cancel out that favour, they refuse to go all the way down to FOB Sherbrooke, so you'll have to move to Toledo in person.</English>
+        <Spanish>El alto mando nos ha estado haciendo el vacío. Tenemos pocos vehículos, los que tenemos están en mal estado, ni siquiera tenemos suficientes gafas de visión nocturna para realizar ofensivas de noche contra unos talibanes muy tecnológicamente inferiores. Por suerte, los estadounidenses de la Base Toledo han aceptado cedernos algunas de sus gafas. Lo malo es que se niegan a venir hasta la BOA Sherbrooke, así que tendrás que ir a Toledo en persona.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_obja_Title_1B2">
@@ -193,8 +193,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_objRTB_Action_1B2">
-        <English>Report back</English>
-        <Spanish>Presentarse</Spanish>
+        <English>report back</English>
+        <Spanish>presentarte</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_objGather_Description_1B2">
@@ -258,13 +258,13 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_AskTalibanActivity_Action_1B2">
-        <English>Taliban activity?</English>
-        <Spanish>¿Actividad talibán?</Spanish>
+        <English>ask for enemy activity</English>
+        <Spanish>preguntar sobre actividad enemiga</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_AskWhatsWrong_Action_1B2">
-        <English>What's wrong?</English>
-        <Spanish>¿Qué pasa?</Spanish>
+        <English>ask what's wrong</English>
+        <Spanish>preguntar qué pasa</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_AfghanCitizen_Dialogue_1B2">
@@ -1163,8 +1163,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_intel_action_1B2">
-        <English>Pick up bomb plans</English>
-        <Spanish>Coger planos de bombas</Spanish>
+        <English>pick up bomb plans</English>
+        <Spanish>coger planos de bombas</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_end1_subtitle_1B2">

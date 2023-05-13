@@ -93,8 +93,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_optObj_Dave_Action_1M1">
-        <English>Speak to Dave</English>
-        <Spanish>Hablar con Dave</Spanish>
+        <English>speak to Dave</English>
+        <Spanish>hablar con Dave</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_optObj_Zack_Description_1M1">
@@ -108,8 +108,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_optObj_Zack_Action_1M1">
-        <English>Speak to Zack</English>
-        <Spanish>Hablar con Zack</Spanish>
+        <English>speak to Zack</English>
+        <Spanish>hablar con Zack</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_optObj_Brian_Description_1M1">
@@ -123,13 +123,13 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_optObj_Brian_Action_1M1">
-        <English>Speak to Brian</English>
-        <Spanish>Hablar con Brian</Spanish>
+        <English>speak to Brian</English>
+        <Spanish>hablar con Brian</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_optObj_Bolduc_Action_1M1">
-        <English>Report in</English>
-        <Spanish>Presentarse</Spanish>
+        <English>report in</English>
+        <Spanish>presentarte</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_checkinofficer_1M1">
@@ -588,7 +588,7 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_text3_1M1">
-        <English>&lt;t size='1.5'&gt;Somehow, I rested easy that afternoon. Now, at least, we had a plan that reflected what the bigger picture should or would look like and we worked feverishly toward implementing it. This was a mere micro picture of what needed to be established across the entire country.&lt;br/&gt;&lt;br/&gt;A simple Thai proverb says it all: 'How do you eat an elephant? One bite at a time.&lt;/t&gt;</English>
+        <English>&lt;t size='1.5'&gt;Somehow, I rested easy that afternoon. Now, at least, we had a plan that reflected what the bigger picture should or would look like and we worked feverishly toward implementing it. This was a mere micro picture of what needed to be established across the entire country.&lt;br/&gt;&lt;br/&gt;A simple Thai proverb says it all: 'How do you eat an elephant? One bite at a time.'&lt;/t&gt;</English>
         <Spanish>&lt;t size='1.5'&gt;De alguna forma, dormí bien esa tarde. Ahora, al menos, teníamos un plan que reflejaba cómo sería o debía ser el panorama general, y trabajamos frenéticamente para implementarlo. Esto no era más que un micropanorama de lo que había que imponer en todo el país.&lt;br/&gt;&lt;br/&gt;Un simple proverbio tailandés lo explica: «¿Cómo comerse un elefante? De mordisco en mordisco».&lt;/t&gt;</Spanish>
         <Polish></Polish>
       </Key>
@@ -610,6 +610,11 @@
 	  <Key ID="STR_LOK_DJ_hint_1M1">
         <English>DJ Dave played:\nBvdub - A Moment's Peace</English>
         <Spanish>DJ Dave ha puesto:\nBvdub - A Moment's Peace</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_checkinaction_1M1">
+        <English>check in</English>
+        <Spanish>registrarte</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_markerRegistration_1M1">

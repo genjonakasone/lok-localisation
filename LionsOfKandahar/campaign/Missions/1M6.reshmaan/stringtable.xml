@@ -267,6 +267,11 @@
         <Spanish>*tose* Roostie.</Spanish>
         <Polish></Polish>
       </Key>
+	  <Key ID="STR_LOK_message5_2_1M6">
+        <English>Sahar pakair, Komandan. Good morning.</English>
+        <Spanish>*Sahar pakair, Komandan. Buenos días.</Spanish>
+        <Polish></Polish>
+      </Key>
 	  <Key ID="STR_LOK_message6_1M6">
         <English>Do you see there are still civilians fleeing Panjwayi?</English>
         <Spanish>¿Ve que aún hay civiles huyendo de Panjwai?</Spanish>

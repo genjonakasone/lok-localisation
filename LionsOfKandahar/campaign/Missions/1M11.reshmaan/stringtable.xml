@@ -53,8 +53,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_action_1M11">
-        <English>Call AC-130</English>
-        <Spanish>Llamar al AC-130</Spanish>
+        <English>call AC-130</English>
+        <Spanish>llamar al AC-130</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_AC_Description_1M11">
@@ -192,7 +192,7 @@
         <Spanish>OTRAS CARACTERÍSTICAS: Puedes cambiar entre visión nocturna y termal pulsando la tecla de visión nocturna (N por defecto). También puedes marcar varias posiciones en la interfaz a través del menú de acciones: «Mark RP» para puntos de referencia, «Mark HP» para puntos hostiles y «Mark FP» para puntos aliados. Puede ser útil en esta misión, yo recomiendo marcar Sperwan Ghar como una posición aliada.</Spanish>
         <Polish></Polish>
       </Key>
-	  <Key ID="STR_LOK_AC130_hint2_1M11">
+	  <Key ID="STR_LOK_AC130_hint4_1M11">
         <English>TEAM SWITCH: By pressing the team switch key (default: U), you'll be able to switch between Dave and the AC-130 TV operator all you want. Keep in mind however that you'll be vulnerable as Dave on the ground and that an AI AC-130 will not complete the mission on its own.</English>
         <Spanish>CAMBIO DE PERSONAJE: Al pulsar la tecla de cambio de equipo (U por defecto), podrás cambiar entre Dave y el operador de TV del AC-130 todo lo que quieras. No obstante, ten en cuenta que serás vulnerable como Dave en el terreno y que un AC-130 de la IA no completará la misión por su cuenta.</Spanish>
         <Polish></Polish>
@@ -334,6 +334,11 @@
       </Key>
 	  <Key ID="STR_LOK_callmessage3_1M11">
         <English>Much obliged, Wraith 19. Watch out for the strobe lights atop the hill, those are us! Happy hunting, out.</English>
+        <Spanish>Muchas gracias, Wraith 19. ¡Atención a las luces estroboscópicas en la cima de la colina, esos somos nosotros! Feliz caza, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_callmessage4_1M11">
+        <English>Shit, we lost our connection. Let me try again.</English>
         <Spanish>Muchas gracias, Wraith 19. ¡Atención a las luces estroboscópicas en la cima de la colina, esos somos nosotros! Feliz caza, corto.</Spanish>
         <Polish></Polish>
       </Key>
