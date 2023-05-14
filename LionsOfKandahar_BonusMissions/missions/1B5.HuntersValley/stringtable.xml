@@ -190,7 +190,7 @@
 	  <Key ID="STR_LOK_aushq_radio_1B5">
         <English>Arrow 10 (Lt. Col. Smethurst)</English>
         <Spanish>Arrow 10 (Tte. Cnel. Smethurst)</Spanish>
-        <Polish>Strzała 10 (Ppłk Smethurst</Polish>
+        <Polish>Strzała 10 (Ppłk Smethurst)</Polish>
       </Key>
 	  <Key ID="STR_LOK_chinook1_1B5">
         <English>CHINOOK PILOT</English>
@@ -225,7 +225,7 @@
 	  <Key ID="STR_LOK_JTFSniperTeam_radio_1B5">
         <English>Hawk 13 (Cpt. Blackwell)</English>
         <Spanish>Halcón 13 (Cap. Blackwell)</Spanish>
-        <Polish>Jastrząb 13 (Kpt. Blackwell</Polish>
+        <Polish>Jastrząb 13 (Kpt. Blackwell)</Polish>
       </Key>
 	  <Key ID="STR_LOK_JTFSniperTeam_dialogue_1B5">
         <English>CPT. BLACKWELL</English>
@@ -750,7 +750,7 @@
 	  <Key ID="STR_LOK_AC130instructions_2_1B5">
         <English>To request AC-130 support: simply aim at the position you want to suppress and use your radio (0-0-) to request a specific type of ordnance from the gunship. Each ordnance has its own cooldown, so play your cards wisely. Also, be advised that support won't be instant: the JTAC has to call it in, the gunship has to zero in, and the rounds have to reach their target. All types of ordnance and their respective cooldown times: 100-round 25mm burst (cooldown: 37s), eight 40mm rounds (cooldown: 45s), one 105mm shell (cooldown: 44s), all at once (cooldown: 1m 15s).</English>
         <Spanish>Para solicitar apoyo del AC-130: apunta a la posición que quieras contener y usa la radio (0-0-) para solicitar un tipo concreto de munición del avión artillado. Cada munición tiene su propio tiempo de recarga, así que juega bien tus carats. También ten en cuenta que el apoyo no será instantáneo: el JTAC tiene que pedirlo, el avión tiene que calibrar y los proyectiles tienen que llegar al blanco. Todos los tipos de munición y sus respectivos tiempos de recarga: ráfaga de 100 proyectiles de 25 mm (recarga: 37 s), ocho proyectiles de 40 mm (recarga: 45 s), un proyectil de 105 mm (recarga: 44 s), todo a la vez (recarga: 1 m 15 s).</Spanish>
-        <Polish>By wezwać wsparcie AC-180: wyceluj w pozycję, którą chchesz postrzelać, następnie skorzystaj z radia (0-0-) by poprosić o konkretny typ uzbrojenia. Każdy z nich ma osobny czas przeładowania, więc ostrożnie dobieraj broń do zagrożenia. Pamiętaj też, że wsparcie nie zadziała od razu: JTAC musi najpierw je wezwać, potem samolot musi namierzyć cel, a pociski muszą fizycznie przelecieć od samolotu do celu. Wszystkie rodzaje uzbrojenia i ich czas przeładowania: 100-nabojowa seria 25mm (czas przeładowania: 37 sek.), osiem granatów 40mm (czas przeładowania: 45 sek.), jeden pocisk 105mm (czas przeładowania: 44 sek.), wszystko naraz (czas przeładowania: 1 min. 15 sek.</Polish>
+        <Polish>By wezwać wsparcie AC-180: wyceluj w pozycję, którą chchesz postrzelać, następnie skorzystaj z radia (0-0-) by poprosić o konkretny typ uzbrojenia. Każdy z nich ma osobny czas przeładowania, więc ostrożnie dobieraj broń do zagrożenia. Pamiętaj też, że wsparcie nie zadziała od razu: JTAC musi najpierw je wezwać, potem samolot musi namierzyć cel, a pociski muszą fizycznie przelecieć od samolotu do celu. Wszystkie rodzaje uzbrojenia i ich czas przeładowania: 100-nabojowa seria 25mm (czas przeładowania: 37 sek.), osiem granatów 40mm (czas przeładowania: 45 sek.), jeden pocisk 105mm (czas przeładowania: 44 sek.), wszystko naraz (czas przeładowania: 1 min. 15 sek.)</Polish>
       </Key>
 	  <Key ID="STR_LOK_RVPoint_marker_1B5">
         <English>QRF</English>
