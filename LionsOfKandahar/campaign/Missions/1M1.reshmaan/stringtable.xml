@@ -95,7 +95,7 @@
 	  <Key ID="STR_LOK_optObj_Dave_Action_1M1">
         <English>speak to Dave</English>
         <Spanish>hablar con Dave</Spanish>
-        <Polish>rozmawiaj z Davem</Polish>
+        <Polish>Rozmawiaj z Davem</Polish>
       </Key>
 	  <Key ID="STR_LOK_optObj_Zack_Description_1M1">
         <English>Zack is your team's weapons sergeant. He makes sure you and your teammates have well-maintained weaponry. Speak to him if you would like to know more.</English>
@@ -110,7 +110,7 @@
 	  <Key ID="STR_LOK_optObj_Zack_Action_1M1">
         <English>speak to Zack</English>
         <Spanish>hablar con Zack</Spanish>
-        <Polish>rozmawiaj z Zackiem</Polish>
+        <Polish>Rozmawiaj z Zackiem</Polish>
       </Key>
 	  <Key ID="STR_LOK_optObj_Brian_Description_1M1">
         <English>Brian is your team's communications specialist. You can rest assured that any radio he hands you will be in top-working order. Lt. Col. Bolduc says he is hanging out in the killhouse nearby. Speak to him if you would like to know more.</English>
@@ -125,12 +125,12 @@
 	  <Key ID="STR_LOK_optObj_Brian_Action_1M1">
         <English>speak to Brian</English>
         <Spanish>hablar con Brian</Spanish>
-        <Polish>rozmawiaj z Brianem</Polish>
+        <Polish>Rozmawiaj z Brianem</Polish>
       </Key>
 	  <Key ID="STR_LOK_optObj_Bolduc_Action_1M1">
         <English>report in</English>
         <Spanish>presentarte</Spanish>
-        <Polish>zgłoś się</Polish>
+        <Polish>Zgłoś się</Polish>
       </Key>
 	  <Key ID="STR_LOK_checkinofficer_1M1">
         <English>CHECK-IN OFFICER</English>
@@ -530,7 +530,7 @@
 	  <Key ID="STR_LOK_obj1intermission2_1M1">
         <English>&lt;t size='1.5'&gt;Our unit, ODA 331, is currently stationed at Firebase Maholic, where they are helping to train Shinsha's troops in the 2nd Battalion, 3rd Kandak. You and your team will report to Firebase Maholic later this evening to assist with the training until further notice.&lt;/t&gt;</English>
         <Spanish>&lt;t size='1.5'&gt;Nuestra unidad, la ODA 331, está destinada en la Base Maholic, donde ayudan a entrenar a las tropas de Shinsha en el 2.º Batallón, 3.er Kandak. Tu equipo y tú os presentaréis en la Base Maholic esta noche para echar una mano hasta nuevo aviso.&lt;/t&gt;</Spanish>
-        <Polish>&lt;t size='1.5'&gt;Nasza jednostka, ODA 331, obecnie stacjonuje w bazie ogniowej Maholic, gdzie pomaga trenować żołnierzy Shinshy z 2. Batalionu, 3 Kandaku. Ty i twój oddział zgłosi się do Maholic późniejszym wieczorem, by wesprzeć ich w treningu aż do następnego polecenia.&lt;/t&gt;</Polish>
+        <Polish>&lt;t size='1.5'&gt;Nasza jednostka, ODA 331, obecnie stacjonuje w bazie ogniowej Maholic, gdzie pomaga trenować żołnierzy Shinshy z 2. Batalionu, 3 Kandaku. Ty i twój oddział zgłosicie się do Maholic późniejszym wieczorem, by wesprzeć ich w treningu aż do następnego polecenia.&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1intermission3_1M1">
         <English>&lt;t size='1.5'&gt;E I G H T   H O U R S   L A T E R . . .&lt;/t&gt;</English>
@@ -580,12 +580,12 @@
 	  <Key ID="STR_LOK_obj2_text1_1M1">
         <English>&lt;t size='1.5'&gt;In truth, I was deeply troubled about what I was hearing from Shinsha and fellow US soldiers about the situation in Kandahar. By the end of last year, the Talibs wouldn't dare to show their face on the streets of the city. Although I was angry to hear how bad things had gotten, how all our progress from the last year had been reversed, it only strengthened my resolve.&lt;/t&gt;</English>
         <Spanish>&lt;t size='1.5'&gt;En verdad, estaba bastante preocupado por lo que Shinsha y los demás soldados estadounidenses contaban sobre la situación en Kandahar. Para finales del año pasado, los talis no se atrevían a dar la cara en las calles de la ciudad. Aunque me enfurecía escuchar lo mal que se habían puesto las cosas, cómo todo nuestro progreso del año pasado se había ido al garete, eso no hacía sino reforzar mi determinación.&lt;/t&gt;</Spanish>
-        <Polish>&lt;t size='1.5'&gt;Prawdę mówiąc byłem bardzo przejęty tym, co słyszałem od Shinshy i amerykańskich żołnierzy o sytuacji w Kandaharze. Do końca roku Talibowie nie śmieliby pokazać swoich twarzy w mieście. Choć byłem zły na to, jak źle się tu wszystko potoczyła, jak bardzo cofnęły się nasze postępy z zeszłego roku, to tylko wzmocniło moją chęć bycia tutaj.&lt;/t&gt;</Polish>
+        <Polish>&lt;t size='1.5'&gt;Prawdę mówiąc, byłem bardzo przejęty tym, co słyszałem od Shinshy i amerykańskich żołnierzy o sytuacji w Kandaharze. Do końca roku Talibowie nie śmieliby pokazać swoich twarzy w mieście. Choć byłem zły na to, jak źle się tu wszystko potoczyła, jak bardzo cofnęły się nasze postępy z zeszłego roku, to tylko wzmocniło moją chęć bycia tutaj.&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_text2_1M1">
         <English>&lt;t size='1.5'&gt;Our route to Firebase Maholic was a dangerous one, even when things were calm last year. The ANA maintained a guardpost outside the town of Bahijah, mostly to help protect KAF. The high volume of bombings, IEDs, and brazen assaults by Taliban fighters had earned it the nickname, 'IED Alley.' Our patrol route would pass right through it, so we prepared for the worst.&lt;/t&gt;</English>
         <Spanish>&lt;t size='1.5'&gt;Nuestra ruta hacia la Base Maholic era peligrosa, aunque todo estuviese en calma el año pasado. El ENA dirigía un puesto de guardia a las afueras de la ciudad de Bahijah, sobre todo para ayudar a proteger el Aeropuerto de Kandahar. El gran número de bombardeos, artefactos explosivos improvisados y ataques descarados de combatientes talibanes le había valido el apodo del «callejón de los IED». Nuestra ruta de patrulla pasaría justo por allí, así que nos preparamos para lo peor.&lt;/t&gt;</Spanish>
-        <Polish>&lt;t size='1.5'&gt;Nasza trasa do bazy ogniowej Maholic była niebezpieczne, nawet w zeszłym roku, gdy było względnie spokojnie. NAA utrzymywała posterunek na granicy miasta Bahija, głównie po to, by pomagać w ochronie KAF. Częstotliwość ataków bombowych, podkładania IEDów i dumnych napadów przez Talibów spowodowała, że główną ulicę miasteczka nazywano "aleją IEDów". Droga patrolu prowadziłaby prosto przez nią, więc przygotowaliśmy się na najgorsze.&lt;/t&gt;</Polish>
+        <Polish>&lt;t size='1.5'&gt;Nasza trasa do bazy ogniowej Maholic była niebezpieczn, nawet w zeszłym roku, gdy było względnie spokojnie. NAA utrzymywała posterunek na granicy miasta Bahija, głównie po to, by pomagać w ochronie KAF. Częstotliwość ataków bombowych, podkładania IEDów i dumnych napadów przez Talibów spowodowała, że główną ulicę miasteczka nazywano "aleją IEDów". Droga patrolu prowadziłaby prosto przez nią, więc przygotowaliśmy się na najgorsze.&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj2_text3_1M1">
         <English>&lt;t size='1.5'&gt;Somehow, I rested easy that afternoon. Now, at least, we had a plan that reflected what the bigger picture should or would look like and we worked feverishly toward implementing it. This was a mere micro picture of what needed to be established across the entire country.&lt;br/&gt;&lt;br/&gt;A simple Thai proverb says it all: 'How do you eat an elephant? One bite at a time.'&lt;/t&gt;</English>
@@ -615,7 +615,7 @@
 	  <Key ID="STR_LOK_checkinaction_1M1">
         <English>check in</English>
         <Spanish>registrarte</Spanish>
-        <Polish>zameldować się</Polish>
+        <Polish>Zamelduj się</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerRegistration_1M1">
         <English>Arrivals Registration</English>

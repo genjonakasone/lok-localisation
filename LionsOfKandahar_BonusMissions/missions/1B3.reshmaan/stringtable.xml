@@ -560,7 +560,7 @@
 	  <Key ID="STR_LOK_intro_intermission_1B3">
         <English>&lt;t size='1.5'&gt;K A N D A H A R   A I R F I E L D&lt;/t&gt;&lt;br/&gt;&lt;t size='1.0'&gt;S E P T E M B E R   1,   2 0 0 6&lt;/t&gt;</English>
         <Spanish>&lt;t size='1.5'&gt;A E R O P U E R T O   D E   K A N D A H A R&lt;/t&gt;&lt;br/&gt;&lt;t size='1.0'&gt;1   D E   S E P T I E M B R E   D E   2 0 0 6&lt;/t&gt;</Spanish>
-        <Polish>&lt;t size='1.5'&gt;L O T N I S K O   K A N D A H A R&lt;/t&gt;&lt;br/&gt;&lt;t size='1.0'&gt;1   W R Z E Ś N I A ,   2 0 0 6    R .&lt;/t&gt;</Polish>
+        <Polish>&lt;t size='1.5'&gt;L O T N I S K O   K A N D A H A R&lt;/t&gt;&lt;br/&gt;&lt;t size='1.0'&gt;1   W R Z E Ś N I A ,   2 0 0 6   R .&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerCrashSite_1B3">
         <English>British Crash Site</English>
