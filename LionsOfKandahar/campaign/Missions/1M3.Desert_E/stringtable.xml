@@ -10,7 +10,7 @@
 	  <Key ID="STR_LOK_BriefingCommand_Text_1M3">
         <English>A. Signal:&lt;br/&gt; Eagle 10 Actual - Lt. Col. BOLDUC (TF 31 CO)&lt;br/&gt; Lion 1 Actual - Col. SHINSHA (ANA Kandahar Bgde. CO)&lt;br/&gt; Talon 30 Actual - Col. JARED (ODA 331 CO)&lt;br/&gt; Talon 26 - Cpt. HODGE&lt;br/&gt; Talon 31 - Cpt. RUSTY (you)&lt;br/&gt; Talon 36 - Cpt. BRUCE&lt;br/&gt; Mustang 51 - MEDEVAC</English>
         <Spanish>A. Señal:&lt;br/&gt; Eagle 10 Jefe: Tte. Cnel. BOLDUC (oficial al mando de la TF 31)&lt;br/&gt; León 1 Jefe: Cnel. SHINSHA (oficial al mando de la brig. de Kandahar del ENA)&lt;br/&gt; Talon 30 Jefe: Cnel. JARED (oficial al mando de la ODA 331)&lt;br/&gt; Talon 26: Cap. HODGE&lt;br/&gt; Talon 31: Cap. RUSTY (tú)&lt;br/&gt; Talon 36: Cap. BRUCE&lt;br/&gt; Mustang 51: MEDEVAC</Spanish>
-        <Polish>A. SYGNAŁY WYWOŁAWCZE:&lt;br/&gt; Orzeł 10 Actual - Ppłk BOLDUC (Ofic. Dow. TF31)&lt;br/&gt; Lew 1 Actual - Płk. SHINSHA (Ofic. Dow. Bryg. Kandahar NAA)&lt;br/&gt; Talon 30 Actual - Płk. JARED (Ofic. Dow. ODA 331)&lt;br/&gt; Talon 26 - Kpt. HODGE&lt;br/&gt; Talon 31 - Kpt. RUSTY (ty)&lt;br/&gt; Talon 36 - Kpt. BRUCE&lt;br/&gt; Mustang 51 - MEDEVAC</Polish>
+        <Polish>A. SYGNAŁY WYWOŁAWCZE:&lt;br/&gt; Orzeł 10 Actual - Ppłk BOLDUC (Ofic. dow. TF31)&lt;br/&gt; Lew 1 Actual - Płk SHINSHA (Ofic. dow. Bryg. Kandahar NAA)&lt;br/&gt; Talon 30 Actual - Płk JARED (Ofic. dow. ODA 331)&lt;br/&gt; Talon 26 - Kpt. HODGE&lt;br/&gt; Talon 31 - Kpt. RUSTY (ty)&lt;br/&gt; Talon 36 - Kpt. BRUCE&lt;br/&gt; Mustang 51 - MEDEVAC</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingSustainment_Text_1M3">
         <English>1. Supply: Standard US SOF Desert BDUs and ACUs or fleece jackets, CIRAS vests, MICH2001 helmets, standard issue US small arms including M16s, M4A1 carbines, MP5 SMGs, Mossberg shotguns, M249 and Mk 48 SAWs, and Mk 12, M24, SR-25, and M107 sniper rifles.&lt;br/&gt;2. Transportation: Talon 31 will make use of 2x HMMWV Ground Mobility Vehicles (GMVs).&lt;br/&gt;3. Services: Vehicle Repair capability at starting position, provided the vehicle can make it back.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Talon 31 has 3x Embedded Medical Sergeants, in the event of a mission failure due to substantial casualties, Talon 30 Actual will authorize CASEVAC and insertion by ODA 331 QRF.</English>
@@ -35,7 +35,7 @@
 	  <Key ID="STR_LOK_Briefing_Text_1M3">
         <English>After leaving Firebase Maholic, the motorized convoy made up of American SOF unit ODA 331 and the Afghan National Army's 2nd Battalion, 3rd Kandak will cross the Red Desert south of Kandahar in order to draw Taliban attention from the Panjwayi Valley, where a larger offensive is planned involving NATO forces. Monitored Taliban radio chatter has revealed the location of numerous checkpoints within the Area of Operations (AO) which block our route to a much-needed supply drop south of their positions and the Panjwayi Valley beyond. We must break through and reach those supplies or the convoy will be in trouble.</English>
         <Spanish>Tras abandonar la Base Maholic, el convoy motorizado compuesto por la unidad de operaciones especiales estadounidense ODA 331 y el 2.º Batallón, 3er Kandak del Ejército Nacional Afgano cruzará el Desierto Rojo al sur de Kandahar para desviar la atención talibán del distrito de Panjwai, donde se ha planificado una ofensiva mayor con fuerzas de la OTAN. La actividad de radio talibán monitorizada ha revelado la ubicación de numerosos puntos de control en el área de operaciones (AO), que bloquean nuestra ruta a una entrega de suministros muy necesaria al sur de sus posiciones y el distrito de Panjwai más allá. Debemos atravesar sus defensas y llegar a esos suministros o el convoy estará en problemas.</Spanish>
-        <Polish>Po opuszczeniu bazy ogniowej Maholic, zmotoryzowany konwój złożony z amerykańskiej jednostki sił specjalnych ODA 331 i 2. Batalionu 3. Kandaku Narodowej Armii Afganistanu przekroczy Czerwoną Pustynię na południe od Kandaharu, w celu odciągnięcia uwagi Talibanu od doliny Pandżwai, którędy przemieści się dużo większa ofensywa złożona z sił NATO. Śledzenie ruchu radiowego Talibanu wykazało położonie wielu punktów kontrolnych w strefie operacyjnej (AO), które blokują naszą trasę do bardzo potrzebnego zrzutu zaopatrzenia na południu od ich pozycji, zagradzają też drogę do samej doliny Pandżwai. Musimy przełamać wrogą obronę i dostać się do tych zapasów albo konwój będzie mieć problem.</Polish>
+        <Polish>Po opuszczeniu bazy ogniowej Maholic, zmotoryzowany konwój złożony z amerykańskiej jednostki sił specjalnych ODA 331 i 2. Batalionu 3. Kandaku Narodowej Armii Afganistanu przekroczy Czerwoną Pustynię na południe od Kandaharu, w celu odciągnięcia uwagi Talibanu od doliny Pandżwai, którędy przemieści się dużo większa ofensywa złożona z sił NATO. Śledzenie ruchu radiowego Talibanu wykazało położenie wielu punktów kontrolnych w strefie operacyjnej (AO), które blokują naszą trasę do bardzo potrzebnego zrzutu zaopatrzenia na południu od ich pozycji, zagradzają też drogę do samej doliny Pandżwai. Musimy przełamać wrogą obronę i dostać się do tych zapasów albo konwój będzie mieć problem.</Polish>
       </Key>
 	  <Key ID="STR_LOK_obj1_Description_1M3">
         <English>From the &lt;marker name="markerODA331"&gt;starting position&lt;/marker&gt;, Talon 30 will assault Taliban positions at &lt;marker name="markerCheckpoint14"&gt;Checkpoint 14&lt;/marker&gt; and &lt;marker name="markerCheckpoint15"&gt;Checkpoint 15&lt;/marker&gt;, eliminating any hostile forces, supplies or munitions at these locations.</English>
@@ -115,7 +115,7 @@
 	  <Key ID="STR_LOK_MissionDescription_1M3">
         <English>After leaving Kandahar due south, you must now cross part of the Red Desert to reach the Panjwayi Valley, clearing two enemy checkpoints and securing an airdrop of supplies along the way.</English>
         <Spanish>Después de abandonar Kandahar en dirección al sur, debes cruzar parte del Desierto Rojo para llegar al distrito de Panjwai, despejando dos puntos de control enemigos y asegurando una entrega aérea de suministros a lo largo del camino.</Spanish>
-        <Polish>Po opuszczeniu Kandaharu na południe musisz przekroczyć część Czerwonej Pustyni, by dotrzeć do doliny Pandżwai, po drodze oczyszczając dwa punkty kontrolne i zabezpieczając zrzut zaopatrzenia.</Polish>
+        <Polish>Po opuszczeniu Kandaharu w kierunku południowym, musicie przekroczyć część Czerwonej Pustyni, by dotrzeć do doliny Pandżwai, po drodze oczyszczając dwa punkty kontrolne i zabezpieczając zrzut zaopatrzenia.</Polish>
       </Key>
 	  <Key ID="STR_LOK_intro_text_1M3">
         <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER III - Red Desert&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'The journey of a thousand miles begins with one step, and a lot of bitching.'&lt;br/&gt;&lt;br/&gt;-UNKNOWN&lt;/t&gt;</English>
@@ -270,7 +270,7 @@
 	  <Key ID="STR_LOK_supplies_action_1M3">
         <English>report supplies located</English>
         <Spanish>informar de los suministros</Spanish>
-        <Polish>zgłoś położenie zrzutu</Polish>
+        <Polish>Zgłoś położenie zrzutu</Polish>
       </Key>
 	  <Key ID="STR_LOK_supplies_marker_1M3">
         <English>Supply drop</English>
@@ -285,7 +285,7 @@
 	  <Key ID="STR_LOK_end1_description_1M3">
         <English>You managed to eliminate two remote Taliban checkpoints, disrupting their 'rat trail' supply lines, and you located our vital supply drop, which will ensure we can continue through the desert, all while managing to keep your squad alive. Good work, but the fight has barely started.</English>
         <Spanish>Has conseguido eliminar dos puntos de control talibanes remotos, perturbando sus líneas de suministro, y has localizado nuestra vital entrega de suministros, que garantizará que podamos continuar por el desierto, todo mientras te las arreglabas para mantener a tu escuadrón con vida. Buen trabajo, pero la lucha acaba de empezar.</Spanish>
-        <Polish>Zdołałeś wyeliminować dwa odległe posterunki Talibanu, tym samym niszcząć ich szlak zaopatrzeniowy. Zlokalizowałeś też miejsce krytycznego dla nas zrzutu, który pozwoli konwojowi na przebycie reszty pustyni, a wszystko to nie ponosząc jakichkolwiek strat. Dobra robota, ale walko dopiero się rozpoczęła.</Polish>
+        <Polish>Zdołałeś wyeliminować dwa posterunki Talibanu, tym samym niszcząc ich szlak zaopatrzeniowy. Zlokalizowałeś też miejsce krytycznego dla nas zrzutu, który pozwoli konwojowi na przebycie reszty pustyni, a wszystko to nie ponosząc jakichkolwiek strat. Dobra robota, ale walko dopiero się rozpoczęła.</Polish>
       </Key>
     </Container>
   </Package>
