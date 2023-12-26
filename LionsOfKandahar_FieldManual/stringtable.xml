@@ -3,8 +3,8 @@
   <Package name="LionsOfKandahar_FieldManual">
     <Container name="STR_DN">
 	<Key ID="STR_LOK_FieldManual">
-        <English>Lions of Kandahar: Field Manual</English>
-        <Spanish>Leones de Kandahar: Manual de campo</Spanish>
+        <English>Enduring Freedom: Field Manual</English>
+        <Spanish>Libertad Duradera: Manual de campo</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FieldManual_Vanilla">
@@ -32,14 +32,9 @@
         <Spanish>Ejército canadiense</Spanish>
         <Polish></Polish>
       </Key>
-	  <Key ID="STR_LOK_FM_Canadians_short">
-        <English>1 RCR</English>
-        <Spanish>1 RCR</Spanish>
-        <Polish></Polish>
-      </Key>
 	  <Key ID="STR_LOK_FM_Canadians_Description">
-        <English>As part of ISAF, %3Canada%4 has been the %3largest contributor%4 of ground troops to Afghanistan during the earlier years of the war. Canadian involvement in %3Operation Enduring Freedom%4 has been steady and constant since October 2001, when the first contingent of JTF 2 operators arrived secretly in the country, but regular troops started arriving in January-February 2002. They have participated in most ISAF-led operations in the country, like %3Anaconda%4, %3Archer%4 or %3Athena%4. By 2006, the Canadian military is the main contingent in southern Afghanistan, with Brigadier General %3David Fraser%4 taking over command of Regional Command South. When Canadian forces returned to Kandahar, the Taliban began a major offensive, and when the%3 1st Batallion, Royal Canadian Regiment%4 relieved Princess Patricia's Canadian Light Infantry, they launched %3Operation Medusa%4, which was the largest NATO ground battle to date. As of December 2006, Leopard C2 tanks from Lord Strathcona's Horse have been committed to a new Canadian-led operation in the region, %3Falcon Summit%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_CanadianArmy_FM.paa'/&gt;</English>
-        <Spanish>Como parte de la ISAF, %3Canadá%4 ha sido la nación que %3más tropas ha contribuido%4 al esfuerzo de Afganistán durante los primeros años de guerra. La participación canadiense en la %3Operación Libertad Duradera%4 ha sido constante desde octubre de 2001, cuando llegó al país el primer contingente de operadores del JTF 2 bajo cuerda, pero las tropas regulares empezaron a llegar en enero-febrero de 2002. Han participado en la mayoría de las operaciones de la ISAF en el país, como %3Anaconda%4, %3Archer%4 o %3Athena%4. En 2006, el Ejército canadiense es el mayor contingente en el sur de Afganistán; es más, el general de brigada %3David Fraser%4 asumió el mando del Mando Regional del Sur. Cuando las fuerzas canadienses regresaron a Kandahar, los talibanes emprendieron una gran ofensiva, y cuando el%3 1.er Batallón del Real Regimiento Canadiense%4 sustituyó al Princess Patricia's Canadian Light Infantry, iniciaron la %3Operación Medusa%4, la mayor batalla terrestre que jamás ha librado la OTAN. A fecha de diciembre de 2006, los tanques Leopard C2 del Lord Strathcona's Horse se han consagrado a una nueva operación canadiense en la región, %3Cumbre de Halcón%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_CanadianArmy_FM.paa'/&gt;</Spanish>
+        <English>As part of ISAF, %3Canada%4 has been the %3largest contributor%4 of ground troops to Afghanistan during the earlier years of the war. Canadian involvement in %3Operation Enduring Freedom%4 has been steady and constant since October 2001, when the first contingent of JTF 2 operators arrived secretly in the country, but regular troops started arriving in January-February 2002. They have participated in most ISAF-led operations in the country, like %3Anaconda%4, %3Archer%4 or %3Athena%4. The 3 PPCLI distinguished itself in 2002's %3Operation Anaconda%4, when two snipers broke the record for longest sniper shot twice, and fighting its first land battle since the Korean War. By 2006, the Canadian military is the main contingent in southern Afghanistan, with Brigadier General %3David Fraser%4 taking over command of Regional Command South. When Canadian forces returned to Kandahar, the Taliban began a major offensive, and when the%3 1st Batallion, Royal Canadian Regiment%4 relieved Princess Patricia's Canadian Light Infantry, they launched %3Operation Medusa%4, which was the largest NATO ground battle to date. As of December 2006, Leopard C2 tanks from Lord Strathcona's Horse have been committed to a new Canadian-led operation in the region, %3Falcon Summit%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_CanadianArmy_FM.paa'/&gt;</English>
+        <Spanish>Como parte de la ISAF, %3Canadá%4 ha sido la nación que %3más tropas ha contribuido%4 al esfuerzo de Afganistán durante los primeros años de guerra. La participación canadiense en la %3Operación Libertad Duradera%4 ha sido constante desde octubre de 2001, cuando llegó al país el primer contingente de operadores del JTF 2 bajo cuerda, pero las tropas regulares empezaron a llegar en enero-febrero de 2002. Han participado en la mayoría de las operaciones de la ISAF en el país, como %3Anaconda%4, %3Archer%4 o %3Athena%4. El 3 PPCLI destacó en la %3Operación Anaconda%4 de 2002, cuando dos francotiradores batieron el récord de disparo de francotirador más largo dos veces y librando su primera batalla terrestre desde la guerra de Corea. En 2006, el Ejército canadiense es el mayor contingente en el sur de Afganistán; es más, el general de brigada %3David Fraser%4 asumió el mando del Mando Regional del Sur. Cuando las fuerzas canadienses regresaron a Kandahar, los talibanes emprendieron una gran ofensiva, y cuando el%3 1.er Batallón del Real Regimiento Canadiense%4 sustituyó al Princess Patricia's Canadian Light Infantry, iniciaron la %3Operación Medusa%4, la mayor batalla terrestre que jamás ha librado la OTAN. A fecha de diciembre de 2006, los tanques Leopard C2 del Lord Strathcona's Horse se han consagrado a una nueva operación canadiense en la región, %3Cumbre de Halcón%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_CanadianArmy_FM.paa'/&gt;</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_ANA">
@@ -55,6 +50,16 @@
 	  <Key ID="STR_LOK_FM_ANA_Description">
         <English>The %3Afghan National Army%4 was born in December 2001, when the Taliban were deposed and the %3Karzai administration%4 was formed. Initially trained by the British and then by the American 3rd SFG, the ANA evolved from a meager paramilitary force to a decent army. Their first major combat operation was the US-led %3Operation Warrior Sweep%4 in 2003, and since then, Afghan %3'kandaks'%4 (battalions) have accompanied their ISAF allies in almost every mission. Although their equipment was composed of outdated Soviet relics at first, the United States made sure to provide more than enough modern military equipment to the ANA. By 2006, the ANA is in the middle of that %3modernisation%4 process.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_ANA_FM.paa'/&gt;</English>
         <Spanish>El %3Ejército Nacional Afgano%4 nació en diciembre de 2001, cuando los talibanes fueron depuestos y se constituyó la %3administración de Karzai%4. Instruidos al principio por los británicos y luego por el 3.er SFG estadounidense, el ENA pasó de ser una triste fuerza paramilitar a ser un ejército decente. Su primera gran operación en combate fue la %3Operación Warrior Sweep%4 estadounidense de 2003, y desde entonces, los %3«kandaks»%4 (batallones) han acompañado a sus aliados de la ISAF en casi todas sus misiones. Aunque su equipo estaba principalmente conformado por reliquias soviéticas en sus comienzos, los Estados Unidos se aseguraron de proporcionarle equipo militar moderno de sobra al ENA. En 2006, el ENA se encuentra en pleno proceso de %3modernización%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_ANA_FM.paa'/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_EasternAlliance">
+        <English>Eastern Alliance</English>
+        <Spanish>Alianza del Este</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_EasternAlliance_Description">
+        <English>During the very early stages of the War in Afghanistan, %3Afghan militias%4 were crucial to the success of the initial operations. The most well-known alliance was the Northern Alliance, but the importance of the %3Eastern Alliance%4 (or %3Eastern Shura%4) cannot be overstated. This alliance was formed in late 2001 by %3regional%4 and %3tribal%4 leaders of %3various ethnic groups%4 (Tajiks, Pashtuns...) from the Afghan provinces of Khost and Nangarhar to oust the Taliban from their homes. With support from the US and its allies, and plenty of %3armoured vehicles%4, the Eastern Alliance played an important role in %3Operation Anaconda%4 in 2002, forming the main assault force and clearing the Shah-i-Kot valley floor.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_EasternAlliance_FM.paa'/&gt;</English>
+        <Spanish>Durante las primeras fases de la guerra de Afganistán, las %3milicias afganas%4 fueron cruciales para el éxito de las operaciones iniciales. La alianza más conocida fue la Alianza del Norte, pero no se puede exagerar la importancia de la %3Alianza del Este%4 (o %3Shura del Este%4). Esta alianza fue formada a finales de 2001 por líderes %3regionales%4 y %3tribales%4 de %3diversos grupos étnicos%4 (tayikos, pastunes...) de las provincias afganas de Jost y Nangarjar para expulsar a los talibanes de sus hogares. Con apoyo de los EE. UU. y sus aliados y muchos %3vehículos blindados%4, la Alianza del Este desempeñó un papel importante en la %3Operación Anaconda%4 en 2002, formando la principal fuerza de asalto y despejando el fondo del valle de Shah-i-Kot.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_EasternAlliance_FM.paa'/&gt;</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_ANP">
@@ -88,13 +93,58 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_USArmy">
-        <English>US Armed Forces</English>
-        <Spanish>Fuerzas Armadas de los EE. UU.</Spanish>
+        <English>US Army</English>
+        <Spanish>Ejército de los EE. UU.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_USArmy_Description">
-        <English>Despite being the largest military in the world by 2006, the %3United States%4 military's presence in Afghanistan is limited, with most of their units involved in heavy fighting in Iraq. After the displacement of the Taliban government in 2001 and Operation Anaconda in 2002, the United States adopted a posture of reconstruction and nation-building more than active fighting. Down in Kandahar, the %3Army%4 has some National Guard units, the 10th Mountain Division and some helicopters, but almost no armoured vehicles whatsoever. The %3Air Force%4, however, has several A-10s, AC-130s and MQ-1 Predator drones that will definitely be valuable, while the %3Navy%4 has deployed their carriers with F/A-18 fighters and B-1 bombers in the Persian Gulf.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USArmy_FM.paa'/&gt;</English>
-        <Spanish>Pese a ser el mayor ejército del mundo en 2006, la presencia militar de %3Estados Unidos%4 en Afganistán es limitada, puesto que la mayoría de sus unidades están librando cruentos combates en Irak. Tras la disolución del gobierno talibánen 2001 y la Operación Anaconda en 2002, los Estados Unidos adoptaron una postura de reconstrucción y desarrollo nacional más que de lucha activa. En Kandahar, el %3Ejército%4 tiene algunas unidades de la Guardia Nacional, la 10.ª División de Montaña y algunos helicópteros, pero casi ningún vehículo blindado. La %3Fuerza Aérea%4, en cambio, tiene varios A-10, AC-130 y drones MQ-1 Predator que resultarán ser muy valiosos, mientras que la %3Marina%4 ha desplegado sus portaaviones con cazas F/A-18 y bombarderos B-1 en el golfo Pérsico.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USArmy_FM.paa'/&gt;</Spanish>
+        <English>Despite being the largest military in the world by 2006, the %3United States%4 military's presence in Afghanistan is limited, with most of their units involved in heavy fighting in Iraq. Initially, the US Army played a major role in the initial invasion and subsequent occupation of Afghanistan, fighting its most intense battles since Vietnam against the Taliban and Al-Qaeda in %3Operation Anaconda%4 in 2002. However, afterwards, the United States adopted a posture of reconstruction and nation-building more than active fighting. Down in Kandahar, the %3Army%4 has some National Guard units, the 10th Mountain Division and some helicopters, but almost no armoured vehicles whatsoever.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USArmy_FM.paa'/&gt;</English>
+        <Spanish>Pese a ser el mayor ejército del mundo en 2006, la presencia militar de %3Estados Unidos%4 en Afganistán es limitada, puesto que la mayoría de sus unidades están librando cruentos combates en Irak. Al principio, el Ejército de los EE. UU. desempeñó un papel fundamental en la invasión inicial y posterior ocupación de Afganistán, librando sus batallas más intensas desde Vietnam contra los talibanes y Al Qaeda en la %3Operación Anaconda%4 de 2002. Sin embargo, más tarde, los Estados Unidos adoptaron una postura de reconstrucción y desarrollo nacional más que de lucha activa. En Kandahar, el %3Ejército%4 tiene algunas unidades de la Guardia Nacional, la 10.ª División de Montaña y algunos helicópteros, pero casi ningún vehículo blindado.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USArmy_FM.paa'/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_USAF">
+        <English>US Air Force</English>
+        <Spanish>Fuerza Aérea de los EE. UU.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_USAF_short">
+        <English>USAF</English>
+        <Spanish>USAF</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_USAF_Description">
+        <English>The %3United States Air Force%4 has played a significant role in Afghanistan since the initial invasion in 2001. With %3fighters, bombers, drones and gunships%4, the Air Force has been constantly pounding the Taliban and Al-Qaeda into submission, especially during operations such as %3Anaconda%4 in 2002. Additionally, their %3Special Operations Command%4 has also been incredibly helpful to the US Army and its allies. Air Force %3pararescue jumpers%4 have saved lives on more than one ocassion, and attached %3combat controllers%4 and %3joint terminal attack controllers%4 have made sure to effectively direct close air support.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USAF_FM.paa'/&gt;</English>
+        <Spanish>La %3Fuerza Aérea de los Estados Unidos%4 ha desempeñado un papel fundamental en Afganistán desde la invasión inicial de 2001. Con %3cazas, bombarderos, drones y aviones artillados%4, la Fuerza Aérea ha estado bombardeando constantemente a los talibanes y a Al Qaeda, sobre todo en operaciones como %3Anaconda%4 en 2002. Además, su %3Mando de Operaciones Especiales%4 también ha ayudado enormemente al Ejército de EE. UU. y sus aliados. Los %3pararrescatadores%4 de la Fuerza Aérea han salvado vidas en más de una ocasión, y los %3controladores de combate%4 y %3controladores de ataque terminal conjuntos%4 asignados se han encargado de dirigir el apoyo aéreo cercano de forma efectiva.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USAF_FM.paa'/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_USN">
+        <English>US Navy</English>
+        <Spanish>Armada de los EE. UU.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_USN_short">
+        <English>USN</English>
+        <Spanish>USN</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_USN_Description">
+        <English>Even though Afghanistan is a %3landlocked%4 country, the %3United States Navy%4 has played a critical role in Operation Enduring Freedom. Their %3ships%4 have patrolled the vast expanse of the Arabian Sea and the Persian Gulf, preventing the infiltration of terrorists and weapons into Afghanistan, and also launching Tomahawk cruise missiles into the mainland. Their %3carriers%4 have allowed Navy fighters, such as the %3F-A/18%4 and the %3F-14%4, to provide surgical close air support to ground forces. Besides, their %3special operations units%4, most notably the %3Navy SEALs%4, have been involved in a plethora of special reconnaissance missions.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USN_FM.paa'/&gt;</English>
+        <Spanish>Aunque Afganistán es un país %3sin litoral%4, la %3Armada de los Estados Unidos%4 ha desempeñado un papel esencial en la Operación Libertad Duradera. Sus %3buques%4 han patrullado la inmensidad del mar Arábigo y el golfo Pérsico, impidiendo la infiltración de terroristas y armas en Afganistán, y también lanzando misiles de crucero Tomahawk al continente. Sus %3portaaviones%4 han permitido a los cazas de la Armada, como el %3F-A/18%4 y el %3F-14%4, proporcionar apoyo aéreo quirúrgico a las fuerzas terrestres. Además, sus %3unidades de operaciones especiales%4, notablemente los %3Navy SEAL%4, han participado en una plétora de misiones especiales de reconocimiento.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USN_FM.paa'/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_USMC">
+        <English>US Marine Corps</English>
+        <Spanish>Cuerpo de Marines de los EE. UU.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_USMC_short">
+        <English>USMC</English>
+        <Spanish>USMC</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_USMC_Description">
+        <English>%3Marines%4 began staging in Pakistan and Uzbekistan on the border of Afghanistan as early as October 2001 in preparation for Operation Enduring Freedom. The 15th and 26th Marine Expeditionary Units were the %3first conventional forces%4 into Afghanistan in November 2001. After that, Marine battalions have rotated through, but their main area of operations has been %3Helmand Province%4. Additionally, Marine helicopter squadrons have supported Army units in %3joint operations%4, such as %3Operation Anaconda%4 in 2002.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USMC_FM.paa'/&gt;</English>
+        <Spanish>Los %3marines%4 empezaron a desplegarse en Pakistán y Uzbekistán, en la frontera con Afganistán, en octubre de 2001, preparándose para la Operación Libertad Duradera. La 15.ª y 26.ª Unidad Expedicionaria de Marines fueron las %3primeras fuerzas convencionales%4 en entrar en Afganistán en noviembre de 2001. Después de eso, los batallones de marines se han ido turnando, pero su principal área de operaciones ha sido la %3provincia de Helmand%4. Además, los escuadrones de helicópteros de los marines han apoyado a las unidades del Ejército en %3operaciones conjuntas%4, como la %3Operación Anaconda%4 en 2002.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USMC_FM.paa'/&gt;</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_ODA">
@@ -108,8 +158,88 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_ODA_Description">
-        <English>The first military troops to enter Afghanistan after the 9/11 attacks, the %3Green Berets%4 are probably USSOCOM's %3most valuable asset%4 in the War on Terror. Although each of their 7 special forces groups is trained for a specific region of the world, the increased need for Special Forces operators has forced them to deploy outside of their areas of operations, especially the%3 3rd Special Forces Group%4 in Afghanistan, originally oriented towards Africa. %3Operational Detachment Alpha%4 (ODA) 595 was the first unit deployed to Afghanistan, ODAs 594 and 372 fought in Operation Anaconda in 2002, and now %3ODA 331%4 is stationed in Kandahar, ready to train the local Afghan forces and support the Canadian offensives of 2006.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_ODA_FM.paa'/&gt;</English>
-        <Spanish>Los %3Boinas Verdes%4, las primeras tropas militares que entraron en Afganistán después de los atentados del 11-S, son posiblemente el %3activo más valioso%4 del USSOCOM en la guerra contra el terrorismo. Aunque cada uno de sus 7 grupos de fuerzas especiales está entrenado para una región específica del mundo, la falta de operadores de las Fuerzas Especiales los ha obligado a desplegarse en áreas de operaciones que no son las suyas, sobre todo el%3 3.er Grupo de Fuerzas Especiales%4 en Afganistán, orientado desde un principio a África. El %3Destacamento Operativo Alpha%4 (ODA) 595 fue la primera unidad militar desplegada en Afganistán, los ODA 594 y 372 lucharon en la Operación Anaconda en 2002, y ahora el %3ODA 331%4 está destinado en Kandahar, listo para entrenar a las fuerzas afganas locales y apoyar las ofensivas canadienses de 2006.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_ODA_FM.paa'/&gt;</Spanish>
+        <English>The first military troops to enter Afghanistan after the 9/11 attacks, the %3Green Berets%4 are probably USSOCOM's %3most valuable asset%4 in the War on Terror. Although each of their 7 special forces groups is trained for a specific region of the world, the increased need for Special Forces operators has forced them to deploy outside of their areas of operations, especially the%3 3rd Special Forces Group%4 in Afghanistan, originally oriented towards Africa. %3Operational Detachment Alpha%4 (ODA) 595 was the first unit deployed to Afghanistan, ODAs 594 and 372 fought in %3Operation Anaconda%4 in 2002, and now %3ODA 331%4 is stationed in Kandahar, ready to train the local Afghan forces and support the Canadian offensives of 2006.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_ODA_FM.paa'/&gt;</English>
+        <Spanish>Los %3Boinas Verdes%4, las primeras tropas militares que entraron en Afganistán después de los atentados del 11-S, son posiblemente el %3activo más valioso%4 del USSOCOM en la guerra contra el terrorismo. Aunque cada uno de sus 7 grupos de fuerzas especiales está entrenado para una región específica del mundo, la falta de operadores de las Fuerzas Especiales los ha obligado a desplegarse en áreas de operaciones que no son las suyas, sobre todo el%3 3.er Grupo de Fuerzas Especiales%4 en Afganistán, orientado desde un principio a África. El %3Destacamento Operativo Alpha%4 (ODA) 595 fue la primera unidad militar desplegada en Afganistán, los ODA 594 y 372 lucharon en la %3Operación Anaconda%4 en 2002, y ahora el %3ODA 331%4 está destinado en Kandahar, listo para entrenar a las fuerzas afganas locales y apoyar las ofensivas canadienses de 2006.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_ODA_FM.paa'/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Delta">
+        <English>1st Special Forces Operational Detachment-Delta</English>
+        <Spanish>1.er Destacamento Operacional de Fuerzas Especiales-Delta</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Delta_short">
+        <English>Delta Force</English>
+        <Spanish>Fuerza Delta</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Delta_Description">
+        <English>%3Delta Force%4's involvement in Afghanistan is characterized by its %3secrecy%4, precision, and effectiveness. The unit's operatives are responsible for the capture or killing of numerous high-value targets, including Al-Qaeda leaders and Taliban commanders. Although many of their operations are unknown, it is acknowledged they were heavily involved in operations such as %3Tora Bora%4 and %3Operation Anaconda%4. In the latter, they were especially responsible for scouting the %3Shah-i-Kot Valley%4 and making sure the ground troops were safe at all times.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Delta_FM.paa'/&gt;</English>
+        <Spanish>La participación de la %3Fuerza Delta%4 en Afganistán está caracterizada por su %3secretismo%4, precisión y efectividad. Los operativos de la unidad son responsables de la captura o muerte de numerosos objetivos de alto valor, incluidos líderes de Al Qaeda y comandantes talibanes. Aunque se desconocen muchas de sus operaciones, se da por hecho que estuvieron muy involucrados en operaciones como %3Tora Bora%4 y la %3Operación Anaconda%4. En esta última, fueron especialmente responsables de reconocer el %3valle de Shah-i-Kot%4 y asegurarse de que las tropas terrestres estuvieran a salvo en todo momento.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Delta_FM.paa'/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_DEVGRU">
+        <English>Naval Special Warfare Development Group</English>
+        <Spanish>Grupo Naval de Actividades Bélicas Especiales</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_DEVGRU_short">
+        <English>DEVGRU</English>
+        <Spanish>DEVGRU</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_DEVGRU_Description">
+        <English>The %3Naval Special Warfare Development Group (DEVGRU)%4, also known as %3SEAL Team Six%4, is the United States Navy component of the Joint Special Operations Command (JSOC). They have partaken in many special operations in Afghanistan, proving their worth especially in %3Operation Anaconda%4 in 2002. Before the operation began, one AFO team, %3Mako 31%4, took out a DShK machine gun that could have potentially shot down Chinooks carrying conventional forces. Some days later, another team, %3Mako 30%4, was ambushed on the peak of %3Takur Ghar%4, which led to the heaviest battle of the operation, and towards the end of the operation, another team intercepted a convoy carrying Al-Qaeda fighters.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_DEVGRU_FM.paa'/&gt;</English>
+        <Spanish>El %3Grupo Naval de Actividades Bélicas Especiales (DEVGRU)%4, también conocido como el %3Sexto Equipo SEAL%4, es el componente de la Armada de los Estados Unidos del Mando Conjunto de Operaciones Especiales (JSOC). Han participado en muchas operaciones especiales en Afganistán, demostrando su valía sobre todo en la %3Operación Anaconda%4 en 2002. Antes del comienzo de la operación, un equipo AFO, %3Mako 31%4, neutralizó una ametralladora DShK que podría haber derribado los Chinooks que transportaban a las fuerzas convencionales. Unos días después, otro equipo, %3Mako 30%4, fue emboscado en la cima de %3Takur Ghar%4, cosa que desencadenó la batalla más intensa de la operación, y hacia el final de la misma, otro equipo interceptó un convoy que transportaba combatientes de Al Qaeda.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_DEVGRU_FM.paa'/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Rangers">
+        <English>75th Ranger Regiment</English>
+        <Spanish>75.º Regimiento Ranger</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Rangers_short">
+        <English>Army Rangers</English>
+        <Spanish>Rangers del Ejército</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Rangers_Description">
+        <English>The%3 75th Ranger Regiment%4 is one of the most extensively used units of the entire US military. The Rangers are the premier %3light infantry%4 and %3special operations%4 unit of %3USASOC%4. In %3Afghanistan%4, they were %3among the first troops%4 on the ground in 2001 and have continued to play a vital role in the War on Terror ever since. They have participated in several missions, such as Tora Bora, Operation Rhino, Operation Red Wings, and most importantly, %3Operation Anaconda%4. When a DEVGRU team was ambushed on the peak of %3Takur Ghar%4 in 2002, the Rangers bravely fought tooth and nail to rescue them and capture the peak.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Rangers_FM.paa'/&gt;</English>
+        <Spanish>El%3 75.º Regimiento Ranger%4 es una de las unidades más usadas de todas las Fuerzas Armadas de los EE. UU. Los Rangers son la principal unidad de %3infantería ligera%4 y %3operaciones especiales%4 del %3USASOC%4. En %3Afganistán%4, fueron %3 de las primeras tropas%4 sobre el terreno en 2001 y han seguido desempeñando un papel esencial en la guerra contra el terrorismo desde entonces. Han participado en varias misiones, como Tora Bora, la Operación Rhino, la Operación Red Wings y, la más importante, la %3Operación Anaconda%4. Cuando un equipo DEVGRU fue emboscado en la cima de %3Takur Ghar%4, los Rangers lucharon con uñas y dientes para rescatarlos y capturar la cima.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Rangers_FM.paa'/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_FrenchAirForce">
+        <English>French Air Force</English>
+        <Spanish>Fuerza Aérea francesa</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_FrenchAirForce_Description">
+        <English>France has been involved in the %3War in Afghanistan%4 since late 2001, but their land contingent has been relatively small. However, their %3Air Force%4 has gracefully done its part. During %3Operation Héraklès%4 in 2001, several aircraft carriers, fighters and transport planes supported NATO operations in Afghanistan, and several %3Mirage 2000%4 fighter jets based in Manas, Kyrgyzstan helped bomb Taliban and Al-Qaeda positions during %3Operation Anaconda%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_FrenchAirForce_FM.paa'/&gt;</English>
+        <Spanish>Francia ha participado en la %3guerra de Afganistán%4 desde finales de 2001, pero su contingente terrestre ha sido relativamente pequeño. Sin embargo, su %3Fuerza Aérea%4 ha puesto de su parte. Durante la %3Operación Héraklès%4 de 2001, varios portaaviones, cazas y aviones de transporte apoyaron a las operaciones de la OTAN en Afganistán, y varios cazas a reacción %3Mirage 2000%4 con base en Manas, Kirguistán ayudaron a bombardear las posiciones talibanes y de Al Qaeda durante la %3Operación Anaconda%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_FrenchAirForce_FM.paa'/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Chechens">
+        <English>Chechen Mujahideen</English>
+        <Spanish>Muyahidines chechenos</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Chechens_Description">
+        <English>The presence of %3Chechen foreign fighters%4 in the %3early stages%4 of the War in Afghanistan has been a subject of much %3debate%4. Some believe that there were a significant number of Chechens who fought alongside the Taliban and Al-Qaeda, while others believe that the reports of Chechen fighters were exaggerated or fabricated. There is evidence to support both sides of the argument. Some reports claim that Chechen fighters were among the %3best-trained%4 and %3most disciplined%4 of the foreign fighters in Afghanistan. However, no bodies of Chechen fighters have ever been found, and no prisoners have ever been identified as Chechen. The myth of the Chechen jihadi may have been inflated by the %3US military%4, which may have overstated the number of Chechen fighters in Afghanistan in order to please the Russian Government, then at war with Chechnya. The myth may also have been perpetuated by the %3Northern Alliance%4, which was supplied by Russia, in order to reinforce their ties. Ultimately, there's %3no way to know for sure%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Chechens_FM.paa'/&gt;</English>
+        <Spanish>La presencia de %3combatientes extranjeros chechenos%4 en las %3primeras fases%4 de la guerra de Afganistán ha sido objeto de mucho %3debate%4. Hay quienes creen que una cantidad considerable de chechenos lucharon junto a los talibanes y Al Qaeda, mientras que otros creen que los informes de combatientes chechenos estaban exagerados o inventados. Hay pruebas que corroboran ambos bandos. Algunos informes afirman que los combatientes chechenos eran de los %3mejor entrenados%4 y %3más disciplinados%4 de los combatientes extranjeros en Afganistán. Sin embargo, no se ha encontrado ningún cadáver de un checheno y ningún prisionero se ha identificado como checheno. El mito de los yihadistas chechenos podría haber sido inflado por el %3Ejército de los EE. UU.%4, que podría haber exagerado la cantidad de combatientes chechenos en Afganistán para complacer al Gobierno ruso, que entonces estaba en guerra con Chechenia. El mito también podría haber sido perpetuado por la %3Alianza del Norte%4, abastecida por Rusia, para estrechar sus lazos. Al final, %3no hay forma de saberlo a ciencia cierta%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Chechens_FM.paa'/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Uzbeks">
+        <English>Islamic Movement of Uzbekistan</English>
+        <Spanish>Movimiento Islámico de Uzbekistán</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Uzbeks_short">
+        <English>IMU</English>
+        <Spanish>MIU</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Uzbeks_Description">
+        <English>The %3Islamic Movement of Uzbekistan%4 is a militant group that wants to overthrow the Government of Uzbekistan and create an %3Islamic State%4. The group's founders were opposed to the secular government and believed that an Islamic caliphate was the only way to achieve a just society. For most of its existence, the IMU has been closely allied to %3Al-Qaeda%4 and the Afghan %3Taliban%4, frequently conducting joint operations with them and clashing with NATO forces. During %3Operation Anaconda%4 in 2002, the Uzbeks were very present in the Shah-i-Kot Valley, fighting against US special forces on the peak of %3Takur Ghar%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Uzbeks_FM.paa'/&gt;</English>
+        <Spanish>El %3Movimiento Islámico de Uzbekistán%4 es un grupo militante que quiere derrocar al Gobierno de Uzbekistán y crear un %3Estado islámico%4. Los fundadores del grupo se oponían al gobierno laico y creían que un califato islámico era la única manera de alcanzar una sociedad justa. Durante la mayor parte de su existencia, el MIU ha estado muy ligado a %3Al Qaeda%4 y a los %3talibanes%4 afganos, llevando a cabo operaciones conjuntas con ellos y enfrentándose a las fuerzas de la OTAN. Durante la %3Operación Anaconda%4 de 2002, los uzbekos estuvieron muy presentes en el valle de Shah-i-Kot, luchando contra las fuerzas especiales de EE. UU. en la cima de %3Takur Ghar%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Uzbeks_FM.paa'/&gt;</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Netherlands">
@@ -203,13 +333,13 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Simps">
-        <English>Taliban sympathisers</English>
-        <Spanish>Simpatizantes talibanes</Spanish>
+        <English>Independent rebels</English>
+        <Spanish>Rebeldes independientes</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Simps_Description">
-        <English>Although the civilian populace has suffered %3greatly%4 because of the war and the Government is doing as much as possible to relieve their precarious situation, many civilians feel %3skeptical%4 of their efforts and, most of all, of %3armed foreigners%4. Those %3Pashtun%4 tribes that perceive that their identity is being %3displaced%4 by NATO and their new Government usually turn to the %3Taliban%4 for help and support them indirectly or directly, since they share the same principles of %3puritanical Islam%4 and %3non-interventionism%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Simps_FM.paa'/&gt;</English>
-        <Spanish>Aunque la población civil ha sufrido %3mucho%4 por la guerra y el Gobierno hace todo lo que está en su mano para paliar su precaria situación, muchos civiles se muestran %3escépticos%4 ante sus esfuerzos y, lo que es más importante, ante los %3forasteros armados%4. Aquellas tribus %3pastunes%4 que sienten que su identidad está siendo %3desplazada%4 por la OTAN y su nuevo Gobierno suelen recurrir a los %3talibanes%4 y los apoyan directa o indirectamente, puesto que comparten los mismos principios de %3islam puritano%4 y %3no intervencionismo%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Simps_FM.paa'/&gt;</Spanish>
+        <English>There are many in Afghanistan who wish to %3take up arms%4 for their families, their people and their country, whether it be on the side of the Taliban or against. On the one hand, there have been civilians who have directly %3helped%4 ISAF forces against the Taliban because they feel they're a threat to their %3liberties%4. On the other hand, and although the civilian populace has suffered %3greatly%4 because of the war and the Government is doing as much as possible to relieve their precarious situation, many civilians feel %3skeptical%4 of their efforts and, most of all, of %3armed foreigners%4. Those %3Pashtun%4 tribes that perceive that their identity is being %3displaced%4 by NATO and their new Government usually turn to the %3Taliban%4 for help and support them indirectly or directly, since they share the same principles of %3puritanical Islam%4 and %3non-interventionism%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Simps_FM.paa'/&gt;</English>
+        <Spanish>Hay muchos en Afganistán que quieren %3tomar las armas%4 por sus familias, su pueblo y su país, ya sea de parte de los talibanes o no. Por un lado, ha habido civiles que han %3ayudado%4 directamente a las fuerzas de la ISAF contra los talibanes porque sienten que suponen una amenaza a sus %3libertades%4. Por el otro, y aunque la población civil ha sufrido %3mucho%4 por la guerra y el Gobierno hace todo lo que está en su mano para paliar su precaria situación, muchos civiles se muestran %3escépticos%4 ante sus esfuerzos y, lo que es más importante, ante los %3forasteros armados%4. Aquellas tribus %3pastunes%4 que sienten que su identidad está siendo %3desplazada%4 por la OTAN y su nuevo Gobierno suelen recurrir a los %3talibanes%4 y los apoyan directa o indirectamente, puesto que comparten los mismos principios de %3islam puritano%4 y %3no intervencionismo%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Simps_FM.paa'/&gt;</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_M1911">
@@ -248,8 +378,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_P226_Description">
-        <English>The %3SIG-Sauer P226%4 is a highly regarded semi-automatic pistol known for its accuracy, reliability, and durability. It comes in various calibers, has a 15-round magazine capacity, and is favored by law enforcement and military personnel globally. For instance, it is the standard-issue sidearm of all %3Canadian special operations units%4, often fitted with a %3suppressor%4.</English>
-        <Spanish>La %3SIG-Sauer P226%4 es una pistola semiautomática muy valorada por su precisión, fiabilidad y durabilidad. Viene en varios calibres, tiene un cargador de 15 balas y es preferida por unidades del orden y militares de todo el mundo. Por ejemplo, es la pistola reglamentaria de todas las %3unidades de fuerzas especiales canadienses%4, normalmente con un %3silenciador%4 acoplado.</Spanish>
+        <English>The %3SIG-Sauer P226%4 is a highly regarded semi-automatic pistol known for its accuracy, reliability, and durability. It comes in various calibers, has a 15-round magazine capacity, and is favored by law enforcement and military personnel globally. For instance, it is the standard-issue sidearm of all %3Canadian special operations units%4, often fitted with a %3suppressor%4. The %3US Navy SEALs%4 also employ it as their prefered pistol since 1989, designated %3Mk 25%4.</English>
+        <Spanish>La %3SIG-Sauer P226%4 es una pistola semiautomática muy valorada por su precisión, fiabilidad y durabilidad. Viene en varios calibres, tiene un cargador de 15 balas y es preferida por unidades del orden y militares de todo el mundo. Por ejemplo, es la pistola reglamentaria de todas las %3unidades de fuerzas especiales canadienses%4, normalmente con un %3silenciador%4 acoplado. Los %3Navy SEAL%4 estadounidenses también la emplean como su pistola preferida desde 1989, designada %3Mk. 25%4.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Glock">
@@ -260,6 +390,16 @@
 	  <Key ID="STR_LOK_FM_Glock_Description">
         <English>The %3Glock 17%4 is a popular 9mm semi-automatic pistol known for its reliability and simplicity. It has a 17-round magazine capacity and is widely used by several law enforcement agencies for its accuracy and durability. However, only a few militaries have adopted it as standard-issue because of safety concerns, namely due to the Glock %3not having a manual safety%4. One of those militaries is the %3Dutch%4 military, who officially adopted it in 1994.</English>
         <Spanish>La %3Glock 17%4 es una popular pistola semiautomática de 9 mm conocida por su fiabilidad y simpleza. Tiene un cargador de 17 balas y es muy usada por diversas agencias del orden por su puntería y durabilidad. Sin embargo, solo unos pocos ejércitos la han adoptado como reglamentaria por motivos de seguridad, puesto que la Glock %3no tiene un seguro manual%4. Uno de esos ejércitos es el Ejército %3neerlandés%4, que la adoptó oficialmente en 1994.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_MK23">
+        <English>HK MK 23</English>
+        <Spanish>HK Mk. 23</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_MK23_Description">
+        <English>The %3HK Mark 23%4 is a semi-automatic pistol developed by HK for the %3United States Special Operations Command%4 (SOCOM). Development started in 1991 to give American special forces a handgun more suited for %3CQB%4 than the M9. The deliveries took place in 1996. The Mark 23 is a large and powerful pistol, chambered for the .45 ACP cartridge. Although the MK 23 performs admirably, several operators have complained about its weight and bulkiness, but the .45 ACP round has proven to be very effective in the %3War on Terror%4.</English>
+        <Spanish>La %3HK Mark 23%4 es una pistola semiautomática desarrollada por HK para el %3Mando de Operaciones Especiales de los Estados Unidos%4 (SOCOM). El desarrollo comenzó en 1991 para darles a las fuerzas especiales estadounidenses una pistola más apta para el %3combate en espacios cerrados%4 que la M9. Las entregas tuvieron lugar en 1996. La Mark 23 es una pistola grande y potente que dispara el cartucho .45 ACP. Aunque rinde de forma admirable, varios operadores se han quejado de su peso y volumen, pero el cartucho .45 ACP ha demostrado ser muy eficaz en la %3guerra contra el terrorismo%4.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_USP">
@@ -298,8 +438,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_TT33_Description">
-        <English>The %3TT-33%4 is a Soviet semi-automatic pistol chambered in 7.62x25mm Tokarev. It has an 8-round magazine capacity and is known for its reliability and robust construction. It was the standard-issue sidearm of the Red Army during %3World War 2%4. In Afghanistan, this handgun is commonly found in the hands of the %3Taliban%4 and their %3Arab%4 partners, either inherited from the Royal Afghan Army (which was supplied by the Soviet Union) before the Soviet invasion of Afghanistan, captured from Afghan National Army stockpiles or obtained from %3China%4 and Pakistan (as the %3Type 54%4 copy).</English>
-        <Spanish>La %3TT-33%4 es una pistola semiautomática soviética que dispara el cartucho 7,62 x 25 mm Tókarev. Tiene un cargador de 8 balas y es conocida por su fiabilidad y construcción robusta. Fue la pistola reglamentaria del Ejército Rojo durante la %3Segunda Guerra Mundial%4. En Afganistán, esta pistola suele verse en manos de los %3talibanes%4 y sus socios %3árabes%4, ya sea heredada del Ejército Real Afgano (abastecido por la Unión Soviética) antes de la invasión soviética de Afganistán, capturada de las reservas del Ejército Nacional Afgano u obtenida de %3China%4 y Pakistán (como la copia %3Tipo 54%4).</Spanish>
+        <English>The %3TT-33%4 is a Soviet semi-automatic pistol chambered in 7.62x25mm Tokarev. It has an 8-round magazine capacity and is known for its reliability and robust construction. It was the standard-issue sidearm of the Red Army during %3World War 2%4. In Afghanistan, this handgun is commonly found in the hands of the %3Taliban%4 and their other %3Muslim%4 partners, either inherited from the Royal Afghan Army (which was supplied by the Soviet Union) before the Soviet invasion of Afghanistan, captured from Afghan National Army stockpiles or obtained from %3China%4 and Pakistan (as the %3Type 54%4 copy).</English>
+        <Spanish>La %3TT-33%4 es una pistola semiautomática soviética que dispara el cartucho 7,62 x 25 mm Tókarev. Tiene un cargador de 8 balas y es conocida por su fiabilidad y construcción robusta. Fue la pistola reglamentaria del Ejército Rojo durante la %3Segunda Guerra Mundial%4. En Afganistán, esta pistola suele verse en manos de los %3talibanes%4 y sus otros socios %3musulmanes%4, ya sea heredada del Ejército Real Afgano (abastecido por la Unión Soviética) antes de la invasión soviética de Afganistán, capturada de las reservas del Ejército Nacional Afgano u obtenida de %3China%4 y Pakistán (como la copia %3Tipo 54%4).</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_PM">
@@ -310,6 +450,26 @@
 	  <Key ID="STR_LOK_FM_PM_Description">
         <English>The %3PM%4 is a compact and reliable semi-automatic pistol. It is chambered in 9x18mm Makarov, has an 8-round magazine capacity, and is favored for its simplicity and durability. It replaced the TT-33 in Soviet service. As of 2006, it is the most commonly used sidearm in the %3Afghan National Army%4, as it was inherited from the Soviet Union during the 1960s and 1970s. It is also one of the %3Taliban%4's preferred sidearms, stolen from the ANA and the Soviet Army during the Soviet-Afghan War.</English>
         <Spanish>La %3PM%4 es una pistola semiautomática compacta y fiable. Dispara el cartucho 9 x 18 mm Makárov, tiene un cargador de 8 balas y es alabada por su simpleza y durabilidad. Reemplazó a la TT-33 en el servicio soviético. A fecha de 2006, es la pistola más usada en el %3Ejército Nacional Afgano%4, puesto que la heredaron de la Unión Soviética en los años sesenta y setenta. También es una de las pistolas preferidas de los %3talibanes%4, robadas del ENA y del Ejército soviético durante la guerra soviético-afgana.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_APS">
+        <English>APS</English>
+        <Spanish>APS</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_APS_Description">
+        <English>The %3Stechkin automatic pistol%4 (APS) is a Soviet select-fire %3machine pistol%4 originally designed in 1951 for tank crews, artillery crews and airborne personnel, but it was phased out of service by the AKS-74U. In spite of that, Russian pilots and special forces units kept using the APS all the way into the Chechnya, where the %3Chechen Mujahideen%4 captured some examples.</English>
+        <Spanish>La %3pistola automática Stechkin%4 (APS) es una %3pistola ametralladora%4 soviética de tiro selectivo diseñada en 1951 para las tripulaciones de tanques, las tripulaciones de artillería y el personal aerotransportado, pero la AKS-74U la reemplazó. A pesar de ello, los pilotos y las unidades de fuerzas especiales rusos siguieron usando la APS hasta en Chechenia, donde los %3muyahidines chechenos%4 capturaron algunos ejemplares.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Uzi">
+        <English>Uzi</English>
+        <Spanish>Uzi</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Uzi_Description">
+        <English>What in the world could an %3Israeli%4 submachine gun possibly be doing in %3Afghanistan%4, a Muslim country? Well, the answer lies within the elusive %3Chechen volunteers%4. During their war with Russia, the Chechens got their hands on any weapons they could, and some of those came from an interesting supply route from nearby %3Azerbaijan%4. There, the war for Karabakh had just died down, and a large number of illegal weapons naturally surfaced on the black market, such as the %3Uzi%4, since Baku and Tel Aviv had close relations in the 1990s.</English>
+        <Spanish>¿Qué rayos hace una metralleta %3israelí%4 en %3Afganistán%4, un país musulmán? Bueno, la respuesta reside en los escurridizos %3voluntarios chechenos%4. Durante su guerra con Rusia, los chechenos se hicieron con cualquier arma que pudieron, y algunas de esas armas provenían de una interesante ruta de suministro desde la cercana %3Azerbaiyán%4. Allí, la guerra del Karabaj acababa de terminar y muchas armas ilegales aparecieron en el mercado negro, como la %3Uzi%4, puesto que Bakú y Tel Aviv tenían una estrecha relación en los años noventa.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_MP5">
@@ -368,8 +528,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_M16A4_Description">
-        <English>Although the latest iteration of the Vietnam-era %3M16%4 was only adopted as a service rifle by the US Marine Corps, the %3US Army%4 received many examples in the late 1990s-early 2000s. Since most forward deployed personnel are issued the more compact M4 carbine, the M16A4 is thus found in units that don't need M4s on a short notice, such as the %3National Guard%4.</English>
-        <Spanish>Si bien la última generación del %3M16%4 de Vietnam solo ha sido adoptado como fusil reglamentario por el Cuerpo de Marines de EE. UU., el %3Ejército de EE. UU.%4 recibió muchas unidades a finales de los noventa y principios de los 2000. Dado que la mayoría del personal de primera línea recibe la carabina M4 más compacta, el M16A4 solo se ve en unidades que no necesitan M4 con tan poco tiempo, como la %3Guardia Nacional%4.</Spanish>
+        <English>Although the latest iteration of the Vietnam-era %3M16%4 was only adopted as a service rifle by the %3US Marine Corps%4, the %3US Army%4 received many examples in the late 1990s-early 2000s. Since most forward deployed personnel are issued the more compact M4 carbine, the M16A4 is thus found in units that don't need M4s on a short notice, such as the %3National Guard%4.</English>
+        <Spanish>Si bien la última generación del %3M16%4 de Vietnam solo ha sido adoptado como fusil reglamentario por el %3Cuerpo de Marines de EE. UU.%4, el %3Ejército de EE. UU.%4 recibió muchas unidades a finales de los noventa y principios de los 2000. Dado que la mayoría del personal de primera línea recibe la carabina M4 más compacta, el M16A4 solo se ve en unidades que no necesitan M4 con tan poco tiempo, como la %3Guardia Nacional%4.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_C7">
@@ -378,8 +538,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_C7_Description">
-        <English>The %3C7%4 is the Canadian-built version of the M16A3 rifle. Besides the markings, both weapons are identical. Two main variants of the C7 can be found nowadays: the %3C7A1%4, which features a Picatinny rail for mounting a C79 optic and is the main service rifle of the %3Dutch%4 military, and the %3C7A2%4, a further development of the C7A1 with green furniture and a collapsible stock based on lessons from Canada's first years in Afghanistan, adopted as a service rifle by the %3Canadian%4 Army.</English>
-        <Spanish>El %3C7%4 es la versión canadiense del fusil M16A3. Sin contar el marcado, ambas armas son idénticas. Hoy en día se pueden identificar dos variantes principales del C7: el %3C7A1%4, que incluye un riel Picatinny para acoplarle una mira C79 y es el fusil reglamentario del Ejército %3neerlandés%4, y el %3C7A2%4, un avance del C7A2 con materiales verdes y una culata plegable desarrollado a partir de lecciones aprendidas durante los primeros años de Canadá en Afganistán, adoptado como fusil reglamentario por el Ejército %3canadiense%4.</Spanish>
+        <English>The %3C7%4 is the Canadian-built version of the M16A3 rifle. Besides the markings, both weapons are identical. Two main variants of the C7 can be found nowadays: the %3C7A1%4, which features a Picatinny rail for mounting a C79 optic and is the main service rifle of the %3Dutch%4 military, and the %3C7A2%4, a further development of the C7A1 with green furniture and a collapsible stock based on lessons from Canada's first years in Afghanistan, adopted as a service rifle by the %3Canadian%4 Army in the mid-2000s to replace the original C7A1.</English>
+        <Spanish>El %3C7%4 es la versión canadiense del fusil M16A3. Sin contar el marcado, ambas armas son idénticas. Hoy en día se pueden identificar dos variantes principales del C7: el %3C7A1%4, que incluye un riel Picatinny para acoplarle una mira C79 y es el fusil reglamentario del Ejército %3neerlandés%4, y el %3C7A2%4, un avance del C7A2 con materiales verdes y una culata plegable desarrollado a partir de lecciones aprendidas durante los primeros años de Canadá en Afganistán, adoptado como fusil reglamentario por el Ejército %3canadiense%4 a mediados de los 2000 para reemplazar al C7A1 original.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_M4A1">
@@ -398,8 +558,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_C8_Description">
-        <English>The %3C8%4 is the carbine version of the Canadian C7 rifle, and it is very similar to the Colt Model 723 carbine. Three main variants are in use in Afghanistan: the %3C8A1%4, which includes a Picatinny rail for mounting a C79 optic and is used by the %3Dutch%4 military, the %3C8A3%4, which includes all of the C7A2 upgrades and is used by the %3Canadian Army%4, and the %3C8SFW%4, a special longer-barrelled version of the C8A1 for use in %3special forces units%4.</English>
-        <Spanish>La %3C8%4 es la versión de carabina del fusil canadiense C7, y se parece mucho a la carabina Colt Modelo 723. Se emplean tres variantes en Afganistán: la %3C8A1%4, que incluye un riel Picatinny para acoplarle una mira C79 y sirve en el Ejército %3neerlandés%4, la %3C8A3%4, que incluye todas las mejoras del C7A2 y es usada por el %3Ejército canadiense%4, y la %3C8SFW%4, una versión especial de la C8A1 con un cañón más largo para las %3fuerzas especiales%4.</Spanish>
+        <English>The %3C8%4 is the carbine version of the Canadian C7 rifle, and it is very similar to the Colt Model 723 carbine. Three main variants are in use in Afghanistan: the %3C8A1%4, which includes a Picatinny rail for mounting a C79 optic and is used by the %3Dutch%4 military, the %3C8A3%4, which includes all of the C7A2 upgrades and was adopted by the %3Canadian Army%4 in tandem with the C7A2 to replace the original C8A1, and the %3C8SFW%4, a special longer-barrelled version of the C8A1 for use in %3special forces units%4.</English>
+        <Spanish>La %3C8%4 es la versión de carabina del fusil canadiense C7, y se parece mucho a la carabina Colt Modelo 723. Se emplean tres variantes en Afganistán: la %3C8A1%4, que incluye un riel Picatinny para acoplarle una mira C79 y sirve en el Ejército %3neerlandés%4, la %3C8A3%4, que incluye todas las mejoras del C7A2 y fue adoptada por el %3Ejército canadiense%4 en conjunción con el C7A2 para reemplazar a la C8A1 original, y la %3C8SFW%4, una versión especial de la C8A1 con un cañón más largo para las %3fuerzas especiales%4.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_F88">
@@ -448,7 +608,7 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Garand_Description">
-        <English>The %M1 Garand%4 might be one of the most unique weapons that have popped up in the Afghanistan conflict. During the 1960s, the United States was supporting the Iranian %3Pahlavi regime%4, as it was an important %3anti-communist%4 bulwark right against the underbelly of the Soviet Union. Thus, they supplied arms to them. Within this program, the Shah purchased around 165,493 M1 Garands, enough to arm the entire Iranian Army, replacing the locally produced Persian K98 Mausers that were then in service. These Garands saw service in the 1979 Islamic Revolution, the 1980s Iran-Iraq War, and some got funneled into neighbouring Afghanistan over the course of time. Though it's everything except a common weapon, the %3Taliban%4 have been seen using this iconic battle rifle against their %3former users%4 from 60 years ago.</English>
+        <English>The %3M1 Garand%4 might be one of the most unique weapons that have popped up in the Afghanistan conflict. During the 1960s, the United States was supporting the Iranian %3Pahlavi regime%4, as it was an important %3anti-communist%4 bulwark right against the underbelly of the Soviet Union. Thus, they supplied arms to them. Within this program, the Shah purchased around 165,493 M1 Garands, enough to arm the entire Iranian Army, replacing the locally produced Persian K98 Mausers that were then in service. These Garands saw service in the 1979 Islamic Revolution, the 1980s Iran-Iraq War, and some got funneled into neighbouring Afghanistan over the course of time. Though it's everything except a common weapon, the %3Taliban%4 have been seen using this iconic battle rifle against their %3former users%4 from 60 years ago.</English>
         <Spanish>Puede que el %3M1 Garand%4 sea una de las armas más peculiares que han aparecido en el conflicto de Afganistán. Durante los años sesenta, Estados Unidos apoyaba al régimen iraní de %3Pahlaví%4, puesto que era un importante bastión %3anticomunista%4 justo debajo de la Unión Soviética. Por ende, les enviaron armas. A través de este programa, el Sah compró unos 165 493 M1 Garand, suficientes para armar a todo el Ejército iraní, reemplazando a los K98 Mauser persas que estaban en servicio. Estos Garands se usaron en la Revolución Islámica de 1979, en la guerra entre Irán e Irak de los años ochenta, y algunos se pasaron de contrabando al Afganistán colindante con el paso del tiempo. Aunque es de todo menos un arma común, se ha visto a los %3talibanes%4 usando este icónco fusil de combate contra sus %3antiguos dueños%4 de hace 60 años.</Spanish>
         <Polish></Polish>
       </Key>
@@ -488,8 +648,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_SKS_Description">
-        <English>The %3SKS%4, the short-lived successor to the Mosin-Nagant in the Red Army, has found quite some use in the deserts of Afghanistan. Through the illicit arms trade and local manufacturing, the %3Taliban%4 and their %3Arab%4 allies are in possession of thousands of these carbines.</English>
-        <Spanish>La %3SKS%4, la efímera sucesora del Mosin-Nagant en el Ejército Rojo, se ha usado bastante en los desiertos de Afganistán. A través del comercio ilícito de armas y la fabricación local, los %3talibanes%4 y sus aliados %3árabes%4 poseen miles de estas carabinas.</Spanish>
+        <English>The %3SKS%4, the short-lived successor to the Mosin-Nagant in the Red Army, has found quite some use in the deserts of Afghanistan. Through the illicit arms trade and local manufacturing, the %3Taliban%4 and their %3Muslim%4 allies are in possession of thousands of these carbines.</English>
+        <Spanish>La %3SKS%4, la efímera sucesora del Mosin-Nagant en el Ejército Rojo, se ha usado bastante en los desiertos de Afganistán. A través del comercio ilícito de armas y la fabricación local, los %3talibanes%4 y sus aliados %3musulmanes%4 poseen miles de estas carabinas.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Type63">
@@ -542,6 +702,16 @@
         <Spanish>El %3AKM%4 es una versión modernizada del anterior AK-47 adoptada en 1959 por el Ejército Soviético. Con el paso del tiempo, se ha convertido en el %3arma más producida de la historia%4, superando al AK-47 más famoso y antiguo. Es %3muy barato%4, muy fácil de producir localmente y muy fácil de usar. Por tanto, es %3extremadamente común%4 en el mercado negro, y todos los grupos guerrilleros o militantes lo han usado o lo usan, incluidos los %3talibanes%4. Debido a su precio reducido, también es el fusil reglamentario de varios países «tercermundistas», como el %3Ejército Nacional Afgano%4, que recibió muchos ejemplares de la Unión Soviética misma debido a su relación cordial. Algunas de las variantes que se pueden ver en Afganistán son el %3AKM%4 estándar, con una culata de madera fija, el %3AKMN%4, que incluye un riel lateral para acoplarle miras de tipo Pacto de Varsovia, y el %3AKMS%4, que incluye una culata metálica plegable.</Spanish>
         <Polish></Polish>
       </Key>
+	  <Key ID="STR_LOK_FM_AMD65">
+        <English>AMD-65</English>
+        <Spanish>AMD-65</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_AMD65_Description">
+        <English>The %3AMD-65%4 is a compact Hungarian-made AKM variant tailored for airborne operations. Its key features include a folding stock, a shorter barrel, and a gas regulator for controlled firing in close quarters. Ironically, the primary user of the AMD-65 is not Hungary, but %3Afghanistan%4 - beginning in 2006, Hungary started sending plenty of examples to the %3Afghan National Police%4, and one could say it's close to becoming their standard service rifle. However, it is not very appreciated, as it has performance issues in the deserts of the country. Naturally, the %3Taliban%4 have also captured some examples.</English>
+        <Spanish>El %3AMD-65%4 es una variante húngara compacta del AKM diseñada para las operaciones aerotransportadas. Entre sus características clave se incluyen una culata plegable, un cañón corto y un regulador de gases para realizar disparos controlados en espacios cerrados. Irónicamente, el principal usuario del AMD-65 no es Hungría, sino %3Afganistán%4: a partir de 2006, Hungría empezó a enviar muchos ejemplares a la %3Policía Nacional Afgana%4, y se podría incluso decir que está a punto de convertirse en su fusil reglamentario. Sin embargo, no es muy valorado, dado que tiene problemas de rendimiento en los desiertos del país. Naturalmente, los %3talibanes%4 también han capturado algunos ejemplares.</Spanish>
+        <Polish></Polish>
+      </Key>
 	  <Key ID="STR_LOK_FM_AK63">
         <English>AK-63</English>
         <Spanish>AK-63</Spanish>
@@ -550,6 +720,16 @@
 	  <Key ID="STR_LOK_FM_AK63_Description">
         <English>The %3AK-63%4 is a Hungarian version of the AKM rifle designed in the late 1970s to replace the AMD-65 in Hungarian Army service. Aside from a differently-shaped pistol grip and lighter-coloured wood, both weapons are exactly the same. During the Cold War, AK-63s were exported to several countries worldwide, including Afghanistan. Nowadays, a few examples are still in %3Taliban%4 use. Two main variants can be identified: the %3AK-63F%4, with a fixed stock, and the %3AK-63D%4, with a folding metal stock.</English>
         <Spanish>El %3AK-63%4 es una versión húngara del fusil AKM diseñada a finales de los setenta para reemplazar al AMD-65 en Hungría. Aparte de una empuñadura de una forma distinta y la madera más clara, ambas armas son idénticas. Durante la Guerra Fría, se exportaron AK-63 a varios países del mundo, incluido Afganistán. Hoy en día, unos pocos ejemplares siguen en uso %3talibán%4. Se pueden identificar dos variantes principales: el %3AK-63F%4, con una culata fija, y el %3AK-63D%4, con una culata metálica plegable.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_MPi72">
+        <English>MPi-KM-72</English>
+        <Spanish>MPi-KM-72</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_MPi72_Description">
+        <English>The %3MPi-KM-72%4 is an East German license-manufactured version of the Soviet AKM assault rifle. It was adopted by the %3East German Army%4 in 1972 and served as its standard assault rifle until the fall of the Berlin Wall in 1989. It is believed that %3one third%4 of all MPis produced were secretly exported around the globe to various countries, such as Yemen, Iran, Iraq, or %3Afghanistan%4. It is not a common weapon by any means, but a weapon that can be found nonetheless.</English>
+        <Spanish>El %3MPi-KM-72%4 es una versión fabricada bajo licencia en Alemania del Este del fusil de asalto soviético AKM. Fue adoptado por el %3Ejército de Alemania Oriental%4 en 1972 y sirvió como su fusil reglamentario hasta la caída del Muro de Berlín en 1989. Se cree que %3un tercio%4 de todos los MPi producidos se exportaron en secreto a varios países del mundo, como Yemen, Irán, Irak o %3Afganistán%4. No es un arma común ni mucho menos, pero es un arma que se puede encontrar igualmente.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_MD63">
@@ -568,8 +748,18 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_AK74_Description">
-        <English>The %3AK-74%4 is an assault rifle that was developed by the Soviet Union as a successor to the AKM. It was introduced in the 1970s and chambered in the smaller 5.45x39mm cartridge. When the Soviet Union invaded Afghanistan in 1979, it came in well-equipped and armed with their brand new 5.45mm rifle, which very much %3surprised%4 Afghan guerillas. The 'orange AK' caught their eye, and they captured and put to good use all examples they could find. On the other hand, the Soviet Union sent a lot of AK-74s (and its variants) to the %3Afghan Army%4 it was supporting during the war, and the %3Mujahideen%4 took many of them for themselves, and they were later passed on to the %3Taliban%4. All in all, about %3half%4 of all the AKs found in Afghanistan are AK-74 variants, which is unique for such a militant group. It even has its own nickname, the '%3Kalakov%4'! The most common variants are the standard %3AK-74%4, the %3AK-74N%4, which includes a side rail for mounting optics, the %3AKS-74%4 (which features a side-folding metal stock), and the %3AKS-74U%4 (carbine version with a folding stock and a shorter barrel).</English>
-        <Spanish>El %3AK-74%4 es un fusil de asalto desarrollado por la Unión Soviética como sucesor del AKM. Se introdujo en los años setenta y dispara el cartucho más pequeño de 5,45 x 39 mm. Cuando la Unión Soviética invadió Afganistán en 1979, entró bien equipada y armada con su nuevo fusil de 5,45 mm, el cual %3sorprendió%4 a las guerrillas afganas. El «AK naranja» les llamó la atención, y capturaron y dieron un buen uso a todos los ejemplares que pudieron encontrar. Por otro lado, la Unión Soviética envió muchos AK-74 (y variantes) al %3Ejército afgano%4 que estaba apoyando durante la guerra, y los %3muyahidines%4 se agenciaron muchos de ellos, que luego dieron a los %3talibanes%4. En resumen, casi la %3mitad%4 de todos los AK que se ven en Afganistán son variantes del AK-74, lo cual es llamativo para un grupo militante como este. ¡Hasta tiene su propio apodo: «Kalakov»! Las variantes más comunes son el %3AK-74%4 estándar, el %3AK-74N%4, que incluye un riel lateral para acoplarle miras, el %3AKS-74%4 (que incluye una culata metálica plegable) y el %3AKS-74U%4 (versión de carabina con una culata plegable y un cañón más corto).</Spanish>
+        <English>The %3AK-74%4 is an assault rifle that was developed by the Soviet Union as a successor to the AKM. It was introduced in the 1970s and chambered in the smaller 5.45x39mm cartridge. When the Soviet Union invaded Afghanistan in 1979, it came in well-equipped and armed with their brand new 5.45mm rifle, which very much %3surprised%4 Afghan guerillas. The 'orange AK' caught their eye, and they captured and put to good use all examples they could find. On the other hand, the Soviet Union sent a lot of AK-74s (and its variants) to the %3Afghan Army%4 it was supporting during the war, and the %3Mujahideen%4 took many of them for themselves, and they were later passed on to the %3Taliban%4. Even though it's become rarer nowadays, plenty of AK-74s can still be seen in their ranks, which is unique for such a militant group. It even has its own nickname, the '%3Kalakov%4'! The most common variants are the standard %3AK-74%4, the %3AK-74N%4, which includes a side rail for mounting optics, the %3AKS-74%4 (which features a side-folding metal stock), the %3AKS-74U%4 (carbine version with a folding stock and a shorter barrel), and the %3AK-74M%4 (the modernized variant issued to the Russian military and used by %3Chechen volunteers%4 in captured examples from the Chechen War).</English>
+        <Spanish>El %3AK-74%4 es un fusil de asalto desarrollado por la Unión Soviética como sucesor del AKM. Se introdujo en los años setenta y dispara el cartucho más pequeño de 5,45 x 39 mm. Cuando la Unión Soviética invadió Afganistán en 1979, entró bien equipada y armada con su nuevo fusil de 5,45 mm, el cual %3sorprendió%4 a las guerrillas afganas. El «AK naranja» les llamó la atención, y capturaron y dieron un buen uso a todos los ejemplares que pudieron encontrar. Por otro lado, la Unión Soviética envió muchos AK-74 (y variantes) al %3Ejército afgano%4 que estaba apoyando durante la guerra, y los %3muyahidines%4 se agenciaron muchos de ellos, que luego dieron a los %3talibanes%4. Aunque a día de hoy es más raro verlo, aún se siguen viendo bastantes AK-74 entre sus filas, lo cual es llamativo para un grupo militante como este. ¡Hasta tiene su propio apodo: «Kalakov»! Las variantes más comunes son el %3AK-74%4 estándar, el %3AK-74N%4, que incluye un riel lateral para acoplarle miras, el %3AKS-74%4 (que incluye una culata metálica plegable), el %3AKS-74U%4 (versión de carabina con una culata plegable y un cañón más corto) y el %3AK-74M%4 (la variante modernizada entregada al Ejército ruso y utilizada por los %3voluntarios chechenos%4 como ejemplares capturados de la guerra de Chechenia).</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_ASVal">
+        <English>AS Val</English>
+        <Spanish>AS Val</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_ASVal_Description">
+        <English>The %3AS Val%4 is a Soviet-made silenced assault rifle designed for close-quarters combat and covert operations. It features a short barrel, integrated suppressor, folding stock, and subsonic cartridge, making it ideal for stealthy missions. Its compact and lightweight design, along with its reliability and accuracy, have made it a popular choice among special forces units in Russia. It was extensively used during both Chechen wars, where the %3Chechen Mujahideen%4 got their hands on some examples.</English>
+        <Spanish>El %3AS Val%4 es un fusil de asalto silenciado soviético diseñado para el combate en espacios cerrados y las operaciones encubiertas. Incluye un cañón corto, un silenciador integrado, una culata plegable y un cartucho subsónico, lo que lo hace ideal para las misiones de sigilo. Su diseño compacto y ligero, junto con su fiabilidad y precisión, lo han hecho una opción popular entre las unidades de fuerzas especiales de Rusia. Se usó mucho en ambas guerras de Chechenia, donde los %3muyahidines chechenos%4 se hicieron con algunos ejemplares.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_MD86">
@@ -578,8 +768,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_MD86_Description">
-        <English>As the Soviet Union switched from the 7.62x39mm caliber AKM to the 5.45x39mm caliber AK-74, it encouraged other nations of the Warsaw Pact to follow suit. By the mid 1980s, Romania decided to switch calibers, however it was decided that the new rifle would be developed independently, and not represent a clone of the Soviet AK-74. In doing so, the %3PA md. 86%4 has several anachronistic AKM elements that were found only on the prototype Soviet AK-74. It is the standard service rifle of the %3Romanian military%4 since 1986.</English>
-        <Spanish>Cuando la Unión Soviética cambió del AKM de 7,62 x 39 mm al AK-74 de 5,45 x 39 mm, animó al resto de naciones del Pacto de Varsovia a hacer lo mismo. A mediados de los ochenta, Rumanía decidió cambiar de calibre, pero decidieron desarrollar el nuevo fusil por su cuenta, no hacer un clon del AK-74 soviético. Así nació el %3PA md. 86%4, que incluye varios rasgos anacrónicos del AKM que solo se podían ver en el prototipo del AK-74. Es el fusil reglamentario del %3Ejército rumano%4 desde 1986.</Spanish>
+        <English>As the Soviet Union switched from the 7.62x39mm caliber AKM to the 5.45x39mm caliber AK-74, it encouraged other nations of the Warsaw Pact to follow suit. By the mid 1980s, %3Romania%4 decided to switch calibers, however it was decided that the new rifle would be developed independently, and not represent a clone of the Soviet AK-74. In doing so, the %3PA md. 86%4 has several anachronistic AKM elements that were found only on the prototype Soviet AK-74. It is the standard service rifle of the %3Romanian military%4 since 1986.</English>
+        <Spanish>Cuando la Unión Soviética cambió del AKM de 7,62 x 39 mm al AK-74 de 5,45 x 39 mm, animó al resto de naciones del Pacto de Varsovia a hacer lo mismo. A mediados de los ochenta, %3Rumanía%4 decidió cambiar de calibre, pero decidieron desarrollar el nuevo fusil por su cuenta, no hacer un clon del AK-74 soviético. Así nació el %3PA md. 86%4, que incluye varios rasgos anacrónicos del AKM que solo se podían ver en el prototipo del AK-74. Es el fusil reglamentario del %3Ejército rumano%4 desde 1986.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_VZ58">
@@ -652,6 +842,26 @@
         <Spanish>El %3SR-25%4 tiene su origen en la plataforma AR-10 diseñada por Eugene Stoner. Fue desarrollado en los años noventa por Knight's Armament Company (KAC) como un fusil de francotirador semiautomático. Es básicamente un AR-15 que dispara el cartucho 7,62 x 51 mm OTAN. Se hizo popular debido a su puntería, fiabilidad y rendimiento a largas distancias. Por ende, ha llamado la atención de numerosas unidades militares y policiales, como el %3USSOCOM%4 y el SOCOMD %3australiano%4.</Spanish>
         <Polish></Polish>
       </Key>
+	  <Key ID="STR_LOK_FM_SEALRecon">
+        <English>SEAL Recon Rifle</English>
+        <Spanish>SEAL Recon Rifle</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_SEALRecon_Description">
+        <English>The %3SEAL Recon Rifle%4 is a marksman rifle used by the US %3Navy SEALs%4. Essentially a heavily modified M16 rifle, it is intended to provide SEAL snipers and designated marksmen with a versatile, accurate, lightweight, and relatively compact weapon chambered in 5.56×45mm NATO. The concept was first observed during the 1993 %3Battle of Mogadishu%4, and led to the creation of an accurized rifle that could share the duties and ammunition of fielded M4 carbines, whilst also being able to engage targets beyond the carbine's range. Eventually, the %3Mk 12 SPR%4 was developed, but many SEALs felt disappointed with it and kept using their custom-made rifles.</English>
+        <Spanish>El %3SEAL Recon Rifle%4 es un fusil de tirador empleado por los %3Navy SEAL%4 estadounidenses. En esencia un fusil M16 modificado, su objetivo es proporcionar a los francotiradores SEAL y a los tiradores designados un arma versátil, precisa, ligera y relativamente compacta que disparara el cartucho 5,56 × 45 OTAN. El concepto se observó por primera vez durante la %3batalla de Mogadiscio%4 de 1993 y desembocó en la creación de un fusil de precisión que podía compartir las funciones y la munición de las carabinas M4 reglamentarias, al tiempo que podía atacar objetivos fuera del alcance de la carabina. Al final se desarrolló el %3Mk. 12 SPR%4, pero muchos SEAL se sintieron decepcionados por él y siguieron usando sus fusiles personalizados.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Mk12">
+        <English>Mk 12 SPR</English>
+        <Spanish>Mk. 12 SPR</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Mk12_Description">
+        <English>The %3Mk 12 Special Purpose Rifle%4 (SPR) has its origins in the United States military's desire for a designated marksman rifle that had more range than the M16 but was shorter than an SR-25. It was developed in the early 2000s as an enhancement to the standard M16/M4 platform. It featured a longer barrel, free-floating handguard, and specialized optics, allowing for increased accuracy and effective engagement at extended ranges. Although it started as a US Navy program, all units in %3USSOCOM%4 have used it in Afghanistan, such as the %3Green Berets%4.</English>
+        <Spanish>El %3Mk. 12 Special Purpose Rifle%4 (SPR) tiene sus orígenes en las ganas del Ejército de los Estados Unidos de tener un fusil de tirador designado con más alcance que el M14 pero más corto que el SR-25. Se desarrolló a principios de los 2000 como mejora de la plataforma M16/M4 estándar. Incluía un cañón más largo, un guardamanos flotante y miras especializadas, lo que permitía una mayor precisión y efectividad a mayores distancias. Aunque empezó como un programa de la Marina, todas las unidades del %3USSOCOM%4 lo han usado en Afganistán, como los %3Boinas Verdes%4.</Spanish>
+        <Polish></Polish>
+      </Key>
 	  <Key ID="STR_LOK_FM_M21">
         <English>M21 SWS</English>
         <Spanish>M21 SWS</Spanish>
@@ -672,16 +882,6 @@
         <Spanish>El %3M24 Sniper Weapon System%4 (SWS) es la versión militar y policial del fusil Remington Modelo 700. «M24» fue el nombre asignado por el %3Ejército de los Estados Unidos%4 tras su adopción como fusil de francotirador estándar en 1988, reemplazando al M21 SWS de la era de Vietnam. Sin embargo, se usan ambos sistemas de francotirador en Afganistán hoy en día.</Spanish>
         <Polish></Polish>
       </Key>
-	  <Key ID="STR_LOK_FM_Mk12">
-        <English>Mk 12 SPR</English>
-        <Spanish>Mk. 12 SPR</Spanish>
-        <Polish></Polish>
-      </Key>
-	  <Key ID="STR_LOK_FM_Mk12_Description">
-        <English>The %3Mk 12 Special Purpose Rifle%4 (SPR) has its origins in the United States military's desire for a designated marksman rifle that had more range than the M16 but was shorter than an SR-25. It was developed in the early 2000s as an enhancement to the standard M16/M4 platform. It featured a longer barrel, free-floating handguard, and specialized optics, allowing for increased accuracy and effective engagement at extended ranges. Although it started as a US Navy program, all units in %3USSOCOM%4 have used it in Afghanistan, such as the %3Green Berets%4.</English>
-        <Spanish>El %3Mk. 12 Special Purpose Rifle%4 (SPR) tiene sus orígenes en las ganas del Ejército de los Estados Unidos de tener un fusil de tirador designado con más alcance que el M14 pero más corto que el SR-25. Se desarrolló a principios de los 2000 como mejora de la plataforma M16/M4 estándar. Incluía un cañón más largo, un guardamanos flotante y miras especializadas, lo que permitía una mayor precisión y efectividad a mayores distancias. Aunque empezó como un programa de la Marina, todas las unidades del %3USSOCOM%4 lo han usado en Afganistán, como los %3Boinas Verdes%4.</Spanish>
-        <Polish></Polish>
-      </Key>
 	  <Key ID="STR_LOK_FM_C14">
         <English>C14 Timberwolf</English>
         <Spanish>C14 Timberwolf</Spanish>
@@ -690,6 +890,16 @@
 	  <Key ID="STR_LOK_FM_C14_Description">
         <English>The %3C14 Timberwolf%4 is a bolt-action sniper rifle designed and manufactured by Canadian firearms company PGW Defence Technologies. It was adopted in 2005 to replace the C3A1 sniper rifle in %3Canadian%4 service.</English>
         <Spanish>El %3C14 Timberwolf%4 es un fusil de francotirador de cerrojo diseñado y fabricado por la empresa armamentística canadiense PGW Defence Technologies. Fue adoptado en 2005 para reemplazar al fusil de francotirador C3A1 en servicio %3canadiense%4.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_TAC50">
+        <English>TAC-50</English>
+        <Spanish>TAC-50</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_TAC50_Description">
+        <English>The %3McMillan TAC-50%4 is a heavy-hitting, long-range sniper rifle chambered for the %3.50 BMG%4 cartridge. It is known for its accuracy, power, and long-range capabilities. It has been used in numerous high-profile operations and has held the record for %3longest sniper kill%4 several times. Designated as the %3C15%4, it has been the standard long-range sniper weapon of the %3Canadian military%4 since 2000.</English>
+        <Spanish>El %3McMillan TAC-50%4 es un potente fusil de francotirador de largo alcance que dispara el cartucho %3.50 BMG%4. Es conocido por su precisión, potencia y capacidades a largas distancias. Se ha usado en numerosas operaciones de alto nivel y ha batido varias veces el récord de %3baja confirmada de francotirador más lejana%4. Designado %3C15%4, ha sido el fusil de francotirador de largo alcance estándar del %3Ejército canadiense%4 desde 2000.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_M82">
@@ -752,6 +962,16 @@
         <Spanish>El %3SVD%4, también conocido como el %3Dragunov%4, es un fusil de francotirador soviético introducido a finales de los cincuenta. Pese a parecer un AK grande, su sistema de funcionamiento no se parece en nada al del AK. El %3Ejército afgano%$, cuyo Gobierno estaba respaldado por la Unión Soviética antes de la invasión de 1979, recibió muchos ejemplares que se siguen usando. La mayoría de los francotiradores soviéticos iban armados con el SVD cuando invadieron Afganistán, donde consiguió notoriedad: fueron capturados y usados contra las fuerzas soviéticas por los %3muyahidines%4, y más tarde por los %3talibanes%4 contra las tropas de la Coalición.</Spanish>
         <Polish></Polish>
       </Key>
+	  <Key ID="STR_LOK_FM_PSL">
+        <English>PSL</English>
+        <Spanish>PSL</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_PSL_Description">
+        <English>The %3PSL%4 is a Romanian designated marksman rifle designed in 1974. Though similar in appearance, mission, and specifications to the SVD Dragunov, the PSL rifle is, mechanically speaking, %3completely different%4 as it is based on the AKM assault rifle. It is currently the main marksman weapon of the %3Romanian military%4, but it has also been exported to several countries, such as %3Afghanistan%4, where it is heavily used by both %3Government%4 and %3militia%4 forces. It was also exported to %3Azerbaijan%4, and from there it was funneled into nearby %3Chechnya%4.</English>
+        <Spanish>El %3PSL%4 es un fusil de tirador designado rumano diseñado en 1974. Aunque es similar en apariencia, misión y especificaciones al SVD Dragunov, el PSL es, mecánicamente hablando, %3completamente distinto%4, ya que está basado en el fusil de asalto AKM. Es actualmente la principal arma de tirador del %3Ejército rumano%4, pero también se ha exportado a varios países, como %3Afganistán%4, donde es muy utilizado por las fuerzas %3gubernamentales%4 y %3milicianas%4. También se exportó a %3Azerbaiyán%4, y de ahí se traficó a la cercana %3Chechenia%4.</Spanish>
+        <Polish></Polish>
+      </Key>
 	  <Key ID="STR_LOK_FM_FNMAG">
         <English>FN MAG</English>
         <Spanish>FN MAG</Spanish>
@@ -768,8 +988,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Minimi_Description">
-        <English>The %3FN Minimi%4 is a Belgian 5.56mm light machine gun developed by FN Herstal. Introduced in the late 1970s, it is in service in more than 75 countries. Some of the countries that adopted it are the %3Netherlands%4, %3Australia%4 (as the '%3F89%4'), the %3United Kingdom%4 (as the '%3L110A1%4'), %3Canada%4 (in an improved variant known as the '%3C9A2%4'), and the %3United States%4 (in an improved variant known as the '%3M249 SAW%4'). 59 ex-British Minimis are also used by the %3Taliban%4 in Afghanistan. Two main variants can be identified: the %3Minimi%4, with a standard fixed stock, and the %3Minimi Para%4, which features a shorter barrel and a folding buttstock.</English>
-        <Spanish>La %3FN Minimi%4 es una ametralladora ligera belga de 5,56 mm desarrollada por FN Herstal. Introducida a finales de los setenta, sirve en más de 75 países. Algunos de los países que la adoptaron son los %3Países Bajos%4, %3Australia%4 (como la %3«F89%»%4), el %3Reino Unido%4 (como la %3«L110A1»%4), %3Canadá%4 (en una variante mejorada conocida como la %3«C9A2»%4) y los %3Estados Unidos%4 (en una variante mejorada conocida como la %3«M249 SAW»%4). Los %3talibanes%4 también usan 59 Minimis exbritánicas en Afganistán. Se pueden identificar dos variantes principales: la %3Minimi%4, con una culata fija estándar, y la %3Minimi Para%4, que presenta un cañón más corto y una culata plegable.</Spanish>
+        <English>The %3FN Minimi%4 is a Belgian 5.56mm light machine gun developed by FN Herstal. Introduced in the late 1970s, it is in service in more than 75 countries. Some of the countries that adopted it are the %3Netherlands%4, %3Australia%4 (as the '%3F89%4'), the %3United Kingdom%4 (as the '%3L110A1%4'), %3Canada%4 (originally as the '%3C9A1%4', later in an improved variant known as the '%3C9A2%4'), and the %3United States%4 (in an improved variant known as the '%3M249 SAW%4'). 59 ex-British Minimis are also used by the %3Taliban%4 in Afghanistan. Two main variants can be identified: the %3Minimi%4, with a standard fixed stock, and the %3Minimi Para%4, which features a shorter barrel and a folding buttstock.</English>
+        <Spanish>La %3FN Minimi%4 es una ametralladora ligera belga de 5,56 mm desarrollada por FN Herstal. Introducida a finales de los setenta, sirve en más de 75 países. Algunos de los países que la adoptaron son los %3Países Bajos%4, %3Australia%4 (como la %3«F89%»%4), el %3Reino Unido%4 (como la %3«L110A1»%4), %3Canadá%4 (al principio como la «%3C9A1%4», más tarde en una variante mejorada conocida como la %3«C9A2»%4) y los %3Estados Unidos%4 (en una variante mejorada conocida como la %3«M249 SAW»%4). Los %3talibanes%4 también usan 59 Minimis exbritánicas en Afganistán. Se pueden identificar dos variantes principales: la %3Minimi%4, con una culata fija estándar, y la %3Minimi Para%4, que presenta un cañón más corto y una culata plegable.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Maximi">
@@ -988,8 +1208,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_RPG18_Description">
-        <English>The %3RPG-18%4 'Mukha' ('fly') is a Soviet short-range, disposable light anti-tank rocket launcher designed in 1972. It is both visually and mechanically very similar to the American M72 LAW. It first saw real service in 1979, when the Soviet invasion of Afghanistan commenced. Many VDV and Spetsnaz operators carried RPG-18s because they were light and didn't require more than one soldier to be used, and the %3Mujahideen%4 captured some of them, which can still be seen amongst the %3Taliban%4 from time to time.</English>
-        <Spanish>El %3RPG-18%4 «Muja» («mosca») es un lanzacohetes anticarro desechable, ligero y de corto alcance soviético diseñado en 1972. Se parece mucho tanto visual como mecánicamente al M72 LAW estadounidense. Sirvió por primera vez en 1979, cuando comenzó la invasión soviética de Afganistán. Muchos operadores del VDV y Spetsnaz llevaban RPG-18 porque eran ligeros y no se necesitaba más de un soldado para usarlos, y los %3muyahidines%4 capturaron algunos, los cuales aún se pueden ver entre los %3talibanes%4 de vez en cuando.</Spanish>
+        <English>The %3RPG-18%4 'Mukha' ('fly') is a Soviet short-range, disposable light anti-tank rocket launcher designed in 1972. It is both visually and mechanically very similar to the American M72 LAW. It first saw real service in 1979, when the Soviet invasion of Afghanistan commenced. Many VDV and Spetsnaz operators carried RPG-18s because they were light and didn't require more than one soldier to be used, and the %3Mujahideen%4 captured some of them, which can still be seen amongst the %3Taliban%4 from time to time. The Russians also used the RPG-18 in %3Chechnya%4, where many examples were captured and used by the %3Chechen guerillas%4.</English>
+        <Spanish>El %3RPG-18%4 «Muja» («mosca») es un lanzacohetes anticarro desechable, ligero y de corto alcance soviético diseñado en 1972. Se parece mucho tanto visual como mecánicamente al M72 LAW estadounidense. Sirvió por primera vez en 1979, cuando comenzó la invasión soviética de Afganistán. Muchos operadores del VDV y Spetsnaz llevaban RPG-18 porque eran ligeros y no se necesitaba más de un soldado para usarlos, y los %3muyahidines%4 capturaron algunos, los cuales aún se pueden ver entre los %3talibanes%4 de vez en cuando. Los rusos también usaron el RPG-18 en %3Chechenia%4, donde muchos ejemplares fueron capturados y usados por las %3guerrillas chechenas%4.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_SPG9">
@@ -1073,13 +1293,23 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_TowingTractor">
-        <English>Towing tractor</English>
-        <Spanish>Tractor de remolque</Spanish>
+        <English>FMC B600</English>
+        <Spanish>FMC B600</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_TowingTractor_Description">
-        <English>A %3tow tractor%4, also known as a %3tug%4, is a specialised vehicle used to tow or push heavy loads. It has a powerful engine, strong traction, and a hitching mechanism to attach trailers or equipment. It is used by militaries all over the world, like the %3US Air Force%4, to tow aircraft.</English>
-        <Spanish>Un %3tractor de remolque%4 es un vehículo especializado que se usa para remolcar o empujar cargas pesadas. Tiene un motor potente, una tracción fuerte y un mecanismo de enganchado para tráileres o equipos. Ejércitos de todo el mundo, como la %3Fuerza Aérea de EE. UU.%4, los usan para remolcar aeronaves.</Spanish>
+        <English>The %3FMC B600%4 is a %3tow tractor%4, also known as a %3tug%4, a specialised vehicle used to tow or push heavy loads. It has a powerful engine, strong traction, and a hitching mechanism to attach trailers or equipment. This one is ued by the %3US Air Force%4 to tow aircraft.</English>
+        <Spanish>El %3FMC B600%4 es un %3tractor de remolque%4, un vehículo especializado que se usa para remolcar o empujar cargas pesadas. Tiene un motor potente, una tracción fuerte y un mecanismo de enganchado para tráileres o equipos. Este lo usa la %3Fuerza Aérea de EE. UU.%4 para remolcar aeronaves.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_MJ1E">
+        <English>MJ-1E</English>
+        <Spanish>MJ-1E</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_MJ1E_Description">
+        <English>The %3MJ-1E Fighter Weapons Loader%4 is a revolutionary aerial munitions lift truck and bomb loader. It employs a fuel cell power system to provide a longer range and quieter operation compared to its predecessors. Additionally, it features a robotic arm capable of reaching over 15 feet and loading stores under 27 inches of ground clearance, enhancing efficiency and safety during loading operations.</English>
+        <Spanish>El %3MJ-1E Fighter Weapons Loader%4 es un revolucionario carro elevador de municiones aéreas y cargador de bombas. Emplea un sistema de alimentación por pila de combustible que le proporciona una mayor autonomía y un funcionamiento más silencioso que sus predecesores. Además, cuenta con un brazo robótico capaz de subir casi 5 metros y cargar almacenes por debajo de 68 cm de distancia al suelo, mejorando la eficiencia y la seguridad durante las operaciones de carga.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_ATV">
@@ -1088,8 +1318,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_ATV_Description">
-        <English>The %3Polaris MV 850%4 is an %3all-terrain vehicle%4 (ATV) designed by Polaris in the US. ATVs, also known as %3quad bikes%4, are motorised vehicles designed for off-road use. They are compact and have low-pressure tires, providing the ability to traverse diverse terrains such as mud, snow, gravel, or rough trails. ATVs are typically used for recreational purposes, but they also find utility in agricultural, forestry, and other activities, including military operations. ATVs are starting to find a place in %3special operations forces%4 from all over the world, since they mostly fit their operational requirements. For example, the US Army %3Green Berets%4, despite being usually linked to the HMMWV GMV, have started to use ATVs in Afghanistan, as evidenced by %3Operation Falcon Summit%4 in December 2006.</English>
-        <Spanish>La %3Polaris MV 850%4 es una %3cuatrimoto%4 diseñada por Polaris en Estados Unidos. Las cuatrimotos, también conocidas como %3quads%4, son vehículos motorizados diseñados para todos los terrenos. Son compactas y tienen neumáticos de baja presión, lo cual les confiere la habilidad de viajar por diversos terrenos como barro, tierra, nieve, grava o senderos irregulares. Los quads suelen emplearse con fines recreativos, pero también tienen su utilidad en actividades agrícolas y forestales, así como en operaciones militares. Los quads están empezando a hacerse hueco en las %3fuerzas de operaciones especiales%4 de todo el mundo, puesto que cumplen sus requisitos operativos. Por ejemplo, los %3Boinas Verdes%4 del Ejército de Estados Unidos, a pesar de estar comúnmente asociados al HMMWV GMV, han empezado a usar quads en Afganistán, como se ha demostrado en la %3Operación Cumbre de Halcón%4 de diciembre de 2006.</Spanish>
+        <English>The %3Polaris MV 850%4 is an %3all-terrain vehicle%4 (ATV) designed by Polaris in the US. ATVs, also known as %3quad bikes%4, are motorised vehicles designed for off-road use. They are compact and have low-pressure tires, providing the ability to traverse diverse terrains such as mud, snow, gravel, or rough trails. ATVs are typically used for recreational purposes, but they also find utility in agricultural, forestry, and other activities, including military operations. ATVs are starting to find a place in %3special operations forces%4 from all over the world, since they mostly fit their operational requirements. For example, ATVs were a crucial part of the insertion of the AFO teams during the planning phases of %3Operation Anaconda%4 in 2002, and the US Army %3Green Berets%4, despite being usually linked to the HMMWV GMV, have started to use ATVs in Afghanistan, as evidenced by %3Operation Falcon Summit%4 in December 2006.</English>
+        <Spanish>La %3Polaris MV 850%4 es una %3cuatrimoto%4 diseñada por Polaris en Estados Unidos. Las cuatrimotos, también conocidas como %3quads%4, son vehículos motorizados diseñados para todos los terrenos. Son compactas y tienen neumáticos de baja presión, lo cual les confiere la habilidad de viajar por diversos terrenos como barro, tierra, nieve, grava o senderos irregulares. Los quads suelen emplearse con fines recreativos, pero también tienen su utilidad en actividades agrícolas y forestales, así como en operaciones militares. Los quads están empezando a hacerse hueco en las %3fuerzas de operaciones especiales%4 de todo el mundo, puesto que cumplen sus requisitos operativos. Por ejemplo, los quads fueron una parte esencial de la inserción de los equipos AFO durante las fases de planificación de la %3Operación Anaconda%4 en 2002, y los %3Boinas Verdes%4 del Ejército de Estados Unidos, a pesar de estar comúnmente asociados al HMMWV GMV, han empezado a usar quads en Afganistán, como se ha demostrado en la %3Operación Cumbre de Halcón%4 de diciembre de 2006.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_SUV">
@@ -1318,8 +1548,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_GAZ66_Description">
-        <English>The %3GAZ-66%4 is a Soviet 4x4 military truck developed in the 1960s. It was one of the main cargo vehicles for motorized infantry of the Soviet Army, and is still employed in former Soviet Union countries. Due to Afghanistan and the Soviet Union's friendly relationship in the 1970s and 80s, many trucks like this one were used in the Soviet-Afghan War and exported to Afghanistan, and they have found a spot in the %3Afghan National Army%4 (before being replaced by Navistar trucks donated by the US), and most importantly, in the %3civilian market%4, from where the %3Taliban%4 have appropriated many examples.</English>
-        <Spanish>El %3GAZ-66%4 es un camión militar soviético 4x4 desarrollado en los años sesenta. Fue uno de los principales vehículos de carga para la infantería motorizada del Ejército soviético, y aún se emplea en países de la antigua Unión Soviética. Debido a la relación cordial entre Afganistán y la Unión Soviética en los años setenta y ochenta, muchos camiones como este se utilizaron en la guerra soviético-afgana y se exportaron a Afganistán, y se han hecho un hueco en el %3Ejército Nacional Afgano%4 (antes de ser sustituidos por camiones Navistar donados por EE. UU.) y, lo que es más importante, en el %3mercado civil%4, de donde los %3talibanes%4 se han apropiado de muchos ejemplares.</Spanish>
+        <English>The %3GAZ-66%4 is a Soviet 4x4 military truck developed in the 1960s. It was one of the main cargo vehicles for motorized infantry of the Soviet Army, and is still employed in former Soviet Union countries. Due to Afghanistan and the Soviet Union's friendly relationship in the 1970s and 80s, many trucks like this one were used in the Soviet-Afghan War and exported to Afghanistan, and they have found a spot in the %3Afghan National Army%4, and most importantly, in the %3civilian market%4, from where the %3Taliban%4 have appropriated many examples. Many of these trucks, along with any other trucks procured by the Afghans, have been turned into so-called '%3jingle trucks%4', that is, decorated trucks with elaborate floral patterns and calligraphy commonly seen in %3South Asia%4.</English>
+        <Spanish>El %3GAZ-66%4 es un camión militar soviético 4x4 desarrollado en los años sesenta. Fue uno de los principales vehículos de carga para la infantería motorizada del Ejército soviético, y aún se emplea en países de la antigua Unión Soviética. Debido a la relación cordial entre Afganistán y la Unión Soviética en los años setenta y ochenta, muchos camiones como este se utilizaron en la guerra soviético-afgana y se exportaron a Afganistán, y se han hecho un hueco en el %3Ejército Nacional Afgano%4 y, lo que es más importante, en el %3mercado civil%4, de donde los %3talibanes%4 se han apropiado de muchos ejemplares. Muchos de estos camiones, así como cualquier otro camión adquirido por los afganos, se han convertido en los llamados «%3jingle trucks%4», esto es, camiones decorados con elaboradas florituras y caligrafías muy comunes en %3Asia del Sur%4.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Ural">
@@ -1330,6 +1560,46 @@
 	  <Key ID="STR_LOK_FM_Ural_Description">
         <English>The %3Ural-4320%4 is a Soviet 6x6 truck developed in 1976. It replaced the Ural-375 in Soviet service. Although not as common as the GAZ-66, many examples were captured by the %3Mujahideen%4 during the Soviet-Afghan War (later used by the %3Taliban%4), and many more have been imported from the market for %3civilian%4 use.</English>
         <Spanish>El %3Ural-4320%4 es un camión soviético 6x6 desarrollado en 1976. Sustituyó al Ural-375 en el servicio soviético. Aunque no es tan común como el GAZ-66, muchos ejemplares fueron capturados por los %3muyahidines%4 durante la guerra soviético-afgana (posteriormente utilizados por los %3talibanes%4), y muchos más han sido importados del mercado para uso %3civil%4.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Kamaz">
+        <English>KamAZ-5350</English>
+        <Spanish>KamAZ-5350</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Kamaz_Description">
+        <English>The %3KamAZ-5350%4 is a six-wheel drive military truck known for its ruggedness, versatility, and off-road prowess. It is a workhorse, serving the Russian military and various civilian sectors. Its payload capacity, off-road capabilities, and reliability make it an asset in challenging environments. Therefore, it is commonly used in %3Afghanistan%4, both in a civilian and military context.</English>
+        <Spanish>El %3KamAZ-5350%4 es un camión militar de seis ruedas motrices conocido por su robustez, versatilidad y destreza todoterreno. Es un caballo de batalla al servicio del Ejército ruso y de diversos sectores civiles. Su capacidad de carga, sus aptitudes todoterreno y su fiabilidad lo convierten en una baza en entornos difíciles. Por ello, se utiliza habitualmente en %3Afganistán%4, tanto en un contexto civil como militar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_ZiL">
+        <English>ZiL-131</English>
+        <Spanish>ZiL-131</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_ZiL_Description">
+        <English>The %3ZiL-131%4 is a rugged 6x6 all-terrain military truck renowned for its reliability and versatility. It was the military version of the ZiL-130. Over its 50-year service, it became an indispensable asset in both military and civilian applications, excelling in harsh conditions and demanding tasks. Its legacy as a %3workhorse%4 remains etched in the annals of Soviet and Russian engineering.</English>
+        <Spanish>El %3ZiL-131%4 es un camión militar todoterreno robusto 6x6 reputado por su fiabilidad y versatilidad. Fue la versión militar del ZiL-130. A lo largo de su servicio de más de 50 años, se convirtió en un activo indispensable en aplicaciones tanto militares como civiles, sobresaliendo en condiciones adversas y tareas exigentes. Su legado como %caballo de batalla%4 está grabado en los anales de la ingeniería soviética y rusa.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Kraz">
+        <English>KrAZ-255B1</English>
+        <Spanish>KrAZ-255B1</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Kraz_Description">
+        <English>The %3KrAZ-255B1%4 is a six-wheel drive (6x6) off-road truck developed in the Soviet Union in the 1960s. It is a successor to the KrAZ-214 and is the %3heaviest%4 and %3most powerful%4 Soviet-made 6x6 military cargo truck. It was designed for extreme operations, including transporting heavy equipment, towing artillery, and supporting military operations in challenging terrains. Thus, it is perfect for %3Afghanistan%4.</English>
+        <Spanish>El %3KrAZ-255B1%4 es un camión todoterreno de seis ruedas motrices (6x6) desarrollado en la Unión Soviética en los años sesenta. Es el sucesor del KrAZ-214 y es el camión de carga militar 6x6 %3más pesado%4 y %3más potente%4 de fabricación soviética. Se diseñó para operaciones extremas, como el transporte de equipos pesados, el remolque de artillería y el apoyo a operaciones militares en terrenos difíciles. Por lo tanto, es perfecto para %3Afganistán%4.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_BM21">
+        <English>BM-21 Grad</English>
+        <Spanish>BM-21 Grad</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_BM21_Description">
+        <English>The %3BM-21 Grad%4 is a self-propelled 122mm multiple rocket launcher (MLR) known for its high rate of fire and devastating impact. It is essentially a %3Ural-375D%4 truck fitted with a bank of 40 launch tubes. Although it may seem unlikely, the BM-21 Grad was used by Afghan %3militias%4 during the %3early stages%4 of the 2001 %3War in Afghanistan%4. After the fall of Kabul in 1991 to the Mujahideen, BM-21’s were collected by the different ethnic armies who later coalesced into the %3Northern Alliance%4 (and the %3Eastern Alliance%4 as well) that was backed by several countries, including India and Iran.</English>
+        <Spanish>El %3BM-21 Grad%4 es un lanzacohetes múltiple (MLR) autopropulsado de 122 mm conocido por su alta cadencia de tiro y su impacto devastador. Es básicamente un camión %3Ural-375D%4 dotado de un banco de 40 tubos lanzadores. Aunque parezca inverosímil, el BM-21 Grad fue utilizado por las %3milicias%4 afganas durante las %3primeras fases%4 de la %3guerra de Afganistán%4 de 2001. Tras la caída de Kabul en 1991 a manos de los muyahidines, los BM-21 fueron capturados por los diferentes ejércitos étnicos que más tarde se unieron en la %3Alianza del Norte%4 (y también en la %3Alianza del Este%4), respaldada por varios países, entre ellos la India e Irán.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Ikarus">
@@ -1418,8 +1688,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_BMP1_Description">
-        <English>The %3BMP-1%4 is a Soviet-designed infantry fighting vehicle that has been widely used since its introduction in the 1960s. The %3Afghan National Army%4 ordered 350 BMP-1s in 1979 from the Soviet Union; they were delivered between 1979 and 1990 (some of the vehicles were possibly previously in Soviet service). 550 BMP-1s and BMP-2s were in service in 1992. Between 60 and 80 BMP-1s and BMP-2s were delivered from Russia after 2002.</English>
-        <Spanish>El %3BMP-1%4 es un vehículo de combate de infantería de diseño soviético muy utilizado desde su introducción en los años sesenta. El %3Ejército Nacional Afgano%4 encargó 350 BMP-1 en 1979 a la Unión Soviética; fueron entregados entre 1979 y 1990 (algunos de los vehículos posiblemente estaban previamente en servicio soviético). Había 550 BMP-1 y BMP-2 en servicio en 1992. Entre 60 y 80 BMP-1 y BMP-2 fueron entregados por Rusia después de 2002.</Spanish>
+        <English>The %3BMP-1%4 is a Soviet-designed infantry fighting vehicle that has been widely used since its introduction in the 1960s. The %3Afghan National Army%4 ordered 350 BMP-1s in 1979 from the Soviet Union; they were delivered between 1979 and 1990 (some of the vehicles were possibly previously in Soviet service). 550 BMP-1s and BMP-2s were in service in 1992. Between 60 and 80 BMP-1s and BMP-2s were delivered from Russia after 2002. BMPs were also known to be used by the militias of the %3Northern%4 and %3Eastern Alliances%4.</English>
+        <Spanish>El %3BMP-1%4 es un vehículo de combate de infantería de diseño soviético muy utilizado desde su introducción en los años sesenta. El %3Ejército Nacional Afgano%4 encargó 350 BMP-1 en 1979 a la Unión Soviética; fueron entregados entre 1979 y 1990 (algunos de los vehículos posiblemente estaban previamente en servicio soviético). Había 550 BMP-1 y BMP-2 en servicio en 1992. Entre 60 y 80 BMP-1 y BMP-2 fueron entregados por Rusia después de 2002. También se sabe que las milicias de las %3Alianzas del Norte%4 y del %3Este%4 usaron BMP.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Huey">
@@ -1442,19 +1712,29 @@
         <Spanish>El %3UH-60 Black Hawk%4 es un helicóptero polivalente de transporte medio desarrollado por Sikorsky. Ha sido el principal helicóptero utilitario del %3Ejército de los Estados Unidos%4 y de otros ejércitos de todo el mundo desde 1979, sustituyendo al UH-1 «Huey» en el servicio estadounidense. El %3UH-60L%4 es la variante actual en servicio en Afganistán; es básicamente un UH-60A con motores T700-GE-701C actualizados, caja de cambios de durabilidad mejorada y sistema de control de vuelo actualizado, producido desde 1989.</Spanish>
         <Polish></Polish>
       </Key>
+	  <Key ID="STR_LOK_FM_HH60">
+        <English>HH-60 Pave Hawk</English>
+        <Spanish>HH-60 Pave Hawk</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_HH60_Description">
+        <English>The %3HH-60 Pave Hawk%4, a derivative of the UH-60 Black Hawk helicopter, is a highly modified, twin-engine medium-lift helicopter primarily operated by the %3United States Air Force%4 for %3combat search and rescue%4 (CSAR) missions. Its advanced avionics, night vision systems, and defensive countermeasures make it a formidable asset in rescuing personnel in hostile and challenging environments.</English>
+        <Spanish>El %3HH-60 Pave Hawk%4, un derivado del helicóptero UH-60 Black Hawk, es un helicóptero bimotor de transporte medio muy modificado operado principalmente por la %3Fuerza Aérea de los Estados Unidos%4 para %3misiones de búsqueda y rescate en combate%4 (CSAR). Su aviónica avanzada, sus sistemas de visión nocturna y sus contramedidas defensivas lo convierten en un activo formidable para el rescate de personal en entornos hostiles y difíciles.</Spanish>
+        <Polish></Polish>
+      </Key>
 	  <Key ID="STR_LOK_FM_CH47">
-        <English>CH-47D Chinook</English>
-        <Spanish>CH-47D Chinook</Spanish>
+        <English>CH-47 Chinook</English>
+        <Spanish>CH-47 Chinook</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_CH47_Description">
-        <English>The %3CH-47 Chinook%4 is a tandem rotor helicopter developed by American rotorcraft company Vertol and manufactured by Boeing Vertol. The Chinook is a heavy-lift helicopter that is among the heaviest lifting Western helicopters. Its name, Chinook, is from the Native American Chinook people of Oregon and Washington state. It has been serving since Vietnam in several militaries worldwide. It is being used in air assault missions, inserting troops into fire bases, and bringing food, water, and ammunition, normally escorted by an AH-64 Apache helicopter. The %3United States Army%4 and the British %3Army Air Corps%4 have been using it since the beginning of the war. As part of the expanded NATO ISAF mission in southern Afghanistan in August 2006, the %3Royal Netherlands Air Force%4 has three CH-47D Chinook of 298 Squadron stationed at Kandahar Airfield. Meanwhile, the %3Australian Army Aviation%4 sent two CH-47s to Uruzgan Province to support the Special Operations Task Group (SOTG) in March 2006.</English>
-        <Spanish>El %3CH-47 Chinook%4 es un helicóptero de rotor tándem desarrollado por la empresa estadounidense de helicópteros Vertol y fabricado por Boeing Vertol. El Chinook es un helicóptero de carga pesada que se encuentra entre los helicópteros occidentales de elevación más pesada. Su nombre, Chinook, proviene del pueblo índigena Chinook de los estados de Oregón y Washington. Lleva en servicio desde Vietnam en varios ejércitos de todo el mundo. Se utiliza en misiones de asalto aéreo, introduciendo tropas en bases de fuego y llevando alimentos, agua y municiones, normalmente escoltado por un helicóptero AH-64 Apache. El %3Ejército de Estados Unidos%4 y el %3Cuerpo Aéreo del Ejército%4 británico lo llevan utilizando desde el comienzo de la guerra. Como parte de la misión ampliada de la ISAF de la OTAN en el sur de Afganistán en agosto de 2006, la %3Real Fuerza Aérea de los Países Bajos%4 tiene tres CH-47D Chinook del Escuadrón 298 estacionados en el aeropuerto de Kandahar. Por su parte, la %3Aviación del Ejército australiana%4 envió dos CH-47 a la provincia de Uruzgán para apoyar al Grupo Operativo de Operaciones Especiales (SOTG) en marzo de 2006.</Spanish>
+        <English>The %3CH-47 Chinook%4 is a tandem rotor helicopter developed by American rotorcraft company Vertol and manufactured by Boeing Vertol. The Chinook is a heavy-lift helicopter that is among the heaviest lifting Western helicopters. Its name, Chinook, is from the Native American Chinook people of Oregon and Washington state. It has been serving since Vietnam in several militaries worldwide. It is being used in air assault missions, inserting troops into fire bases, and bringing food, water, and ammunition, normally escorted by an AH-64 Apache helicopter. The %3United States Army%4 and the British %3Army Air Corps%4 have been using it since the beginning of the war. In fact, the%3 101st Aviation Regiment%4's Chinooks stood out and were essential to the success of %3Operation Anaconda%4 in 2002, being the only helicopters capable of transporting troops to the high altitudes of the %3Shah-i-Kot Valley%4. As part of the expanded NATO ISAF mission in southern Afghanistan in August 2006, the %3Royal Netherlands Air Force%4 has three CH-47D Chinook of 298 Squadron stationed at Kandahar Airfield. Meanwhile, the %3Australian Army Aviation%4 sent two CH-47s to Uruzgan Province to support the Special Operations Task Group (SOTG) in March 2006. There's also a special operations variant worth mentioning, the %3MH-47%4, only used by the American%3 160th Special Operations Aviation Regiment%4. Unfortunately, two of these helicopters were shot down during %3Operation Anaconda%4. </English>
+        <Spanish>El %3CH-47 Chinook%4 es un helicóptero de rotor tándem desarrollado por la empresa estadounidense de helicópteros Vertol y fabricado por Boeing Vertol. El Chinook es un helicóptero de carga pesada que se encuentra entre los helicópteros occidentales de elevación más pesada. Su nombre, Chinook, proviene del pueblo índigena Chinook de los estados de Oregón y Washington. Lleva en servicio desde Vietnam en varios ejércitos de todo el mundo. Se utiliza en misiones de asalto aéreo, introduciendo tropas en bases de fuego y llevando alimentos, agua y municiones, normalmente escoltado por un helicóptero AH-64 Apache. El %3Ejército de Estados Unidos%4 y el %3Cuerpo Aéreo del Ejército%4 británico lo llevan utilizando desde el comienzo de la guerra. De hecho, los Chinooks del%3 101.er Regimiento de Aviación%4 sobresalieron y fueron esenciales para el éxito de la %3Operación Anaconda%4 en 2002, ya que eran los únicos helicópteros capaces de transportar tropas a las altitudes del %3valle de Shah-i-Kot%4. Como parte de la misión ampliada de la ISAF de la OTAN en el sur de Afganistán en agosto de 2006, la %3Real Fuerza Aérea de los Países Bajos%4 tiene tres CH-47D Chinook del Escuadrón 298 estacionados en el aeropuerto de Kandahar. Por su parte, la %3Aviación del Ejército australiana%4 envió dos CH-47 a la provincia de Uruzgán para apoyar al Grupo Operativo de Operaciones Especiales (SOTG) en marzo de 2006. También cabe mencionar la variante de operaciones especiales %3MH-47%4, únicamente empleada por el%3 160.º Regimiento de Aviación de Operaciones Especiales%4. Por desgracia, dos de estos helicópteros fueron derribados durante la %3Operación Anaconda%4.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_AH64">
-        <English>AH-64D Apache Longbow</English>
-        <Spanish>AH-64D Apache Longbow</Spanish>
+        <English>AH-64 Apache</English>
+        <Spanish>AH-64 Apache</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_AH64_Description">
@@ -1470,6 +1750,36 @@
 	  <Key ID="STR_LOK_FM_Cougar_Description">
         <English>The %3Eurocopter AS532 Cougar%4 is a twin-engine, medium-weight, multipurpose helicopter developed by Eurocopter. The AS532 is a development and upgrade of the Aérospatiale %3SA 330 Puma%4 in its militarised form. It has been adopted by several countries, including the %3Netherlands%4. Five Cougars of 300 Squadron of the %3Royal Netherlands Air Force%4 were deployed to Kandahar Airfield in support of %3Task Force Uruzgan%4 in April 2006.</English>
         <Spanish>El %3Eurocopter AS532 Cougar%4 es un helicóptero bimotor polivalente de peso medio desarrollado por Eurocopter. El AS532 es una mejora del %3SA 330 Puma%4 de Aérospatiale en su forma militarizada. Ha sido adoptado por varios países, entre ellos los %3Países Bajos%4. Cinco Cougars del Escuadrón 300 de la %3Real Fuerza Aérea de los Países Bajos%4 fueron desplegados en el aeropuerto de Kandahar en apoyo de la %3Fuerza Operativa de Uruzgán%4 en abril de 2006.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Kiowa">
+        <English>OH-58D Kiowa Warrior</English>
+        <Spanish>OH-58D Kiowa Warrior</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Kiowa_Description">
+        <English>The %3OH-58D Kiowa Warrior%4 is a single-engine, single-rotor reconnaissance and light attack helicopter developed by Bell Helicopter for the %3United States Army%4. It is the most recent version of the Vietnam-era OH-58 Kiowa helicopter family.</English>
+        <Spanish>El %3OH-58D Kiowa Warrior%4 es un helicóptero monomotor de reconocimiento y ataque ligero desarrollado por Bell Helicopter para el %3Ejército de los Estados Unidos%4. Es la versión más reciente de la familia de helicópteros OH-58 Kiowa de la época de Vietnam.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Cobra">
+        <English>AH-1W SuperCobra</English>
+        <Spanish>AH-1W SuperCobra</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Cobra_Description">
+        <English>The Bell %3AH-1W SuperCobra%4 is a twin-engine attack helicopter developed on behalf of, and primarily operated by, the %3United States Marine Corps%4. It is, as of 2006, the most advanced and capable version of the Vietnam-era AH-1 Cobra family of attack helicopters. SuperCobras from HMM-165 supported Coalition forces during the latter stages of %3Operation Anaconda%4 in 2002.</English>
+        <Spanish>El Bell %3AH-1W SuperCobra%4 es un helicóptero de ataque bimotor desarrollado por encargo del %3Cuerpo de Marines de los Estados Unidos%4 y operado principalmente por dicho cuerpo. A fecha de 2006, es la versión más avanzada y capaz de la familia de helicópteros de ataque AH-1 Cobra de la época de Vietnam. Los SuperCobras del HMM-165 apoyaron a las fuerzas de la Coalición durante las últimas fases de la %3Operación Anaconda%4 en 2002.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_CH53">
+        <English>CH-53E Super Stallion</English>
+        <Spanish>CH-53E Super Stallion</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_CH53_Description">
+        <English>The %3CH-53E Super Stallion%4 is a heavy-lift helicopter developed by Sikorsky Aircraft for the %3United States Marine Corps%4 and Navy. It is the %3largest%4 and most powerful helicopter in the US military, and it is capable of lifting heavy cargo and equipment, including tanks, armored vehicles, and artillery pieces. Super Stallions from HMM-165 supported Coalition forces during the latter stages of %3Operation Anaconda%4 in 2002.</English>
+        <Spanish>El %3CH-53E Super Stallion%4 es un helicóptero de carga pesada desarrollado por Sikorsky Aircraft para el %3Cuerpo de Marines%4 y la Armada de los Estados Unidos. Es el helicóptero %3más grande%4 y potente de las Fuerzas Armadas estadounidenses y es capaz de levantar cargas y equipos pesados, incluidos tanques, vehículos blindados y obuses de artillería. Los Super Stallions del HMM-165 apoyaron a las fuerzas de la Coalición durante las últimas fases de la %3Operación Anaconda%4 en 2002.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Mi17">
@@ -1502,13 +1812,33 @@
         <Spanish>El %3A-10%4 es un avión de ataque a tierra conocido por sus misiones de apoyo aéreo cercano. Tiene un aspecto característico y va equipado con un potente cañón de 30 mm. Fue adoptado por la %3Fuerza Aérea de los Estados Unidos%4 en 1977 y sigue en servicio. En Afganistán, el A-10 no se desplegó al principio. A partir de marzo de 2002, se desplegaron escuadrones de A-10 en Pakistán y en la base aérea de Bagram (Afganistán) para la campaña contra los talibanes y Al-Qaeda, conocida como %3Operación Anaconda%4. Posteriormente, permanecieron para apoyar a otras operaciones en otras partes del país. El A-10 ha sido hasta ahora una excelente plataforma de apoyo aéreo cercano, pero se ha visto enturbiado por sus numerosos incidentes de %3fuego amigo%4.</Spanish>
         <Polish></Polish>
       </Key>
+	  <Key ID="STR_LOK_FM_F14">
+        <English>F-14 Tomcat</English>
+        <Spanish>F-14 Tomcat</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_F14_Description">
+        <English>Widely considered to be one of the most successful fighter planes ever made, the Grumman %3F-14 Tomcat%4 is a supersonic, twin-engine, two-seat, twin-fuselage, variable-sweep wing fighter aircraft originally developed for the %3United States Navy%4 in the 1970s. Of 'Top Gun' fame, the F-14 has served in numerous conflicts, including the %3War in Afghanistan%4. Despite looking like an outdated platform, from the start of %3Operation Enduring Freedom%4 to the end of %3Operation Anaconda%4, F-14s from VF-14, VF-41, VF-102, VF-211, and VF-213 dropped more than 1,334,000 pounds of ordnance on targets from carriers deployed in the Indian Ocean. The F-14 was eventually retired in 2006.</English>
+        <Spanish>El %3F-14 Tomcat%4 de Grumman, considerado uno de los aviones de combate más exitosos de la historia, es un caza supersónico, bimotor, biplaza, de fuselaje doble y alas variables desarrollado originalmente para la %3Armada de los Estados Unidos%4 en los años setenta. Famoso por «Top Gun», el F-14 ha participado en numerosos conflictos, incluida la %3guerra de Afganistán%4. A pesar de parecer una plataforma anticuada, desde el comienzo de la %3Operación Libertad Duradera%4 hasta el final de la %3Operación Anaconda%4, los F-14 de los VF-14, VF-41, VF-102, VF-211 y VF-213 soltaron más de 605 000 kg de bombas sobre objetivos desde portaaviones desplegados en el océano Índico. Al final, el F-14 fue retirado en 2006.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_F15">
+        <English>F-15 Eagle</English>
+        <Spanish>F-15 Eagle</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_F15_Description">
+        <English>The McDonnell Douglas %3F-15 Eagle%4 is an American twin-engine, all-weather, tactical fighter aircraft. It was developed for the %3United States Air Force%4 to counter the Soviet Union's MiG-21 and MiG-23 fighters; it entered service in 1976 and was the first American fighter to be designed primarily for air-to-air combat. However, it has also provided support to %3ground troops%4: since the beginning of the war, the F-15 has been doing precision strikes on enemy targets, and it actually did a gun run on enemy footmobiles for the first time ever during the %3Battle of Takur Ghar%4 in 2002.</English>
+        <Spanish>El %3F-15 Eagle%4 de McDonnell Douglas es un caza táctico bimotor estadounidense. Se desarrolló para la %3Fuerza Aérea de los Estados Unidos%4 con el fin de hacer frente a los cazas MiG-21 y MiG-23 de la Unión Soviética; entró en servicio en 1976 y fue el primer caza estadounidense diseñado principalmente para el combate aire-aire. Sin embargo, también ha prestado apoyo a las %3tropas de tierra%4: desde el comienzo de la guerra, el F-15 ha realizado ataques de precisión contra objetivos enemigos, y de hecho realizó su primera pasada de cañón contra infantería enemiga durante la %3batalla de Takur Ghar%4 en 2002.</Spanish>
+        <Polish></Polish>
+      </Key>
 	  <Key ID="STR_LOK_FM_F16">
         <English>F-16 Fighting Falcon</English>
         <Spanish>F-16 Fighting Falcon</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_F16_Description">
-        <English>The General Dynamics %3F-16 Fighting Falcon%4 is an American single-engine supersonic multirole fighter aircraft originally developed for the %3United States Air Force%4, but it has been adopted by several other countries as well. It was introduced in April 1978. Since April 2005, eight %3Royal Netherlands Air Force%4 F-16s, joined by four %3Royal Norwegian Air Force%4 F-16s in February 2006, have been supporting ISAF ground troops the %3southern provinces%4 of Afghanistan.</English>
+        <English>The General Dynamics %3F-16 Fighting Falcon%4 is an American single-engine supersonic multirole fighter aircraft originally developed for the %3United States Air Force%4, but it has been adopted by several other countries as well. It was introduced in April 1978. Since April 2005, eight %3Royal Netherlands Air Force%4 F-16s, joined by four %3Royal Norwegian Air Force%4 F-16s in February 2006, have been supporting ISAF ground troops in the %3southern provinces%4 of Afghanistan.</English>
         <Spanish>El %3F-16 Fighting Falcon%4 de General Dynamics es un avión de combate polivalente supersónico monomotor estadounidense desarrollado originalmente para la %3Fuerza Aérea de los Estados Unidos%4, aunque también ha sido adoptado por otros países. Se presentó en abril de 1978. Desde abril de 2005, ocho F-16 de la %3Real Fuerza Aérea de los Países Bajos%4, a los que se unieron cuatro F-16 de la %3Real Fuerza Aérea de Noruega%4 en febrero de 2006, han estado apoyando a las tropas de tierra de la ISAF en las %3provincias meridionales%4 de Afganistán.</Spanish>
         <Polish></Polish>
       </Key>
@@ -1519,7 +1849,7 @@
       </Key>
 	  <Key ID="STR_LOK_FM_F18_Description">
         <English>The McDonnell Douglas %3F/A-18 Hornet%4 is an all-weather supersonic, twin-engine, carrier-capable, multirole combat aircraft, designed as both a fighter and attack aircraft. It was adopted by the %3United States Navy%4 in July 1984, and has been used since then. In Afghanistan, US Navy Hornets have been flying and supporting Coalition forces since 2001 from carriers operating in the North Arabian Sea. Since May 2006, Navy aircraft from %3Carrier Air Wing One%4 (CVW-1) have been operating in Afghanistan from the %3USS Enterprise%4 (CVN-65), providing the %3first combat air support%4 to Operation Enduring Freedom from an aircraft carrier in more than three years.</English>
-        <Spanish>El McDonnell Douglas %3F/A-18 Hornet%4 es un avión de combate supersónico, bimotor, con capacidad para portaaviones y polivalente, diseñado como caza y avión de ataque. Fue adoptado por la %3Marina de los Estados Unidos%4 en julio de 1984 y se ha utilizado desde entonces. En Afganistán, los Hornets de la Marina llevan volando y apoyando a las fuerzas de la Coalición desde 2001 desde portaaviones que operan en el norte del mar Arábigo. Desde mayo de 2006, aviones de la Marina del %3Carrier Air Wing One%4 (CVW-1) han estado operando en Afganistán desde el %3USS Enterprise%4 (CVN-65), prestando el %3primer apoyo aéreo de combate%4 a la Operación Libertad Duradera desde un portaaviones en más de tres años.</Spanish>
+        <Spanish>El McDonnell Douglas %3F/A-18 Hornet%4 es un avión de combate supersónico, bimotor, con capacidad para portaaviones y polivalente, diseñado como caza y avión de ataque. Fue adoptado por la %3Armada de los Estados Unidos%4 en julio de 1984 y se ha utilizado desde entonces. En Afganistán, los Hornets de la Marina llevan volando y apoyando a las fuerzas de la Coalición desde 2001 desde portaaviones que operan en el norte del mar Arábigo. Desde mayo de 2006, aviones de la Marina del %3Carrier Air Wing One%4 (CVW-1) han estado operando en Afganistán desde el %3USS Enterprise%4 (CVN-65), prestando el %3primer apoyo aéreo de combate%4 a la Operación Libertad Duradera desde un portaaviones en más de tres años.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Harrier">
@@ -1530,6 +1860,66 @@
 	  <Key ID="STR_LOK_FM_Harrier_Description">
         <English>The British Aerospace %3Harrier II%4 is a second-generation vertical/short takeoff and landing (V/STOL) jet aircraft used by the %3Royal Air Force%4. It was introduced in 1989 and developed from the US Navy's AV-8B Harrier II. In September 2004, six Harrier GR7s were deployed to %3Kandahar%4, Afghanistan, replacing a US detachment of AV-8Bs in the region.</English>
         <Spanish>El %3Harrier II%4 de British Aerospace es un avión a reacción de despegue y aterrizaje vertical/corto (V/STOL) de segunda generación utilizado por la %3Real Fuerza Aérea%4. Fue introducido en 1989 y desarrollado a partir del AV-8B Harrier II de la Marina estadounidense. En septiembre de 2004, seis Harrier GR7 fueron desplegados en %3Kandahar%4, Afganistán, en sustitución de un destacamento estadounidense de AV-8B en la región.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Mirage">
+        <English>Mirage 2000</English>
+        <Spanish>Mirage 2000</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Mirage_Description">
+        <English>The %3Mirage 2000%4 is a French single-engine, multirole fighter renowned for its maneuverability, high speed, and sophisticated avionics. It has been deployed in various combat operations, including air-to-air combat, ground attack, reconnaissance, and air defense suppression. French Mirage 2000s based in Manas, Kyrgyzstan served with %3ISAF%4 in 2001-2002 in %3Operation Héraklès%4, supporting ground troops.</English>
+        <Spanish>El %3Mirage 2000%4 es un caza monomotor polivalente francés conocido por su maniobrabilidad, alta velocidad y sofisticada aviónica. Ha sido desplegado en varias operaciones de combate, incluyendo combate aire-aire, ataque a tierra, reconocimiento y supresión de defensa aérea. Los Mirage 2000 franceses basados en Manas, Kirguistán sirvieron con la %3ISAF%4 en 2001-2002 en la %3Operación Héraklès%4, apoyando a las tropas de tierra.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_B1B">
+        <English>B-1 Lancer</English>
+        <Spanish>B-1 Lancer</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_B1B_Description">
+        <English>The %3B-1 Lancer%4 is a supersonic strategic bomber known for its long range, high speed, and ability to deliver a heavy payload of ordnance. It has played a crucial role in the %3War in Afghanistan%4. Its contributions have significantly aided ground troops and hindered the capabilities of Taliban and Al-Qaeda forces. In the first six months of %3Operation Enduring Freedom%4, eight B-1s dropped almost 40% of aerial ordnance, including some 3,900 JDAMs. By 2006, B-1s of the 9th Expeditionary Bomber Squadron are still supporting Coalition forces in Afghanistan.</English>
+        <Spanish>El %3B-1 Lancer%4 es un bombardero estratégico supersónico conocido por su largo alcance, alta velocidad y capacidad para transportar una pesada carga explosiva. Ha desempeñado un papel crucial en la %3guerra de Afganistán%4. Sus contribuciones han ayudado considerablemente a las tropas terrestres y han obstaculizado las capacidades de las fuerzas talibanes y de Al Qaeda. En los seis primeros meses de la %3Operación Libertad Duradera%4, ocho B-1 lanzaron casi el 40 % de las bombas aéreas, incluidos unos 3900 JDAM. En 2006, los B-1 de la 9.ª Escuadrilla Expedicionaria de Bombarderos siguen apoyando a las fuerzas de la Coalición en Afganistán.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_B52">
+        <English>B-52 Stratofortress</English>
+        <Spanish>B-52 Stratofortress</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_B52_Description">
+        <English>The Boeing %3B-52 Stratofortress%4 is an American long-range, subsonic, jet-powered strategic bomber. It has been operated by the %3United States Air Force%4 since the 1950s, making it one of the %3oldest military aircraft%4 still in active service. The USAF continues to rely on the B-52 because it remains an effective and economical heavy bomber in the absence of sophisticated air defenses, such as %3Afghanistan%4. The B-52 had the highest %3mission capable rate%4 of the three types of heavy bombers operated by the USAF in the 2000–2001 period.</English>
+        <Spanish>El %3B-52 Stratofortress%4 de Boeing es un bombardero estratégico subsónico estadounidense de largo alcance. Ha sido operado por la %3Fuerza Aérea de los Estados Unidos%4 desde los años cincuenta, lo que lo convierte en uno de los %3aviones militares más antiguos%4 aún en servicio activo. La USAF sigue confiando en el B-52 porque sigue siendo un bombardero pesado eficaz y económico en ausencia de defensas aéreas sofisticadas, como en %3Afganistán%4. El B-52 tuvo la mayor tasa de %3misiones capaces%4 de los tres tipos de bombarderos pesados usados por la USAF en el periodo de 2000-2001.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_C17">
+        <English>C-17 Globemaster III</English>
+        <Spanish>C-17 Globemaster III</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_C17_Description">
+        <English>The Boeing %3C-17 Globemaster III%4 is a large, four-engine military transport aircraft. It is the %3largest current production military transport aircraft%4 in the world, capable of carrying large payloads of cargo and troops over long distances. It has been in service with the %3United States Air Force%4 since 1995, and it has also been used by militaries of several other countries. In %3Afghanistan%4, it has mostly delivered supplies and humanitarian aid, and in 2006 it flew 15 Canadian %3Leopard C2%4 tanks into Kandahar in support of NATO's mission.</English>
+        <Spanish>El %3C-17 Globemaster III%4 de Boeing es un avión de transporte militar cuatrimotor de gran tamaño. Es el %3avión de transporte militar de producción actual más grande%4 del mundo, capaz de transportar grandes cargas y tropas a largas distancias. Sirve en la %3Fuerza Aérea de los Estados Unidos%4 desde 1995, y también ha sido utilizado por Ejércitos de otros países. En %3Afganistán%4 ha transportado principalmente suministros y ayuda humanitaria, y en 2006 transportó 15 tanques canadienses %3Leopard C2%4 a Kandahar en apoyo de la misión de la OTAN.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Orion">
+        <English>P-3 Orion</English>
+        <Spanish>P-3 Orion</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Orion_Description">
+        <English>The Lockheed %3P-3 Orion%4 is a four-engine turboprop %3anti-submarine warfare%4 and maritime patrol aircraft developed for the %3United States Navy%4 and introduced in the 1960s. Now, what is a maritime aircraft doing in a landlocked country such as %3Afghanistan%4? As it turns out, its armament and sensor upgrades have made it suitable for sustained combat air support over land. From the start of the %3War in Afghanistan%4, US Navy P-3s have operated from Kandahar, conducting overland intelligence, surveillance and reconnaissance tasks in support of Coalition troops across Afghanistan.</English>
+        <Spanish>El %3P-3 Orion%4 de Lockheed es un avión cuatrimotor turbohélice de %3guerra antisubmarina%4 y patrulla marítima desarrollado para la %3Armada de los Estados Unidos%4 e introducido en los años sesenta. Ahora bien, ¿qué hace un avión marítimo en un país sin salida al mar como %3Afganistán%4? Resulta que su armamento y las mejoras de sus sensores lo han hecho apto para el apoyo aéreo sostenido sobre tierra. Desde el comienzo de la %3guerra de Afganistán%4, los P-3 de la Armada han operado desde Kandahar, realizando tareas de inteligencia, vigilancia y reconocimiento por tierra en apoyo de las tropas de la Coalición en todo Afganistán.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Nimrod">
+        <English>Hawker Siddeley Nimrod</English>
+        <Spanish>Hawker Siddeley Nimrod</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Nimrod_Description">
+        <English>The %3Hawker Siddeley Nimrod%4 is a British maritime patrol aircraft used for anti-submarine warfare, anti-surface warfare, and maritime search and rescue. It has served, alongside other forces, with the %3Royal Air Force%4 since 1969. Despite only 49 examples having been built in total, the Nimrod has seen usage in several theaters. Like the %3P-3 Orion%4, the Nimrod has also been deployed in %3Afghanistan%4, a landlocked country, because its sensors make it a fantastic platform for intelligence gathering. On 2 September 2006, during %3Operation Medusa%4, 14 UK military personnel were killed when a Nimrod MR.2 was destroyed in a midair explosion following an onboard fire over %3Kandahar%4. It was the single %3greatest loss of British military lives%4 since the Falklands War.</English>
+        <Spanish>El %3Hawker Siddeley Nimrod%4 es un avión británico de patrulla marítima utilizado para la guerra antisubmarina, la guerra antisuperficie y la búsqueda y rescate marítimos. Ha servido, junto con otras fuerzas, en la %3Real Fuerza Aérea%4 desde 1969. A pesar de que tan solo se construyeron 49 ejemplares en total, el Nimrod se ha utilizado en varios teatros de operaciones. Al igual que el %3P-3 Orion%4, el Nimrod también se ha desplegado en %3Afganistán%4, un país sin salida al mar, ya que sus sensores lo convierten en una plataforma fantástica para la recopilación de información. El 2 de septiembre de 2006, durante la %3Operación Medusa%4, 14 militares británicos perdieron la vida cuando un Nimrod MR.2 quedó destruido en una explosión en pleno vuelo tras un incendio a bordo sobre %3Kandahar%4. Fue la %3mayor pérdida de vidas de militares británicos%4 desde la guerra de las Malvinas.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_C130">
@@ -1548,18 +1938,108 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Predator_Description">
-        <English>%3Unmanned aerial vehicles%4 are all the craze nowadays: they allow military forces to identify enemy targets -and even neutralise them- without even getting exposed, miles and miles away from the action. The %3MQ-1 Predator%4 is one of them. Armed with AGM-114 Hellfire missiles and/or GBU-12 Paveway bombs, the %3United States Air Force%4 has used the Predator extensively in Afghanistan, especially during earlier operations, such as %3Operation Anaconda%4, but it's still a very useful platform in 2006.</English>
-        <Spanish>Los %3vehículos aéreos no tripulados%4 están de moda hoy en día: permiten a las fuerzas militares identificar objetivos enemigos —e incluso neutralizarlos— sin siquiera exponerse, a kilómetros y kilómetros de la acción. El %3MQ-1 Predator%4 es uno de ellos. Armado con misiles AGM-114 Hellfire y/o bombas GBU-12 Paveway, la %3Fuerza Aérea de los Estados Unidos%4 ha utilizado el Predator en gran medida en Afganistán, especialmente durante sus primeras operaciones, como la %3Operación Anaconda%4, pero sigue siendo una plataforma muy útil en 2006.</Spanish>
+        <English>%3Unmanned aerial vehicles%4 are all the craze nowadays: they allow military forces to identify enemy targets -and even neutralise them- without even getting exposed, miles and miles away from the action. The %3MQ-1 Predator%4 is one of them. Armed with two AGM-114 Hellfire missiles, the %3United States Air Force%4 has used the Predator extensively in Afghanistan, especially during earlier operations, such as %3Operation Anaconda%4 (where it was used in a %3close air support%4 role for the first time), but it's still a very useful platform in 2006.</English>
+        <Spanish>Los %3vehículos aéreos no tripulados%4 están de moda hoy en día: permiten a las fuerzas militares identificar objetivos enemigos —e incluso neutralizarlos— sin siquiera exponerse, a kilómetros y kilómetros de la acción. El %3MQ-1 Predator%4 es uno de ellos. Armado con dos misiles AGM-114 Hellfire, la %3Fuerza Aérea de los Estados Unidos%4 ha utilizado el Predator en gran medida en Afganistán, especialmente durante sus primeras operaciones, como la %3Operación Anaconda%4 (donde se usó por primera vez como plataforma de %3apoyo aéreo cercano%4), pero sigue siendo una plataforma muy útil en 2006.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_M60">
         <English>M60</English>
-        <Spanish>MQ-1 Predator</Spanish>
+        <Spanish>M60</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_M60_Description">
-        <English>%3The Pig%4. This heavy, bulky and iconic Vietnam-era machine gun was developed by the United States in the 1950s to give their military forces a decent general-purpose machine gun, replacing the Browning Automatic Rifle and the make-do M1919A6 Browning. Although it was officially replaced by the M240 in the 1990s, the M60 has remained in usage in special forces units, like the %3Green Berets%4, although in extremely limited numbers.</English>
-        <Spanish>%3«La cerda»%4. Esta pesada, voluminosa e icónica ametralladora de Vietnam fue desarrollada por Estados Unidos en los años cincuenta para darles a sus fuerzas militares una ametralladora de propósito general decente, reemplazando al fusil automático Browning y la M1919A6 Browning improvisada. Aunque fue oficialmente reemplazada por la M240 en los años noventa, la M60 ha seguido usándose en unidades de fuerzas especiales, como los %3Boinas Verdes%4, aunque en cantidades muy limitadas.</Spanish>
+        <English>%3The Pig%4. This heavy, bulky and iconic Vietnam-era machine gun was developed by the United States in the 1950s to give their military forces a decent general-purpose machine gun, replacing the Browning Automatic Rifle and the make-do M1919A6 Browning. Although it was officially replaced by the M240 in the 1990s, the M60 has remained in usage in special forces units, like the %3Green Berets%4, although in extremely limited numbers. It is, however, still commonly seen mounted on some %3Chinook%4 helicopters.</English>
+        <Spanish>%3«La cerda»%4. Esta pesada, voluminosa e icónica ametralladora de Vietnam fue desarrollada por Estados Unidos en los años cincuenta para darles a sus fuerzas militares una ametralladora de propósito general decente, reemplazando al fusil automático Browning y la M1919A6 Browning improvisada. Aunque fue oficialmente reemplazada por la M240 en los años noventa, la M60 ha seguido usándose en unidades de fuerzas especiales, como los %3Boinas Verdes%4, aunque en cantidades muy limitadas. Sin embargo, aún se suele ver montada en algunos helicópteros %3Chinook%4.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_M79">
+        <English>M79</English>
+        <Spanish>M79</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_M79_Description">
+        <English>The %3M79%4 grenade launcher first appeared during the %3Vietnam War%4 and was a distinctive weapon of that conflict, but it was eventually replaced by the %3M203%4 underbarrel grenade launcher in 1969. However, %3Navy SEALs%4 and %3Green Berets%4 have been recently seen using the M79 in Iraq and Afghanistan due to its greater accuracy and range compared to the M203. For instance, it is acknowledged that many SEALs of the team that was ambushed on %3Takur Ghar%4 during %3Operation Anaconda%4 carried sawn-off M79s as their secondary weapon.</English>
+        <Spanish>El lanzagranadas %3M79%4 apareció por primera vez en la %3guerra de Vietnam%4 y fue un arma característica de dicho conflicto, pero fue reemplazado por el lanzagranadas acoplado %3M203%4 en 1969. Sin embargo, se ha visto recientemente a %3Navy SEAL%4 y %3Boinas Verdes%4 usando el M79 en Irak y Afganistán debido a su mayor alcance y precisión en comparación con el M203. Por ejemplo, se da por hecho que muchos SEAL del equipo que fue emboscado en %3Takur Ghar%4 durante la %3Operación Anaconda%4 llevaban M79 recortados como arma secundaria.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_RPG22">
+        <English>RPG-22</English>
+        <Spanish>RPG-22</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_RPG22_Description">
+        <English>The %3RPG-22%4 is a lightweight, disposable anti-tank rocket launcher renowned for its portability and ease of use. Developed by the Soviets, it was first introduced in 1985. The RPG-22's simple design and compact size make it an ideal weapon for infantry troops. It is based on the RPG-18, and although it was too late to be used in large quantities in Afghanistan, it was used in both %3Chechen wars%4, where the %3Mujahideen%4 got their hands on many examples.</English>
+        <Spanish>El %3RPG-22%4 es un lanzacohetes antitanque ligero y desechable reputado por su portabilidad y facilidad de uso. Desarrollado por los soviéticos, se introdujo en 1985. El simple diseño del RPG-22 y su diseño compacto lo hacen un arma ideal para las tropas de infantería. Está basado en el RPG-18 y, aunque llegó demasiado tarde para usarse en grandes cantidades en Afganistán, se usó en ambas %3guerras chechenas%4, donde los %3muyahidines%4 se hicieron con muchos ejemplares.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_RPG26">
+        <English>RPG-26</English>
+        <Spanish>RPG-26</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_RPG26_Description">
+        <English>The %3RPG-26%4 is a compact, disposable anti-tank rocket launcher designed to be more portable and effective than its predecessor, the RPG-22. It utilizes a 72.5mm HEAT warhead with a hollow charge that can penetrate up to 440mm of armor. It was extensively used during both %3Chechen wars%4 and many examples were captured by the %3Chechens%4, to the point that it came close to becoming its main anti-tank weapon.</English>
+        <Spanish>El %3RPG-26%4 es un lanzacohetes antitanque compacto y desechable diseñado para ser más portátil y eficaz que su predecesor, el RPG-22. Dispara un cohete de 72,5 mm con una carga hueca que puede perforar hasta 440 mm de blindaje. Se usó mucho en ambas %3guerras chechenas%4 y muchos ejemplares fueron capturados por los %3chechenos%4, hasta tal punto que llegó casi a convertirse en su principal arma antitanque.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Strela">
+        <English>9K32 Strela-2</English>
+        <Spanish>9K32 Strela-2</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Strela_Description">
+        <English>The%3 9K32 Strela-2%4 is a Soviet man-portable air-defence system (MANPADS) designed in the 1960s. It was a staple of the %3Cold War%4, it was produced in huge numbers for the Soviet Union and its allies, and it was used in a ton of conflicts. One of these conflicts was the %3Soviet-Afghan War%4. The %3Mujahideen%4 employed a lot of Strela missiles (mostly procured from Egypt, China and the CIA) to shoot down Soviet helicopters, but it is said many of these launchers sold on the black market were faulty. Nowadays, the Strela-2 is a %3rare sight%4 in Afghanistan, but not impossible to see. Most of the current Strelas are inherited from the Mujahideen or smuggled from %3Iran%4, although a large part of them are broken or unusable.</English>
+        <Spanish>El%3 9K32 Strela-2%4 es un sistema de defensa aérea portátil (MANPADS) soviético diseñado en los años sesenta. Fue un pilar de la %3Guerra Fría%4, se produjo en enormes cantidades para la Unión Soviética y sus aliados y se usó en infinidad de conflictos. Uno de estos conflictos fue la %3guerra afgano-soviética%4. Los %3muyahidines%4 emplearon muchos misiles Strela (principalmente obtenidos de Egipto, China o la CIA) para derribar helicópteros soviéticos, pero se dice que muchos de estos lanzadores vendidos en el mercado negro estaban defectuosos. Hoy en día, es %3raro%4 ver un Strela-2 en Afganistán, pero no imposible. La mayoría de los Strelas actuales son heredados de los muyahidines o traficados desde %3Irán%4, aunque gran parte de ellos están rotos o no son utilizables.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Type56Recoilless">
+        <English>Type 56 recoilless rifle</English>
+        <Spanish>Cañón sin retroceso Tipo 56</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Type56Recoilless_Description">
+        <English>The %3Type 56%4 is a Chinese unlicensed copy of the American %3M20%4 75mm recoilless rifle. When the Soviets invaded %3Afghanistan%4 in 1979, the US tried to organize a shipment of outdated M20 recoilless rifles to the %3Mujahideen%4, but realized they had nowhere to get them from. But China came to the rescue. In the first half of the 1980s, the delivery of Chinese Type 56-II recoilless rifles and ammunition for them was organized from the PRC to militant camps in Pakistan, and from there to the Mujahideen. It has been supplemented by the SPG-9 since then, but it can be rarely seen from time to time.</English>
+        <Spanish>El %3Tipo 56%4 es una copia sin licencia china del cañón sin retroceso de 75 mm estadounidense %3M20%4. Cuando los soviéticos invadieron %3Afganistán%4 en 1979, los EE. UU. intentaron organizar un cargamento de cañones sin retroceso M20 anticuados a los %3muyahidines%4, pero se dieron cuenta de que no tenían de dónde sacarlos. Entonces llegó China al rescate. En la primera mitad de la década de los ochenta, se organizó el envío de cañones sin retroceso chinos Tipo 56-II y munición para estos desde la RPC hasta campamentos de milicianos en Pakistán, y de ahí a los muyahidines. Desde entonces se ha visto opacado por el SPG-9, pero se puede ver de vez en cuando.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_M120">
+        <English>M120 mortar</English>
+        <Spanish>Mortero M120</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_M120_Description">
+        <English>The %3Soltam K6%4 is an accurate and reliable 120mm mortar developed in Israel and widely used by militaries worldwide. The K6 entered service with the %3United States Army%4 in 1991 as the %3M120%4.</English>
+        <Spanish>El %3Soltam K6%4 es un mortero preciso y fiable de 120 mm desarrollado en Israel y muy usado por ejércitos del mundo. El K6 entró en servicio en el %3Ejército de los Estados Unidos%4 en 1991 como el %3M120%4.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_D30">
+        <English>D-30 howitzer</English>
+        <Spanish>Obús D-30</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_D30_Description">
+        <English>The %3D-30 howitzer%4 is a 122mm towed field gun developed in the Soviet Union in the 1960s. It is a versatile and reliable weapon that has been used in a wide variety of conflicts around the world, including the %3Soviet-Afghan War%4. The D-30 was also used by Afghan %3Mujahideen%4 forces against Soviet and Afghan government troops. The Mujahideen were able to capture already emplaced Soviet D-30s and use them against their former owners, for example in the %3Shah-i-Kot Valley%4.</English>
+        <Spanish>El %3obús D-30%4 es un cañón de campaña remolcado de 122 mm desarrollado en la Unión Soviética en los años sesenta. Es un arma versátil y fiable que se ha usado en muchos conflictos por todo el mundo, como la %3guerra afgano-soviética%4. El D-30 también fue empleado por los %3muyahidines%4 afganos contra las tropas gubernamentales afganas y soviéticas. Los muyahidines pudieron capturar D-30 soviéticos ya emplazados y usarlos contra sus antiguos dueños, por ejemplo en el %3valle de Shah-i-Kot%4.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_ZPU">
+        <English>ZPU-1</English>
+        <Spanish>ZPU-1</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_ZPU_Description">
+        <English>The %3ZPU-1%4 is a simple, reliable, and effective 14.5mm single-barreled anti-aircraft gun developed in the 1940s that has been widely used in various conflicts around the world. Its high rate of fire, effectiveness against low-flying aircraft, and versatility make it a valuable asset for air defense. Alongside the ZU-23-2, it is the most used anti-aircraft weapon by the %3Taliban%4 nowadays.</English>
+        <Spanish>El %3ZPU-1%4 es un cañón antiaéreo de un cañón sencillo, fiable y eficaz de 14,5 mm desarrollado en los años cuarenta que se ha usado mucho en diversos conflictos del mundo. Su alta cadencia de tiro, efectividad contra aeronaves de vuelo rasante y versatilidad lo convierten en un activo valioso para la defensa aérea. Junto con el ZU-23-2, es el arma antiaérea más usada por los %3talibanes%4 hoy en día.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_T55">
+        <English>T-55</English>
+        <Spanish>T-55</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_T55_Description">
+        <English>The %3T-55%4 is a Soviet-made main battle tank renowned for its powerful armament, robust armor, and reliable diesel engine. It played a significant role in almost all conflicts in the latter half of the 20th century and continues to serve in some armies worldwide. It is the %3most produced tank%4 of all time. At least 800 T-55s were used by the Soviet Union during its %3war with the Mujahideen%4, but its story doesn't end there. When Afghanistan collapsed in the 1990s, the %3Taliban%4 and %3Northern Alliance%4 coalition both inherited T-55s formerly belonging to the communist government.</English>
+        <Spanish>El %3T-55%4 es un carro de combate principal de fabricación soviética famoso por su potente armamento, robusto blindaje y fiable motor diésel. Desempeñó un papel importante en casi todos los conflictos de la segunda mitad del siglo XX y sigue en servicio en algunos Ejércitos del mundo. Es el tanque %3más producido%4 de todos los tiempos. Al menos 800 T-55 fueron utilizados por la Unión Soviética durante su %3guerra contra los muyahidines%4, pero su historia no acaba ahí. Cuando Afganistán se derrumbó en los años noventa, tanto la coalición %3talibán%4 como la %3Alianza del Norte%4 heredaron los T-55 que habían pertenecido al Gobierno comunista.</Spanish>
         <Polish></Polish>
       </Key>
     </Container>
