@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="OperationAnaconda">
+  <Package name="OperationAnaconda">
+    <Container name="STR_DN">
+      <Key ID="STR_TIOG_CampaignName">
+        <English>The Illusion of Glory</English>
+        <Spanish>La impresión de la gloria</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_AuthorName_man">
+        <English>man</English>
+        <Spanish>man</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_CampaignOverview">
+        <English>"The Illusion of Glory" chronicles the courageous joint effort by US and ISAF forces in early 2002 to dismantle al-Qaeda and Taliban strongholds in the Shah-i-Kot Valley and Arma Mountains of Afghanistan, known as Operation Anaconda. Through gripping firsthand accounts and strategic insights, you will play as the valiant soldiers and special operators who fought the harrowing battles that defined this critical chapter of the War in Afghanistan.</English>
+        <Spanish>«La impresión de la gloria» narra el valiente esfuerzo conjunto de las fuerzas estadounidenses y de la ISAF a principios de 2002 para desmantelar los bastiones de Al Qaeda y los talibanes en el valle de Shah-i-Kot y las montañas Arma de Afganistán, conocido como Operación Anaconda. A través de apasionantes relatos de primera mano y reflexiones estratégicas, encarnarás a los valientes soldados y operadores especiales que libraron las desgarradoras batallas que definieron este crítico capítulo de la guerra de Afganistán.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingNotes">
+        <English>Editor's Notes and Credits</English>
+        <Spanish>Notas del editor y créditos</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingJuliet">
+        <English>Briefing - Juliet Team</English>
+        <Spanish>Instrucciones: Equipo Juliet</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingODA">
+        <English>Briefing - ODA 372</English>
+        <Spanish>Instrucciones: ODA 372</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingRakkasans">
+        <English>Briefing - 187th Infantry Regt.</English>
+        <Spanish>Instrucciones: 187.º Reg. de Infantería</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Briefing31stIR">
+        <English>Briefing - 31st Infantry Regt.</English>
+        <Spanish>Instrucciones: 31.er Reg. de Infantería</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingRakkasansEng">
+        <English>Briefing - 326th Engineer Bn.</English>
+        <Spanish>Instrucciones: 326.º Bat. de Ingenieros</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingTACP">
+        <English>Briefing - Tactical Air Control Party</English>
+        <Spanish>Instrucciones: Equipo de Control Aerotáctico</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingMako31">
+        <English>Briefing - Mako 31</English>
+        <Spanish>Instrucciones: Mako 31</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingMako30">
+        <English>Briefing - Mako 30</English>
+        <Spanish>Instrucciones: Mako 30</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingRangers">
+        <English>Briefing - 75th Ranger Regt.</English>
+        <Spanish>Instrucciones: 75.º Reg. Ranger</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingApaches">
+        <English>Briefing - 101st Aviation Regt.</English>
+        <Spanish>Instrucciones: 101.er Reg. de Aviación</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingPPCLI">
+        <English>Briefing - 3 PPCLI</English>
+        <Spanish>Instrucciones: 3 PPCLI</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSOAR">
+        <English>Briefing - 160th SOAR</English>
+        <Spanish>Instrucciones: 160.º SOAR</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Briefing">
+        <English>Briefing</English>
+        <Spanish>Instrucciones</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Execution">
+        <English>Execution</English>
+        <Spanish>Ejecución</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Signal">
+        <English>Signal</English>
+        <Spanish>Señal</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSituation">
+        <English>I. Situation</English>
+        <Spanish>I. Situación</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingMission">
+        <English>II. Mission</English>
+        <Spanish>II. Misión</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingExecution">
+        <English>III. Execution</English>
+        <Spanish>III. Ejecución</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSustainment">
+        <English>IV. Sustainment</English>
+        <Spanish>IV. Mantenimiento</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingCommand">
+        <English>V. Command and Control</English>
+        <Spanish>V. Mando y control</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_JulietJTAC_dialogue">
+        <English>CANVAS</English>
+        <Spanish>CANVAS</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_JulietJTAC_radio">
+        <English>Juliet (Canvas)</English>
+        <Spanish>Juliet (Canvas)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_JulietTL_dialogue">
+        <English>KRIS</English>
+        <Spanish>KRIS</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_JulietTL_radio">
+        <English>Juliet (Kris)</English>
+        <Spanish>Juliet (Kris)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_JulietMedic_dialogue">
+        <English>QUARTZ</English>
+        <Spanish>QUARTZ</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_JulietMedic_radio">
+        <English>Juliet (Quartz)</English>
+        <Spanish>Juliet (Quartz)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_JulietPlayer_dialogue">
+        <English>RIDDLE</English>
+        <Spanish>RIDDLE</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_JulietPlayer_radio">
+        <English>Juliet (Riddle)</English>
+        <Spanish>Juliet (Riddle)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_JulietISA_dialogue">
+        <English>JASON</English>
+        <Spanish>JASON</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_JulietISA_radio">
+        <English>Juliet (Jason)</English>
+        <Spanish>Juliet (Jason)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Juliet_radio">
+        <English>Juliet</English>
+        <Spanish>Juliet</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Mako31TL_dialogue">
+        <English>GOODY</English>
+        <Spanish>GOODY</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Mako31TL_radio">
+        <English>Mako 31 (Goody)</English>
+        <Spanish>Mako 31 (Goody)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Mako31Player_dialogue">
+        <English>ERIC</English>
+        <Spanish>ERIC</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Mako31Player_radio">
+        <English>Mako 31 (Eric)</English>
+        <Spanish>Mako 31 (Eric)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Mako31Marksman_dialogue">
+        <English>CHRIS</English>
+        <Spanish>CHRIS</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Mako31Marksman_radio">
+        <English>Mako 31 (Chris)</English>
+        <Spanish>Mako 31 (Chris)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Mako31EOD_dialogue">
+        <English>ADAM</English>
+        <Spanish>ADAM</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Mako31EOD_radio">
+        <English>Mako 31 (Adam)</English>
+        <Spanish>Mako 31 (Adam)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Mako31ISA_dialogue">
+        <English>ANDY</English>
+        <Spanish>ANDY</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Mako31ISA_radio">
+        <English>Mako 31 (Andy)</English>
+        <Spanish>Mako 31 (Andy)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Mako31_radio">
+        <English>Mako 31</English>
+        <Spanish>Mako 31</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Grim31_radio">
+        <English>Grim 31</English>
+        <Spanish>Grim 31</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Grim32_radio">
+        <English>Grim 32</English>
+        <Spanish>Grim 32</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Grim33_radio">
+        <English>Grim 33</English>
+        <Spanish>Grim 33</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Blaber_dialogue">
+        <English>LTC BLABER</English>
+        <Spanish>TTE. CNEL. BLABER</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Haas_dialogue">
+        <English>LTC HAAS</English>
+        <Spanish>TTE. CNEL. HAAS</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Blaber_radio">
+        <English>Panther (LTC Blaber)</English>
+        <Spanish>Panther (Tte. Cnel. Blaber)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Hagenbeck_dialogue">
+        <English>MG HAGENBECK</English>
+        <Spanish>MAY. GRAL. HAGENBECK</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Hagenbeck_radio">
+        <English>Mountain (MG Hagenbeck)</English>
+        <Spanish>Mountain (May. Gral. Hagenbeck)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Talon60_radio">
+        <English>Hooker 6</English>
+        <Spanish>Hooker 6</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Trebon_radio">
+        <English>TF 11 (Brig Gen Trebon)</English>
+        <Spanish>TF 11 (Gral. Brig. Trebon)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Nail22_radio">
+        <English>Nail 22</English>
+        <Spanish>Nail 22</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Wiercinski_dialogue">
+        <English>COL WIERCINSKI</English>
+        <Spanish>CNEL. WIERCINSKI</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Wiercinski_radio">
+        <English>Rak 6 (COL Wiercinski)</English>
+        <Spanish>Rak 6 (Cnel. Wiercinski)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Slab_dialogue">
+        <English>SLAB</English>
+        <Spanish>SLAB</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Slab_radio">
+        <English>Mako 30 (Slab)</English>
+        <Spanish>Mako 30 (Slab)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Hyder_dialogue">
+        <English>LTCOL HYDER</English>
+        <Spanish>TTE. CNEL. HYDER</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Hyder_radio">
+        <English>Mako 21 (LtCol Hyder)</English>
+        <Spanish>Mako 21 (Tte. Cnel. Hyder)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MakoRandy_dialogue">
+        <English>RANDY</English>
+        <Spanish>RANDY</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MakoRandy_radio">
+        <English>Mako 30 (Randy)</English>
+        <Spanish>Mako 30 (Randy)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MakoBrett_dialogue">
+        <English>BRETT</English>
+        <Spanish>BRETT</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MakoBrett_radio">
+        <English>Mako 30 (Brett)</English>
+        <Spanish>Mako 30 (Brett)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MakoKyle_dialogue">
+        <English>KYLE</English>
+        <Spanish>KYLE</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MakoKyle_radio">
+        <English>Mako 30 (Kyle)</English>
+        <Spanish>Mako 30 (Kyle)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MakoTurbo_dialogue">
+        <English>TURBO</English>
+        <Spanish>TURBO</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MakoTurbo_radio">
+        <English>Mako 30 (Turbo)</English>
+        <Spanish>Mako 30 (Turbo)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Chapman_dialogue">
+        <English>TSGT CHAPMAN</English>
+        <Spanish>SGTO. TÉC. CHAPMAN</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Chapman_radio">
+        <English>Mako 30 (TSgt Chapman)</English>
+        <Spanish>Mako 30 (Sgto. Téc. Chapman)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Razor03Pilot_dialogue">
+        <English>CW3 MACK</English>
+        <Spanish>CW3 MACK</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Razor03Pilot_radio">
+        <English>Razor 03</English>
+        <Spanish>Razor 03</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Razor04Pilot_radio">
+        <English>Razor 04</English>
+        <Spanish>Razor 04</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Wiercinski_marker">
+        <English>Rak 6</English>
+        <Spanish>Rak 6</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Blaber_marker">
+        <English>Panther</English>
+        <Spanish>Panther</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_crombie_radio">
+        <English>Alpha 11 (CPT Crombie)</English>
+        <Spanish>Alpha 11 (Cap. Crombie)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_apache1_radio">
+        <English>Eagle 11 (CW3 Chenault)</English>
+        <Spanish>Eagle 11 (CW3 Chenault)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_apache1_dialogue">
+        <English>CW3 CHENAULT</English>
+        <Spanish>CW3 CHENAULT</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_apache1_gunner_dialogue">
+        <English>CPT HERMAN</English>
+        <Spanish>CPT HERMAN</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerJuliet">
+        <English>Juliet</English>
+        <Spanish>Juliet</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerIndia">
+        <English>India</English>
+        <Spanish>India</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerMako">
+        <English>Mako 31</English>
+        <Spanish>Mako 31</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerMako22">
+        <English>Mako 22</English>
+        <Spanish>Mako 22</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerMako21">
+        <English>Mako 21</English>
+        <Spanish>Mako 21</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerMako30">
+        <English>Mako 30</English>
+        <Spanish>Mako 30</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerWhale">
+        <English>The Whale</English>
+        <Spanish>La Ballena</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerTakur">
+        <English>Takur Ghar</English>
+        <Spanish>Takur Ghar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerLittleWhale">
+        <English>Little Whale</English>
+        <Spanish>Pequeña Ballena</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerFinger">
+        <English>The Finger</English>
+        <Spanish>El Dedo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerClementine">
+        <English>OP Clementine</English>
+        <Spanish>PO Clementine</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerHLZ1">
+        <English>HLZ 1</English>
+        <Spanish>ZA 1</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerHLZ3">
+        <English>HLZ 3</English>
+        <Spanish>ZA 3</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerHLZ4">
+        <English>HLZ 4</English>
+        <Spanish>ZA 4</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerHLZ5">
+        <English>HLZ 5</English>
+        <Spanish>ZA 5</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerHLZ13">
+        <English>HLZ 13</English>
+        <Spanish>ZA 13</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerHLZ13a">
+        <English>HLZ 13a</English>
+        <Spanish>ZA 13a</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerRakTAC">
+        <English>Rak TAC Ridge</English>
+        <Spanish>Cresta Rak TAC</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerAmy">
+        <English>BP Amy</English>
+        <Spanish>PB Amy</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerBetty">
+        <English>BP Betty</English>
+        <Spanish>PB Betty</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerCindy">
+        <English>BP Cindy</English>
+        <Spanish>PB Cindy</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerDiane">
+        <English>BP Diane</English>
+        <Spanish>PB Diane</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerEve">
+        <English>BP Eve</English>
+        <Spanish>PB Eve</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerHeather">
+        <English>BP Heather</English>
+        <Spanish>PB Heather</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerDorothy">
+        <English>OP Dorothy</English>
+        <Spanish>PO Dorothy</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerNeptune">
+        <English>OP Neptune</English>
+        <Spanish>PO Neptune</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerDownedHelo">
+        <English>Downed helicopter</English>
+        <Spanish>Helicóptero derribado</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerAbandonedHelo">
+        <English>Abandoned helicopter</English>
+        <Spanish>Helicóptero abandonado</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerRangers">
+        <English>Rangers</English>
+        <Spanish>Rangers</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerAlpha11">
+        <English>Alpha 11</English>
+        <Spanish>Alpha 11</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerCharlie121">
+        <English>Summit 11</English>
+        <Spanish>Summit 11</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerCharlie122">
+        <English>Summit 12</English>
+        <Spanish>Summit 12</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerCharlie21">
+        <English>Charlie 21</English>
+        <Spanish>Charlie 21</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerCharlie22">
+        <English>Charlie 22</English>
+        <Spanish>Charlie 22</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerCharlie23">
+        <English>Charlie 23</English>
+        <Spanish>Charlie 23</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerPreysler">
+        <English>Raider 6</English>
+        <Spanish>Raider 6</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerLaCamera">
+        <English>Bishop</English>
+        <Spanish>Bishop</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_self_dialogue_1M8">
+        <English>CPT SELF</English>
+        <Spanish>CAP. SELF</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_self_radio_1M8">
+        <English>Chalk 1 (CPT Self)</English>
+        <Spanish>Grupo 1 (Cap. Self)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_walker_dialogue_1M8">
+        <English>SGT WALKER</English>
+        <Spanish>SGTO. WALKER</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_walker_radio_1M8">
+        <English>Chalk 1 (SGT Walker)</English>
+        <Spanish>Grupo1 (Sgto. Walker)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_totten_dialogue_1M8">
+        <English>SPC TOTTEN-LANCASTER</English>
+        <Spanish>ESP. TOTTEN-LANCASTER</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_totten_radio_1M8">
+        <English>Chalk 1 (SPC Totten-Lancaster)</English>
+        <Spanish>Grupo 1 (Esp. Totten-Lancaster)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_gilliam_dialogue_1M8">
+        <English>PFC GILLIAM</English>
+        <Spanish>SDO. 1.ª GILLIAM</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_gilliam_radio_1M8">
+        <English>Chalk 1 (PFC Gilliam)</English>
+        <Spanish>Grupo 1 (Sdo. 1.ª Gilliam)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_vance_dialogue_1M8">
+        <English>TSGT VANCE</English>
+        <Spanish>SGTO. TÉC. VANCE</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_vance_radio_1M8">
+        <English>Chalk 1 (TSgt Vance)</English>
+        <Spanish>Grupo 1 (Sgto. Téc. Vance)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_miceli_dialogue_1M8">
+        <English>SPC MICELI</English>
+        <Spanish>SDO. 1.ª MICELI</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_miceli_radio_1M8">
+        <English>Chalk 1 (SPC Miceli)</English>
+        <Spanish>Grupo 1 (Sdo. 1.ª Miceli)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_miller_dialogue_1M8">
+        <English>TSGT MILLER</English>
+        <Spanish>SGTO. TÉC. MILLER</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_miller_radio_1M8">
+        <English>Chalk 1 (TSgt Miller)</English>
+        <Spanish>Grupo 1 (Sgto. Téc. Miller)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_canon_dialogue_1M8">
+        <English>SSG CANON</English>
+        <Spanish>SGTO. 1.º CANON</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_canon_radio_1M8">
+        <English>Chalk 2 (SSG Canon)</English>
+        <Spanish>Grupo 2 (Sgto. 1.º Canon)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_wilmoth_dialogue_1M8">
+        <English>SSG WILMOTH</English>
+        <Spanish>SGTO. 1.º WILMOTH</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_wilmoth_radio_1M8">
+        <English>Chalk 2 (SSG Wilmoth)</English>
+        <Spanish>Grupo 2 (Sgto. 1.º Wilmoth)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lafrenz_dialogue_1M8">
+        <English>SGT LAFRENZ</English>
+        <Spanish>SGTO. LAFRENZ</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lafrenz_radio_1M8">
+        <English>Chalk 2 (SGT LaFrenz)</English>
+        <Spanish>Grupo 2 (Sgto. LaFrenz)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_razor01_radio_1M8">
+        <English>Razor 01</English>
+        <Spanish>Razor 01</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_chalk1_radio_1M8">
+        <English>Chalk 1</English>
+        <Spanish>Grupo 1</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_chalk2_radio_1M8">
+        <English>Chalk 2</English>
+        <Spanish>Grupo 2</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_twister51_radio_1M8">
+        <English>Twister 51</English>
+        <Spanish>Twister 51</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_twister52_radio_1M8">
+        <English>Twister 52</English>
+        <Spanish>Twister 52</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_clash71_radio_1M8">
+        <English>Clash 71</English>
+        <Spanish>Clash 71</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_clash72_radio_1M8">
+        <English>Clash 72</English>
+        <Spanish>Clash 72</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerHalfpipe">
+        <English>Hell's Halfpipe</English>
+        <Spanish>Medio Tubo del Infierno</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerHammer">
+        <English>TF Hammer</English>
+        <Spanish>TF Hammer</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerRakk">
+        <English>TF Rakkasan</English>
+        <Spanish>TF Rakkasan</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerRemington">
+        <English>Objective Remington</English>
+        <Spanish>Objetivo Remington</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerEmerald">
+        <English>PL Emerald</English>
+        <Spanish>Línea Emerald</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_end1_title">
+        <English>Mission completed</English>
+        <Spanish>Misión cumplida</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lost_title">
+        <English>Mission failed</English>
+        <Spanish>Misión fallida</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lost_subtitle">
+        <English>Squadmate died</English>
+        <Spanish>Un compañero ha muerto</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lost_description">
+        <English>One of your squadmates was killed! All squadmates must survive this mission!</English>
+        <Spanish>¡Uno de tus compañeros de escuadrón ha muerto! ¡Todo el escuadrón debe sobrevivir a esta misión!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_man_down_basic_dialogue">
+        <English>Fuck, we've got a man down! Need CASEVAC on the double!</English>
+        <Spanish>¡Mierda, hombre abatido! ¡Necesitamos CASEVAC a la voz de ya!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_man_down_leopard_dialogue">
+        <English>Shit, man down! We can't leave him here, we need CASEVAC!</English>
+        <Spanish>¡Mierda, hombre abatido! ¡No podemos dejarlo aquí tirado, necesitamos CASEVAC!</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>
