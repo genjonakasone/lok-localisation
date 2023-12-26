@@ -5,597 +5,597 @@
       <Key ID="STR_LOK_CampaignName">
         <English>Lions of Kandahar</English>
         <Spanish>Leones de Kandahar</Spanish>
-        <Polish></Polish>
+        <Polish>Lwy z Kandaharu</Polish>
       </Key>
 	  <Key ID="STR_LOK_BonusMissionsName">
-        <English>Lions of Kandahar Bonus Scenarios</English>
-        <Spanish>Leones de Kandahar: Escenarios extra</Spanish>
-        <Polish></Polish>
+        <English>Enduring Freedom Bonus Scenarios</English>
+        <Spanish>Libertad Duradera: Escenarios extra</Spanish>
+        <Polish>Enduring Freedom: Scenariusze dodatkowe</Polish>
       </Key>
 	  <Key ID="STR_LOK_BonusMissionsDescription">
-        <English>Bonus scenarios related to the Lions of Kandahar campaign, unlocked by completing certain parts of the campaign.</English>
-        <Spanish>Misiones extra relacionadas con la campaña de «Leones de Kandahar». Se desbloquean completando ciertas partes de la campaña.</Spanish>
-        <Polish></Polish>
+        <English>Bonus scenarios based on the conflict in Afghanistan but not directly related to any of the campaigns, unlocked by completing certain parts thereof.</English>
+        <Spanish>Misiones extra basadas en el conflicto de Afganistán, pero no directamente relacionadas con ninguna de las campañas. Se desbloquean completando ciertas partes de las mismas.</Spanish>
+        <Polish>Dodatkowe scenariusze powiązane z kampanią "Lwy z Kandaharu", odblokowywane poprzez kończenie poszczególnych rozdziałów kampanii.</Polish>
       </Key>
 	  <Key ID="STR_LOK_AuthorName">
         <English>Alex/HeadUp (port by man)</English>
         <Spanish>Alex/HeadUp (remasterizado por man)</Spanish>
-        <Polish></Polish>
+        <Polish>Alex/HeadUp (sportował man)</Polish>
       </Key>
 	  <Key ID="STR_LOK_AuthorName_man">
         <English>man</English>
         <Spanish>man</Spanish>
-        <Polish></Polish>
+        <Polish>man</Polish>
       </Key>
 	  <Key ID="STR_LOK_CampaignOverview">
         <English>Lions of Kandahar was written by former Special Forces Captain (now Major) Rusty Bradley, who survived three brutal US SOF rotations in Afghanistan, the third being the subject of the book - Operation Medusa in 2006. As various members of ODA 331 (part of Task Force 31), the Afghan National Army's 3rd Kandak, and the Canadian Armed Forces' Charles Company, you will take part in a massive offensive to push the now brazen Taliban from the Panjwayi Valley south of Kandahar.</English>
         <Spanish>«Lions of Kandahar» es un libro escrito por el excapitán (mayor antes de jubilarse) de las Fuerzas Especiales del Ejército de EE. UU. Rusty Bradley, que sobrevivió a tres brutales servicios militares en Afganistán, siendo el tercero el tema de su libro: la Operación Medusa, en 2006. Como varios miembros de la ODA 331 (parte de la Fuerza Operativa 31), el 3.er Kandak del Ejército Nacional Afgano y la Compañía Charles de las Fuerzas Armadas canadienses, participarás en una descomunal ofensiva para expulsar a los impetuosos talibanes del distrito de Panjwai, al sur de Kandahar.</Spanish>
-        <Polish></Polish>
+        <Polish>"Lwy z Kandaharu" zostały napisane przez byłego kapitana sił specjalnych (obecnie majora) Rusty'ego Bradleya, który przeżył trzy brutalne zmiany amerykańskich sił specjalnych w Afganistanie, i ostatnia jest tematem jego książki - Operacja Meduza z 2006 roku. Wcialając się w różnych członków ODA 331 (części Task Force 31), żołnierzy 3. Kandaku Narodowej Armii Afganistanu i Kanadyjczyków z Kompanii Charles, weźmiesz udział w ogromnej ofensywie przeciwko Talibanowi, by wyprzeć ich z doliny Pandżwai na południe od Kandaharu.</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingNotes">
         <English>Editor's Notes and Credits</English>
         <Spanish>Notas del editor y créditos</Spanish>
-        <Polish></Polish>
+        <Polish>Autorzy i notatki</Polish>
       </Key>
 	  <Key ID="STR_LOK_RustyDiary">
         <English>Diary - Cpt. Rusty Bradley</English>
         <Spanish>Diario: Cap. Rusty Bradley</Spanish>
-        <Polish></Polish>
+        <Polish>Dziennik - kpt. Rusty Bradley</Polish>
       </Key>
 	  <Key ID="STR_LOK_BillLeter">
         <English>Letter - Sgt. Bill Brown</English>
         <Spanish>Carta: Sgto. Bill Brown</Spanish>
-        <Polish></Polish>
+        <Polish>List - Sierż. Bill Brown</Polish>
       </Key>
 	  <Key ID="STR_LOK_AwardRecommendationDiary">
         <English>Award Recommendation - Ssg. Jude Voss</English>
         <Spanish>Recomendación para galardón: SG1.º Jude Voss</Spanish>
-        <Polish></Polish>
+        <Polish>Polecenie do medalu - Sierż. szt. Jude Voss</Polish>
       </Key>
 	  <Key ID="STR_LOK_LaheyDiary">
         <English>Diary - Lahey</English>
         <Spanish>Diario: Lahey</Spanish>
-        <Polish></Polish>
+        <Polish>Dziennik - Lahey</Polish>
       </Key>
 	  <Key ID="STR_LOK_Briefing3rdKandak">
         <English>Briefing - 3rd Kandak</English>
         <Spanish>Instrucciones: 3.er Kandak</Spanish>
-        <Polish></Polish>
+        <Polish>Odprawa - 3. Kandak</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingODA331">
         <English>Briefing - ODA 331</English>
         <Spanish>Instrucciones: ODA 331</Spanish>
-        <Polish></Polish>
+        <Polish>Odprawa - ODA 331</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingCharlesCo">
         <English>Briefing - Charles Co.</English>
         <Spanish>Instrucciones: Compañía Charles</Spanish>
-        <Polish></Polish>
+        <Polish>Odprawa - Kompania Charles</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingSituation">
         <English>I. Situation</English>
         <Spanish>I. Situación</Spanish>
-        <Polish></Polish>
+        <Polish>I. Sytuacja</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingMission">
         <English>II. Mission</English>
         <Spanish>II. Misión</Spanish>
-        <Polish></Polish>
+        <Polish>II. Misja</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingExecution">
         <English>III. Execution</English>
         <Spanish>III. Ejecución</Spanish>
-        <Polish></Polish>
+        <Polish>III. Wykonanie</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingSustainment">
         <English>IV. Sustainment</English>
         <Spanish>IV. Mantenimiento</Spanish>
-        <Polish></Polish>
+        <Polish>IV. Wsparcie</Polish>
       </Key>
 	  <Key ID="STR_LOK_BriefingCommand">
         <English>V. Command and Control</English>
         <Spanish>V. Mando y control</Spanish>
-        <Polish></Polish>
+        <Polish>V. Dowodzenie</Polish>
       </Key>
 	  <Key ID="STR_LOK_initializing_scripts">
         <English>[Initializing Scripts]</English>
         <Spanish>[Inicializando scripts]</Spanish>
-        <Polish></Polish>
+        <Polish>[Ładowanie skryptów]</Polish>
       </Key>
 	  <Key ID="STR_LOK_rusty_dialogue">
         <English>CPT. RUSTY</English>
         <Spanish>CAP. RUSTY</Spanish>
-        <Polish></Polish>
+        <Polish>KPT. RUSTY</Polish>
       </Key>
 	  <Key ID="STR_LOK_talon31_radio">
         <English>Talon 31</English>
         <Spanish>Talon 31</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31</Polish>
       </Key>
 	  <Key ID="STR_LOK_leopard1_radio">
         <English>Leopard 1</English>
         <Spanish>Leopard 1</Spanish>
-        <Polish></Polish>
+        <Polish>Lampart 1</Polish>
       </Key>
 	  <Key ID="STR_LOK_charlie22_radio">
         <English>Charlie 22</English>
         <Spanish>Charlie 22</Spanish>
-        <Polish></Polish>
+        <Polish>Charlie 22</Polish>
       </Key>
 	  <Key ID="STR_LOK_talon26_radio">
         <English>Talon 26</English>
         <Spanish>Talon 26</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 26</Polish>
       </Key>
 	  <Key ID="STR_LOK_ron_dialogue">
         <English>SGT. RON</English>
         <Spanish>SGTO. RON</Spanish>
-        <Polish></Polish>
+        <Polish>SIERŻ. RON</Polish>
       </Key>
 	  <Key ID="STR_LOK_ron_radio">
         <English>Talon 26 (Sgt. Ron)</English>
         <Spanish>Talon 26 (Sgto. Ron)</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 26 (Sierż. Ron)</Polish>
       </Key>
 	  <Key ID="STR_LOK_talon30_radio">
         <English>Talon 30</English>
         <Spanish>Talon 30</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 30</Polish>
       </Key>
 	  <Key ID="STR_LOK_rusty_radio">
         <English>Talon 31 (Cpt. Rusty)</English>
         <Spanish>Talon 31 (Cap. Rusty)</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 (Kpt. Rusty)</Polish>
       </Key>
 	  <Key ID="STR_LOK_lussier_radio">
         <English>Charles Actual (Maj. Lussier)</English>
         <Spanish>Charles Jefe (May. Lussier)</Spanish>
-        <Polish></Polish>
+        <Polish>Charles Actual (Mjr Lussier)</Polish>
       </Key>
 	  <Key ID="STR_LOK_brian_dialogue">
         <English>SGT. BRIAN</English>
         <Spanish>SGTO. BRIAN</Spanish>
-        <Polish></Polish>
+        <Polish>SIERŻ. BRIAN</Polish>
       </Key>
 	  <Key ID="STR_LOK_brian_radio">
         <English>Talon 31 (Sgt. Brian)</English>
         <Spanish>Talon 31 (Sgto. Brian)</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 (Sierż. Brian)</Polish>
       </Key>
 	  <Key ID="STR_LOK_bill_dialogue">
         <English>SGT. BILL</English>
         <Spanish>SGTO. BILL</Spanish>
-        <Polish></Polish>
+        <Polish>SIERŻ. BILL</Polish>
       </Key>
 	  <Key ID="STR_LOK_smitty_dialogue">
         <English>SGT. SMITTY</English>
         <Spanish>SGTO. SMITTY</Spanish>
-        <Polish></Polish>
+        <Polish>SIERŻ. SMITTY</Polish>
       </Key>
 	  <Key ID="STR_LOK_victor_dialogue">
         <English>CPL. VICTOR</English>
         <Spanish>CABO VICTOR</Spanish>
-        <Polish></Polish>
+        <Polish>KPR. VICTOR</Polish>
       </Key>
 	  <Key ID="STR_LOK_dave_dialogue">
         <English>SGT. DAVE</English>
         <Spanish>SGTO. DAVE</Spanish>
-        <Polish></Polish>
+        <Polish>SIERŻ. DAVE</Polish>
       </Key>
 	  <Key ID="STR_LOK_dave_radio">
         <English>Talon 31 (Sgt. Dave)</English>
         <Spanish>Talon 31 (Sgto. Dave)</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 (Sierż. Dave)</Polish>
       </Key>
 	  <Key ID="STR_LOK_bill_radio">
         <English>Talon 31 (Sgt. Bill)</English>
         <Spanish>Talon 31 (Sgto. Bill)</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 (Sierż. Bill)</Polish>
       </Key>
 	  <Key ID="STR_LOK_zack_radio">
         <English>Talon 31 (Sgt. Zack)</English>
         <Spanish>Talon 31 (Sgto. Zack)</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 (Sierż. Zack)</Polish>
       </Key>
 	  <Key ID="STR_LOK_ali_dialogue">
         <English>LT. ALI</English>
         <Spanish>TTE. ALI</Spanish>
-        <Polish></Polish>
+        <Polish>POR. ALI</Polish>
       </Key>
 	  <Key ID="STR_LOK_lahey_dialogue">
         <English>LAHEY</English>
         <Spanish>LAHEY</Spanish>
-        <Polish></Polish>
+        <Polish>LAHEY</Polish>
       </Key>
 	  <Key ID="STR_LOK_julian_dialogue">
         <English>JULIAN</English>
         <Spanish>JULIAN</Spanish>
-        <Polish></Polish>
+        <Polish>JULIAN</Polish>
       </Key>
 	  <Key ID="STR_LOK_ricky_dialogue">
         <English>RICKY</English>
         <Spanish>RICKY</Spanish>
-        <Polish></Polish>
+        <Polish>RICKY</Polish>
       </Key>
 	  <Key ID="STR_LOK_ali_radio">
         <English>Lion 18 (Lt. Ali)</English>
         <Spanish>León 18 (Tte. Ali)</Spanish>
-        <Polish></Polish>
+        <Polish>Lew 18 (Por. Ali)</Polish>
       </Key>
 	  <Key ID="STR_LOK_lion32_radio">
         <English>Lion 32</English>
         <Spanish>León 32</Spanish>
-        <Polish></Polish>
+        <Polish>Lew 32</Polish>
       </Key>
 	  <Key ID="STR_LOK_taz_radio">
         <English>Lion 32 (Taz)</English>
         <Spanish>León 32 (Taz)</Spanish>
-        <Polish></Polish>
+        <Polish>Lew 32 (Taz)</Polish>
       </Key>
 	  <Key ID="STR_LOK_taz_dialogue">
         <English>TAZ</English>
         <Spanish>TAZ</Spanish>
-        <Polish></Polish>
+        <Polish>TAZ</Polish>
       </Key>
 	  <Key ID="STR_LOK_hodge_dialogue">
         <English>CPT. HODGE</English>
         <Spanish>CAP. HODGE</Spanish>
-        <Polish></Polish>
+        <Polish>KPT. HODGE</Polish>
       </Key>
 	  <Key ID="STR_LOK_hodge_radio">
         <English>Talon 26 (Cpt. Hodge)</English>
         <Spanish>Talon 26 (Cap. Hodge)</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 26 (Kpt. Hodge)</Polish>
       </Key>
 	  <Key ID="STR_LOK_bruce_dialogue">
         <English>CPT. BRUCE</English>
         <Spanish>CAP. BRUCE</Spanish>
-        <Polish></Polish>
+        <Polish>KPT. BRUCE</Polish>
       </Key>
 	  <Key ID="STR_LOK_bruce_radio">
         <English>Talon 36 (Cpt. Bruce)</English>
         <Spanish>Talon 36 (Cap. Bruce)</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 36 (Kpt. Bruce)</Polish>
       </Key>
 	  <Key ID="STR_LOK_ben_dialogue">
         <English>SGT. BEN</English>
         <Spanish>SGTO. BEN</Spanish>
-        <Polish></Polish>
+        <Polish>SIERŻ. BEN</Polish>
       </Key>
 	  <Key ID="STR_LOK_ben_radio">
         <English>Talon 36 (Sgt. Ben)</English>
         <Spanish>Talon 36 (Sgto. Ben)</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 31 (Sierż. Ben)</Polish>
       </Key>
 	  <Key ID="STR_LOK_zack_dialogue">
         <English>SGT. ZACK</English>
         <Spanish>SGTO. ZACK</Spanish>
-        <Polish></Polish>
+        <Polish>SIERŻ. ZACK</Polish>
       </Key>
 	  <Key ID="STR_LOK_jude_dialogue">
         <English>SSG JUDE</English>
         <Spanish>SG1.º JUDE</Spanish>
-        <Polish></Polish>
+        <Polish>SIERŻ. SZT. JUDE</Polish>
       </Key>
 	  <Key ID="STR_LOK_shef_dialogue">
         <English>CAP. SHEF</English>
         <Spanish>CAP. SHEF</Spanish>
-        <Polish></Polish>
+        <Polish>KPT. SHEF</Polish>
       </Key>
 	  <Key ID="STR_LOK_bolduc_dialogue">
-        <English>LT. COL. BOLDUC</English>
+        <English>LTC BOLDUC</English>
         <Spanish>TTE. CNEL. BOLDUC</Spanish>
-        <Polish></Polish>
+        <Polish>PPŁK BOLDUC</Polish>
       </Key>
 	  <Key ID="STR_LOK_freakley_dialogue">
         <English>MAJ. GEN. FREAKLEY</English>
         <Spanish>MAY. GRAL. FREAKLEY</Spanish>
-        <Polish></Polish>
+        <Polish>GEN. DYW. FREAKLEY</Polish>
       </Key>
 	  <Key ID="STR_LOK_bolduc_radio">
-        <English>Eagle 10 (Lt. Col. Bolduc)</English>
+        <English>Eagle 10 (LTC Bolduc)</English>
         <Spanish>Eagle 10 (Tte. Cnel. Bolduc)</Spanish>
-        <Polish></Polish>
+        <Polish>Orzeł 10 (Ppłk Bolduc)</Polish>
       </Key>
 	  <Key ID="STR_LOK_jared_dialogue">
         <English>COL. JARED</English>
         <Spanish>CNEL. JARED</Spanish>
-        <Polish></Polish>
+        <Polish>PŁK JARED</Polish>
       </Key>
 	  <Key ID="STR_LOK_abdul_dialogue">
         <English>PVT. KHAN</English>
         <Spanish>SLD. KHAN</Spanish>
-        <Polish></Polish>
+        <Polish>SZER. KHAN</Polish>
       </Key>
 	  <Key ID="STR_LOK_steve_dialogue">
         <English>SGT. STEVE</English>
         <Spanish>SGTO. STEVE</Spanish>
-        <Polish></Polish>
+        <Polish>SIERŻ. STEVE</Polish>
       </Key>
 	  <Key ID="STR_LOK_riley_dialogue">
         <English>SGT. RILEY</English>
         <Spanish>SGTO. RILEY</Spanish>
-        <Polish></Polish>
+        <Polish>SIERŻ. RILEY</Polish>
       </Key>
-	  <Key ID="STR_LOK_martin_dialogue">
+	<Key ID="STR_LOK_martin_dialogue">
         <English>MAJ. MARTIN</English>
         <Spanish>MAY. MARTIN</Spanish>
-        <Polish></Polish>
+        <Polish>MJR MARTIN</Polish>
       </Key>
 	  <Key ID="STR_LOK_greg_dialogue">
         <English>SFC GREG</English>
         <Spanish>SFC GREG</Spanish>
-        <Polish></Polish>
+        <Polish>ST. SIERŻ. GREG</Polish>
       </Key>
 	  <Key ID="STR_LOK_jared_radio">
         <English>Talon 30 (Col. Jared)</English>
         <Spanish>Talon 30 (Cnel. Jared)</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 30 (Płk Jared)</Polish>
       </Key>
 	  <Key ID="STR_LOK_casey_radio">
         <English>Talon 30 (SSG Casey)</English>
         <Spanish>Talon 30 (SG1.º Casey)</Spanish>
-        <Polish></Polish>
+        <Polish>Talon 30 (Sierż. szt. Casey)</Polish>
       </Key>
 	  <Key ID="STR_LOK_shinsha_dialogue">
         <English>COL. SHINSHA</English>
         <Spanish>CNEL. SHINSHA</Spanish>
-        <Polish></Polish>
+        <Polish>PŁK SHINSHA</Polish>
       </Key>
 	  <Key ID="STR_LOK_shinsha_radio">
         <English>Lion 1 (Col. Shinsha)</English>
         <Spanish>León 1 (Cnel. Shinsha)</Spanish>
-        <Polish></Polish>
+        <Polish>Lew 1 (Płk Shinsha)</Polish>
       </Key>
 	  <Key ID="STR_LOK_rusty_displayName">
         <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Detachment Leader&lt;/t&gt;</English>
         <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Líder de destacamento&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Dowódca jednostki&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_jared_displayName">
         <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Company Commander&lt;/t&gt;</English>
         <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Comandante de compañía&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Dowódca kompanii&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_casey_displayName">
         <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;CC Team Gunner&lt;/t&gt;</English>
         <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Artillero de la compañía de mando&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Strzelec d-cy kompanii&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_jude_displayName">
         <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Jr. Comms Specialist&lt;/t&gt;</English>
         <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Especialista en comunicaciones subalterno&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Młod. spec. ds. łączności&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_bill_displayName">
         <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Team Sergeant&lt;/t&gt;</English>
         <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Sargento del equipo&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Dowódca oddziału&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_bolduc_displayName">
         <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;CO, ODA 331&lt;/t&gt;</English>
         <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Oficial al mando, ODA 331&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Oficer dowodzący, ODA 331&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_shinsha_displayName">
         <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;CO, ANA 2nd Bn., 3rd Kandak&lt;/t&gt;</English>
         <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Oficial al mando, 2.º Bn., 3.er Kandak del ENA&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Oficer dowodzący, 2. Batalion 3. Kandak NAA&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_dave_displayName">
         <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Sr. Engineer&lt;/t&gt;</English>
         <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Ingeniero superior&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;St. inżynier&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_brian_displayName">
         <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Sr. Comms Specialist&lt;/t&gt;</English>
         <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Especialista en comunicaciones superior&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;St. spec. ds. łączności&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_riley_displayName">
         <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Sr. Medical Specialist&lt;/t&gt;</English>
         <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Especialista médico superior&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;St. medyk&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_medic_displayName">
         <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Medic&lt;/t&gt;</English>
         <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Médico&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Medyk&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_smitty_displayName">
         <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Intel Specialist&lt;/t&gt;</English>
         <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Especialista en inteligencia&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Spec. ds. wywiadu&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_victor_displayName">
         <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Embedded Interpreter&lt;/t&gt;</English>
         <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Intérprete asignado&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Interpretator&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_zack_displayName">
         <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Weapons Specialist&lt;/t&gt;</English>
         <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Especialista en armas&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Spec. ds. uzbrojenia&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_ali_displayName">
         <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Team Leader, 3rd Kandak&lt;/t&gt;</English>
         <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Líder de equipo, 3.er Kandak&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Dowódca oddziału, 3. Kandak&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_taz_displayName">
         <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;ANA Team Leader&lt;/t&gt;</English>
         <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Líder de equipo del ENA&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;D-ca oddziału NAA&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_ron_displayName">
         <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Air Force JTAC&lt;/t&gt;</English>
         <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;JTAC de la Fuerza Aérea&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Oficer łącznościowy Air Force&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_shef_displayName">
         <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Team Leader&lt;/t&gt;</English>
         <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Líder de equipo&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Dowódca oddziału&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_sean_displayName">
         <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Embedded Tactical Trainer&lt;/t&gt;</English>
         <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Instructor táctico asignado&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Instruktor ds. taktyki&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_martin_displayName">
         <English>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Comanche Company XO&lt;/t&gt;</English>
         <Spanish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Oficial ejecutivo, Compañía Comanche&lt;/t&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>&lt;t size='0.4' color='#FF9900' font='Zeppelin33Italic'&gt;Z-ca dowódcy Kompanii Comanche&lt;/t&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_end1_title">
         <English>Mission completed</English>
         <Spanish>Misión cumplida</Spanish>
-        <Polish></Polish>
+        <Polish>Misja ukończona</Polish>
       </Key>
 	  <Key ID="STR_LOK_lost_title">
         <English>Mission failed</English>
         <Spanish>Misión fallida</Spanish>
-        <Polish></Polish>
+        <Polish>Misja nieukończona</Polish>
       </Key>
 	  <Key ID="STR_LOK_lost_subtitle">
         <English>Squadmate died</English>
         <Spanish>Un compañero ha muerto</Spanish>
-        <Polish></Polish>
+        <Polish>Członek drużyny zginął</Polish>
       </Key>
 	  <Key ID="STR_LOK_lost_description">
         <English>One of your squadmates was killed! All squadmates must survive this mission!</English>
         <Spanish>¡Uno de tus compañeros de escuadrón ha muerto! ¡Todo el escuadrón debe sobrevivir a esta misión!</Spanish>
-        <Polish></Polish>
+        <Polish>Jeden z twoich ludzi został zabity! Wszyscy członkowie drużyny muszą przeżyć podczas tej misji!</Polish>
       </Key>
 	  <Key ID="STR_LOK_man_down_basic_dialogue">
         <English>Fuck, we've got a man down! Need CASEVAC on the double!</English>
         <Spanish>¡Mierda, hombre abatido! ¡Necesitamos CASEVAC a la voz de ya!</Spanish>
-        <Polish></Polish>
+        <Polish>Kurwa, mamy rannego! Potrzebujemy CASEVACa, migiem!</Polish>
       </Key>
 	  <Key ID="STR_LOK_man_down_leopard_dialogue">
         <English>Shit, man down! We can't leave him here, we need CASEVAC!</English>
         <Spanish>¡Mierda, hombre abatido! ¡No podemos dejarlo aquí tirado, necesitamos CASEVAC!</Spanish>
-        <Polish></Polish>
+        <Polish>Cholera, dostał! Nie możemy go tu zostawić, potrzebny CASEVAC!</Polish>
       </Key>
 	  <Key ID="STR_LOK_man_down_taz_dialogue">
         <English>Lion 1 Actual, this is Lion 32, we have a man down!</English>
         <Spanish>¡León 1 Jefe, aquí León 32, hombre abatido!</Spanish>
-        <Polish></Polish>
+        <Polish>Lew 1 Actual, tutaj Lew 32, mamy rannego!</Polish>
       </Key>
 	  <Key ID="STR_LOK_chooseTask_hint_1M5">
         <English>Choose a task from your Journal, be aware: the order you choose has trade-offs!</English>
         <Spanish>Elige una tarea de tu diario. Aviso: ¡cada orden tiene sus pros y sus contras!</Spanish>
-        <Polish></Polish>
+        <Polish>Wybierz zadanie ze swojego Dziennika, ale pamiętaj: kolejność ich wykonania ma swoje konsekwencje!</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerANA">
         <English>ANA</English>
         <Spanish>ENA</Spanish>
-        <Polish></Polish>
+        <Polish>NAA</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerANA2">
         <English>ANA 2nd Bn., 3rd Kandak</English>
         <Spanish>2.º Bn., 3.er Kandak del ENA</Spanish>
-        <Polish></Polish>
+        <Polish>2. Batalion, 3. Kandak NAA</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerANA3">
         <English>ANA 3rd Kandak</English>
         <Spanish>3.er Kandak del ENA</Spanish>
-        <Polish></Polish>
+        <Polish>3. Knadak NAA</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerCAN">
         <English>Charles Company, Canadian Infantry</English>
         <Spanish>Compañía Charles, infantería canadiense</Spanish>
-        <Polish></Polish>
+        <Polish>Kompania Charles Piechoty Kanadyjskiej</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerCAN2">
         <English>Charles Company</English>
         <Spanish>Compañía Charles</Spanish>
-        <Polish></Polish>
+        <Polish>Kompania Charles</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerCANB">
         <English>Bravo Company</English>
         <Spanish>Compañía Bravo</Spanish>
-        <Polish></Polish>
+        <Polish>Kompania Bravo</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerComanche">
         <English>Comanche Company</English>
         <Spanish>Compañía Comanche</Spanish>
-        <Polish></Polish>
+        <Polish>Compania Comanche</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerCANNoFire">
         <English>Charles Co. - Do Not Fire!</English>
         <Spanish>Compañía Charles, ¡no disparar!</Spanish>
-        <Polish></Polish>
+        <Polish>Komp. Charles - NIE STRZELAĆ!</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerISAF">
         <English>ISAF</English>
         <Spanish>ISAF</Spanish>
-        <Polish></Polish>
+        <Polish>ISAF</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerHodgeTeam">
         <English>Hodge's Team</English>
         <Spanish>Equipo de Hodge</Spanish>
-        <Polish></Polish>
+        <Polish>Oddział Hodge'a</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerRustyTeam">
         <English>Rusty's Team</English>
         <Spanish>Equipo de Rusty</Spanish>
-        <Polish></Polish>
+        <Polish>Oddział Rusty'ego</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerJaredTeam">
         <English>Jared's Team</English>
         <Spanish>Equipo de Jared</Spanish>
-        <Polish></Polish>
+        <Polish>Oddział Jareda</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerRustyTeam1">
         <English>Rusty's Team 1</English>
         <Spanish>Equipo de Rusty 1</Spanish>
-        <Polish></Polish>
+        <Polish>Oddział Rusty'ego 1</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerRustyTeam2">
         <English>Rusty's Team 2</English>
         <Spanish>Equipo de Rusty 2</Spanish>
-        <Polish></Polish>
+        <Polish>Oddział Rusty'ego 2</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerQRF">
         <English>QRF</English>
         <Spanish>FRR</Spanish>
-        <Polish></Polish>
+        <Polish>QRF</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerBruceTeam">
         <English>Bruce's Team</English>
         <Spanish>Equipo de Bruce</Spanish>
-        <Polish></Polish>
+        <Polish>Oddział Bruce'a</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerAliTeam">
         <English>Lt. Ali's Team</English>
         <Spanish>Equipo del Tte. Ali</Spanish>
-        <Polish></Polish>
+        <Polish>Oddział por. Aliego</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerTazTeam">
         <English>Taz's Team</English>
         <Spanish>Equipo de Taz</Spanish>
-        <Polish></Polish>
+        <Polish>Oddział Taza</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerCCP">
         <English>CCP</English>
         <Spanish>PRB</Spanish>
-        <Polish></Polish>
+        <Polish>CCP</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerCivis">
         <English>Civilians - Do Not Fire!</English>
         <Spanish>Civiles, ¡no disparar!</Spanish>
-        <Polish></Polish>
+        <Polish>Cywile - NIE STRZELAĆ!</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerODA">
         <English>ODA 331</English>
         <Spanish>ODA 331</Spanish>
-        <Polish></Polish>
+        <Polish>ODA 331</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerOverwatch">
         <English>Overwatch</English>
         <Spanish>Vigilancia</Spanish>
-        <Polish></Polish>
+        <Polish>Punkt obserwacyjny</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerMasumGhar">
         <English>Masum Ghar</English>
@@ -605,27 +605,27 @@
 	  <Key ID="STR_LOK_markerKifahGhar">
         <English>Kifah Ghar</English>
         <Spanish>Kifah Ghar</Spanish>
-        <Polish></Polish>
+        <Polish>Masum Ghar</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerSperwanGhar">
         <English>Sperwan Ghar</English>
         <Spanish>Sperwan Ghar</Spanish>
-        <Polish></Polish>
+        <Polish>Sperwan Ghar</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerZangabarGhar">
         <English>Zangabar Ghar</English>
         <Spanish>Zangabar Ghar</Spanish>
-        <Polish></Polish>
+        <Polish>Zangabar Ghar</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerKeybariGhar">
         <English>Keybari Ghar</English>
         <Spanish>Keybari Ghar</Spanish>
-        <Polish></Polish>
+        <Polish>Keybari Ghar</Polish>
       </Key>
 	  <Key ID="STR_LOK_markerRugby">
         <English>Objective Rugby</English>
         <Spanish>Objetivo Rugby</Spanish>
-        <Polish></Polish>
+        <Polish>Punkt Rugby</Polish>
       </Key>
     </Container>
   </Package>
