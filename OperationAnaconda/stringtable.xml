@@ -27,6 +27,11 @@
         <Spanish>Instrucciones: Equipo Juliet</Spanish>
         <Polish></Polish>
       </Key>
+	  <Key ID="STR_TIOG_BriefingDeltaA">
+        <English>Briefing - A Squadron</English>
+        <Spanish>Instrucciones: Escuadrón A</Spanish>
+        <Polish></Polish>
+      </Key>
 	  <Key ID="STR_TIOG_BriefingODA">
         <English>Briefing - ODA 372</English>
         <Spanish>Instrucciones: ODA 372</Spanish>
