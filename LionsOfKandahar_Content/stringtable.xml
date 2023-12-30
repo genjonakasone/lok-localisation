@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="LionsOfKandahar_Content">
+  <Package name="LionsOfKandahar_Content">
+    <Container name="STR_DN">
+	  <Key ID="STR_LoK_Content_HazarKot_LoadingTip_1">
+        <English>"Shah-i-Kot" means "Place of the Kings" in Pashto.</English>
+        <Spanish>«Shah-i-Kot» significa «lugar de los reyes» en pastún.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HazarKot_LoadingTip_2">
+        <English>The Shah-i-Kot Valley has historically been a redoubt for Afghan guerrillas hiding from foreign invaders. In fact, two major battles took place in the same region at different times, in 1987 and in 2002.</English>
+        <Spanish>El valle de Shah-i-Kot ha sido históricamente un reducto de las guerrillas afganas que se escondían de los invasores extranjeros. De hecho, dos grandes batallas tuvieron lugar en la misma región en momentos diferentes, en 1987 y en 2002.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HazarKot_LoadingTip_3">
+        <English>The valley was the scene of fierce fighting between Afghan mujahideen rebels and Soviet forces during the Soviet–Afghan War, as the Battle for Hill 3234.</English>
+        <Spanish>El valle fue escenario de encarnizados combates entre los rebeldes muyahidines afganos y las fuerzas soviéticas durante la guerra soviético-afgana, en la Batalla por la Colina 3234.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HazarKot_LoadingTip_4">
+        <English>One of the largest operations of the War in Afghanistan took place in the Shah-i-Kot Valley in early 2002, known as Operation Anaconda, with the objective of dislodging Taliban and Al-Qaeda forces rallying in the valley.</English>
+        <Spanish>Una de las mayores operaciones de la guerra de Afganistán tuvo lugar en el valle de Shah-i-Kot a principios de 2002, conocida como la Operación Anaconda, con el objetivo de expulsar a las fuerzas talibanes y de Al Qaeda en el valle.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HazarKot_LoadingTip_5">
+        <English>The highest peak in the valley is Takur Ghar, with an altitude of 10,500 feet (3,200 meters). Overlooking the entire valley, the most intense battle of Operation Anaconda took place on its peak.</English>
+        <Spanish>La cima más alta del valle es Takur Ghar, con una altitud de 3200 metros. Con vistas a todo el valle, la batalla más intensa de la Operación Anaconda tuvo lugar en su cima.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HazarKot_LoadingTip_6">
+        <English>Operation Anaconda was the first time in history the Predator drone was used in a CAS role, and the first time the F-15 Eagle did a strafing run to directly support ground troops, both during the Battle of Takur Ghar.</English>
+        <Spanish>La Operación Anaconda fue la primera vez en la historia que se usó el dron Predator para prestar apoyo aéreo y la primera vez que el F-15 Eagle hizo una pasada de cañón para apoyar directamente a tropas terrestres, ambas durante la batalla de Takur Ghar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HazarKot_LoadingTip_7">
+        <English>Operation Anaconda involved a multinational force, with US and allied forces, including troops from the United States, Canada, Australia, Denmark, and other nations, participating in the operation, although American and Afghan forces were responsible for the main assaults.</English>
+        <Spanish>En la Operación Anaconda participó una fuerza internacional, con tropas de Estados Unidos, Canadá, Australia, Dinamarca y otras naciones, aunque las fuerzas estadounidenses y afganas fueron las responsables de los principales asaltos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HazarKot_LoadingTip_7">
+        <English>The Shah-i-Kot Valley is relatively close to the Tora Bora cave complex, where Osama bin Laden was believed to have taken refuge in late 2001. In fact, one of the main reasons Operation Anaconda was launched was because American forces had failed to cover Bin Laden and Al-Qaeda's escape routes.</English>
+        <Spanish>El valle de Shah-i-Kot está relativamente cerca de las cuevas de Tora Bora, donde se cree que se refugió Osama bin Laden a finales de 2001. De hecho, una de las principales razones por las que se inició la Operación Anaconda fue que las fuerzas estadounidenses no habían logrado cubrir las rutas de escape de Bin Laden y Al Qaeda.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HazarKot_LoadingTip_8">
+        <English>One of the key elements of the operation was achieving air superiority over the Shah-i-Kot Valley. US and Coalition aircraft played a crucial role in providing close air support and suppressing enemy positions.</English>
+        <Spanish>Uno de los elementos clave de la operación fue lograr la superioridad aérea sobre el valle de Shah-i-Kot. La aviación estadounidense y de la Coalición desempeñó un papel crucial en el apoyo aéreo cercano y la contención de posiciones enemigas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HazarKot_LoadingTip_9">
+        <English>Enemy fighters in the Shah-i-Kot Valley had fortified positions in caves and tunnels, making it difficult for Coalition forces to dislodge them. Some of these fortifications were quite extensive.</English>
+        <Spanish>Los combatientes enemigos en el valle de Shah-i-Kot tenían posiciones fortificadas en cuevas y túneles, lo que dificultó su desalojo por las fuerzas de la Coalición. Algunas de estas fortificaciones eran bastante extensas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HazarKot_LoadingTip_10">
+        <English>Australian SASR forces saved American lives on more than one occasion. Signalman Martin Wallace was awarded the Medal for Gallantry for saving a wounded mortar crew of the 10th Mountain Division, and SASR forces helped US Army Rangers designate targets for air strikes during Takur Ghar.</English>
+        <Spanish>Las fuerzas del SASR australiano salvaron vidas estadounidenses en más de una ocasión. Martin Wallace fue condecorado con la Medalla a la Valentía por salvar a una tripulación de mortero herida de la 10.ª División de Montaña, y las fuerzas del SASR ayudaron a los Rangers del Ejército de EE. UU. a designar objetivos para ataques aéreos durante Takur Ghar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HazarKot_LoadingTip_11">
+        <English>Operation Anaconda received extensive media coverage, which helped to inform the public about the US military's efforts in Afghanistan and the challenges faced in the early stages of the conflict.</English>
+        <Spanish>La Operación Anaconda recibió una amplia cobertura informativa, lo que contribuyó a informar al público sobre los esfuerzos del Ejército estadounidense en Afganistán y los retos a los que se enfrentaba en las primeras fases del conflicto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HazarKot_LoadingTip_12">
+        <English>Although Operation Anaconda's main objective of defeating Taliban and Arab strongholds in the valley was eventually accomplished, many argue the operation was more trouble than it was worth and was especially made worse by communication problems and lack of air support at times.</English>
+        <Spanish>Aunque el principal objetivo de la Operación Anaconda, derrotar a los talibanes y a los bastiones árabes en el valle, se terminó cumpliendo, muchos sostienen que la operación dio más problemas de los necesarios y que se vio especialmente agravada por los problemas de comunicación y la falta de apoyo aéreo en algunos momentos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HazarKot_LoadingTip_13">
+        <English>During Operation Anaconda, the record for longest sniper shot was broken twice. Last achieved by Carlos Hathcock in 1967, it was broken first by MCpl Arron Perry and, a few days later, by Cpl Rob Furlong. Furlong's record (2,430 meters) was held for 7 years, until 2009.</English>
+        <Spanish>En la Operación Anaconda se batió el récord de disparo de francotirador más largo dos veces. Alcanzado por última vez por Carlos Hathcock en 1967, fue batido por Arron Perry y, unos días después, por el cabo Rob Furlong. El récord de Furlong (2430 metros) se mantuvo durante 7 años, hasta 2009.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HazarKot_LoadingTip_14">
+        <English>MSgt John Chapman and MCPO Britt Slabinski were both awarded the Medal of Honor in 2018, the former posthumously, for their actions during the Battle of Takur Ghar.</English>
+        <Spanish>El sargento maestro John Chapman y el MCPO Britt Slabinski fueron galardonados con la Medalla de Honor en 2018, el primero de forma póstuma, por sus actos durante la batalla de Takur Ghar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HazarKot_LoadingTip_15">
+        <English>Combat engineers played a critical role in clearing caves and tunnels used by enemy fighters. This dangerous and essential task required specialized training and equipment.</English>
+        <Spanish>Los ingenieros de combate desempeñaron un papel fundamental en la limpieza de cuevas y túneles utilizados por los combatientes enemigos. Esta tarea peligrosa y esencial requería formación y equipos especializados.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HazarKot_LoadingTip_16">
+        <English>The Battle of Takur Ghar is, to this day, the highest altitude land battle in US history.</English>
+        <Spanish>La batalla de Takur Ghar es, a día de hoy, la batalla librada a mayor altitud de la historia de los Estados Unidos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HazarKot_LoadingTip_17">
+        <English>Operation Anaconda was the Canadian Armed Forces' first ground combat since the Korean War.</English>
+        <Spanish>La Operación Anaconda fue el primer combate terrestre de las Fuerzas Armadas canadienses desde la guerra de Corea.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Reshmaan_LoadingTip_1">
+        <English>Kandahar Province has an area of 57,700 square kilometers (22,200 sq mi), making it the largest province in Afghanistan.</English>
+        <Spanish>La provincia de Kandahar tiene un área de 57 700 kilómetros cuadrados, lo que la convierte en la provincia más grande de Afganistán.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Reshmaan_LoadingTip_2">
+        <English>Kandahar Province has a population of over 2.5 million people, making it the most populous province in Afghanistan. The majority of the population is Pashtun, with smaller minorities of Hazaras, Tajiks, and Uzbeks.</English>
+        <Spanish>La provincia de Kandahar tiene más de 2,5 millones de habitantes, lo que la convierte en la más poblada de Afganistán. La mayoría de la población es pastún, con pequeñas minorías de hazaras, tayikos y uzbekos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Reshmaan_LoadingTip_3">
+        <English>Kandahar City is an important transportation hub, with roads and railways connecting it to other parts of Afghanistan and neighboring countries.</English>
+        <Spanish>Kandahar es un importante centro de transportes, con carreteras y ferrocarriles que la conectan a otras partes de Afganistán y los países vecinos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Reshmaan_LoadingTip_4">
+        <English>Kandahar Province has a hot, arid climate, with average temperatures ranging from 12°C (54°F) in January to 40°C (104°F) in July.</English>
+        <Spanish>La provincia de Kandahar tiene un clima árido y caluroso, con temperaturas medias que oscilan entre los 12 °C en enero y los 40 °C en julio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Reshmaan_LoadingTip_5">
+        <English>Agriculture is the main economic activity in Kandahar Province, with the production of wheat, barley, cotton, and pomegranates being the most important. The province also has a small amount of industry, primarily focused on textiles and carpets.</English>
+        <Spanish>La agricultura es la principal actividad económica de la provincia de Kandahar, destacando la producción de trigo, cebada, algodón y granadas. La provincia también tiene una pequeña industria, principalmente textil y de alfombras.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Reshmaan_LoadingTip_6">
+        <English>The city of Kandahar is one of the oldest continuously inhabited cities in the world. The province has been ruled by a number of different empires, including the Achaemenids, the Greeks, the Arabs, the Mughals, and the British.</English>
+        <Spanish>La ciudad de Kandahar es una de las más antiguas del mundo habitadas ininterrumpidamente. La provincia ha sido gobernada por varios imperios: aqueménidas, griegos, árabes, mogoles y británicos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Reshmaan_LoadingTip_7">
+        <English>Kandahar Province is strategically important because of its location on the border with Pakistan. It has also been a center of conflict for many years, with the Taliban having a strong presence in the province.</English>
+        <Spanish>La provincia de Kandahar es estratégicamente importante por su ubicación en la frontera con Pakistán. También ha sido un centro de conflicto durante muchos años, con una fuerte presencia talibán en la provincia.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Reshmaan_LoadingTip_8">
+        <English>Operation Medusa was at the time the most significant land battle ever undertaken by NATO.</English>
+        <Spanish>La Operación Medusa fue, en su momento, la batalla terrestre más importante jamás librada por la OTAN.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Reshmaan_LoadingTip_9">
+        <English>Despite suffering a brutal battlefield defeat, the Taliban retained their presence in Kandahar province and did not lose their will to fight, leading to the subsequent Operation Falcon Summit.</English>
+        <Spanish>Pese a sufrir una brutal derrota, los talibanes conservaron su presencia en la provincia de Kandahar y no perdieron las ganas de luchar, lo que dio lugar a la posterior Operación Cumbre de Halcón.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Reshmaan_LoadingTip_10">
+        <English>There is speculation revolving around the origin of the name "Kandahar". It is believed that it is derived from the Pashto rendering of Arabic "Iskandariya", "Ancient Alexandria" (Arachosia).</English>
+        <Spanish>Se especula sobre el origen del nombre «Kandahar». Se cree que deriva de la traducción pastún del árabe «Iskandariya», «Antigua Alejandría» (de Aracosia).</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Reshmaan_LoadingTip_11">
+        <English>Kandahar is the de facto capital of Afghanistan, although the main government body operates in Kabul.</English>
+        <Spanish>Kandahar es la capital de facto de Afganistán, aunque el órgano principal de gobierno reside en Kabul.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Reshmaan_LoadingTip_12">
+        <English>Kandahar is the founding city and spiritual center of the Taliban. Therefore, it is incredibly significant for them.</English>
+        <Spanish>Kandahar es la ciudad fundadora y el centro espiritual de los talibanes. Por lo tanto, guarda mucho valor para ellos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_Reshmaan_LoadingTip_13">
+        <English>Kandahar is one of the most culturally significant cities of the Pashtuns and has been their traditional seat of power for more than 300 years.</English>
+        <Spanish>Kandahar es una de las ciudades culturalmente más importantes de los pastunes y ha sido su sede tradicional de poder durante más de 300 años.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HuntersValley_LoadingTip_1">
+        <English>Uruzgan covers an area of 12,640 square kilometres. Much of the province is mountainous or semi-mountainous terrain, while the rest of the area is made up of flat land.</English>
+        <Spanish>Uruzgán cubre un área de 12 640 kilómetros cuadrados. Gran parte de la provincia es montañosa y semimontañosa, mientras que el resto de la zona está compuesta por llanuras.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HuntersValley_LoadingTip_2">
+        <English>The Chora Valley is located in the center of Uruzgan Province, and is one of the largest and most fertile valleys in Afghanistan.</English>
+        <Spanish>El valle de Chora se encuentra en el centro de la provincia de Uruzgán y es uno de los valles más grandes y fértiles de Afganistán.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HuntersValley_LoadingTip_3">
+        <English>The Chora Valley is surrounded by mountains, including the Safid Koh Range to the north and the Band-e Amir National Park to the west.</English>
+        <Spanish>El valle de Chora está rodeado de montañas, como la cordillera Safid Koh al norte y el parque nacional Band-e Amir al oeste.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HuntersValley_LoadingTip_4">
+        <English>Uruzgan Province is a predominantly Pashtun province, and Pashtun culture is dominant in the region.</English>
+        <Spanish>La provincia de Uruzgán es una provincia predominantemente pastún, y la cultura pastún es dominante en la región.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HuntersValley_LoadingTip_5">
+        <English>The climate in Uruzgan Province is dry and arid, with hot summers and cold winters.</English>
+        <Spanish>El clima de la provincia de Uruzgán es seco y árido, con veranos calurosos e inviernos fríos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HuntersValley_LoadingTip_6">
+        <English>The economy of Uruzgan Province is based on agriculture, with wheat, barley, and pomegranates being the main crops.</English>
+        <Spanish>La economía de la provincia de Uruzgán se basa en la agricultura, siendo los principales cultivos el trigo, la cebada y la granada.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HuntersValley_LoadingTip_7">
+        <English>Uruzgan Province is a major producer of opium, and the drug trade has had a significant negative impact on the province's economy and security.</English>
+        <Spanish>La provincia de Uruzgán es una de las principales productoras de opio, y el tráfico de drogas ha tenido importantes repercusiones negativas en la economía y la seguridad de la provincia.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HuntersValley_LoadingTip_8">
+        <English>The province was the birthplace of the Pashtun leader Ahmed Shah Durrani, who founded the Durrani Empire in the 18th century.</English>
+        <Spanish>La provincia fue la cuna del líder pastún Ahmed Shah Durrani, que fundó el Imperio durrani en el siglo XVIII.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HuntersValley_LoadingTip_9">
+        <English>From 15 to 19 June 2007 Dutch, American, Australian and Afghan soldiers defended the town of Chora against an assault by Taliban combatants. The battle was one of the largest Taliban offensives of the year.</English>
+        <Spanish>Del 15 al 19 de junio de 2007, soldados neerlandeses, estadounidenses, australianos y afganos defendieron la ciudad de Chora contra un asalto de combatientes talibanes. La batalla fue una de las mayores ofensivas talibanes del año.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HuntersValley_LoadingTip_10">
+        <English>The overall literacy rate (6+ years of age) was 5% in 2005.</English>
+        <Spanish>La tasa general de alfabetización (6 o más años de edad) era de un 5 % en 2005.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_HuntersValley_LoadingTip_11">
+        <English>Operation Perth in July 2006 was the heaviest fighting of Australian forces since the Vietnam War.</English>
+        <Spanish>La Operación Perth, en julio de 2006, fue el combate más intenso de las fuerzas australianas desde la guerra de Vietnam.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_ToraBora_LoadingTip_1">
+        <English>The Spin Ghar Mountains are a rugged mountain range located in eastern Afghanistan, near the Khyber Pass.</English>
+        <Spanish>Las montañas de Spin Ghar son una cordillera escabrosa ubicada en el este de Afganistán, cerca del Paso Jáiber.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_ToraBora_LoadingTip_2">
+        <English>Tora Bora is known for its network of CIA and Osama bin Laden-funded caves and tunnels, which were used as fortifications by the Mujahideen during its war with the Soviets.</English>
+        <Spanish>Tora Bora es conocida por su red de cuevas y túneles financiados por la CIA y Osama bin Laden, que fueron usados como fortificaciones por los muyahidines durante su guerra contra los soviéticos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_ToraBora_LoadingTip_3">
+        <English>The name "Spin Ghar" means "White Mountains" in Pashto, referring to the snow-capped peaks that dominate the range, while "Tora Bora" means "Black Cave".</English>
+        <Spanish>El nombre «Spin Ghar» significa «montañas blancas» en pastún, haciendo referencia a las cimas nevadas que dominan la cordillera, mientras que «Tora Bora» significa «cueva negra».</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_ToraBora_LoadingTip_4">
+        <English>Osama bin Laden, the founder of Al-Qaeda, was believed to be hiding in Tora Bora when the US invaded Afghanistan. The US tried to kill him in December 2001, but he escaped into nearby Pakistan.</English>
+        <Spanish>Se creía que Osama bin Laden, fundador de Al Qaeda, se estaba escondiendo en Tora Bora cuando EE. UU. invadió Afganistán. EE. UU. intentó matarlo en diciembre de 2001, pero huyó a Pakistán.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_ToraBora_LoadingTip_5">
+        <English>The Battle of Tora Bora was a turning point in the Afghan war, as it led to the collapse of the Taliban regime in Afghanistan.</English>
+        <Spanish>La batalla de Tora Bora fue un punto de inflexión en la guerra afgana, pues provocó el colapso del régimen talibán en Afganistán.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_ToraBora_LoadingTip_6">
+        <English>Tora Bora was a very controversial battle, as many high-ranking officers have pointed out that they could've captured Bin Laden had more troops been commmitted to the operation.</English>
+        <Spanish>Tora Bora fue una batalla muy polémica, ya que muchos oficiales de alto rango han señalado que podrían haber capturado a Bin Laden si se hubieran destinado más tropas a la operación.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_ToraBora_LoadingTip_7">
+        <English>The tribal militias that the US coalition was coordinating with lacked the motivation to engage in the fight wholeheartedly. To them, Al-Qaeda was a group of fellow Muslims.</English>
+        <Spanish>Las milicias tribales con las que se estaba coordinando la coalición estadounidense carecían de la motivación para comprometerse a la batalla. Para ellos, Al Qaeda eran unos musulmanes como ellos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LoK_Content_ToraBora_LoadingTip_8">
+        <English>Most of the Afghan militias that fought alongside US forces in Tora Bora were actually bribed by the US.</English>
+        <Spanish>La mayoría de las milicias afganas que lucharon junto a las fuerzas estadounidenses en Tora Bora fueron en realidad sobornadas por EE. UU.</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>
