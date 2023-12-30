@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="OperationAnaconda">
+  <Package name="OperationAnaconda_1M1">
+    <Container name="STR_DN">
+	  <Key ID="STR_TIOG_BriefingNotes_1M1">
+        <English>EDITOR'S NOTES:&lt;br/&gt;This mission is directly based on the first mission of Medal of Honor (2010), but with many things changed, adapted or added by me. It is a completely fictional mission that did NOT happen in real life (at least not as a prelude to Operation Anaconda), but it is the only fictional mission in this campaign, and three of the characters in the team are actually real and were part of Delta's Juliet Team. In real life, the first intel gathering operation was conducted by ODA 594 in mid-January 2002, but due to similarities with the next campaign mission, I've changed it. As regards the mission itself, you know how the AI works, it doesn't like to traverse through towns. If your team leader gets stuck in a doorway, push him and he'll keep moving. Don't worry about teammates going hundreds of metres away, they'll come back eventually because the mission calls them back at one point.&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;Medal of Honor (2010) for providing most of the inspiration for this mission</English>
+        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Esta misión está directamente basada en la primera misión de Medal of Honor (2010), pero con muchas cosas cambiadas, adaptadas o añadidas por mí. Es una misión totalmente ficticia que NO ocurrió en la vida real (al menos no como preludio a la Operación Anaconda), pero es la única misión ficticia de la campaña, y tres de los personajes del equipo son reales y formaron parte del equipo Juliet de los Delta. En la vida real, la primera operación de recolección de inteligencia fue llevada a cabo por el ODA 594 a mediados de enero de 2002, pero, como la siguiente misión de la campaña es muy parecida, he cambiado esta. En cuanto a la misión en sí, ya sabes cómo funciona la IA, no le gusta atravesar ciudades. Si el líder de tu equipo se queda atascado en una puerta, empújalo y seguirá avanzando. No te preocupes si tus compañeros de equipo se quedan cientos de metros atrás, acabarán volviendo porque la misión los llama en un momento dado.&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Medal of Honor (2010) por darme la mayor parte de la inspiración para esta misión</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingCommand_Text_1M1">
+        <English>A. Signal:&lt;br/&gt; Panther - LTC BLABER (TF Bowie CO)&lt;br/&gt; Juliet Actual (your team) - MSG KRIS</English>
+        <Spanish>A. Señal:&lt;br/&gt; Panther: Tte. Cnel. BLABER (oficial de la TF Bowie)&lt;br/&gt; Juliet Jefe (tu equipo): Sgto. Mtro. KRIS</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSustainment_Text_1M1">
+        <English>1. Supply: Traditional Afghan clothing to blend in with the local population, such as khetpartugs, turbans, pakols and araqchins, privately-bought chest rigs, and typical Tier 1 weapons, such as M4A1 carbines, MP5 SMGs, Mossberg shotguns, or AK-platform rifles.&lt;br/&gt;2. Transportation: Juliet Team will make use of two (2) Afghan-provided Toyota Hiluxes.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: None.</English>
+        <Spanish>1. Suministros: Ropa tradicional afgana para camuflarse entre la población local, como khetpartugs, turbantes, pakols y araqchins, portacargadores comprados y armas típicas de unidades de élite, como carabinas M4A1, metralletas MP5, escopetas Mossberg o fusiles AK.&lt;br/&gt;2. Transporte: El equipo Juliet empleará dos (2) Toyota Hilux proporcionados por los afganos.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Ninguno.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingExecution_Text_1M1">
+        <English>Juliet Team, led by Master Sergeants Kris and 'Canvas', will reach a &lt;marker name="marker_0">checkpoint&lt;/marker&gt; manned by friendly rebels allied with Abdul, a local man from Bamyan Province who contacted us claiming he has vital information about the whereabouts of the bulk of the Taliban in the mountains of Afghanistan. Once Abdul's rebels confirm us his &lt;marker name="marker_1">position&lt;/marker&gt; and that the town is clear of any enemy presence, we will drive into the town. Juliet will park near his position, locate the target rapidly, and extract him in one swift operation. Once the target has been secured, Juliet will inform AFO command, LTC Pete Blaber, and then drive to Bagram Airfield with the informant for interrogation.</English>
+        <Spanish>El equipo Juliet, dirigido por los sargentos maestros Kris y «Canvas», llegarán a un &lt;marker name="marker_0">puesto de control&lt;/marker&gt; vigilado por rebeldes aliados de Abdul, un hombre oriundo de la provincia de Bamiyán que se puso en contacto con nosotros afirmando tener información sobre el paradero del grueso de los talibanes en las montañas de Afganistán. Cuando los rebeldes de Abdul nos confirmen su &lt;marker name="marker_1">posición&lt;/marker&gt; y que en la ciudad no hay presencia enemiga, nos dirigiremos a la ciudad. Juliet aparcará cerca de su posición, localizará al objetivo y lo extraerá en una operación rápida. Cuando el objetivo haya sido asegurado, Juliet informará al mando de la AFO, el Tte. Cnel. Pete Blaber, y luego se dirigirá al aeropuerto de Bagram con el informante para interrogarlo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingMission_Text_1M1">
+        <English>Who: Juliet Team, 1st SFOD-D, Task Force Bowie (TF Bowie)&lt;br/&gt;What: EXTRACT informant Abdul&lt;br/&gt;Where: In vicinity, Bamyan Province&lt;br/&gt;When: 021500ZJAN14&lt;br/&gt;Why: Intel gathering on enemy positions</English>
+        <Spanish>Quién: Equipo Juliet, 1.er SFOD-D, Fuerza Operativa Bowie (TF Bowie)&lt;br/&gt;Qué: EXTRAER al informante Abdul&lt;br/&gt;Dónde: En las inmediaciones, provincia de Bamiyán&lt;br/&gt;Cuándo: 021500ZJAN14&lt;br/&gt;Por qué: Recolección de inteligencia sobre posiciones enemigas</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSituation_Text_1M1">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: None to be expected&lt;br/&gt;Activity: No movement, no radio chatter&lt;br/&gt;Location: Vicinity, Bamyan Province&lt;br/&gt;Unit: Taliban light infantry&lt;br/&gt;Time Observed: January 13-14, 2002&lt;br/&gt;Equipment: Small arms, RPG AT weapons, IEDs&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To extract Abdul, an informant who claims he has valuable intel on fortified enemy positions somewhere in the mountains of Afghanistan.&lt;br/&gt;2. Adjacent Units: Gray Fox operator Jason, embedded with Juliet Team.&lt;br/&gt;3. Supporting: CAS will not be available for this mission. Artillery support will not be available for this mission. CASEVAC will not be available for this mission.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: Nada que esperar&lt;br/&gt;Actividad: Nada de movimiento, nada de vibraciones de radio&lt;br/&gt;Ubicación: Inmediaciones, provincia de Bamiyán&lt;br/&gt;Unidades: Infantería ligera mixta talibán&lt;br/&gt;Fecha de observación: 13-14 de enero de 2002&lt;br/&gt;Equipo: armas ligeras, granadas antitanque RPG, IED&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Extraer a Abdul, un informante que afirma tener información valiosa sobre posiciones enemigas fortificadas en las montañas de Afganistán.&lt;br/&gt;2. Unidades adyacentes: Operator Gray Fox Jason, asignado con el equipo Juliet.&lt;br/&gt;3. Apoyo: No habrá apoyo aéreo cercano para esta misión. No habrá apoyo de artillería para esta misión. No habrá CASEVAC para esta misión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Briefing_Text_1M1">
+        <English>Travelling in two Afghan Toyota Hilux pickups and under the cover of night, 5-man Juliet Team will traverse the dunes of Bamyan in complete stealth until they reach friendly rebels allied with Abdul, our supposed informant. Once the rebels confirm Abdul's position and give them the go, Juliet will move into the town in their Hiluxes, extract Abdul, and leave for the dunes again without drawing any attention. The operation should not take more than 30 minutes in total.</English>
+        <Spanish>Viajando en dos camionetas afganas Toyota Hilux y al amparo de la noche, el equipo Juliet, compuesto por 5 hombres, atravesará las dunas de Bamiyán con total sigilo hasta llegar a los rebeldes aliados de Abdul, nuestro supuesto informante. Una vez que los rebeldes confirmen la posición de Abdul y les den el visto bueno, Juliet se trasladará a la ciudad en sus Hilux, extraerá a Abdul y se marchará de nuevo a las dunas sin llamar la atención. La operación no debería llevar más de 30 minutos en total.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_Description_1M1">
+        <English>Juliet Team has been tasked with moving to the rebel checkpoint just before the town. Driving stealthily through the desert, they will meet Abdul's men, who will inform them of the situation inside the town.</English>
+        <Spanish>Al equipo Juliet se le ha encomendado la tarea de desplazarse hasta el puesto de control rebelde situado justo antes de la ciudad. Conduciendo sigilosamente por el desierto, se encontrarán con los hombres de Abdul, que les informarán de la situación dentro de la ciudad.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_Title_1M1">
+        <English>Move to rebel checkpoint</English>
+        <Spanish>Ir al puesto de control rebelde</Spanish>
+        <Polish></Polish>
+		</Key>
+		<Key ID="STR_TIOG_obj2_Description_1M1">
+        <English>Once Abdul's location has been confirmed, Juliet will drive into the town, find him and extract him in one swift operation.</English>
+        <Spanish>Cuando la ubicación de Abdul haya sido confirmada, Juliet se dirigirá a la ciudad, lo encontrará y lo extraerá en una operación rápida.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_Title_1M1">
+        <English>Extract Abdul</English>
+        <Spanish>Extraer a Abdul</Spanish>
+        <Polish></Polish>
+		</Key>
+		<Key ID="STR_TIOG_obj3_Description_1M1">
+        <English>Abdul wasn't in his apartment, it was all a fucking setup! I somehow managed to get out of there just in time and not get blown up into little pieces, but we're at a stalemate now. Where the hell is Abdul? Is he even alive, is he here, did he set us up? Nevermind the case, we have to regroup and come up with a new plan.</English>
+        <Spanish>¡Abdul no estaba en su piso, era una puta trampa! He conseguido salir de ahí por los pelos y no volar en pedazos, pero ahora estamos estancados. ¿Dónde diablos está Abdul? ¿Está siquiera vivo, está aquí, nos la ha jugado? Da igual, tenemos que reagruparnos e idar un nuevo plan.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_Title_1M1">
+        <English>Regroup with the rest of the team</English>
+        <Spanish>Reagruparse con el resto del equipo</Spanish>
+        <Polish></Polish>
+		</Key>
+		<Key ID="STR_TIOG_obj4_Description_1M1">
+        <English>Looks like Abdul is still alive, after all. The CIA has identified a group of tangos and one unarmed man to our northeast. Must be Abdul. We're going to find and rescue him.</English>
+        <Spanish>Parece que Abdul está vivo al final. La CIA ha identificado un grupo de tangos y un hombre desarmado a nuestro noreste. Debe de ser Abdul. Vamos a encontrarlo y rescatarlo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj4_Title_1M1">
+        <English>Find and rescue Abdul</English>
+        <Spanish>Encontrar y rescatar a Abdul</Spanish>
+        <Polish></Polish>
+		</Key>
+		<Key ID="STR_TIOG_obj5_Description_1M1">
+        <English>With Abdul secure, we must now find a way out of here, since our pickups got wrecked in the town. Luckily for us, the Taliban has a few trucks that they used to transport Abdul here. We can use them too.</English>
+        <Spanish>Con Abdul asegurado, debemos encontrar la forma de salir, dado que nuestras camionetas han quedado destrozadas. Por suerte para nosotros, los talibanes tienen algunos camiones que usaron para traer aquí a Abdul. Nosotros también podemos usarlos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj5_Title_1M1">
+        <English>Board the truck</English>
+        <Spanish>Montarse en el camión</Spanish>
+        <Polish></Polish>
+		</Key>
+		<Key ID="STR_TIOG_obj6_Description_1M1">
+        <English>A Taliban pickup is following our exfil truck! If they find out where we are hiding, this operation will have been completely in vain! Kill the driver from the truck bed!</English>
+        <Spanish>¡Una camioneta talibán está siguiendo a nuestro camión de huida! ¡Si averiguan dónde nos escondemos, esta operación habrá sido totalmente en vano! ¡Mata al conductor desde la plataforma del camión!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj6_Title_1M1">
+        <English>Eliminate the pickup driver</English>
+        <Spanish>Eliminar al conductor de la camioneta</Spanish>
+        <Polish></Polish>
+		</Key>
+	  <Key ID="STR_TIOG_MissionTitle_1M1">
+        <English>Thinly-Veiled Threat</English>
+        <Spanish>Amenazada apenas velada</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Intro_1M1">
+        <English>Mission 1 Intro</English>
+        <Spanish>Misión 1: Intro</Spanish>
+        <Polish>Misja 1: Intro</Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Outro_1M1">
+        <English>Mission 1 Outro</English>
+        <Spanish>Misión 1: Outro</Spanish>
+        <Polish>Misja 1: Outro</Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionDescription_1M1">
+        <English>One month after Tora Bora, a 5-man Delta Force team infiltrates a Taliban-held town in Bamyan Province to locate Abdul, a local elder who claims he has valuable intel on fortified enemy positions in the Shah-i-Kot Valley.</English>
+        <Spanish>Un mes después de Tora Bora, un equipo de cinco hombres de la Fuerza Delta se infiltra en una ciudad controlada por los talibanes en la provincia de Bamiyán para localizar a Abdul, un anciano local que afirma tener valiosa información sobre posiciones enemigas fortificadas en el valle de Shah-i-Kot.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_text_1M1">
+        <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER I - Thinly-Veiled Threat&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'Fight the enemy, don't fight the plan. The second the first shot goes down range, things are going to change with the plan.'&lt;br/&gt;&lt;br/&gt;-LTG FRANK WIERCINSKI (Ret.)&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO I: Amenaza apenas velada&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«Lucha contra el enemigo, no contra el plan. En cuanto se efectúa el primer disparo, van a cambiar cosas del plan».&lt;br/&gt;&lt;br/&gt;—TTE. GRAL. FRANK WIERCINSKI (jub.)&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel1_1M1">
+        <English>SGT Jim 'Riddle' Lambert</English>
+        <Spanish>Sgto. Jim «Riddle» Lambert</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel2_1M1">
+        <English>Juliet Team, 1st SFOD-D</English>
+        <Spanish>Equipo Juliet, 1.er SFOD-D</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel3_1M1">
+        <English>Yakawlang, Bamyan Province</English>
+        <Spanish>Yakawlang, Bamiyán</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel4_1M1">
+        <English>January 14, 2002 - 0205</English>
+        <Spanish>14 enero 2002 - 0205</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message1_1M1">
+        <English>Christ, Riddle. Turn. That. Shit. Off.</English>
+        <Spanish>Por Dios, Riddle. Apaga. Esa. Mierda.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message2_1M1">
+        <English>The Northern Alliance was already flashy as hell with their jingle trucks and shit. I don't want that in my team.</English>
+        <Spanish>Bastante teníamos ya con la Alianza del Norte y sus camioncitos. No quiero algo así en mi equipo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message3_1M1">
+        <English>It's gonna get bumpy from here. You three good back there?</English>
+        <Spanish>Se vienen baches. ¿Vais bien los tres?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message4_1M1">
+        <English>Roger, we're good. Except for Riddle and his Greatest Hits of the Hindu Kush.</English>
+        <Spanish>Afirmativo, vamos bien. Excepto Riddle y sus «Mejores éxitos del Hindú Kush».</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message5_1M1">
+        <English>Eh, I'd take that over my kid's hip hop any day. They call anything music these days.</English>
+        <Spanish>Eh, lo prefiero mil veces antes que el hip hop de mi crío. Ya llaman a cualquier cosa música.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message6_1M1">
+        <English>For the record, I still think we should've taken the road. These dunes are giving me a headache.</English>
+        <Spanish>Para que conste, sigo pensando que deberíamos haber ido por la carretera. Estas dunas me están dando dolor de cabeza.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message7_1M1">
+        <English>Roads are dangerous, they are infested with IEDs and Taliban. This is our best bet.</English>
+        <Spanish>Las carreteras son peligrosas, están infestadas de IED y talibanes. Esta es nuestra mejor opción.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message8_1M1">
+        <English>Listen, you puke in my truck and you're finding your way back home on your own.</English>
+        <Spanish>Mira, como me potes el camión te vuelves a casa tú solo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message11_1M1">
+        <English>I see lights at our 12 o'clock, Abdul's guys must be there.</English>
+        <Spanish>Veo luces a las 12, los chicos de Abdul deben de estar allí</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message12_1M1">
+        <English>We've arrived. I'll do the talking.</English>
+        <Spanish>Hemos llegado. Dejadme hablar a mí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message13_1M1">
+        <English>Let's move. Truck 2, on our 6. We're heading into the town.</English>
+        <Spanish>En marcha. Camión 2, a nuestras 6. Nos dirigimos a la ciudad.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message14_1M1">
+        <English>Anything important we should know? What did that guy tell you?</English>
+        <Spanish>¿Algo importante que debamos saber? ¿Qué le ha dicho ese tipo?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message15_1M1">
+        <English>Oh, not much, just what Jason told us. No activity recorded, looks like the Taliban and AQ left this town last week. Abdul's inside his apartment, we're taking him and escorting him back to base. Eyes open.</English>
+        <Spanish>No mucho, lo que nos dijo Jason. No se ha registrado actividad, parece que los talibanes y AQ abandonaron esta ciudad la semana pasada. Abdul está dentro de su apartamento, lo cogemos y lo escoltamos de vuelta a la base. Ojos abiertos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message16_1M1">
+        <English>What the hell? Roadblock up ahead... I wasn't expecting this.</English>
+        <Spanish>¿Qué coño? Barricada delante... Esto sí que no me lo esperaba.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message17_1M1">
+        <English>Holy fucking Christ!</English>
+        <Spanish>¡Me cago en la hostia puta!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message17_2_1M1">
+        <English>Back up, back up!</English>
+        <Spanish>¡Marcha atrás, marcha atrás!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message17_3_1M1">
+        <English>Out of the truck, end these assholes!</English>
+        <Spanish>¡Fuera del camión, acabad con estos capullos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message18_1M1">
+        <English>Canvas, you guys alright?! That fucking IED just wrecked our Hilux! Respond, over!</English>
+        <Spanish>¿Canvas, estáis bien? ¡Ese puto IED nos ha destrozado el Hilux! ¡Responded, cambio!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message19_1M1">
+        <English>We're alive for now, but our wheels are busted and we're taking fire on the left side of the town! Where the fuck are you?!</English>
+        <Spanish>¡Por ahora estamos vivos, pero tenemos las ruedas pinchadas y nos disparan en el lado izquierdo de la ciudad! ¿Dónde coño estáis?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message20_1M1">
+        <English>Right side of town, we crashed into a building! Get to the apartment, we'll fight our way there!</English>
+        <Spanish>¡Lado derecho, nos hemos estrellado con un edificio! ¡Id al apartamento, nos abriremos paso hasta allí!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message21_1M1">
+        <English>Wilco, sir! Out!</English>
+        <Spanish>¡Recibido, señor! ¡Corto!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message22_1M1">
+        <English>Kris, apartment in sight. We're moving in.</English>
+        <Spanish>Kris, apartamento a la vista. Avanzamos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message23_1M1">
+        <English>Roger, proceed with caution. We're still making our way there.</English>
+        <Spanish>Recibido, proceded con precaución. Aún estamos de camino.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message24_1M1">
+        <English>Alright, fellas: Quartz, you're with me. We're clearing the ground floor. Riddle, go upstairs. Find anything, report about it. Copy?</English>
+        <Spanish>Vale, muchachos: Quartz, conmigo. Vamos a despejar la planta baja. Riddle, sube arriba. Si encuentras algo, informa. ¿Recibido?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message25_1M1">
+        <English>On it.</English>
+        <Spanish>Voy.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message23_2_1M1">
+        <English>Room clear.</English>
+        <Spanish>Habitación despejada.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message24_2_1M1">
+        <English>Um, Canvas? I've got a dead body on the top floor, looks like our guy. I figure the Talibs killed him and were waiting for us when he flipped. I'm gonna get a close-up of him.</English>
+        <Spanish>Eh, ¿Canvas? Tengo un cadáver en la planta superior, parece nuestro hombre. Imagino que los talis lo mataron y nos estaban esperando cuando cambió de bando. Voy a verlo más de cerca.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message25_2_1M1">
+        <English>Wait a second, Abdul doesn't look like- fuck, they strapped a bomb to him! Get the fuck out of the apartment, now!</English>
+        <Spanish>Un momento, Abdul no es... ¡Joder, le han colocado una bomba! ¡A tomar por culo del apartamento, ya!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message26_1M1">
+        <English>Jesus, that was too damn close. You good?</English>
+        <Spanish>La virgen, poco ha faltado. ¿Estás bien?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message27_1M1">
+        <English>Yeah, I'm dandy. But Abdul's got some fucking explaining to do.</English>
+        <Spanish>Sí, cojonudo. Pero el puto Abdul tiene que dar explicaciones.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message28_1M1">
+        <English>Juliet Actual, this is Canvas. The apartment was booby-trapped, Abdul was not there, I repeat, he was not there. Where are you?</English>
+        <Spanish>Juliet Jefe, aquí Canvas. El apartamento tenía una trampa, Abdul no estaba allí, repito, no estaba allí. ¿Dónde estáis?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message29_1M1">
+        <English>Wait one, we're almost there. We'll regroup and figure something out.</English>
+        <Spanish>Esperad, ya casi estamos allí. Nos reagruparemos y se nos ocurrirá algo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message30_1M1">
+        <English>Glad to see you still in one piece.</English>
+        <Spanish>Me alegro de veros enteros.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message31_1M1">
+        <English>Likewise. What do we do now? Check out how the fuckers left the apartment.</English>
+        <Spanish>Lo mismo digo. Y ¿ahora qué? Mira cómo han dejado los cabrones el apartamento.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message32_1M1">
+        <English>Panther, this is Juliet Actual. Be advised, we are at the location and there is no Abdul. Say again, no Abdul. Over.</English>
+        <Spanish>Panther, aquí Juliet Jefe. Atención, estamos en la ubicación y Abdul no está. Repito, Abdul no está. Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message33_1M1">
+        <English>Juliet Actual, you're in luck. The CIA Predator has spotted a dozen dismounts to your northeast, and one unarmed tango. Could be your guy. Over.</English>
+        <Spanish>Juliet Jefe, están de suerte. El Predator de la CIA ha avistado una docena de tropas a su noreste y un tango desarmado. Podría ser su hombre. Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message34_1M1">
+        <English>Solid copy, we're on our way. Out. Let's hustle, gents!</English>
+        <Spanish>Recibido, vamos para allá. Corto. ¡Daos prisa, señores!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message35_1M1">
+        <English>What a holiday season we're having.</English>
+        <Spanish>Menudas navidades.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message36_1M1">
+        <English>Sniper on the minaret, go from cover to cover! If they're holding Abdul anywhere, it's in the mosque!</English>
+        <Spanish>¡Francotirador en el minarete, id de cobertura en cobertura! ¡Si están reteniendo a Abdul en alguna parte, es en la mezquita!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message37_1M1">
+        <English>Clear! Riddle, into the building, go! We'll hold the perimeter. And watch your fire, we need him alive!</English>
+        <Spanish>¡Despejado! ¡Riddle, al edificio, va! Nosotros defendemos el perímetro. ¡Y mira dónde disparas, lo necesitamos con vida!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message38_1M1">
+        <English>Sir, listen, we're US special operators. We're taking you to a safe place so we can chat more calmly. Follow me and keep your head low.</English>
+        <Spanish>Señor, escuche, somos operadores especiales de los EE. UU. Vamos a llevarlo a un lugar seguro para poder charlar más tranquilamente. Sígame y agache la cabeza.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message39_1M1">
+        <English>We got him!</English>
+        <Spanish>¡Lo tenemos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message40_1M1">
+        <English>Good, time to scram. I saw a truck we could use, in a graveyard next to here.</English>
+        <Spanish>Bien, hora de largarnos. He visto un camión que podemos usar, en un desguace aquí al lado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message41_1M1">
+        <English>Pickup on our tail! Kill the fucking driver so they don't find our base!</English>
+        <Spanish>¡Una camioneta nos pisa los talones! ¡Matad al puto conductor para que no encuentren nuestra base!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message41_2_1M1">
+        <English>I'm taking a shortcut through the valley, hold tight! Let's see if we can lose them through the dunes!</English>
+        <Spanish>¡Voy a atajar por el valle, agarraos! ¡A ver si los perdemos en las dunas!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message41_3_1M1">
+        <English>Great shot, Riddle! That's one less nuisance! Let's enjoy the ride now, hopefully...</English>
+        <Spanish>¡Buen disparo, Riddle! ¡Una molestia menos! Difrutemos del viaje, esperemos...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message42_1M1">
+        <English>The cunts crashed into a rock! Floor it, we can leave 'em behind!</English>
+        <Spanish>¡Los gilipollas se han estrellado contra una roca! ¡Písale, podemos dejarlos ahí tirados!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message43_1M1">
+        <English>Abdul is down, abort mission!</English>
+        <Spanish>¡Abdul ha caído, abortamos misión!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message44_1M1">
+        <English>Panther, this is Juliet Actual. The HVT is with us and we're safe. Heading back to our staging area. How copy, over?</English>
+        <Spanish>Panther, aquí Juliet Jefe. El objetivo está con nosotros y estamos a salvo. Volvemos a la zona de planificación. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message45_1M1">
+        <English>Solid copy, Juliet. We'll open the champagne once you get here. Out.</English>
+        <Spanish>Recibido, Juliet. Abriremos el champán cuando lleguen aquí. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message46_1M1">
+        <English>Alright, we're clear.</English>
+        <Spanish>Vale, todo limpio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message47_1M1">
+        <English>Okay you asshole, just what the fuck was that back there?</English>
+        <Spanish>A ver, gilipollas, ¿qué coño ha sido eso de antes?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message48_1M1">
+        <English>This is the Taliban. They have spies everywhere. They took everything and left only hurt.</English>
+        <Spanish>Son los talibanes. Tienen espías en todas partes. Se lo llevaron todo y solo dejaron dolor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message49_1M1">
+        <English>Please... You have to find them. Find them and kill them all.</English>
+        <Spanish>Por favor... Tienen que encontrarlos. Encontrarlos y matarlos a todos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message50_1M1">
+        <English>Bullshit. Why should we trust him? For all we know he set us up.</English>
+        <Spanish>Los cojones. ¿Por qué deberíamos fiarnos? Que nosotros sepamos, nos ha tendido una trampa.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message51_1M1">
+        <English>Well, he... was tied up when I found him. Why would he tie himself up for a charade?</English>
+        <Spanish>Bueno, estaba... maniatado cuando lo encontré. ¿Por qué iba a atarse para una farsa?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message52_1M1">
+        <English>I don't know... Why should we trust you?</English>
+        <Spanish>No sé... ¿Por qué deberíamos confiar en usted?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message53_1M1">
+        <English>Please... I have a daughter. I want her to go to school, to have a life... Do you not understand?</English>
+        <Spanish>Por favor... Tengo una hija. Quiero que vaya al colegio, que tenga una vida... ¿Es que no lo entienden?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message54_1M1">
+        <English>Okay okay, I understand. We're taking you to Bagram tomorrow morning so we can have a chat with Blaber.</English>
+        <Spanish>Vale, vale, lo entiendo. Mañana por la mañana lo llevaremos a Bagram para poder charlar con Blaber.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message55_1M1">
+        <English>Canvas, Quartz, watch him. We don't want him running away.</English>
+        <Spanish>Canvas, Quartz, vigiladlo. No queremos que huya.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message56_1M1">
+        <English>So Tora Bora wasn't enough for them? We overthrow them, wipe them out, almost kill their leader, and they come back for more?</English>
+        <Spanish>O sea que ¿con Tora Bora no tuvieron bastante? Los derrocamos, los aniquilamos, casi matamos a su líder, y ¿vuelven a por más?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message57_1M1">
+        <English>That is what we're suspecting. We have been recently getting a lot of radio traffic from the eastern parts of the country, maybe Pakistan. But we can't invade Pakistan because the entire world would be on top of us.</English>
+        <Spanish>Eso sospechamos. Hemos estado captando mucho tráfico de radio desde las zonas orientales del país, quizá Pakistán. Pero no podemos invadir Pakistán porque el mundo entero se nos echaría encima.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message58_1M1">
+        <English>Yeah, no shit. And you really think this Abdul guy, some random farmer from rural Afghanistan, is the key to finding them?</English>
+        <Spanish>Ni lo jures. Y ¿de verdad piensas que este tal Abdul, un agricultor cualquiera del Afganistán rural, es la clave para encontrarlos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message59_1M1">
+        <English>Too late to back off now, ain't it, Sergeant? I'll tell you one thing: village folks know a lot more about the Taliban than we do.</English>
+        <Spanish>Ya es tarde para echarse atrás, ¿no, sargento? Una cosa te digo: los pueblerinos saben mucho más sobre los talibanes que nosotros.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message60_1M1">
+        <English>Sir, we've got eyes on them. Patching you in to the Predator feed.</English>
+        <Spanish>Señor, los vemos. Lo conecto con la señal del Predator.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerMeet_1M1">
+        <English>Rebel checkpoint</English>
+        <Spanish>Puesto de control rebelde</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerAbdul_1M1">
+        <English>Abdul?</English>
+        <Spanish>¿Abdul?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Abdul_dialogue_1M1">
+        <English>ABDUL</English>
+        <Spanish>ABDUL</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_CIA_dialogue_1M1">
+        <English>CIA OPERATOR</English>
+        <Spanish>OPERADOR DE LA CIA</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_inspect_action_1M1">
+        <English>inspect body</English>
+        <Spanish>inspeccionar el cuerpo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_rescue_action_1M1">
+        <English>free Abdul</English>
+        <Spanish>liberar a Abdul</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_inspect_hint_1M1">
+        <English>To inspect the dead body, get up close and scroll through the action menu until you see the pertinent action.</English>
+        <Spanish>Para inspeccionar el cadáver, acércate y desplázate por el menú de acciones hasta que veas la acción pertinente.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_end1_subtitle_1M1">
+        <English>Abdul has been extracted</English>
+        <Spanish>Abdul ha sido extraído</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_end1_description_1M1">
+        <English>We don't even know how we managed to get out of there alive, but we did, and not just ourselves, but Abdul too. We have no idea who's responsible for this ambush, but not everyone can say they've gone through an IED, a booby-trapped body and a vehicular chase through the desert in less than an hour. Let's hope Abdul does have some valuable information that'll make this odyssey worth it...</English>
+        <Spanish>No sabemos cómo hemos conseguido salir de ahí con vida, pero lo hemos hecho, y no solo nosotros, sino Abdul también. No tenemos ni idea de quién es responsable de esta emboscada, pero no todos pueden decir que han sobrevivido a un IED, un cuerpo minado y una persecución vehicular por el desierto en menos de una hora. Esperemos que Abdul tenga información que haga que esta odisea haya valido la pena...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lost_subtitle_1M1">
+        <English>Abdul has died</English>
+        <Spanish>Abdul ha muerto</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lost_description_1M1">
+        <English>Our informant has died! How do you expect us to know where the Taliban and their Arab allies are hiding without his information?</English>
+        <Spanish>¡Nuestro informante ha muerto! ¿Cómo esperas saber dónde se esconden los talibanes y sus aliados árabes sin su información?</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

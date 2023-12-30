@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="OperationAnaconda">
+  <Package name="OperationAnaconda_1M9">
+    <Container name="STR_DN">
+	  <Key ID="STR_TIOG_BriefingCommand_Text_1M9">
+        <English>A. Signal:&lt;br/&gt; Mountain - MG HAGENBECK (CJTF Mountain CO)&lt;br/&gt; Rak 6 - COL WIERCISNKI (TF Rakkasan CO)&lt;br/&gt; Panther - LTC BLABER (TF Bowie CO)&lt;br/&gt; TF 11 - BG TREBON (TF 11 CO)&lt;br/&gt; Mako 21 - LtCol HYDER&lt;br/&gt; Mako 30 - SCPO SLABINSKI&lt;br/&gt; Chalk 1 - CPT SELF&lt;br/&gt; Chalk 2 (your team) - SSG CANON&lt;br/&gt; Razor 01 - CW3 CALVERT&lt;br/&gt; Razor 02 - MH-47&lt;br/&gt; Nail 25 - AC-130 Overwatch&lt;br/&gt; Toolbox 29 - P-3C Overwatch&lt;br/&gt; Shooter 43 - F-14 Support&lt;br/&gt; Wildcat 13 - F/A-18 Support&lt;br/&gt; Mirage 22 - French Mirage Support</English>
+        <Spanish>A. Señal:&lt;br/&gt; Mountain: May. Gral. HAGENBECK (oficial del la CJTF Mountain)&lt;br/&gt; Rak 6: Cnel. WIERCINSKI (oficial de la TF Rakkasan)&lt;br/&gt; Panther: Tte. Cnel. BLABER (oficial de la TF Bowie)&lt;br/&gt; TF 11: Gral. Brig. Trebon&lt;br/&gt; Mako 21: Tte. Cnel. HYDER&lt;br/&gt; Mako 30: SCPO SLABINSKI&lt;br/&gt; Grupo 1: Cap. SELF&lt;br/&gt; Grupo 2 (tu equipo): Sgto. 1.º CANON&lt;br/&gt; Razor 01: CW3 CALVERT&lt;br/&gt; Razor 02: MH-47&lt;br/&gt; Nail 25: AC-130&lt;br/&gt; Toolbox 29: Vigilancia de P-3C&lt;br/&gt; Shooter 43: Apoyo de F-14&lt;br/&gt; Wildcat 13: Apoyo de F/A-18&lt;br/&gt; Mirage 22: Apoyo de Mirage francés</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSustainment_Text_1M9">
+        <English>1. Supply: Standard US raid-cut BDUs, SPEAR BALCS vests, MICH helmets, standard issue US Army Ranger small arms including M4A1 carbines, M249 and M240B machine guns, and M9 pistols.&lt;br/&gt;2. Transportation: None.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Chalk 2 has 1x embedded medical Sergeant, in the event of a mission failure due to substantial casualties, Chalk 1 will authorize CASEVAC and insertion by Razor 06.</English>
+        <Spanish>1. Suministros: Uniformes estándar de combate de fuerzas especiales en camuflaje desierto, chalecos SPEAR BALCS, cascos MICH 2001, armas reglamentarias de EE. UU. como carabinas M4A1, ametralladoras M249 y M240, y pistolas M9.&lt;br/&gt;2. Transporte: Ninguno.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: El grupo 2 tiene 1x sargento médico asignado. En caso de fracaso debido a una cantidad considerable de bajas, el grupo 1 autorizará CASEVAC y la inserción de Razor 06.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingExecution_Text_1M9">
+        <English>After being withdrawn to Bagram, Ranger Chalk 2 has been deployed to Takur Ghar. They will link up with Chalk 1 on &lt;marker name="marker_47">Takur Ghar&lt;/marker&gt;, where they have been holding and returning fire for at least 4 hours now. Once all Ranger forces are consolidated, they will assault the peak in force and clear it of any and all enemy forces. Once that's been accomplished, the Rangers will hold position on the peak and await exfil, linking up with Mako 30 in the process if possible.</English>
+        <Spanish>Tras ser retirados a Bagram, el grupo Ranger 2 ha sido desplegado en Takur Ghar. Se unirán al grupo 1 en &lt;marker name="marker_47">Takur Ghar&lt;/marker&gt;, donde han estado aguantando y devolviendo el fuego durante al menos 4 horas. Una vez que todas las fuerzas Ranger estén consolidadas, asaltarán la cima en tropel y la despejarán de todas y cada una de las fuerzas enemigas. Una vez logrado esto, los Rangers mantendrán su posición en la cima y esperarán la salida, enlazando con Mako 30 en el proceso si es posible.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingMission_Text_1M9">
+        <English>Who: 1st Platoon, A Company, 1st Battalion, 75th Ranger Regiment, Task Force 11 (TF 11)&lt;br/&gt;What: SEIZE Takur Ghar&lt;br/&gt;Where: In vicinity, Shah-i-Kot Valley&lt;br/&gt;When: 102000ZMAR04&lt;br/&gt;Why: Support of Operation Anaconda</English>
+        <Spanish>Quién: 1.er Pelotón, Compañía A, 1.er Batallón, 75.º Regimiento Ranger, Fuerza Operativa 11 (TF 11)&lt;br/&gt;Qué: TOMAR Takur Ghar&lt;br/&gt;Dónde: En las inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Cuándo: 102000ZMAR04&lt;br/&gt;Por qué: Apoyo a la Operación Anaconda</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSituation_Text_1M9">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: 100-300 expected fighters&lt;br/&gt;Activity: Heavy movement, moderate radio chatter&lt;br/&gt;Location: Vicinity, Shah-i-Kot Valley&lt;br/&gt;Unit: Uzbek light infantry with anti-aircraft guns and mortars, supported by Arab and Chechen fighters&lt;br/&gt;Time Observed: March 4, 2002&lt;br/&gt;Equipment: Small arms, mortars, RPGs&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To seize Takur Ghar and destroy all enemy forces posted there.&lt;br/&gt;2. Adjacent Units: CPT Self's Chalk 1, attached USAF ETAC TSgt Kevin Vance, attached USAF pararescue jumpmen SrA Jason Cunningham and TSgt Keary Miller.&lt;br/&gt;3. Supporting: One AC-130 (callsign: Nail 25), one F-14 (callsign: Shooter 43), one F-A/18 (callsign: Wildcat 13), one Mirage 2000D (callsign: Mirage 22), and one CIA Predator will provide overwatch and potential fire support. Artillery support will not be available for this mission. CASEVAC will be available by request of CPT Nate Self.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: 500-1000 combatientes esperados&lt;br/&gt;Actividad: Movimiento intenso, vibraciones de radio moderadas&lt;br/&gt;Ubicación: Inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Unidades: Infantería ligera uzbeka con cañones antiaéreos y morteros, apoyada por combatientes árabes y chechenos&lt;br/&gt;Fecha de observación: 2 de marzo de 2002&lt;br/&gt;Equipo: armas ligeras, morteros, granadas RPG&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Tomar Takur Ghar y destruir a todas las fuerzas enemigas allí apostadas.&lt;br/&gt;2. Unidades adyacentes: Grupo 1 del Cap. Self, el Sgto. Kevin Vance, ETAC asignado de la Fuerza Aérea, Avdor. May. Jason Cunningham y Sgto. Téc. Keary Miller, pararrescatadores asignados de la Fuerza Aérea.&lt;br/&gt;3. Apoyo: Un AC-130 (indicativo: Nail 25), un F-14 (indicativo: Shooter 43), un F-A/18 (indicativo: Wildcat 13), un Mirage 2000D (indicativo: Mirage 22) y un Predator de la CIA proporcionarán supervisión y posible fuego de apoyo. No habrá apoyo de artillería para esta misión. La CASEVAC solo estará autorizada cuando la solicite el Cap. Nate Self.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Briefing_Text_1M9">
+        <English>Captain Self's Chalk 1 has been holding the peak of &lt;marker name="marker_47">Takur Ghar&lt;/marker&gt; since early morning, when their Chinook was unfortunately shot down. Meanwhile, our chalk was pulled back to Bagram to avoid further casualties. Four hours later, we have landed on Takur Ghar and we're making our way to Chalk 1. Once we consolidate all our forces, we will assault the peak in force, link up with Mako 30, and extract before we take any more casualties.</English>
+        <Spanish>El grupo 1 del capitán Self ha estado manteniendo posición en la cima de &lt;marker name="marker_47">Takur Ghar&lt;/marker&gt; desde primera hora de la mañana, cuando su Chinook fue desgraciadamente derribado. Mientras tanto, nuestro grupo fue retirado a Bagram para evitar más bajas. Cuatro horas más tarde, hemos aterrizado en Takur Ghar y nos dirigimos al grupo 1. Una vez que consolidemos todas nuestras fuerzas, asaltaremos el pico en tropel, enlazaremos con Mako 30 y saldremos antes de sufrir más bajas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_Description_1M9">
+        <English>CPT Nate Self's Chalk 1 is holding on to dear life on the peak of Takur Ghar since early morning while we had to retreat back to Bagram. We have just landed and are heading to their position to support them and, hopefully, take the mountain from the assholes that have taken so many lives.</English>
+        <Spanish>El grupo 1 del Cap. Nate Self está aguantando a duras penas en la cima de Takur Ghar desde primera hora de la mañana mientras nosotros tuvimos que retirarnos de vuelta a Bagram. Acabamos de aterrizar y nos dirigimos a su posición para apoyarlos y, con suerte, arrebatar la montaña a los imbéciles que se han cobrado tantas vidas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_Title_1M9">
+        <English>Link up with Chalk 1</English>
+        <Spanish>Enlazar con el grupo 1</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_Description_1M9">
+        <English>Now that all Ranger units are united, it's time to launch a decisive assault on the peak of Takur Ghar. The air support has heavily softened enemy positions, it is our turn to finally clear them once and for all.</English>
+        <Spanish>Ahora que todas las unidades Ranger están unidas, es hora de lanzar un asalto decisivo contra la cima de Takur Ghar. El apoyo aéreo ha debilitado las posiciones enemigas, nos toca a nosotros despejarlas de una vez por todas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_Title_1M9">
+        <English>Seize Takur Ghar</English>
+        <Spanish>Tomar Takur Ghar</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_1_Description_1M9">
+        <English>The Arabs and Uzbeks have truly turned this mountain into a stronghold by digging a rudimentary trench system and building at least two bunkers on the peak. We need to clear that defensive redoubt.</English>
+        <Spanish>Los árabes y los uzbekos han convertido esta montaña en una fortaleza cavando un rudimentario sistema de trincheras y erigiendo al menos dos búnkeres en la cima. Tenemos que despejar ese reducto defensivo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_1_Title_1M9">
+        <English>Clear the trench network</English>
+        <Spanish>Despejar la red de trincheras</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_2_Description_1M9">
+        <English>We have discovered a cave and a small camp on the other side of the mountain. It's likely that most enemy reinforcements are coming from there. It needs to be gone. We can use their own weapons against them, since we haven't brought any explosives or AT launchers.</English>
+        <Spanish>Hemos descubierto una cueva y un pequeño campamento al otro lado de la montaña. Es probable que los refuerzos enemigos vengan de allí. Tiene que desaparecer. Podemos usar sus propias armas contra ellos, dado que no hemos traído explosivos ni lanzadores AT.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_2_Title_1M9">
+        <English>Destroy the cave</English>
+        <Spanish>Destruir la cueva</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_Description_1M9">
+        <English>After several straneous hours returning fire and holding on to dear life, the Rangers have finally taken Takur Ghar and destroyed the enemy stronghold. Report to Captain Self so he can assign you new orders.</English>
+        <Spanish>Tras varias extenuantes horas devolviendo los disparos y aguantando a duras penas, los Rangers han tomado por fin Takur Ghar y han destruido el bastión enemigo. Preséntate ante el capitán Self para que pueda asignarte nuevas órdenes.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_Title_1M9">
+        <English>Report to Self</English>
+        <Spanish>Presentarse ante Self</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj4_Description_1M9">
+        <English>We are going to set up a casualty collection point (CCP) on the top of the mountain. The two Air Force PJs have been mostly responsable to tending to the wounded, so we'll have to ask them if they need any help carrying the wounded to the CCP.</English>
+        <Spanish>Vamos a montar un punto de recogida de bajas (PRB) en la cima de la montaña. Los dos pararrescatadores de la Fuerza Aérea se han encargado sobre todo de atender a los heridos, así que tendremos que preguntarles si necesitan ayuda para llevar a los heridos al PRB.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj4_Title_1M9">
+        <English>Talk to the PJs</English>
+        <Spanish>Hablar con los pararrescatadores</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj4_1_Description_1M9">
+        <English>The peak is ours, but all the wounded are still in or near the Chinook. Help the PJs take the wounded to the top of the mountain, where we have established a CCP.</English>
+        <Spanish>La cima es nuestra, pero todos los heridos siguen dentro o cerca del Chinook. Ayuda a los pararrescatadores a llevar a los heridos a la cima de la montaña, donde hemos establecido un PRB.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj4_1_Title_1M9">
+        <English>Carry the wounded to the CCP</English>
+        <Spanish>Llevar a los heridos al PRB</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj6_Description_1M9">
+        <English>The Arabs and Uzbeks are counter-attacking from our rear! We're taking machine gun fire and their ground forces are advancing through their cave system! We need to defend the CCP and our wounded no matter what!</English>
+        <Spanish>¡Los árabes y los uzbekos están contraatacando desde nuestra retaguardia! ¡Estamos recibiendo fuego de ametralladora y sus fuerzas terrestres avanzan a través de su sistema de cuevas! ¡Tenemos que defender el PRB y a nuestros heridos como sea!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj6_Title_1M9">
+        <English>Defend the CCP</English>
+        <Spanish>Defender el PRB</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj7_Description_1M9">
+        <English>The extraction is coming! An AC-130, callsign Nail 25, has arrived to cover our exfil, but they need to know our exact position so they don't fire on us. Throw an IR strobe on the peak to mark your position.</English>
+        <Spanish>¡La extracción va de camino! Un AC-130, indicativo Nail 25, ha llegado para cubrir nuestra salida, pero necesitan saber nuestra posición exacta para que no nos disparen. Lanza una baliza IR en la cima para marcar tu posición.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj7_Title_1M9">
+        <English>Throw an IR strobe</English>
+        <Spanish>Lanzar una baliza IR</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj8_Description_1M9">
+        <English>The Ranger QRF is bound to be extracted via Chinook. They have thrown an IR strobe on the peak so we can pinpoint their position. Find it.</English>
+        <Spanish>La FRR Ranger está a punto de ser extraída vía Chinook. Han lanzado una baliza IR en la cima para que podamos ubicar su posición. Encuéntrala.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj8_Title_1M9">
+        <English>Locate the Rangers</English>
+        <Spanish>Localizar a los Rangers</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj9_Description_1M9">
+        <English>Cover the Rangers' extraction by destroying any enemy positions and strongholds around the peak of Takur Ghar. We can't risk them assaulting the mountain right now, so let's take some preemptive action.</English>
+        <Spanish>Cubre la extracción de los Rangers destruyendo cualquier posición o bastión enemigo alrededor de la cima de Takur Ghar. No podemos arriesgarnos a que ataquen la montaña ahora mismo, así que tomemos medidas preventivas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj9_Title_1M9">
+        <English>Destroy enemy positions</English>
+        <Spanish>Destruir las posiciones enemigas</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj9_2_Description_1M9">
+        <English>The crew has spotted a pair of trucks leaving Daraz Gerd, one of them armed. Destroy them before they can reach a firing position and hit Takur Ghar.</English>
+        <Spanish>La tripulación ha visto un par de camiones saliendo de Daraz Gerd, uno de ellos armado. Destrúyelos antes de que puedan llegar a una posición de disparo y atacar Takur Ghar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj9_2_Title_1M9">
+        <English>Destroy the enemy trucks</English>
+        <Spanish>Destruir los camiones enemigos</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj10_Description_1M9">
+        <English>The exfil Chinooks are arriving to extract the Rangers and Mako 30 from the peak of Takur Ghar. Make sure they arrive safely.</English>
+        <Spanish>Los Chinooks de extracción están llegando para extraer a los Rangers y Mako 30 de la cima de Takur Ghar. Asegúrate de que lleguen a salvo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj10_Title_1M9">
+        <English>Cover the Chinooks</English>
+        <Spanish>Cubrir a los Chinooks</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj11_Description_1M9">
+        <English>With all friendly units out of the mountain, we have to make sure the enemy can't take advantage of any technological utilities inside the downed Chinook. Destroy the wreck. You may destroy it using the AC-130 or lazing it for the Predator drone.</English>
+        <Spanish>Con todas las unidades amigas fuera de la montaña, tenemos que asegurarnos de que el enemigo no pueda aprovechar ninguna utilidad tecnológica del Chinook derribado. Destruye los restos. Puedes destruirlos usando el AC-130 o dejándoselos al dron Predator.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj11_Title_1M9">
+        <English>Destroy the downed Chinook</English>
+        <Spanish>Destruir el Chinook derribado</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_MissionTitle_1M9">
+        <English>Getting Off the Mountain</English>
+        <Spanish>Bajar de la montaña</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Intro_1M9">
+        <English>Mission 9 Intro</English>
+        <Spanish>Misión 9: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Outro_1M9">
+        <English>Mission 9 Outro</English>
+        <Spanish>Misión 9: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionDescription_1M9">
+        <English>With another Chinook downed and four more US servicemen KIA, this is now a battle for survival. It's us or them, do or die. Ranger Chalk 2 regroups with Chalk 1 to prepare a decisive assault on the peak's bunker and trench complex.</English>
+        <Spanish>Con otro Chinook derribado y otros cuatro militares estadounidenses muertos en combate, esto es ahora una batalla por la supervivencia. Somos nosotros o ellos, vivir o morir. El grupo Ranger 2 se reagrupa con el grupo 1 para preparar un asalto decisivo al complejo de búnkeres y trincheras de la cima.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_text_1M9">
+        <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER IX - Getting Off the Mountain&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'I didn’t want him to come up. They’re Navy. They do things differently. We knew that from working with them previously.'&lt;br/&gt;&lt;br/&gt;-CPT NATE SELF (RET.)&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO IX: Bajar de la montaña&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«No quería que viniese. Son de la Armada. Hacen las cosas de otra forma. Lo sabíamos de haber trabajado con ellos antes».&lt;br/&gt;&lt;br/&gt;—CAP. NATE SELF (JUB.)&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel1_1M9">
+        <English>SSG Harper Wilmoth</English>
+        <Spanish>Sgto. 1.º Harper Wilmoth</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel2_1M9">
+        <English>1st Bn., 75th Ranger Regt.</English>
+        <Spanish>1.er Bat., 75.º Reg. Ranger</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel3_1M9">
+        <English>Takur Ghar</English>
+        <Spanish>Takur Ghar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel4_1M9">
+        <English>March 4, 2002 - 1020</English>
+        <Spanish>4 marzo 2002 - 1020</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message1_1M9">
+        <English>Let's go, don't stop moving! They haven't quite bracketed on us yet, stay away from those shells!</English>
+        <Spanish>¡Vamos, no se detengan! ¡Aún no nos han calibrado del todo, aléjense de esos proyectiles!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message2_1M9">
+        <English>There's Chalk 1! We're almost there! Push!</English>
+        <Spanish>¡Ahí está el grupo 1! ¡Ya casi estamos! ¡Sigan!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message3_1M9">
+        <English>Hey, Rangers to your rear! What's the situation?</English>
+        <Spanish>¡Eh, Rangers a su espalda! ¿Cuál es la situación?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message4_1M9">
+        <English>Am I glad to see you! We've been holding here since early morning, I think it's high time we kick these fuckers off the mountain!</English>
+        <Spanish>¡Cómo me alegro de verlos! ¡Llevamos aquí desde primera hora de la mañana, creo que va siendo hora de echar a estos cabrones de la montaña!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message5_1M9">
+        <English>Couldn't agree more, Cap! What are your orders?</English>
+        <Spanish>¡No puedo estar más de acuerdo, capi! ¿Cuáles son sus órdenes?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message6_1M9">
+        <English>Tell your MG team to set up next to my 240 on the right! As soon as I give the order, we push!</English>
+        <Spanish>¡Dígale a su equipo de ametralladora que se coloque al lado de mi 240 a la derecha! ¡En cuanto dé la orden, avanzamos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message7_1M9">
+        <English>Hooah! Pazder, Vela, provide supporting fire! Wilmoth, get your fire team ready! Wait for the order!</English>
+        <Spanish>¡Hooah! ¡Pazder, Vela, fuego de cobertura! ¡Wilmoth, prepare a su escuadrón! ¡Esperen la orden!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message8_1M9">
+        <English>'Kay! One, two, three-- move, move, move!</English>
+        <Spanish>¡Vale! Uno, dos, tres... ¡Vamos, vamos, vamos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message9_1M9">
+        <English>Wilmoth, clear the trenches and the bunkers! Keep your grenades at hand, you're gonna need 'em!</English>
+        <Spanish>¡Wilmoth, despeje las trincheras y los búnkeres! ¡Tenga las granadas a mano, las va a necesitar!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message10_1M9">
+        <English>Hooah!</English>
+        <Spanish>¡Hooah!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message11_1M9">
+        <English>Captain, we got a situation! There's a dead American inside the first bunker, and it's not Roberts! He's Air Force!</English>
+        <Spanish>¡Capitán, tenemos un problema! ¡Hay un estadounidense muerto dentro del primer búnker, y no es Roberts! ¡Es de la Fuerza Aérea!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message12_1M9">
+        <English>The fuck?! Is he Mako? Did we kill him with the air support? Jesus fuck. Vance, get on the line with Mako 30 right now!</English>
+        <Spanish>¿Qué coño? ¿Es de Mako? ¿Lo hemos matado con el apoyo aéreo? La hostia. ¡Vance, póngase en contacto con Mako 30 ahora mismo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message13_1M9">
+        <English>Copy. Mako 30, this is the QRF. We've come across a dead American inside a bunker on Takur Ghar. Can you shed some light on this? Over.</English>
+        <Spanish>Recibido. Mako 30, aquí la FRR. Nos hemos cruzado con un estadounidense muerto dentro de un búnker en Takur Ghar. ¿Pueden arrojar luz sobre esto? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message14_1M9">
+        <English>Affirmative, he's ours. We lost one sailor and one airman up there. The rest of us had to retreat down the mountain. Out.</English>
+        <Spanish>Afirmativo, es nuestro. Perdimos a un marino y a un aviador ahí arriba. Los demás tuvimos que bajar de la montaña. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message15_1M9">
+        <English>Then why the fuck did they even call us if they left? Whatever, just clear this mountain!</English>
+        <Spanish>Y ¿por qué coño nos llaman si luego no van a estar? Da igual, ¡despejen esta montaña!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message16_1M9">
+        <English>The bunkers are clear, sir!</English>
+        <Spanish>¡Los búnkeres están despejados, señor!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message17_1M9">
+        <English>Good, but we're not done yet! There's an enemy encampment and a cave down the hill to our north! Can you take care of it?</English>
+        <Spanish>¡Bien, pero aún no hemos terminado! ¡Hay un campamento enemigo y una cueva colina abajo a nuestro norte! ¿Puede encargarse?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message18_1M9">
+        <English>Sir, we have no explosives! Why don't we call in an airstrike?</English>
+        <Spanish>¡Señor, no tenemos explosivos! ¿Por qué no pedimos un ataque aéreo?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message19_1M9">
+        <English>It's too close to us! AQ must have some explosives! Grab an IED, an RPG or whatever! I think I saw an SPG somewhere up here!</English>
+        <Spanish>¡Está demasiado cerca! ¡AQ debe tener explosivos! ¡Coja un IED, un RPG o lo que sea! ¡Creo que he visto un SPG por aquí!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message20_1M9">
+        <English>That cave won't be bothering us anymore!</English>
+        <Spanish>¡Esa cueva ya no nos molestará!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message21_1M9">
+        <English>Well done!</English>
+        <Spanish>¡Bien hecho!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message22_1M9">
+        <English>Gentlemen, looks like the mountain is ours!</English>
+        <Spanish>¡Caballeros, parece que la montaña es nuestra!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message23_1M9">
+        <English>Seems like so! Great job, Rangers! Sergeant Wilmoth, regroup with your team on my position!</English>
+        <Spanish>¡Eso parece! ¡Gran trabajo, Rangers! ¡Sargento Wilmoth, reagrúpense con su equipo en mi posición!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message24_1M9">
+        <English>Sergeant Canon to all Ranger units: I have found Roberts, the Mako SEAL. He's KIA. The fuckers have stripped him of all his gear. Out.</English>
+        <Spanish>Sargento Canon para todas las unidades Ranger: he encontrado a Roberts, el SEAL de Mako. Está muerto. Los cabrones le han quitado todo su equipo. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message25_1M9">
+        <English>Fantastic performance, Sergeant. If only there were more like you in the Regiment...</English>
+        <Spanish>Maravillosa actuación, sargento. Si hubiera más como usted en el regimiento...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message26_1M9">
+        <English>Thank you, sir. What do we do now?</English>
+        <Spanish>Gracias, señor. ¿Qué hacemos ahora?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message27_1M9">
+        <English>We need to set up a CCP and bring all our wounded up here. Go check if the PJs inside the Chinook need any help transporting their wounded.</English>
+        <Spanish>Tenemos que montar un PRB y traer a todos nuestros heridos aquí. Vaya a ver si los pararrescatadores dentro del Chinook necesitan ayuda transportando a sus heridos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message28_1M9">
+        <English>Hooah!</English>
+        <Spanish>¡Hooah!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message29_1M9">
+        <English>Gents, the mountain is ours! We're going to set up a CCP up there! Need some help?</English>
+        <Spanish>¡Señores, la montaña es nuestra! ¡Vamos a montar un PRB ahí arriba! ¿Necesitan ayuda?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message30_1M9">
+        <English>Now that you mention it, yeah. Carry Dave here to the top, we'll deal with the rest.</English>
+        <Spanish>Ahora que lo dice, sí. Lleve a Dave a la cima, nosotros nos encargamos del resto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message31_1M9">
+        <English>That's all of them. Thank you, Sergeant.</English>
+        <Spanish>Están todos. Gracias, sargento.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message32_1M9">
+        <English>No worries. LaFrenz, stay here and keep them alive. Do whatever this man tells you.</English>
+        <Spanish>Ni lo mencione. LaFrenz, quédese aquí y manténgalos con vida. Haga lo que le diga este hombre.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message33_1M9">
+        <English>Hooah.</English>
+        <Spanish>Hooah.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message34_1M9">
+        <English>Mirage 22 to Ranger QRF, mortar destroyed. Jaguar 12 and the Australians are watching you from afar. Out.</English>
+        <Spanish>Mirage 22 para la FRR Ranger, mortero destruido. Jaguar 12 y los australianos los están viendo desde lejos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message35_1M9">
+        <English>Unless anyone wants to hang around, we oughta be getting the hell out of here. Vance, request CASEVAC!</English>
+        <Spanish>A menos que alguien quiera quedarse, deberíamos ir yéndonos de aquí. ¡Vance, solicite CASEVAC!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message36_1M9">
+        <English>Command, this is the Ranger QRF. Takur Ghar is clear, I repeat, clear. Requesting CASEVAC on our position, HLZ is ice-</English>
+        <Spanish>Mando, aquí la FRR Ranger. Takur Ghar está despejado, repito, despejado. Solicito CASEVAC en nuestra posición, la ZA está helada...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message37_1M9">
+        <English>Taking MG fire from the south! The fuckers are trying to flank us! Return fire, protect the wounded!</English>
+        <Spanish>¡Fuego de ametralladoras del sur! ¡Los cabrones están intentando flanquearnos! ¡Devuelvan los disparos, protejan a los heridos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message38_1M9">
+        <English>Command, disregard my last! Don't send anything, we're taking fire! Out!</English>
+        <Spanish>¡Mando, olvide lo último! ¡No envíe nada, nos están disparando! ¡Corto!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message39_1M9">
+        <English>Wildcat 13, we're taking fire from the south of Takur Ghar, west of Ghorband! Requesting a Paveway on my mark, over!</English>
+        <Spanish>¡Wildcat 13, nos disparan desde el sur de Takur Ghar, desde el oeste de Ghorband! ¡Solicito un Paveway en mi marca, cambio!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message40_1M9">
+        <English>Roger that, approaching from the east. Tally your target. I'm inbound with a Paveway.</English>
+        <Spanish>Recibido, entro desde el este. Blanco confirmado. Voy de camino con un Paveway.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message41_1M9">
+        <English>Target destroyed. Be advised, I'm RTB to refuel and rearm. Out.</English>
+        <Spanish>Objetivo destruido. Atención, vuelvo a base para repostar y rearmarme. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message42_1M9">
+        <English>Hey, one of the PJs has been hit! Medic!</English>
+        <Spanish>¡Eh, han dado a uno de los pararrescatadores! ¡Médico!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message43_1M9">
+        <English>Shit, Jason!</English>
+        <Spanish>¡Mierda, Jason!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message44_1M9">
+        <English>I can find his pulse, but it's faint! We need to evac him ASA-fucking-P!</English>
+        <Spanish>¡Tiene pulso, pero es leve! ¡Tenemos que evacuarlo en este puto momento!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message45_1M9">
+        <English>Command, this is Tech Sergeant Vance from the Ranger QRF again! We have one more casualty, he's seriously injured! When can he be extracted?</English>
+        <Spanish>¡Mando, aquí el sargento técnico Vance de la FRR Ranger otra vez! ¡Tenemos una nueva baja, está grave! ¿Cuándo se le podrá extraer?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message46_1M9">
+        <English>We hear you. An extraction package with SEAL and Ranger reinforcements and an escort Apache will be there soon.</English>
+        <Spanish>Lo escuchamos. Un paquete de extracción con refuerzos SEAL y Ranger y un Apache de escolta llegarán pronto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message47_1M9">
+        <English>Soon? Soon when?</English>
+        <Spanish>¿Pronto? ¿Cuándo es pronto?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message48_1M9">
+        <English>General, this is Captain Self. We don't need reinforcements, we just need to get our urgent casualties out of here right fucking now! The rest of us can wait until nightfall if necessary, but these guys need some treatment!</English>
+        <Spanish>General, aquí el capitán Self. No necesitamos refuerzos, ¡necesitamos sacar a nuestras putas bajas urgentes de aquí ahora mismo! ¡Los demás podemos esperar hasta la noche de ser necesario, pero esta gente necesita tratamiento!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message49_1M9">
+        <English>Roger that. An MH-47 will leave Bagram shortly. Hold tight. Out.</English>
+        <Spanish>Recibido. Un MH-47 saldrá de Bagram dentro de poco. Aguanten. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message50_1M9">
+        <English>Great- it's not 'soon' anymore, but 'shortly'. Just fucking great.</English>
+        <Spanish>Genial, ya no es «pronto», ahora es «dentro de poco». De puta madre.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message51_1M9">
+        <English>How's he holding on, Matt?</English>
+        <Spanish>¿Cómo va, Matt?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message52_1M9">
+        <English>He's still with us, but it looks pretty bad. 7.62 shot to the abdomen. Where the fuck is that chopper?</English>
+        <Spanish>Sigue con nosotros, pero no tiene buena pinta. Un 7,62 al abdomen. ¿Dónde coño está el helicóptero?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message53_1M9">
+        <English>Wish I knew. They just fucking left us here to die. I'm sorry, pal.</English>
+        <Spanish>Ojalá lo supiera. Nos han dejado aquí a que nos muramos. Lo siento, socio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message54_1M9">
+        <English>It ain't your fault. If the General would just pull his head out of his butt...</English>
+        <Spanish>No es culpa suya. Si el general se sacase la cabeza del ojete...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message55_1M9">
+        <English>Contact south! More enemy tangos from the same ridge! Return fire!</English>
+        <Spanish>¡Contactos al sur! ¡Más tangos enemigos desde la misma cresta! ¡Devuelvan el fuego!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message56_1M9">
+        <English>Shooter 43, this is the Ranger QRF on Takur Ghar! We're taking small arms fire from the ridge to our south, west of Ghorband! Can you assist, over?</English>
+        <Spanish>¡Shooter 43, aquí la FRR Ranger desde Takur Ghar! ¡Estamos recibiendo fuego de armas ligeras desde la cresta al sur, al oeste de Ghorband! ¿Pueden ayudarnos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message57_1M9">
+        <English>Sure thing, just laze it for us. We're inbound hot.</English>
+        <Spanish>Por supuesto, márquennoslo. Vamos armados.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message58_1M9">
+        <English>Shit, that one went dumb! Keep the SOFLAM pointed at the target, for heaven's sake! We're coming back around, but make sure you know where you're telling us to drop it.</English>
+        <Spanish>¡Mierda, esa se ha desviado! ¡Mantenga el SOFLAM apuntando al objetivo, por el amor de Dios! Vamos a volver, pero asegúrese de saber dónde nos dice que la soltemos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message59_1M9">
+        <English>Good hit, good hit! There's still another MG! Can you do another pass?</English>
+        <Spanish>¡Buen impacto, buen impacto! ¡Aún queda otra ametralladora! ¿Puede hacer otra pasada?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message60_1M9">
+        <English>Copy, but this is our last LGB! Make it count!</English>
+        <Spanish>¡Recibido, pero es nuestra última LGB! ¡Úsela bien!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message61_1M9">
+        <English>That's all of them, I think. Thanks for the assist, Shooter 43. Over.</English>
+        <Spanish>Creo que ya están todos. Gracias por la ayuda, Shooter 43. Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message62_1M9">
+        <English>You take it from here, folks. We're RTB to the carrier. The ole Tomcat still has some tricks up its sleeve, you see? Out.</English>
+        <Spanish>Se lo dejo a ustedes, muchachos. Volvemos al portaaviones. El viejo Tomcat aún tiene ases bajo la manga, ¿eh? Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message64_1M9">
+        <English>Captain, Cunningham's hanging by a thread! We're going to lose him if the birds don't arrive!</English>
+        <Spanish>¡Capitán, Cunningham pende de un hilo! ¡Lo vamos a perder si los pájaros no llegan!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message65_1M9">
+        <English>General, this is Captain Self! We need some confirmation on that MEDEVAC, our wounded are deteriorating! How copy, over?</English>
+        <Spanish>¡General, aquí el capitán Self! ¡Necesitamos confirmación sobre esa evacuación, nuestros heridos están empeorando! ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message66_1M9">
+        <English>All copied, Captain. I'm afraid to inform you there will be no extractions until nightfall. We can't risk losing any more birds. Out.</English>
+        <Spanish>Alto y claro, capitán. Lamento informarle de que no habrá extracciones hasta la noche. No podemos arriesgarnos a perder más pájaros. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message67_1M9">
+        <English>Motherfucker...</English>
+        <Spanish>Hijo de puta...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message68_1M9">
+        <English>Captain, we lost him. I couldn't resuscitate him. I'm sorry.</English>
+        <Spanish>Capitán, lo hemos perdido. No he podido reanimarlo. Lo siento.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message70_1M9">
+        <English>You did what you could, Sergeant. Go help the pilots. I'll report this to Command.</English>
+        <Spanish>Ha hecho lo que ha podido, sargento. Vaya a ayudar a los pilotos. Informaré al mando.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message71_1M9">
+        <English>Command, QRF update: our casualty count is now five KIA. We're still waiting for those birds, over.</English>
+        <Spanish>Mando, actualización de la FRR: nuestro recuento de bajas es de cinco muertos. Aún estamos esperando esos pájaros, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message72_1M9">
+        <English>Solid copy. Three Chinooks will exfiltrate you and Mako 30 beginning at 2000. Hold tight until then. Out.</English>
+        <Spanish>Recibido. Tres Chinooks los exfiltrarán a usted y a Mako 30 a partir de las 2000. Aguanten hasta entonces. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message73_1M9">
+        <English>This is Nail 25, we're approaching Takur Ghar to cover your exfil, but we need confirmation on your position. Can you mark it for us? Over.</English>
+        <Spanish>Aquí Nail 25, nos acercamos a Takur Ghar para cubrir su extracción, pero necesitamos confirmar su posición. ¿Nos la pueden marcar? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message74_1M9">
+        <English>Sergeant Wilmoth, you got any strobes? Throw one of them so the Spectre can pinpoint us.</English>
+        <Spanish>Sargento Wilmoth, ¿tiene alguna baliza? Tire una para que el Spectre pueda ubicarnos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message75_1M9">
+        <English>Nail 25, strobe on! Do you see it?</English>
+        <Spanish>¡Nail 25, baliza encendida! ¿La ven?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message75_21M9">
+        <English>Dale, NV on! Get a bead on their strobe!</English>
+        <Spanish>¡Dale, visión nocturna! ¡Encuentre su baliza!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message76_1M9">
+        <English>Yep, there they are!</English>
+        <Spanish>¡Sí, ahí están!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message77_1M9">
+        <English>Affirmative, we tally it. If you hear any explosions, it's us. Enjoy the show. Out.</English>
+        <Spanish>Afirmativo, la vemos. Si escuchan explosiones, somos nosotros. Disfruten del espectáculo. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message78_1M9">
+        <English>Okay Dale, put our gunners to work! Identify any enemy vehicles or strongpoints and destroy them! And please, refrain from shooting at the peak.</English>
+        <Spanish>Bien, Dale, ¡ponga a nuestros artilleros a trabajar! ¡Identifique cualquier vehículo o bastión enemigo y destrúyalo! Y por favor, absténganse de disparar a la cima.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message79_1M9">
+        <English>Boom!</English>
+        <Spanish>¡Bum!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message80_1M9">
+        <English>Hey crew, I'm seeing an armed techie and a logi truck leaving Daraz Gerd. They're going cross-country God knows where. Dale, you know what to do.</English>
+        <Spanish>Tripulación, veo un técnico armado y un camión logístico saliendo de Daraz Gerd. Están yendo campo a través sepa Dios adónde. Dale, ya sabe lo que hacer.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message81_1M9">
+        <English>That's one less hamlet!</English>
+        <Spanish>¡Una aldea menos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message82_1M9">
+        <English>Good riddance!</English>
+        <Spanish>¡Hasta la vista!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message83_1M9">
+        <English>Two enemy trucks down!</English>
+        <Spanish>¡Dos camiones enemigos eliminados!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message84_1M9">
+        <English>Chalks 1 and 2, this is General Trebon. Two Chinooks are oscar mike to Takur Ghar to exfiltrate you. ETA: 2 minutes. Out.</English>
+        <Spanish>Grupos 1 y 2, aquí el general Trebon. Dos Chinooks van de camino a Takur Ghar para extraerlos. Tiempo estimado de llegada: 2 minutos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message85_1M9">
+        <English>Mako 30, one Chinook is inbound to extract you. This battle is almost over. Out.</English>
+        <Spanish>Mako 30, un Chinook se dirige a extraerlos. La batalla ya casi ha terminado. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message85_2_1M9">
+        <English>Gunners, make sure the choppers arrive safely!</English>
+        <Spanish>¡Artilleros, asegúrense de que los helicópteros lleguen a salvo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message86_1M9">
+        <English>Razor 06 to TF 11 Command: we've got the package. Returning to Bagram with the Rangers. Out.</English>
+        <Spanish>Razor 06 al mando de la TF 11: tenemos la mercancía. Volvemos a Bagram con los Rangers. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message87_1M9">
+        <English>This is Razor 07. Mako 30 is on board. We're RTB.</English>
+        <Spanish>Aquí Razor 07. Mako 30 va a bordo. Volvemos a base.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message88_1M9">
+        <English>Step on it, pilot. I can't wait to get out of this fucking place...</English>
+        <Spanish>Písele, piloto. Qué ganas de salir de este puto sitio...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message89_1M9">
+        <English>Nail 25, listen up: all our forces are safely out of the mountain, but we can't let the enemy get a hold on that downed chopper. Destroy it. Use your guns or laze the target for the Predator. Out.</English>
+        <Spanish>Nail 25, escuchen: nuestras fuerzas han salido de la montaña, pero no podemos permitir que el enemigo se haga con ese helicóptero derribado. Destrúyanlo. Usen sus cañones y marquen el objetivo para el Predator. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message90_1M9">
+        <English>There go at least 70 million dollars down the gutter... What a shame.</English>
+        <Spanish>Ahí se van al menos 70 millones de dólares a la mierda... Qué lástima.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message91_1M9">
+        <English>Can it, Dale. We're lucky this hasn't gone any worse than it could've. Keep scanning those ridges.</English>
+        <Spanish>Cierre la boca, Dale. Tenemos suerte de que esto no haya salido peor. Siga escaneando esas crestas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message93_1M9">
+        <English>Panther, Razor 01's Chinook has been pulverized. I doubt they'll find anything other than ashes down there. How copy, over?</English>
+        <Spanish>Panther, el Chinook de Razor 01 ha sido pulverizado. Dudo que encuentren algo que no sean cenizas. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message94_1M9">
+        <English>Solid copy Nail 25, great work. Keep doing what you're doing. Out.</English>
+        <Spanish>Recibido, Nail 25, bien hecho. Sigan así. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message95_1M9">
+        <English>Sir, I've got it lazed. Relay the target to the Predator drone!</English>
+        <Spanish>Señor, lo tengo marcado. ¡Pase el blanco al don Predator!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message96_1M9">
+        <English>Predator 1, this is Nail 25. You still got one Hellfire left, right? We need you to destroy the downed Chinook on Takur Ghar. We've got it lazed for you, over.</English>
+        <Spanish>Predator 1, aquí Nail 25. Aún les queda un Hellfire, ¿no? Necesitamos que destruya el Chinook derribado en Takur Ghar. Lo tenemos marcado, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message97_1M9">
+        <English>Tally your target, Nail 25. Firing. Out.</English>
+        <Spanish>Blanco confirmado, Nail 25. Disparo. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message98_1M9">
+        <English>Shit, man down! Man down!</English>
+        <Spanish>¡Mierda, hombre abatido! ¡Hombre abatido!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message99_1M9">
+        <English>Juliet, Panther. Come in, over.</English>
+        <Spanish>Juliet, Panther. Adelante, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message100_1M9">
+        <English>Received, Panther. Send it, over.</English>
+        <Spanish>Lo recibo, Panther. Diga, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message101_1M9">
+        <English>We're just about done here. Takur Ghar is clear and all that's left is for the infantry to sweep the villages. A Chinook is oscar mike to get you back to Gardez.</English>
+        <Spanish>Esto está ya casi hecho. Takur Ghar está despejado y solo queda que la infantería peine los pueblos. Un Chinook va de camino a traerlos de vuelta a Gardez.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message102_1M9">
+        <English>Roger that. We'll be waiting. Out.</English>
+        <Spanish>Recibido. Estaremos esperando. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message103_1M9">
+        <English>About fuckin' time... Longest week of my life.</English>
+        <Spanish>Ya iba siendo hora... La semana más larga de mi vida.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission_1M9">
+        <English>&lt;t size='1.5'&gt;F O U R   H O U R S   L A T E R . . .&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;C U A T R O   H O R A S   D E S P U É S . . .&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission_2_1M9">
+        <English>&lt;t size='1.5'&gt;T W O   H O U R S   L A T E R . . .&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;D O S   H O R A S   D E S P U É S . . .&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission3_1M9">
+        <English>&lt;t size='1.5'&gt;M A R C H   5 ,   2 0 0 2&lt;br/&gt;&lt;br/&gt;D-DAY +4&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;5   D E   M A R Z O   D E   2 0 0 2&lt;br/&gt;&lt;br/&gt;DÍA D +4&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_reportin_action_1M9">
+        <English>report in</English>
+        <Spanish>presentarte</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mirage_radio_1M9">
+        <English>Mirage 22</English>
+        <Spanish>Mirage 22</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_wildcat_radio_1M9">
+        <English>Wildcat 13</English>
+        <Spanish>Wildcat 13</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_shooter_radio_1M9">
+        <English>Shooter 43</English>
+        <Spanish>Shoter 43</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_nail25_radio_1M9">
+        <English>Nail 25</English>
+        <Spanish>Nail 25</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_razor06_radio_1M9">
+        <English>Razor 06</English>
+        <Spanish>Razor 06</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_razor07_radio_1M9">
+        <English>Razor 07</English>
+        <Spanish>Razor 07</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_predator_menu_1M9">
+        <English>Predator missile</English>
+        <Spanish>Misil de Predator</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_ac130_hint_1M9">
+        <English>Hint: There's a total of 3 enemy positions. Since the enemy doesn't have night vision, it would be wise to look for light sources, such as campfires.</English>
+        <Spanish>Consejo: Hay un total de 3 posiciones enemigas. Como el enemigo no tiene visión nocturna, sería sensato buscar fuentes de luz, como hogueras.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_AC130_hint1_1M9">
+        <English>AUTOPILOT: The pilot will loiter around Takur Ghar, giving you a clear line of sight to each and every one of the objectives. You can easily complete the mission with the default settings if you don't want to mess around with the aircraft. However, should you want to get closer or focus on one single position, you can do so by going into 'Autopilot GS' in the action menu. Then, click on the map to set the center point of your loitering area, type in your desired radius, height and speed, and turn 'A/P OFF' to 'ON' to activate autopilot.</English>
+        <Spanish>PILOTO AUTOMÁTICO: El piloto dará vueltas alrededor de Takur Ghar, dándote una línea de tiro directa a todos y cada uno de los objetivos. Puedes completar la misión perfectamente con los ajustes predeterminados si no quieres trastear con el avión. No obstante, si quieres acercarte o centrarte en una sola posición, puedes hacerlo pulsando «Autopilot GS» en el menú de acciones. Luego, pulsa en el mapa para marcar el centro de la circunferencia, introduce el radio, el alto y la velocidad deseados y cambia «A/P OFF» a «ON» para activar el piloto automático.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_AC130_hint2_1M9">
+        <English>WEAPONS: Your weapons are: 1) 25mm GAU-12/U (25, 50 and 100-round burst settings); 2) 40mm Bofors and 105mm M102 howitzer; 4) laser designator. To operate the AC-130's weaponry, you'll first need to turn on your laser designator, then lock onto it (default key: T) until your crosshair becomes a green square, at which point the guns will range automatically and you'll be able to fire. If you can't lock onto the laser, aim somewhere far from the action and keep pressing T. Also, be advised that your shots will not land perfectly on target, especially at longer distances, so you'll need to account for that.</English>
+        <Spanish>ARMAS: Tus armas son: 1) GAU-12/U de 25 mm (ráfagas de 25, 50 y 100 proyectiles); 2) Bofors de 40mm y obús M102 de 105 mm; 4) designador láser. Para usar las armas del AC-130, primero tendrás que activar el designador láser y luego fijarlo (tecla por defecto: T) hasta que el punto de mira se convierta en un cuadrado verde, momento en el que los cañones se calibrarán automáticamente y podrás disparar. Si no puedes fijar el láser, apunta a cualquier lado lejos del combate y pulsa T todo el rato. Recuerda también que los disparos no darán en el blanco exacto, sobre todo a distancias más largas, así que tendrás que tenerlo en cuenta.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_AC130_hint3_1M9">
+        <English>OTHER FEATURES: You can switch between night vision and thermal optics by pressing the night vision key (default: N). You can also mark various positions on your HUD through the action menu: 'Mark RP' for reference points, 'Mark HP' for hostile points, and 'Mark FP' for friendly points. This can be useful in this mission-- I recommend marking Takur Ghar as a friendly position.</English>
+        <Spanish>OTRAS CARACTERÍSTICAS: Puedes cambiar entre visión nocturna y termal pulsando la tecla de visión nocturna (N por defecto). También puedes marcar varias posiciones en la interfaz a través del menú de acciones: «Mark RP» para puntos de referencia, «Mark HP» para puntos hostiles y «Mark FP» para puntos aliados. Puede ser útil en esta misión, yo recomiendo marcar Takur Ghar como una posición aliada.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_end1_subtitle_1M9">
+        <English>All US forces extracted</English>
+        <Spanish>Fuerzas estadounidenses extraídas</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_end1_description_1M9">
+        <English>This was a disaster. Mako 30 should've never been ordered to deploy on Takur Ghar in the first place. Their initial firefight triggered a chain of misfortunes that ended 17 hours later with 7 soldiers KIA, several more wounded and 2 Chinook helicopters trashed. If there's any good news to extract from this, it's that Takur Ghar, the biggest enemy stronghold in the valley, is now clear. We've got a lot to learn from this...</English>
+        <Spanish>Esto ha sido un desastre. Para empezar, nunca se debería haber ordenado a Mako 30 que se desplegara en Takur Ghar. Su tiroteo inicial desencadenó una cadena de desgracias que terminó 17 horas después con 7 soldados muertos en combate, varios heridos más y 2 helicópteros Chinook destrozados. Si hay algo bueno que sacar de todo esto, es que Takur Ghar, el mayor bastión enemigo en el valle, está ahora despejado. Tenemos mucho que aprender de esto...</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="OperationAnaconda">
+  <Package name="OperationAnaconda_1M3">
+    <Container name="STR_DN">
+	  <Key ID="STR_TIOG_BriefingNotes_1M3">
+        <English>EDITOR'S NOTES:&lt;br/&gt;None so far...&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;Foghat - Slow Ride</English>
+        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Nada de momento...&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Foghat - Slow Ride</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingCommand_Text_1M3">
+        <English>A. Signal:&lt;br/&gt; Mountain - MG HAGENBECK (CJTF Mountain CO)&lt;br/&gt; Rak 6 - COL WIERCISNKI (TF Rakkasan CO)&lt;br/&gt; Panther - LTC BLABER (TF Bowie CO)&lt;br/&gt; Texas 14 - LTC HAAS&lt;br/&gt; Texas 17 (your team) - CPT MCHALE&lt;br/&gt; Hooker 6 - 7-101 CH-47 Chinooks&lt;br/&gt; Grim 31 - AC-130 Overwatch</English>
+        <Spanish>A. Señal:&lt;br/&gt; Mountain: May. Gral. HAGENBECK (oficial del la CJTF Mountain)&lt;br/&gt; Rak 6: Cnel. WIERCINSKI (oficial de la TF Rakkasan)&lt;br/&gt; Panther: Tte. Cnel. BLABER (oficial de la TF Bowie)&lt;br/&gt; Texas 14: Tte. Cnel. HAAS&lt;br/&gt; Texas 17 (tu equipo): Cap. MCHALE&lt;br/&gt; Hooker 6: CH-47 Chinooks del 7-101&lt;br/&gt; Grim 31: AC-130</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSustainment_Text_1M3">
+        <English>1. Supply: Standard US SOF Desert BDUs, SPEAR BALCS vests, MICH2001 helmets, standard issue US small arms including M4A1 carbines, MP5 SMGs, Mossberg shotguns, M249 and M240 machine guns, and Mk 12, M24, and M107 sniper rifles.&lt;br/&gt;2. Transportation: Task Force Hammer will make use of 3x HMMWV Ground Mobility Vehicles (GMVs) and several local Afghan vehicles, including trucks and buses.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Hammer has 2x embedded medical sergeants, in the event of a mission failure due to substantial casualties, Mountain Actual will authorize CASEVAC and insertion by Texas 17.</English>
+        <Spanish>1. Suministros: Uniformes estándar de combate de fuerzas especiales en camuflaje desierto, chalecos SPEAR BALCS, cascos MICH 2001, armas reglamentarias de EE. UU. como carabinas M4A1, subfusiles MP5, escopetas Mossberg, ametralladoras M249 y M240, y fusiles de tirador Mk. 12, M24 y M107.&lt;br/&gt;2. Transporte: La Fuerza Operativa Hammer empleará 3 HMMWV Ground Mobility Vehicles (GMV) y varios vehículos afganos locales, como camiones y autobuses.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Hammer tiene 2x sargentos médicos asignados. En caso de fracaso debido a una cantidad considerable de bajas, Mountain Jefe autorizará CASEVAC y la inserción de Texas 17.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingExecution_Text_1M3">
+        <English>The operation will be carried out in two (2) phases:&lt;br/&gt;&lt;br/&gt;Phase 1: WAIT at Phase Line Emerald for heavy air bombardment of the Whale. &lt;marker name="marker_38">Task Force Hammer&lt;/marker&gt;, formed by ODA 372 (led by Captain McHale), ODA 594 (led by LTC Haas), and Zia Lodin's 400-strong militia force, will drive down the road towards the Shah-i-Kot Valley. Haas' ODA 594 will divert east at this &lt;marker name="marker_5">hamlet&lt;/marker&gt;, headed towards the &lt;marker name="marker_48">Little Whale&lt;/marker&gt;, to set up an OP at the northern entry point of the valley. Meanwhile, ODA 372 and the Afghan force will head to &lt;marker name="marker_1">Phase Line Emerald&lt;/marker&gt;. Once there, Coalition air assets are expected to provide an hour-long bombardment of the area.&lt;br/&gt;&lt;br/&gt;Phase 2: ASSAULT Objective Remington. When the bombardment has finished, TF Hammer will advance into &lt;marker name="marker_2">Objective Remington&lt;/marker&gt;, securing the towns of &lt;marker name="marker_50">Shirak&lt;/marker&gt;, &lt;marker name="marker_51">Juy Dukhtar&lt;/marker&gt;, and &lt;marker name="marker_52">this hamlet&lt;/marker&gt; with air support.</English>
+        <Spanish>La operación se llevará a cabo en dos (2) fases:&lt;br/&gt;&lt;br/&gt;Fase 1: ESPERAR en la línea Emerald hasta el bombardeo de la Ballena. La &lt;marker name="marker_38">Fuerza Operativa Hammer&lt;/marker&gt;, compuesta por el ODA 372 (liderado por el capitán McHale), el ODA 594 (liderado por el Tte. Cnel. Haas) y la milicia de 400 hombres de Zia Lodin, conducirá hasta el valle de Shah-i-Kot por la carretera. El ODA 594 de Haas se desviará al este en esta &lt;marker name="marker_5">aldea&lt;/marker&gt;, dirigiéndose hacia la &lt;marker name="marker_48">Pequeña Ballena&lt;/marker&gt; para establecer un PO en el punto de acceso norte del valle. Mientras tanto, el ODA 372 y la fuerza afgana se dirigirán a la &lt;marker name="marker_1">línea Emerald&lt;/marker&gt;. Una vez allí, se espera que los activos aéreos de la Coalición bombardeen la zona durante una hora.&lt;br/&gt;&lt;br/&gt;Fase 2: ATACAR el objetivo Remington. Cuando el bombardeo haya terminado, la TF Hammer avanzará hacia el &lt;marker name="marker_2">objetivo Remington&lt;/marker&gt;, asegurando los pueblos de &lt;marker name="marker_50">Shirak&lt;/marker&gt;, &lt;marker name="marker_51">Juy Dukhtar&lt;/marker&gt; y &lt;marker name="marker_52">esta aldea&lt;/marker&gt; con apoyo aéreo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingMission_Text_1M3">
+        <English>Who: Texas 17, ODA 372, Task Force Hammer (TF Hammer)&lt;br/&gt;What: ASSAULT Objective Remington&lt;br/&gt;Where: In vicinity, Shah-i-Kot Valley&lt;br/&gt;When: 052800ZMAR02&lt;br/&gt;Why: Operation Anaconda</English>
+        <Spanish>Quién: Texas 17, ODA 372, Fuerza Operativa Hammer (TF Hammer)&lt;br/&gt;Qué: ATACAR el objetivo Remington&lt;br/&gt;Dónde: En las inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Cuándo: 052800ZMAR02&lt;br/&gt;Por qué: Operación Anaconda</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSituation_Text_1M3">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: 500-1000 expected fighters&lt;br/&gt;Activity: Heavy movement, moderate radio chatter&lt;br/&gt;Location: Vicinity, Shah-i-Kot Valley&lt;br/&gt;Unit: Taliban and Al-Qaeda light infantry with anti-aircraft guns and mortars, supported by North Caucasian fighters&lt;br/&gt;Time Observed: February 28-29, 2002&lt;br/&gt;Equipment: Small arms, mortars, anti-aircraft guns&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To assault Objective Remington and push hostile forces eastwards, towards TF Rakkasan's blocking positions.&lt;br/&gt;2. Adjacent Units: LTC Haas' recon element (callsign: Texas 14), and Zia Lodin's 400-strong militia force, driving their own vehicles.&lt;br/&gt;3. Supporting: Heavy air bombardment of the Whale expected at H-Hour, 0630 2 March 2002. Artillery support will not be available for this mission. CASEVAC will be available for this mission at the request of Mountain Actual.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: 500-1000 combatientes esperados&lt;br/&gt;Actividad: Movimiento intenso, vibraciones de radio moderadas&lt;br/&gt;Ubicación: Inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Unidades: Infantería ligera talibán y de Al Qaeda con cañones antiaéreos y morteros, apoyada por combatientes norcaucásicos&lt;br/&gt;Fecha de observación: 28-29 de febrero de 2002&lt;br/&gt;Equipo: armas ligeras, morteros, cañones antiaéreos&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Atacar el objetivo Remington y empujar a las fuerzas hostiles hacia el este, hacia las posiciones de bloqueo de la TF Rakkasan.&lt;br/&gt;2. Unidades adyacentes: Elemento de reconocimiento del Tte. Cnel. Haas (indicativo: Texas 14) y la milicia de 400 hombres de Zia Lodin, que llevará sus propios vehículos.&lt;br/&gt;3. Apoyo: Se espera un bombardeo aéreo intenso a la hora H, las 0630 del 2 de marzo de 2002. No habrá apoyo de artillería para esta misión. La CASEVAC solo estará autorizada cuando la solicite Mountain Jefe.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Briefing_Text_1M3">
+        <English>Travelling in a kilometer-long convoy, Task Force Hammer (ODA 372, ODA 594 and Lodin's Afghan forces) will drive to the Shah-i-Kot Valley. Haas' ODA 594 will divert to the &lt;marker name="marker_48">Little Whale&lt;/marker&gt; to set up an OP there, while the rest of Hammer moves to &lt;marker name="marker_1">Phase Line Emerald&lt;/marker&gt; to watch an hour-long bombardment of their objective, &lt;marker name="marker_2">Objective Remington&lt;/marker&gt;. Once the bombardment is over, Hammer will secure Objective Remington.</English>
+        <Spanish>Viajando en un convoy kilométrico, la Fuerza Operativa Hammer (ODA 372, ODA 594 y las fuerzas afganas de Lodin) se dirigirá al valle de Shah-i-Kot. El ODA 594 de Haas se desviará a la &lt;marker name="marker_48">Pequeña Ballena&lt;/marker&gt; para establecer allí un PO, mientras el resto de Hammer se desplaza a la &lt;marker name="marker_1">línea Emerald&lt;/marker&gt; para presenciar un bombardeo de una hora de duración sobre su objetivo, el &lt;marker name="marker_2">objetivo Remington&lt;/marker&gt;. Una vez finalizado el bombardeo, Hammer asegurará el objetivo Remington.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_Description_1M3">
+        <English>The plan calls for Task Force Hammer to drive until &lt;marker name="marker_0">Phase Line Emerald&lt;/marker&gt;, next to the town of Hazar-Kedh, and wait there for the 1-hour bombing run of &lt;marker name="marker_45">the Whale&lt;/marker&gt;.</English>
+        <Spanish>El plan prevé que la Fuerza Operativa Hammer conduzca hasta llegar a la &lt;marker name="marker_0">línea Emerald&lt;/marker&gt;, al lado del pueblo de Hazar-Kedh, y que espere allí a que termine el bombardeo de una hora de &lt;marker name="marker_45">la Ballena&lt;/marker&gt;.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_Title_1M3">
+        <English>Phase 1: Wait for bombing run</English>
+        <Spanish>Fase 1: Esperar al bombardeo</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_Description_1M3">
+        <English>Once the one-hour bombing run concludes at roughly 0630, TF Hammer will drive into the valley itself and secure &lt;marker name="marker_2">Objective Remington&lt;/marker&gt;, namely the towns of &lt;marker name="marker_50">Shirak&lt;/marker&gt;, &lt;marker name="marker_51">Juy Dukhtar&lt;/marker&gt;, and &lt;marker name="marker_52">this hamlet&lt;/marker&gt;.</English>
+        <Spanish>Cuando el bombardeo de una hora concluya a aproximadamente las 0630, la TF Hammer se dirigirá al propio valle y asegurará el &lt;marker name="marker_2">objetivo Remington&lt;/marker&gt;, concretamente los pueblos de &lt;marker name="marker_50">Shirak&lt;/marker&gt;, &lt;marker name="marker_51">Juy Dukhtar&lt;/marker&gt; y &lt;marker name="marker_52">esta aldea&lt;/marker&gt;.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_Title_1M3">
+        <English>Phase 2: Take Objective Remington</English>
+        <Spanish>Fase 1: Tomar el objetivo Remington</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_objQRF_Description_1M3">
+        <English>Texas 14, Haas' scout column, has been hit by friendly air on their way to their OP. As the convoy's QRF, we have to make it there, save their lives, and extract them ASAP!</English>
+        <Spanish>Texas 14, la columna de reconocimiento de Haas, ha sido alcanzada por apoyo aéreo amigo mientras se dirigían a su PO. ¡Como la FRR del convoy, tenemos que llegar allí, salvarles la vida y extraerlos de inmediato!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_objQRF_Title_1M3">
+        <English>Rescue Texas 14</English>
+        <Spanish>Rescatar a Texas 14</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_objQRF_1_Description_1M3">
+        <English>Texas 14 has been indeed hammered by a friendly AC-130. While we wait for evac to arrive, we need to stabilise the most heavily wounded to make sure they don't bleed to death here and now.</English>
+        <Spanish>En efecto, Texas 14 ha sido alcanzado por un AC-130 amigo. Mientras esperamos a que llegue la evacuación, tenemos que estabilizar a los heridos más graves para asegurarnos de que no mueren desangrados aquí y ahora.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_objQRF_1_Title_1M3">
+        <English>Stabilize the wounded</English>
+        <Spanish>Estabilizar a los heridos</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_objQRF_2_Description_1M3">
+        <English>Hooker 6, one of the Rakkasans' insertion Chinooks, has agreed to extract our wounded. However, we need to mark our position with colored smoke so they can find us.</English>
+        <Spanish>Hooker 6, uno de los Chinooks de inserción de los Rakkasans, ha aceptado extraer a nuestros heridos. Sin embargo, tenemos que marcar nuestra posición con humo de color para que nos encuentren.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_objQRF_2_Title_1M3">
+        <English>Mark your position with colored smoke</English>
+        <Spanish>Marcar la posición con humo de color</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_objQRF_3_Description_1M3">
+        <English>Hooker 6 is coming to medevac our wounded. Hold position for the two or three minutes it will take for them to arrive.</English>
+        <Spanish>Hooker 6 viene a evacuar a nuestros heridos. Mantén la posición durante los dos o tres minutos que tardarán en llegar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_objQRF_3_Title_1M3">
+        <English>Wait for the Chinook</English>
+        <Spanish>Esperar al Chinook</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_Description_1M3">
+        <English>The air support was insufficient and now every goddamn enemy in the valley knows we're coming! They've ambushed us near Objective Remington and we're pinned down! We have to hold our position until true air support arrives!</English>
+        <Spanish>¡El apoyo aéreo ha sido insuficiente y ahora todos los putos enemigos del valle saben que vamos! ¡Nos han emboscado cerca del objetivo Remington y estamos acorralados! ¡Tenemos que mantener nuestra posición hasta que llegue el apoyo aéreo de verdad!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_Title_1M3">
+        <English>Survive!</English>
+        <Spanish>¡Sobrevive!</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_MissionTitle_1M3">
+        <English>Hammer and Anvil</English>
+        <Spanish>Martillo y yunque</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Intro_1M3">
+        <English>Mission 3 Intro</English>
+        <Spanish>Misión 3: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Outro_1M3">
+        <English>Mission 3 Outro</English>
+        <Spanish>Misión 3: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionDescription_1M3">
+        <English>Operation Anaconda has commenced. While the Rakkasans are inserted east of the valley, Task Force Hammer's joint Afghan-American convoy makes its way to the Shah-i-Kot.</English>
+        <Spanish>La Operación Anaconda ha comenzado. Mientras los Rakkasans son insertados al este del valle, el convoy afgano-estadounidense de la Fuerza Operativa Hammer se dirige a Shah-i-Kot.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_text_1M3">
+        <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER III - Hammer and Anvil&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'There was a young fellow named Fonda&lt;br/&gt;Who was squeezed by an anaconda&lt;br/&gt;Now he's only a smear&lt;br/&gt;A part of him here&lt;br/&gt;And the rest of him somewhere out yonder.'&lt;br/&gt;&lt;br/&gt;-OGDEN NASH&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO III: Martillo y yunque&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«Había un chaval llamado Fonda&lt;br/&gt;Que fue ahorcado por una anaconda&lt;br/&gt;Ahora se desprende&lt;br/&gt;Una parte suya aquende&lt;br/&gt;Y el resto, que él responda».&lt;br/&gt;&lt;br/&gt;—OGDEN NASH&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel1_1M3">
+        <English>SFC Brian Allen</English>
+        <Spanish>Sgto. 1.º Brian Allen</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel2_1M3">
+        <English>ODA 372, US Army SF</English>
+        <Spanish>ODA 372, Ejérc. de EE. UU.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel3_1M3">
+        <English>Approaching Shah-i-Kot</English>
+        <Spanish>Rumbo a Shah-i-Kot</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel4_1M3">
+        <English>March 2, 2002 - 0529</English>
+        <Spanish>27 marzo 2002 - 0529</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message1_1M3">
+        <English>Texas 14 to all units, we're splitting off and heading for the Little Whale. Good luck with Remington, everyone. Out.</English>
+        <Spanish>Texas 14 a todas las unidades, nos separamos y nos dirigimos a la Pequeña Ballena. Buena suerte con Remington, gente. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message2_1M3">
+        <English>This is Grim 31, bingo fuel. We're RTB. Expect a flight of Eagles to arrive soon. Out.</English>
+        <Spanish>Aquí Grim 31, sin combustible. Volvemos a base. Esperen una escuadrilla de Eagles pronto. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message3_1M3">
+        <English>This is Panther, cease fucking fire! Juliet reports a friendly vehicle column has been hit by a blue-on-blue airstrike! Out!</English>
+        <Spanish>¡Aquí Panther, alto el puto fuego! ¡Juliet informa que una columna de vehículos amiga ha sido alcanzada por un ataque aéreo aliado! ¡Corto!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message5_1M3">
+        <English>No, it can't be... Stop the convoy! Texas 14, SITREP! Texas 14, respond!</English>
+        <Spanish>No, no puede ser... ¡Detengan el convoy! ¡Texas 14, informe de situación! ¡Texas 14, respondan!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message6_1M3">
+        <English>Shit, shit! We gotta go get our guys, sir!</English>
+        <Spanish>¡Joder, joder! ¡Tenemos que ir a por los nuestros, señor!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message7_1M3">
+        <English>Okay, my two vehicles are going to head that way to assess the situation! I want the rest of you to remain here! Is that clear, Zia?</English>
+        <Spanish>¡Vale, mis dos vehículos irán para allá para evaluar la situación! ¡Quiero que el resto se queden aquí! ¿Queda claro, Zia?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message8_1M3">
+        <English>Copy, commander. We will wait.</English>
+        <Spanish>Recibido, comandnate. Esperaremos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message9_1M3">
+        <English>Texas 17 to Mountain, we've had a blue-on-blue incident! Two dead Afghans and several wounded, including Harriman! We need medevac, over!</English>
+        <Spanish>¡Texas 17 a Mountain, hemos tenido un incidente de fuego amigo! ¡Dos afganos muertos y varios heridos, incluido Harriman! ¡Necesitamos evacuación, cambio!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message10_1M3">
+        <English>I am aware, Texas. I've requested that one of the Rakkasans' Chinooks, callsign Hooker 6, medevac them. Assist the wounded until they arrive.</English>
+        <Spanish>Estoy al tanto, Texas. He solicitado que uno de los Chinooks de los Rakkasans, indicativo Hooker 6, los evacúe. Ayuden a los heridos hasta que llegue.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message11_1M3">
+        <English>Texas 17, this is Hooker 6, we've unloaded and we're ready for tasking. Mark your position with colored smoke so we can evac your wounded, over.</English>
+        <Spanish>Texas 17, aquí Hooker 6, hemos descargado y estamos a la espera de órdenes. Marquen su posición con humo de color para que podamos evacuar a sus heridos, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message12_1M3">
+        <English>You're saints, Hooker 6! Marking, out!</English>
+        <Spanish>¡Son unos santos, Hooker 6! ¡Marcamos, corto!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message13_1M3">
+        <English>Brian, check on the wounded once we disembark! The rest of you, form a defensive perimeter!</English>
+        <Spanish>¡Brian, comprueba a los heridos cuando nos bajemos! ¡El resto, formad un perímetro defensivo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message14_1M3">
+        <English>Over here! Harriman is heavily wounded!</English>
+        <Spanish>¡Por aquí! ¡Harriman está gravemente herido!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message15_1M3">
+        <English>What happened exactly?</English>
+        <Spanish>¿Qué ha pasado exactamente?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message16_1M3">
+        <English>That fucking Spectre mistook us for the enemy! Some of us are lucky to be alive, but we need to extract Harriman and those two Afghans.</English>
+        <Spanish>¡Ese puto Spectre nos ha confundido con el enemigo! Algunos tenemos suerte de estar vivos, pero tenemos que extraer a Harriman y a esos dos afganos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message17_1M3">
+        <English>Okay, we need to stabilize them first and foremost.</English>
+        <Spanish>Vale, primero tenemos que estabilizarlos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message18_1M3">
+        <English>Harriman is hanging by a thread and these two Afghans are dead. We need to get them out of here ASAP, sir.</English>
+        <Spanish>Harriman pende de un hilo y estos dos afganos están muertos. Tenemos que sacarlos de aquí a la voz de ya, señor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message19_1M3">
+        <English>I'm on it.</English>
+        <Spanish>Estoy en ello.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message20_1M3">
+        <English>I can't find his pulse. Fuck.</English>
+        <Spanish>No le encuentro el pulso. Joder.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message21_1M3">
+        <English>He didn't make it.</English>
+        <Spanish>No ha sobrevivido.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message22_1M3">
+        <English>Hooker 6, smoke out! Get over here fast, Harriman is in his death throes! How copy, over?</English>
+        <Spanish>¡Hooker 6, humo lanzado! ¡Vengan aquí rápido, Harriman está en las últimas! ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message23_1M3">
+        <English>Roger that, we're on our way. ETA: 2 minutes. Hold tight. Out.</English>
+        <Spanish>Recibido, vamos de camino. Tiempo estimado de llegada: 2 minutos. Aguanten. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message24_1M3">
+        <English>The chopper's here! Help me load these guys in!</English>
+        <Spanish>¡Ya está aquí el helicóptero! ¡Ayudadme a meter a estos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message25_1M3">
+        <English>They're all in, go! Thanks for the help!</English>
+        <Spanish>¡Están todos, va! ¡Gracias por la ayuda!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message26_1M3">
+        <English>Everybody back to the car! We've still got a job to do!</English>
+        <Spanish>¡Todos al coche! ¡Aún tenemos cosas que hacer!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message27_1M3">
+        <English>Ballard, your vehicle has the big gun, lead the way!</English>
+        <Spanish>¡Ballard, su vehículo tiene el cañón gordo, vaya delante!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message28_1M3">
+        <English>Roger.</English>
+        <Spanish>Recibido.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message29_1M3">
+        <English>Convoy, on the move! Follow our lead! Let's finish this.</English>
+        <Spanish>¡Convoy, en marcha! ¡Sígannos! Acabamos con esto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message30_1M3">
+        <English>What happened there, Captain?</English>
+        <Spanish>¿Qué ha sucedido, capitán?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message31_1M3">
+        <English>Well... I'm sorry to tell you, but two of your fighters have died. One American is in critical condition.</English>
+        <Spanish>Bueno... Lamento decirlo, pero dos de sus combatientes han muerto. Un estadounidense está crítico.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message32_1M3">
+        <English>...</English>
+        <Spanish>...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message33_1M3">
+        <English>Mountain, this is Texas 17. All the casualties from the blue-on-blue incident have been extracted and are on their way back to Bagram, over.</English>
+        <Spanish>Mountain, aquí Texas 17. Todas las bajas del incidente de fuego amigo han sido extraídas y vuelven para Bagram, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message34_1M3">
+        <English>Solid copy, our surgeons will tend to their wounds. Continue with your mission, the bombing run should be starting right away. Out.</English>
+        <Spanish>Recibido, nuestros cirujanos tenderán sus heridas. Continúen con su misión, el bombardeo debería comenzar enseguida. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message35_1M3">
+        <English>Okay, here we are. Take some popcorn, sit back, and enjoy the fireworks.</English>
+        <Spanish>Vale, ya hemos llegado. Cojan palomitas, échense para atrás, y disfruten de los fuegos artificiales.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message36_1M3">
+        <English>That's it? Only seven bombs? Where are the planes you promised us?</English>
+        <Spanish>¿Ya está? ¿Solo siete bombas? ¿Dónde están los aviones que nos prometió?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message37_1M3">
+        <English>Uh... I'm as baffled as you. Who called them off? What the fuck is Hagenbeck doing? Anyway, we have to move. We've let them know we're coming and we're sitting ducks here.</English>
+        <Spanish>Eh... Estoy tan desconcertado como usted. ¿Quién lo ha cancelado? ¿Qué hostias está haciendo Hagenbeck? En fin, tenemos que movernos. Les hemos hecho saber que vamos y somos blancos fáciles aquí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message38_1M3">
+        <English>Captain, we have a problem. Our truck doesn't move.</English>
+        <Spanish>Capitán, tenemos un problema. Nuestro camión no se mueve.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message39_1M3">
+        <English>Damn it. Everybody stop the convoy, disembark, and form a perimeter, my team will go check the truck out!</English>
+        <Spanish>La virgen. ¡Detengan el convoy, bájense y formen un perímetro, mi equipo irá a revisar el camión!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message39_2_1M3">
+        <English>What's wrong?</English>
+        <Spanish>¿Qué pasa?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message39_3_1M3">
+        <English>I don't know, it does not want to move.</English>
+        <Spanish>No sé, no quiere moverse.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message39_4_1M3">
+        <English>Okay, well, the engineers won't make it here on time, we should probably get a move on on foot-</English>
+        <Spanish>Vale, bueno, los ingenieros no llegarán a tiempo, deberíamos ponernos en marcha a pie...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message40_1M3">
+        <English>Fuck! Mortar fire, find some cover!</English>
+        <Spanish>¡Joder! ¡Fuego de morteros, pónganse a cubierto!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message41_1M3">
+        <English>Contacts coming over the ridgeline!</English>
+        <Spanish>¡Contactos cruzando la cresta!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message42_1M3">
+        <English>Return fire!</English>
+        <Spanish>¡Devuelvan el fuego!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message43_1M3">
+        <English>Where are the planes?!</English>
+        <Spanish>¿Y los aviones?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message44_1M3">
+        <English>I don't fucking know Zia, that's not my problem! Just keep shooting!</English>
+        <Spanish>¡Yo qué coño sé, Zia, no es cosa mía! ¡Siga disparando!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message45_1M3">
+        <English>We are not going to attack them with all these casualties! Men, we are retreating!</English>
+        <Spanish>¡No vamos a atacarlos con todas estas bajas! ¡Muchachos, nos retiramos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message46_1M3">
+        <English>Fucking hell! Mountain, Texas 17: we are taking casualties at Phase Line Emerald and we have no air support, we'll have to retreat if this keeps up! How copy, over?!</English>
+        <Spanish>¡Me cago en todo! ¡Mountain, Texas 17: estamos teniendo bajas en la línea Emerald y no tenemos apoyo aéreo, tendremos que retirarnos si esto sigue así! ¿Me recibe? ¡Cambio!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message47_1M3">
+        <English>Solid copy, Texas 17. Do what you have to do. Out.</English>
+        <Spanish>Recibido, Texas 17. Hagan lo que tengan que hacer. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message48_1M3">
+        <English>Let's go, let's go! Move those bodies!</English>
+        <Spanish>¡Venga, venga! ¡A mover esos cuerpos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message49_1M3">
+        <English>Okay, so here's the situation: we have to postpone the operation by two days. There's a heavy blizzard that makes the valley impassable.</English>
+        <Spanish>Vale, la situación es la siguiente: tenemos que posponer la operación hasta dentro de dos días. Hay una ventisca que hace el valle intransitable.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message50_1M3">
+        <English>Thus, H-Hour is now set at 0630, 2 March. Until then, keep doing what you've been doing.</English>
+        <Spanish>Por tanto, la hora H está fijada a las 0630 del 2 de marzo. Hasta entonces, sigan haciendo lo que han estado haciendo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message51_1M3">
+        <English>Give the Afghans a crash course on conventional war tactics, but do not tell them what for.</English>
+        <Spanish>Den a los afganos un curso intensivo de tácticas de guerra convencionales, pero no les digan para qué.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message52_1M3">
+        <English>The last thing we want right now is for some militiaman to spill the beans and AQ knowing about our plans. Back to work, gentlemen. Dismissed.</English>
+        <Spanish>Lo último que queremos es que un miliciano se vaya de la lengua y AQ esté al tanto de nuestros planes. A trabajar, caballeros. Retírense.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message53_1M3">
+        <English>Let's move, fellas!</English>
+        <Spanish>¡En marcha, señores!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message54_1M3">
+        <English>Right, so: my Afghan friends, I think you should know by now. We're heading into the lion's den.</English>
+        <Spanish>Vale, amigos afganos, creo que ya deberían saberlo. Nos dirigimos a la boca del lobo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message55_1M3">
+        <English>We're taking the Shah-i-Kot from the Taliban and Al-Qaeda. But don't worry, just remember what you were taught, follow your advisors, and everything will be fine.</English>
+        <Spanish>Vamos a arrebatarles Shah-i-Kot a los talibanes y a Al Qaeda. Pero no se preocupen: solo recuerden lo que han aprendido, sigan a sus asesores y todo irá bien.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message56_1M3">
+        <English>Colonel, we had an accident!</English>
+        <Spanish>¡Coronel, hemos tenido un accidente!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message57_1M3">
+        <English>Shit, okay. We have to extract the wounded. Those of you who can still stand up, find some room in the other vehicles.</English>
+        <Spanish>Joder, vale. Tenemos que extraer a los heridos. Los que puedan tenerse en pie, busquen un asiento en los demás vehículos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_harriman_radio_1M3">
+        <English>Texas 14 (CWO Harriman)</English>
+        <Spanish>Texas 14 (CWO Harriman)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_harriman_dialogue_1M3">
+        <English>CWO HARRIMAN</English>
+        <Spanish>CWO HARRIMAN</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mchale_radio_1M3">
+        <English>Texas 17 (CW2 Ballard)</English>
+        <Spanish>Texas 17 (CW2 Ballard)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lodin_radio_1M3">
+        <English>Zia Lodin</English>
+        <Spanish>Zia Lodin</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lodin_dialogue_1M3">
+        <English>ZIA</English>
+        <Spanish>ZIA</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_allen_dialogue_1M3">
+        <English>SFC ALLEN</English>
+        <Spanish>SGTO. 1.º ALLEN</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_thomas_dialogue_1M3">
+        <English>LTC HAAS</English>
+        <Spanish>TTE. CNEL. HAAS</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_ballard_radio_1M3">
+        <English>Texas 17 (CPT McHale)</English>
+        <Spanish>Texas 17 (Cap. McHale)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_ballard_dialogue_1M3">
+        <English>CPT MCHALE</English>
+        <Spanish>CAP. MCHALE</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_hammer56_radio_1M3">
+        <English>Texas 17</English>
+        <Spanish>Texas 17</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission3_1M3">
+        <English>&lt;t size='1.5'&gt;F E B R U A R Y   2 8 ,   2 0 0 2&lt;br/&gt;&lt;br/&gt;D-DAY -4&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;2 8   D E   F E B R E R O   D E   2 0 0 2&lt;br/&gt;&lt;br/&gt;DÍA D -4&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission4_1M3">
+        <English>&lt;t size='1.5'&gt;M A R C H   2 ,   2 0 0 2&lt;br/&gt;&lt;br/&gt;D-DAY&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;2   D E   M A R Z O   D E   2 0 0 2&lt;br/&gt;&lt;br/&gt;DÍA D&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_stabilize_hint_1M3">
+        <English>To stabilize the wounded, get up close to the lying bodies and scroll through the action menu until you see the pertinent action.</English>
+        <Spanish>Para estabilizar a los heridos, acércate a los cuerpos tumbados y desplázate por el menú de acciones hasta que veas la acción pertinente.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_stabilize_action_1M3">
+        <English>Stabilize</English>
+        <Spanish>Estabilizar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_end1_subtitle_1M3">
+        <English>Assault canceled</English>
+        <Spanish>Asalto cancelado</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_end1_description_1M3">
+        <English>Task Force Hammer's advance towards the valley has been a complete disaster. A mortal friendly fire incident far from the valley, lacking if not nonexistent air support, enemy mortar fire, several casualties mounting... We've had no choice but to cancel our assault before it's too late. Let's hope the Rakkasans have more luck than us...</English>
+        <Spanish>El avance de la Fuerza Operativa Hammer hacia el valle ha sido un completo desastre. Un incidente de fuego amigo letal lejos del valle, apoyo aéreo escaso por no decir inexistente, fuego de morteros enemigo, varias bajas acumuladas... No hemos tenido más remedio que cancelar nuestro asalto antes de que sea demasiado tarde. Esperemos que los Rakkasans tengan más suerte que nosotros...</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

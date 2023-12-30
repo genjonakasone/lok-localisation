@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="OperationAnaconda">
+  <Package name="OperationAnaconda_1M10">
+    <Container name="STR_DN">
+	  <Key ID="STR_TIOG_BriefingNotes_1M10">
+        <English>EDITOR'S NOTES:&lt;br/&gt;*SPOILERS AHEAD* Just so you know, there's literally one single enemy unit in this mission, and you may not even have to shoot him. Don't expect some huge mechanized assault, because the valley was completely empty at this point IRL. Besides, this mission is not a 100% faithful recreation of Operation Glock, there's not much info about it and the sources there are are conflicting. I've tried to convey the Tajiks' recklessness and the inability of the US SF to control them as best as I could. On another note, since you're playing as a militiaman, your gear is completely random every time you play the mission.&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;OnlineCombatBN for the surrender script</English>
+        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;*AVISO DE SPOILERS* Para que lo sepas, hay literalmente un enemigo en esta misión, y probablemente no tengas ni que dispararle. No te esperes un pedazo de asalto mecanizado, porque el valle ya estaba completamente vacío a estas alturas en la vida real. Aparte, esta misión no es una recreación 100 % fidedigna de la Operación Glock; no hay mucha información al respecto y las fuentes que hay son contradictorias. He intentado transmitir la imprudencia de los tayikos y la incapacidad de las fuerzas especiales estadounidenses de controlarlos como mejor he podido. Por otro lado, como jugarás como un miliciano, tendrás un equipo completamente aleatorio cada vez que juegues esta misión.&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;OnlineCombatBN por el script de rendirse</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingCommand_Text_1M10">
+        <English>Mountain - MG HAGENBECK (CJTF Mountain CO)&lt;br/&gt;Rak 6 - COL WIERCISNKI (TF Rakkasan CO)&lt;br/&gt;Panther - LTC BLABER (TF Bowie CO)&lt;br/&gt;Texas 14 - LTC HAAS</English>
+        <Spanish>Mountain: May. Gral. HAGENBECK (oficial del la CJTF Mountain)&lt;br/&gt;Rak 6: Cnel. WIERCINSKI (oficial de la TF Rakkasan)&lt;br/&gt;Panther: Tte. Cnel. BLABER (oficial de la TF Bowie)&lt;br/&gt;Texas 14: Tte. Cnel. HAAS</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingExecution_Text_1M10">
+        <English>Three different groups will carry out this operation:&lt;br/&gt;&lt;br/&gt;&lt;marker name="marker_9">Gul Haidar's&lt;/marker&gt; &lt;marker name="marker_47">mechanized force&lt;/marker&gt;, mostly composed of Tajiks, will advance with 3 BMP-1s and 2 T-55s through the Whale. Upon arriving at their first objective, the infantry will dismount and seize &lt;marker name="marker_2">Shirak&lt;/marker&gt;. Once the village is empty, part of the force will check out &lt;marker name="marker_4">this hamlet&lt;/marker&gt; south-east of Shirak and make sure it's clear. Afterwards, all forces will consolidate in &lt;marker name="marker_3">Juy Dukhtar&lt;/marker&gt;.&lt;br/&gt;&lt;br/&gt;&lt;marker name="marker_11">Anvar Nabiyev's&lt;/marker&gt; &lt;marker name="marker_55">dismounted force&lt;/marker&gt;, also part of Gul Haidar's Tajik contingent, will take the road from Hazar-Kedh and seize &lt;marker name="marker_3">Juy Dukhtar&lt;/marker&gt;, the apparent current enemy stronghold in the valley. Once their objective has been completed, they will hold position, form a perimeter and wait for the remainder of friendly forces to arrive.&lt;br/&gt;&lt;br/&gt;&lt;marker name="marker_12">Zia Lodin&lt;/marker&gt; and &lt;marker name="marker_37">LTC Pete Blaber's&lt;/marker&gt; &lt;marker name="marker_64">motorized force&lt;/marker&gt; will advance from the south, checking out the villages of &lt;marker name="marker_5">Ghorband&lt;/marker&gt; and &lt;marker name="marker_7">Daraz Gerd&lt;/marker&gt;, before consolidating in &lt;marker name="marker_3">Juy Dukhtar&lt;/marker&gt; with the rest.</English>
+        <Spanish>Tres grupos distintos llevarán a cabo esta operación:&lt;br/&gt;&lt;br/&gt;La &lt;marker name="marker_47">fuerza mecanizada&lt;/marker&gt; de &lt;marker name="marker_9">Gul Haidar&lt;/marker&gt;, principalmente compuesta por tayikos, avanzará con 3 BMP-1 y 2 T-55 por la Ballena. Al llegar a su primer objetivo, la infantería se bajará y tomará &lt;marker name="marker_2">Shirak&lt;/marker&gt;. Cuando el pueblo esté despejado, parte de la fuerza comprobará &lt;marker name="marker_4">esta aldea&lt;/marker&gt; al sureste de Shirak y se asegurará de que esté despejada. Después, todas las fuerzas se congregarán en &lt;marker name="marker_3">Juy Dukhtar&lt;/marker&gt;.&lt;br/&gt;&lt;br/&gt;La &lt;marker name="marker_55">fuerza desmontada&lt;/marker&gt; de &lt;marker name="marker_11">Anvar Nabiyev&lt;/marker&gt;, también parte del contingente tayiko de Gul Haidar, seguirá la carretera de Hazar-Kedh y tomará &lt;marker name="marker_3">Juy Dukhtar&lt;/marker&gt;, el supuesto bastión enemigo actual en el valle. Cuando cumplan su objetivo, mantendrán la posición, formarán un perímetro y esperarán a que lleguen el resto de fuerzas aliadas.&lt;br/&gt;&lt;br/&gt;La &lt;marker name="marker_64">fuerza motorizada&lt;/marker&gt; de &lt;marker name="marker_12">Zia Lodin&lt;/marker&gt; y el &lt;marker name="marker_37">Tte. Cnel. Pete Blaber&lt;/marker&gt; avanzará desde el sur, comprobando los pueblos de &lt;marker name="marker_5">Ghorband&lt;/marker&gt; y &lt;marker name="marker_7">Daraz Gerd&lt;/marker&gt; antes de congregarse en &lt;marker name="marker_3">Juy Dukhtar&lt;/marker&gt; con el resto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Briefing_Text_1M10">
+        <English>The Tajiks and Pashtuns have finally agreed to cooperate for a greater good. Although accompanied by &lt;marker name="marker_37">LTC Pete Blaber&lt;/marker&gt; and several US SF advisors, &lt;marker name="marker_9">Gul Haidar&lt;/marker&gt; and &lt;marker name="marker_12">Zia Lodin's&lt;/marker&gt; militias will deal the final blow to Al-Qaeda and the Taliban in the Shah-i-Kot Valley. With BMP, T-55 and BM-21 Grad support, they will clear each and every village in the valley, making sure no enemies remain. It's been a long and hard journey, but this ends here.</English>
+        <Spanish>Los tayikos y los pastunes han aceptado por fin cooperar con un bien mayor. Aunque irán acompañados por el &lt;marker name="marker_37">Tte. Cnel. Pete Blaber&lt;/marker&gt; y varios asesores de las fuerzas especiales estadounidenses, las milicias de &lt;marker name="marker_9">Gul Haidar&lt;/marker&gt; y &lt;marker name="marker_12">Zia Lodin&lt;/marker&gt; asestarán el golpe final a Al Qaeda y los talibanes en el valle de Shah-i-Kot. Con apoyo de BMP, T-55 y BM-21 Grad, despejarán cada pueblo del valle, asegurándose de que no quede ningún enemigo. Ha sido un viaje largo y duro, pero esto acaba aquí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_Description_1M10">
+        <English>LTC Haas needs to do something with your help. He's next to the T-55s and BMPs. Go talk to him to see what he wants.</English>
+        <Spanish>El Tte. Cnel. Haas necesita hacer algo con tu ayuda. Está al lado de los T-55 y los BMP. Ve a hablar con él para ver qué quiere.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_Title_1M10">
+        <English>Report to LTC Haas</English>
+        <Spanish>Presentarse ante el Tte. Cnel. Haas</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_Description_1M10">
+        <English>Haas has spotted what seem to be three caves near our approaches, and they appear to be intact. Since the Grad rocket artillery is under your command, it falls upon you to call in support.</English>
+        <Spanish>Haas ha avistado lo que parecen ser tres cuevas cerca de nuestras entradas, y parecen estar intactcas. Dado que la artillería de cohetes Grad sigue tus órdenes, te toca a ti pedir apoyo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_Title_1M10">
+        <English>Destroy the caves</English>
+        <Spanish>Destruir las cuevas</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_1_Description_1M10">
+        <English>There's one cave here. Call in a rocket strike to destroy it or, at the very least, suppress it.</English>
+        <Spanish>Aquí hay una cueva. Pide un ataque de cohetes para destruirla o, como mínimo, contenerla.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_1_Title_1M10">
+        <English>Destroy the first cave</English>
+        <Spanish>Destruir la primera cueva</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_2_Title_1M10">
+        <English>Destroy the second cave</English>
+        <Spanish>Destruir la segunda cueva</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_3_Title_1M10">
+        <English>Destroy the third cave</English>
+        <Spanish>Destruir la tercera cueva</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_Description_1M10">
+        <English>It's too late to keep waiting! We have to attack now, lest the enemy regroups and rearms! Order your squad to board your assigned BMP and let's roll.</English>
+        <Spanish>¡Es demasiado tarde para seguir esperando! ¡Tenemos que atacar ahora, no sea que el enemigo se reagrupe y rearme! Ordena a tu escuadrón que se suba a tu BMP asignado y poneos en marcha.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_Title_1M10">
+        <English>Get in the BMP</English>
+        <Spanish>Entrar en el BMP</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_objShirak_Description_1M10">
+        <English>Our first objective is the village of &lt;marker name="marker_2"&gt;Shirak&lt;/marker&gt;, right on the foot of the Whale. Last we heard from this village was that part of the Rakkasan force got ambushed near here.</English>
+        <Spanish>Nuestro primer objetivo es el pueblo de &lt;marker name="marker_2"&gt;Shirak&lt;/marker&gt;, justo en el pie de la Ballena. Lo último que sabemos es que parte de la fuerza Rakkasan fue emboscada cerca de aquí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_objShirak_Title_1M10">
+        <English>Clear Shirak</English>
+        <Spanish>Despejar Shirak</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_objShirak_1_Description_1M10">
+        <English>Shirak looks clear. We have to count the bodies of the militiamen that were killed during the bombings. Check the ruined buildings and the surroundings too. Hint: There's a total of 8 bodies in Shirak.</English>
+        <Spanish>Shirak parece despejado. Tenemos que contar los cuerpos de los milicianos muertos durante los bombardeos. Revisa los edificios destrozados y los alrededores también. Consejo: hay un total de 8 cuerpos en Shirak.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_objShirak_1_Title_1M10">
+        <English>Count the dead bodies</English>
+        <Spanish>Contar los cadáveres</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_objHamlet_Description_1M10">
+        <English>After clearing Shirak, we have to clear &lt;marker name="marker_4"&gt;this hamlet&lt;/marker&gt;. It just consists of two houses, but we need to make sure it's clear anyway.</English>
+        <Spanish>Después de despejar Shirak, tenemos que despejar &lt;marker name="marker_4"&gt;esta aldea&lt;/marker&gt;. Solo son dos casas, pero tenemos que asegurarnos de que está despejada.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_objHamlet_Title_1M10">
+        <English>Clear the hamlet</English>
+        <Spanish>Despejar la aldea</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_objHamlet_1_Description_1M10">
+        <English>One Al-Qaeda terrorist has been shot and killed before he could put any of our lives in danger. Search his body for more intel.</English>
+        <Spanish>Un terrorista de Al Qaeda ha sido neutralizado antes de que pudiera poner nuestras vidas en peligro. Busca más información en su cuerpo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_objHamlet_1_Title_1M10">
+        <English>Search the terrorist</English>
+        <Spanish>Registra al terrorista</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_objHamlet_Bomb_Description_1M10">
+        <English>One Al-Qaeda terrorist has been shot and killed before he could blow any of us up. However, that bomb vest is still a problem. We can't defuse it safely without proper EOD equipment, so you'll just have to destroy it. Use artillery, hand grenades or whatever you can find.</English>
+        <Spanish>Un terrorista de Al Qaeda ha sido neutralizado antes de que pudiera hacernos saltar por los aires. Sin embargo, ese chaleco explosivo es un problema. No podemos desactivarlo sin el equipo adecuado, así que tendrás que destruirlo. Usa artillería, granadas de mano o lo que encuentres.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_objHamlet_Bomb_Title_1M10">
+        <English>Destroy the bomb</English>
+        <Spanish>Destruir la bomba</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_objRegroup_Description_1M10">
+        <English>Clearing &lt;marker name="marker_3"&gt;Juy Dukhtar&lt;/marker&gt; is the main objective of Anvar's force. Once we accomplish our objectives, our force and Zia's will meet their force inside the town.</English>
+        <Spanish>Despejar &lt;marker name="marker_3"&gt;Juy Dukhtar&lt;/marker&gt; es el objetivo principal de la fuerza de Anvar. Cuando cumplamos nuestros objetivos, nuestra fuerza y la de Zia se reunirán con su fuerza en el pueblo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_objRegroup_Title_1M10">
+        <English>Regroup in Juy Dukhtar</English>
+        <Spanish>Reagruparse en Juy Dukhtar</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_objRegroup2_Description_1M10">
+        <English>We have taken one prisoner in the hamlet south-east of Shirak. Blaber has asked us to take the prisoner to him at &lt;marker name="marker_3"&gt;Juy Dukhtar&lt;/marker&gt;, where all friendly forces have converged.</English>
+        <Spanish>Hemos hecho un prisionero en la aldea al sureste de Shirak. Blaber nos ha pedido que le llevemos al prisionero a &lt;marker name="marker_3"&gt;Juy Dukhtar&lt;/marker&gt;, donde se han congregado todas las fuerzas aliadas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_objRegroup2_Title_1M10">
+        <English>Bring the prisoner to Blaber</English>
+        <Spanish>Llevar el prisionero a Blaber</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj5_Description_1M10">
+        <English>The lead T-55 has triggered a Soviet anti-tank mine while moving. There may be more ahead, so the column has had to stop. Talk to the tank commander to figure out exactly what's happened.</English>
+        <Spanish>El T-55 líder ha activado una mina antitanque soviética mientras avanzaba. Puede que haya más adelante, por lo que la columna ha tenido que detenerse. Habla con el comandante del tanque para averiguar qué ha pasado exactamente.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj5_Title_1M10">
+        <English>Talk to the T-55 commander</English>
+        <Spanish>Hablar con el comandante del T-55</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_objMines_Description_1M10">
+        <English>Our mechanized column has been halted by a relic from the Soviets: an anti-tank minefield. We have to disable the mines, lest some vestiges from 20 years ago destroy our tanks. But we need to be careful, as the passage of time may have damaged them.</English>
+        <Spanish>Nuestra columna mecanizada ha sido detenida por una reliquia de los soviéticos: un campo de minas antitanque. Tenemos que desactivar las minas, no sea que algún vestigio de hace 20 años destruya nuestros tanques. Pero hay que tener cuidado, ya que el paso del tiempo puede haberlas dañado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_objMines_Title_1M10">
+        <English>Disable the minefield</English>
+        <Spanish>Desactivar el campo de minas</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj5_1_Description_1M10">
+        <English>In order to disable the minefield, you need to grab the mine detector and the toolkit from the lead tank's inventory.</English>
+        <Spanish>Para desactivar el campo de minas, tienes que coger el detector de minas y el kit de herramientas del inventario del tanque líder.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj5_1_Title_1M10">
+        <English>Take the detector and the toolkit</English>
+        <Spanish>Coger el detector y el kit de herramientas</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_MissionTitle_1M10">
+        <English>Operation Glock</English>
+        <Spanish>Operación Glock</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Intro_1M10">
+        <English>Mission 10 Intro</English>
+        <Spanish>Misión 10: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Outro_1M10">
+        <English>Mission 10 Outro</English>
+        <Spanish>Misión 10: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionDescription_1M10">
+        <English>Operation Anaconda is nearing its end. In an effort to put an Afghan face to the conflict, the Americans decide to have two Afghan warlords sweep the valley floor and clear the remaining villages.</English>
+        <Spanish>La Operación Anaconda llega a su fin. En un esfuerzo por poner un rostro afgano al conflicto, los estadounidenses deciden que dos señores de la guerra afganos peinen el fondo del valle y despejen los pueblos restantes.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_text_1M10">
+        <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER X - Operation Glock&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'I would be quite happy to see the Northern Alliance steam across northern Afghanistan and take Kabul.'&lt;br/&gt;&lt;br/&gt;-GEOFF HOON&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO X: Operación Glock&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«Me encantaría ver a la Alianza del Norte atravesar el norte de Afganistán y tomar Kabul.».&lt;br/&gt;&lt;br/&gt;—GEOFF HOON&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel1_1M10">
+        <English>Commander Gul Haidar</English>
+        <Spanish>Comandante Gul Haidar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel2_1M10">
+        <English>Eastern Alliance</English>
+        <Spanish>Alianza del Este</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel3_1M10">
+        <English>At staging position</English>
+        <Spanish>En la posición de parada</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel4_1M10">
+        <English>March 11, 2002 - 0623</English>
+        <Spanish>11 marzo 2002 - 0623</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message1_1M10">
+        <English>Commander Haidar, you available?</English>
+        <Spanish>Comandante Haidar, ¿está disponible?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message2_1M10">
+        <English>Yes Colonel, what do you need?</English>
+        <Spanish>Sí, coronel, ¿qué necesita?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message3_1M10">
+        <English>There's something I need to do, but I need your help. Come find me on a rocky outcrop next to the tanks.</English>
+        <Spanish>Tengo que hacer una cosa, pero necesito su ayuda. Venga a verme en un saliente rocoso al lado de los tanques.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message4_1M10">
+        <English>I'm going.</English>
+        <Spanish>Voy.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message5_1M10">
+        <English>I'll be right back, gentlemen. Don't make a mess.</English>
+        <Spanish>Enseguida vuelvo, caballeros. No me la lieis.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message6_1M10">
+        <English>You called?</English>
+        <Spanish>¿Me ha llamado?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message7_1M10">
+        <English>Ah, there you are. Listen, I think I'm seeing a couple of caves near our approaches. I don't think there's any AQ nearby, but better to be safe than sorry.</English>
+        <Spanish>Ah, ahí está. Escuche, creo que estoy viendo un par de cuevas cerca de nuestros accesos. Dudo que haya AQ cerca, pero más vale prevenir que curar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message8_1M10">
+        <English>The thing is, the aircraft are already on task, and I don't have a laser designator either.</English>
+        <Spanish>La cosa es que los aviones ya están ocupados, y tampoco tengo un designador láser.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message9_1M10">
+        <English>I want to have the Grads rain fire on them, but I'm not familiar with your language. Can you send 'em the coordinates?</English>
+        <Spanish>Quiero que los Grads hagan llover fuego sobre ellos, pero no estoy familiarizado con su idioma. ¿Puede enviarles las coordenadas?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message10_1M10">
+        <English>Leave it to me.</English>
+        <Spanish>Déjemelo a mí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message10_1_1M10">
+        <English>Commander, artillery support is on standby.</English>
+        <Spanish>Comandante, el apoyo de artillería está a la espera.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message11_1M10">
+        <English>One down.</English>
+        <Spanish>Una menos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message12_1M10">
+        <English>That's two of them.</English>
+        <Spanish>Van dos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message13_1M10">
+        <English>Good job, Gul! That's it.</English>
+        <Spanish>¡Buen trabajo, Gul! Eso es.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message14_1M10">
+        <English>Panther, this is Texas 14. We've neutralized three caves. Ready to attack, waiting on your signal. What's your situation, over?</English>
+        <Spanish>Panther, aquí Texas 14. Hemos neutralizado tres cuevas. Listos para atacar, esperamos su señal. ¿Cuál es su situación, cambio?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message15_1M10">
+        <English>Confirmed, we're in position too. There's another Daisy Cutter scheduled for tomorrow, so we can't move in just yet. We attack tomorrow morning. Dig in and find some way to kill time till then.</English>
+        <Spanish>Confirmado, nosotros también estamos en posición. Hay otra Daisy Cutter prevista para mañana, así que no podemos avanzar aún. Atacaremos mañana por la mañana. Atrinchérense y busquen alguna manera de matar el tiempo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message16_1M10">
+        <English>Tomorrow? Fuck your mother! If we wait more time, the enemy will rearm and regroup!</English>
+        <Spanish>¿Mañana? ¡Su puta madre! ¡Si esperamos más tiempo, el enemigo se rearmará y reagrupará!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message17_1M10">
+        <English>Haidar, what the fuck are you doing?</English>
+        <Spanish>Haidar, ¿qué coño hace?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message18_1M10">
+        <English>This is Commander Gul Haidar to all units: board your vehicles and attack! Go, go, go!</English>
+        <Spanish>Al habla el comandante Gul Haidar para todas las unidades: ¡monten en sus vehículos y ataquen! ¡Vamos, vamos, vamos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message19_1M10">
+        <English>Panther, Texas 14! Haidar is advancing on the Whale! Over!</English>
+        <Spanish>¡Panther, Texas 14! ¡Haidar está avanzando hacia la Ballena! ¡Cambio!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message20_1M10">
+        <English>Jesus Christ Texas, stop him then!</English>
+        <Spanish>¡Por Dios, Texas, deténgalo entonces!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message21_1M10">
+        <English>Yeah, I'd like to see you stop five armored vehicles and a legion of zealous militiamen!</English>
+        <Spanish>¡Sí, a ver cómo detiene usted cinco vehículos blindados y una legión de milicianos fervorosos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message22_1M10">
+        <English>Shit! Okay, let's go, move it! The operation is a go! Mountain, Panther: cancel tomorrow's Daisy Cutter, we've had to attack before schedule! How copy, over?</English>
+        <Spanish>¡MIerda! ¡Venga, vamos, en marcha! ¡Luz verde a la operación! ¡Mountain, Panther: cancele la Daisy Cutter de mañana, hemos tenido que atacar antes de tiempo! ¿Me recibe? ¡Cambio!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message23_1M10">
+        <English>What? You had your orders!</English>
+        <Spanish>¿Cómo? ¡Tenía sus órdenes!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message24_1M10">
+        <English>The fucking Tajiks refuse to keep waiting! They're sending everything they've got!</English>
+        <Spanish>¡Los putos tayikos se niegan a esperar más! ¡Están enviando todo lo que tienen!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message25_1M10">
+        <English>Okay! I'll talk to the C-130 crew, but the Eagles already began bombing the Whale! Stay clear of the peaks! Out!</English>
+        <Spanish>¡Vale! Hablaré con la tripulación del C-130, pero ¡los Eagles ya han empezado a bombardear la Ballena! ¡Aléjense de las cimas! ¡Corto!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message26_1M10">
+        <English>This is Commander Haidar. I need a rocket strike on these coordinates:</English>
+        <Spanish>Aquí el comandante Haidar. Necesito un ataque de cohetes en las siguientes coordenadas:</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message27_1M10">
+        <English>Understood, firing a salvo of 15 rockets. 60 seconds until impact.</English>
+        <Spanish>Entendido, disparamos una salva de 15 cohetes. 60 segundos para el impacto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message28_1M10">
+        <English>The Grads are ready to fire again.</English>
+        <Spanish>Los Grads están listos para disparar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message29_1M10">
+        <English>Allah! Commander, a mine just exploded in front of us! We have to halt!</English>
+        <Spanish>¡Alá! ¡Comandante, una mina acaba de explotar delante de nosotros! ¡Tenemos que parar!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message30_1M10">
+        <English>Copy! Hold your position, I'm coming to you!</English>
+        <Spanish>¡Recibido! ¡Mantengan la posición, voy para allá!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message31_1M10">
+        <English>Are you alright? What happened?</English>
+        <Spanish>¿Están bien? ¿Qué ha pasado?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message32_1M10">
+        <English>We're fine. There's Soviet mines from the war here. I guess the rumbling of the tanks made one of them blow up, but we shouldn't move forward.</English>
+        <Spanish>Estamos bien. Aquí hay minas soviéticas de la guerra. Imagino que el retumbar de los tanques hizo estallar una de ellas, pero no deberíamos seguir.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message33_1M10">
+        <English>Don't worry, I'll take care of them. Where's your hook?</English>
+        <Spanish>No se preocupe, yo me encargo. ¿Dónde tiene el gancho?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message34_1M10">
+        <English>On the side of the tank! Take our mine detector too, you're gonna need it.</English>
+        <Spanish>¡En el lado del tanque! Coja también nuestro detector de minas, lo va a necesitar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message35_1M10">
+        <English>The mines are disabled! Let's keep moving!</English>
+        <Spanish>¡Las minas están desactivadas! ¡Sigamos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message36_1M10">
+        <English>We've arrived in Shirak! Everybody off your vehicles, search the area!</English>
+        <Spanish>¡Hemos llegado a Shirak! ¡Todo el mundo fuera de los vehículos, registren la zona!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message37_1M10">
+        <English>Looks clear. Let's count the bodies. Check the rubble too!</English>
+        <Spanish>Parece despejado. Vamos a contar los cuerpos. ¡Miren también entre los escombros!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message38_1M10">
+        <English>Commander Haidar, we've got visual on footmobiles on that mountain pass! Firing!</English>
+        <Spanish>¡Comandante Haidar, vemos soldados en ese paso montañoso! ¡Disparamos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message39_1M10">
+        <English>Hold your fire, hold your fucking fire! Friendlies at BP Betty!</English>
+        <Spanish>¡Alto el fuego, alto el puto fuego! ¡Amigos en la PB Betty!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message40_1M10">
+        <English>Cease fucking fire! Those are friendlies!</English>
+        <Spanish>¡Alto el puto fuego! ¡Son amigos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message41_1M10">
+        <English>Whoops. Apologies, commander.</English>
+        <Spanish>Ups. Disculpas, comandante.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message42_1M10">
+        <English>Charlie 2 Actual, SITREP!</English>
+        <Spanish>¡Charlie 2 Jefe, informe de situación!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message43_1M10">
+        <English>No casualties. Thankfully. Lieutenant, you'd better put a leash on these fuckin' guys...</English>
+        <Spanish>No ha habido bajas. Por suerte. Teniente, controle a esta gente...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message44_1M10">
+        <English>8 bodies confirmed. Shirak is clear. My squad will go check out that hamlet to our south-east. The rest of you, go support Anvar at Juy Dukhtar.</English>
+        <Spanish>8 cuerpos confirmados. Shirak está despejado. Mi escuadrón irá a comprobar esa aldea a nuestro sureste. Los demás, id a apoyar a Anvar a Juy Dukhtar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message45_1M10">
+        <English>Got a dead body here.</English>
+        <Spanish>Tengo un cadáver.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message46_1M10">
+        <English>Two dead terrorists.</English>
+        <Spanish>Dos terroristas muertos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message47_1M10">
+        <English>Yeah, he's dead. Make it three.</English>
+        <Spanish>Sí, está muerto. Que sean tres.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message48_1M10">
+        <English>Four.</English>
+        <Spanish>Cuatro.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message49_1M10">
+        <English>Another body.</English>
+        <Spanish>Otro cuerpo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message50_1M10">
+        <English>Six bodies so far.</English>
+        <Spanish>Seis cuerpos de momento.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message51_1M10">
+        <English>That's seven with this one.</English>
+        <Spanish>Siete con este.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message52_1M10">
+        <English>Two buildings left standing. Let's see what's inside. Eyes sharp.</English>
+        <Spanish>Dos edificios en pie. A ver qué hay dentro. Ojos abiertos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message53_1M10">
+        <English>This building is clear.</English>
+        <Spanish>Este edificio está despejado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message54_1M10">
+        <English>Hey, hands up! Drop your fucking weapon! Drop it!</English>
+        <Spanish>¡Eh, arriba las manos! ¡Suelta la puta arma! ¡Suéltala!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message54_1_1M10">
+        <English>Hey, hands up! Don't do anything stupid if you want to live!</English>
+        <Spanish>¡Eh, arriba las manos! ¡No hagas ninguna tontería si queires vivir!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message55_1M10">
+        <English>Give me one fucking reason not to blow your brains out!</English>
+        <Spanish>¡Dame una puta razón para que no te vuele los sesos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message56_1M10">
+        <English>You're alone here! All your terrorist friends are dead! If I die, you'll wish you'd fucking surrendered!</English>
+        <Spanish>¡Estás solo! ¡Todos tus amigos terroristas están muertos! ¡Si yo muero, desearías haberte rendido!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message57_1M10">
+        <English>You will never take me! Allahu akbar!</English>
+        <Spanish>¡Nunca me atraparéis! ¡Allahu akbar!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message58_1M10">
+        <English>I don't mind dying, I'm taking you with me! Allahu akbar!</English>
+        <Spanish>¡No me importa morir, tú te vienes conmigo! ¡Allahu akbar!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message59_1M10">
+        <English>Okay, okay! I'll drop it! This is bullshit!</English>
+        <Spanish>¡Vale, vale! ¡La suelto! ¡Esto es una mierda!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message60_1M10">
+        <English>Son of a whore! We can't take any chances!</English>
+        <Spanish>¡Hijo de perra! ¡No podemos jugárnosla!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message61_1M10">
+        <English>Commander Gul Haidar to all units: one terrorist shot and killed in the hamlet.</English>
+        <Spanish>Comandante Gul Haidar para todas las unidades: un terrorista abatido en la aldea.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message61_1_1M10">
+        <English>Commander Gul Haidar to all units: one terrorist shot and killed in the hamlet. He was wearing a bomb vest.</English>
+        <Spanish>Comandante Gul Haidar para todas las unidades: un terrorista abatido en la aldea. Llevaba un chaleco explosivo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message61_2_1M10">
+        <English>Commander Gul Haidar to all units: one terrorist down. He uh... blew himself up. I got out in time. Moving to Juy Dukhtar, out.</English>
+        <Spanish>Comandante Gul Haidar para todas las unidades: un terrorista menos. Eh... se ha </Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message62_1M10">
+        <English>Haidar, search him. If he was a lone wolf, he was surely plotting something. Out.</English>
+        <Spanish>Haidar, regístrelo. Si era un lobo solitario, seguramente estaba tramando algo. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message63_1M10">
+        <English>Probably a lone wolf plotting to kill a bunch of us. Do not try to defuse that bomb, it's probably too unstable. Recommend you destroy it with artillery or a grenade. Out.</English>
+        <Spanish>Probablemente fuese un lobo solitario planeando matarnos a unos cuantos. No intente desactivar esa bomba, será demasiado inestable. Recomiendo que la destruya con artillería o una granada. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message64_1M10">
+        <English>Commander Haidar to Panther: the terrorist is clean. Apart from his gun, of course. Should we destroy this building?</English>
+        <Spanish>Comandante Haidar para Panther: el terrorista está limpio. Aparte de su arma, claro. ¿Deberíamos destruir este edificio?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message64_1_1M10">
+        <English>Commander Haidar to Panther: bomb destroyed. Hamlet clear. Moving to Juy Dukhtar.</English>
+        <Spanish>Comandante Haidar para Panther: bomba destruida. Aldea despejada. Nos dirigimos a Juy Dukhtar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message65_1M10">
+        <English>Your call, Haidar. This valley is more empty than it'll ever be, but it's up to you. Regardless, come meet me in Juy Dukhtar.</English>
+        <Spanish>Usted dirá, Haidar. Este valle está más vacío de lo que estará nunca, pero usted decide. En cualquier caso, venga a verme en Juy Dukhtar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message65_1_1M10">
+        <English>Copy that. I need to talk to you. Come find me in the town.</English>
+        <Spanish>Recibido. Tengo que hablar con usted. Venga a verme en el pueblo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message66_1M10">
+        <English>Commander Haidar to all units: the hamlet is clear, but some buildings are still standing. Should we destroy them?</English>
+        <Spanish>Comandante Haidar para todas las unidades: la aldea está despejada, pero algunos edificios siguen en pie. ¿Deberíamos destruirlos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message67_1M10">
+        <English>Commander Haidar to all units: I have one prisoner in the hamlet. What do we do?</English>
+        <Spanish>Comandante Haidar para todas las unidades: tengo un prisionero en la aldea. ¿Qué hacemos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message68_1M10">
+        <English>This is Panther. Well done, Haidar. Bring him to me, I'm in Juy Dukhtar. Out.</English>
+        <Spanish>Aquí Panther. Bien hecho, Haidar. Tráigamelo, estoy en Juy Dukhtar. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message69_1M10">
+        <English>These guys are all dead, let's ransack this place!</English>
+        <Spanish>¡Estos están todos muertos, vamos a desvalijar este lugar!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message70_1M10">
+        <English>Anvar, don't be a fool, for Allah's sake! That is not our objective!</English>
+        <Spanish>¡Anvar, no seas tonto, por el amor de Alá! ¡Ese no es nuestro objetivo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message70_1M10">
+        <English>Panther to all units: Ghorband is clear. 6 bodies counted. Some of us are advancing to Daraz Gerd, the rest are moving to Juy Dukhtar. Out.</English>
+        <Spanish>Panther para todas las unidades: Ghorband está despejado. Contamos 6 cuerpos. Algunos avanzamos a Daraz Gerd, el resto vamos a Juy Dukhtar. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message71_1M10">
+        <English>This is Commander Zia Lodin. Daraz Gerd is clear. 6 dead insurgents. See you in Juy Dukhtar.</English>
+        <Spanish>Aquí el comandante Zia Lodin. Daraz Gerd está despejado. 6 insurgentes muertos. Nos vemos en Juy Dukhtar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message72_1M10">
+        <English>Look, Gul, that shit you pulled earlier? Not fucking funny. You're lucky as hell we're on the same side and the valley is empty. Dismissed.</English>
+        <Spanish>Mire, Gul, ¿eso que ha hecho antes? Ni puta gracia ha tenido. Tiene suerte de que estemos en el mismo bando y de que el valle esté vacío. Retírese.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message73_1M10">
+        <English>Hello there, my Arab friend! You had fun shooting at our guys or what? You're coming with us.</English>
+        <Spanish>¡Muy buenas, amigo árabe! ¿Ha disfrutado disparando a los nuestros o qué? Se viene con nosotros.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message74_1M10">
+        <English>Gul, we'll talk later about that little stunt you pulled earlier today... Dismissed.</English>
+        <Spanish>Gul, luego hablamos de esa maniobra que ha hecho antes... Retírese.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message75_1M10">
+        <English>Several tangos in Juy Dukhtar. They're loading into a couple of SUVs. Definitely populated.</English>
+        <Spanish>Varios tangos en Juy Dukhtar. Se están montando en un par de todoterrenos. Definitivamente poblado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message76_1M10">
+        <English>Any civilians?</English>
+        <Spanish>¿Algún civil?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message77_1M10">
+        <English>If there ever were any civilians in this valley, that was before we arrived. I've yet to see a single unarmed Afghan.</English>
+        <Spanish>Si alguna vez hubo civiles en este valle, fue antes de que llegáramos. Todavía tengo que ver un solo afgano desarmado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message78_1M10">
+        <English>Rak 6, this is Bishop. We've got eyes on several enemy footmobiles and light vehicles inside Juy Dukhtar. No civilian presence. Requesting permission to fire mortars, over.</English>
+        <Spanish>Rak 6, aquí Bishop. Vemos varios milicianos enemigos y vehículos ligeros en Juy Dukhtar. No hay presencia civil. Solicito permiso para disparar morteros, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message79_1M10">
+        <English>Granted, take them out. Out.</English>
+        <Spanish>Concedido, acaben con ellos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message80_1M10">
+        <English>Major, TF Summit is reporting enemy presence in the villages inside the valley, including Juy Dukhtar and Shirak. We've blocked all the passes. We oughta bomb the villages and then have the infantry swoop in and clear them.</English>
+        <Spanish>Mayor, la TF Summit informa de presencia enemiga en los pueblos dentro de la aldea, incluidos Juy Dukhtar y Shirak. Hemos bloqueado todos los pasos. Deberíamos bombardear los pueblos y ordenar a la infantería que los despeje.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message81_1M10">
+        <English>What about the civilians, Colonel?</English>
+        <Spanish>Y ¿qué hay de los civiles, coronel?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message82_1M10">
+        <English>There's none whatsoever. No civilian has been reported since before D-Day.</English>
+        <Spanish>No hay ninguno. No se ha informado de ningún civil desde antes del día D.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message83_1M10">
+        <English>Roger. I'll declare the valley a free-fire zone and call it in. Keep holding the passes, Summit. I'll have Haidar and his tanks link up with Zia and Pete, and they'll clear the valley. If anything, it will be a moral victory for them.</English>
+        <Spanish>Recibido. Declararé el valle zona libre y lo pediré. Mantengan los pasos, Summit. Haré que Haidar y sus tanques se unan a Zia y Pete, y despejarán el valle. En todo caso, será una victoria moral para ellos...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message84_1M10">
+        <English>So, sir, when do we take the valley? I want to kick some terrorist ass!</English>
+        <Spanish>Señor, ¿cuándo tomaremos el valle? ¡Quiero liarme a palos con los terroristas!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message85_1M10">
+        <English>That's the spirit, Zia! I'll have you know the higher-ups have requested your tanks so you can fully claim this victory.</English>
+        <Spanish>¡Ese es el espíritu, Zia! Le haré saber que los mandamases han solicitado sus tanques para que puedan reivindicarse esta victoria.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message86_1M10">
+        <English>What tanks? We have no tanks!</English>
+        <Spanish>¿Qué tanques? ¡No tenemos tanques!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message87_1M10">
+        <English>His tanks. Nice to see you, Gul.</English>
+        <Spanish>Los suyos. Me alegro de verlo, Gul.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message88_1M10">
+        <English>No! Not this son of a bitch! I will not cooperate with a Tajik!</English>
+        <Spanish>¡No! ¡Este hijo de perra no! ¡No cooperaré con un tayiko!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message89_1M10">
+        <English>I say the same! Fuck this Pashtun asshole!</English>
+        <Spanish>¡Lo mismo digo! ¡Que le den a este cabrón pastún!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message90_1M10">
+        <English>Hey hey kids, let's keep this civil. I know you have your differences, but think you're cooperating for a greater good.</English>
+        <Spanish>Ey, ey, niños, mantengamos las formas. Sé que tienen sus diferencias, pero piensen que están cooperando por un bien mayor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message91_1M10">
+        <English>You'll be putting an end to this operation and eliminating Al-Qaeda in the region once and for all. Do you not want that?</English>
+        <Spanish>Van a poner fin a esta operación y a eliminar a Al Qaeda en la región de una vez por todas. ¿Es que no quieren eso?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message92_1M10">
+        <English>You will earn this victory yourselves, we'll just come along for the ride. Our signal will be the dropping of a Daisy Cutter on the Whale.</English>
+        <Spanish>Se ganarán esta victoria ustedes, nosotros los acompañaremos. Nuestra señal será el lanzamiento de una Daisy Cutter sobre la Ballena.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message93_1M10">
+        <English>Commander Zia, come with me. Commander Haidar, you will go with Chris here. He will teach you how to be the best soldier you can be. Get to work.</English>
+        <Spanish>Comandante Zia, venga conmigo. Comandante Haidar, usted irá con Chris. Él le enseñará a ser el mejor soldado que puede ser. Manos a la obra.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message94_1M10">
+        <English>Alright, all units, on the move!</English>
+        <Spanish>¡Todas las unidades, en marcha!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message95_1M10">
+        <English>The valley is ours, gentlemen. It many not look like much, but managing so many men is no easy feat. You've done great.</English>
+        <Spanish>El valle es nuestro, caballeros. Puede que no parezca mucho, pero dirigir a tantos hombres no es nada fácil. Lo han hecho genial.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message96_1M10">
+        <English>And Gul, despite some mishaps, you're a good leader. I saw you clear that minefield on your own and lead all your men through the valley.</English>
+        <Spanish>Y Gul, a pesar de los percances, es un buen líder. Lo he visto despejar ese campo de minas por su cuenta y dirigir a sus hombres por el valle.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message97_1M10">
+        <English>More of Zia's men are on their way, so you and your tanks may leave and get some RnR. Thank you for your effort.</English>
+        <Spanish>Vienen más hombres de Zia de camino, así que sus tanques y ustedes pueden marcharse y descansar. Gracias por su esfuerzo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message98_1M10">
+        <English>Haidar, I know we don't always see eye to eye, but we did it. As a sign of goodwill, I'm sending half of my force with you.</English>
+        <Spanish>Haidar, sé que no siempre concordamos, pero lo hemos conseguido. Como muestra de buena fe, voy a enviar la mitad de mi fuerza con usted.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message99_1M10">
+        <English>I appreciate that, commander.</English>
+        <Spanish>Se lo agradezco, comandante.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_haas_radio_1M10">
+        <English>Texas 14 (LTC Haas)</English>
+        <Spanish>Texas 14 (Tte. Cnel. Haas)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_texas14_1M10">
+        <English>Texas 14</English>
+        <Spanish>Texas 14</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_t55_radio_1M10">
+        <English>T-55</English>
+        <Spanish>T-55</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_t55_dialogue_1M10">
+        <English>T-55 COMMANDER</English>
+        <Spanish>COMANDANTE DE T-55</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_haas_dialogue_1M10">
+        <English>LTC HAAS</English>
+        <Spanish>TTE. CNEL. HAAS</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lodin_radio_1M10">
+        <English>Zia Lodin</English>
+        <Spanish>Zia Lodin</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lodin_dialogue_1M10">
+        <English>ZIA</English>
+        <Spanish>ZIA</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_haidar_radio_1M10">
+        <English>Gul Haidar</English>
+        <Spanish>Gul Haidar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_haidar_dialogue_1M10">
+        <English>GUL</English>
+        <Spanish>GUL</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_grad_radio_1M10">
+        <English>Grad</English>
+        <Spanish>Grad</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_anvar_radio_1M10">
+        <English>Anvar Nabiyev</English>
+        <Spanish>Anvar Nabiyev</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_anvar_dialogue_1M10">
+        <English>ANVAR</English>
+        <Spanish>ANVAR</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_arab_dialogue_1M10">
+        <English>AL-QAEDA TERRORIST</English>
+        <Spanish>TERRORISTA DE AL QAEDA</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lodin_marker_1M10">
+        <English>Lodin's force</English>
+        <Spanish>Fuerza de Lodin</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_anvar_marker_1M10">
+        <English>Haidar's dismounted force</English>
+        <Spanish>Fuerza desmontada de Haidar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_haidar_marker_1M10">
+        <English>Haidar's mounted force</English>
+        <Spanish>Fuerza montada de Haidar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_grad_support_1M10">
+        <English>BM-21 strike</English>
+        <Spanish>Ataque de BM-21</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_grad_support_marker_1M10">
+        <English>BM-21 marker</English>
+        <Spanish>Marcador de BM-21</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_check_body_action_1M10">
+        <English>check body</English>
+        <Spanish>comprobar el cuerpo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_search_body_action_1M10">
+        <English>search body</English>
+        <Spanish>registrar el cuerpo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission_1M10">
+        <English>&lt;t size='1.5'&gt;T F   S U M M I T&lt;br/&gt;&lt;br/&gt;D-DAY +4 (0925)&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;T F   S U M M I T&lt;br/&gt;&lt;br/&gt;DÍA D +4 (0925)&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission2_1M10">
+        <English>&lt;t size='1.5'&gt;B A G R A M   A I R F I E L D&lt;br/&gt;&lt;br/&gt;D-DAY +4 (1030)&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;A E R O P U E R T O   D E   B A G R A M&lt;br/&gt;&lt;br/&gt;DÍA D +4 (1030)&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission3_1M10">
+        <English>&lt;t size='1.5'&gt;M E A N W H I L E ,   A T   G A R D E Z&lt;br/&gt;&lt;br/&gt;D-DAY +4 (1610)&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;M I E N T R A S   T A N T O ,   E N   G A R D E Z&lt;br/&gt;&lt;br/&gt;DÍA D +4 (1610)&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission4_1M10">
+        <English>&lt;t size='1.5'&gt;F O U R   D A Y S   L A T E R . . .&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;C U A T R O   D Í A S   D E S P U É S . . .&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission5_1M10">
+        <English>&lt;t size='1.5'&gt;S O M E   H O U R S   L A T E R . . .&lt;br/&gt;&lt;br/&gt;D-DAY +9 (1800)&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;U N A S   H O R A S   D E S P U É S . . .&lt;br/&gt;&lt;br/&gt;DÍA D +9 (1800)&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_end1_subtitle_1M10">
+        <English>Valley clear</English>
+        <Spanish>Valle despejado</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_end1_description_1M10">
+        <English>At the Tajiks' stubbornness and unwillingness to wait, the operation had to begin one day before schedule. However, the result would've been the same had we actually waited that day out. The valley was completely devoid of enemy, and especially the villages, which used to be their strongholds. The Coalition's job now is to count the bodies and destroy any remaining caches. This is pretty much over at this point.</English>
+        <Spanish>Ante la terquedad de los tayikos y su falta de ganas de esperar, la operación tuvo que comenzar un día antes de lo previsto. Sin embargo, el resultado habría sido el mismo si hubiéramos esperado ese día. El valle estaba completamente desprovisto de enemigos, y especialmente los pueblos, que solían ser sus bastiones. El trabajo de la Coalición ahora es contar los cuerpos y destruir cualquier alijo restante. Esto está prácticamente acabado a estas alturas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lost_subtitle_1M10">
+        <English>Prisoner killed</English>
+        <Spanish>Prisionero asesinado</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lost_description_1M10">
+        <English>Have you ever been told prisoners are non-combatatants and protected under the laws of war? Don't get them killed!</English>
+        <Spanish>¿Te han dicho alguna vez que los prisioneros son no combatientes y están protegidos por las leyes de la guerra? ¡No los mates!</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

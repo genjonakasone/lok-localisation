@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="OperationAnaconda">
+  <Package name="OperationAnaconda_1M11">
+    <Container name="STR_DN">
+	<Key ID="STR_TIOG_BriefingNotes_1M11">
+        <English>EDITOR'S NOTES:&lt;br/&gt;This is the shortest mission in the entire campaign, at under 15 minutes, but I wanted to include it to give some sort of closure to the campaign. Operation Polar Harpoon was IRL the conclusion of Operation Anaconda, and I've tried to depict it as faithfully as possible. To make up for the 'uneventfulness' and shortness of this mission, you will play as either a demo expert in C Company or a team leader in A Company, each with their own objectives and dialogues. The player character is randomly chosen at the start of the mission, giving this mission some degree of replayability.&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;None so far...</English>
+        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Esta es la misión más corta de toda la campaña, de menos de 15 minutos, pero quería incluirla para darle un cierre a la campaña. La Operación Polar Harpoon fue en realidad la conclusión de la Operación Anaconda, y he intentado representarla de la forma más fiel posible. Para compensar la «tranquilidad» y brevedad de esta misión, jugarás como un experto en demoliciones de la Compañía C o un líder de equipo de la Compañía A, cada uno con sus propios objetivos y diálogos. El personaje jugable se escoge de forma aleatoria al principio de la misión, lo que le confiere cierto nivel de rejugabilidad.&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Nada de momento...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingCommand_Text_player1_1M11">
+        <English>A. Signal:&lt;br/&gt; Mountain - MG HAGENBECK (CJTF Mountain CO)&lt;br/&gt; Panther - LTC BLABER (TF Bowie CO)&lt;br/&gt; Strike 4 - LTC TOWNSEND (4-31 CO)&lt;br/&gt; Strike 41 - CPT STEVENS (4-31 A Company CO)&lt;br/&gt; Strike 42 - LT EXUM&lt;br/&gt; Strike 43 (your team) - CPT KOZELKA (4-31 C Company CO)&lt;br/&gt; Strike 47 - Mortar team</English>
+        <Spanish>A. Señal:&lt;br/&gt; Mountain: May. Gral. HAGENBECK (oficial del la CJTF Mountain)&lt;br/&gt; Panther: Tte. Cnel. BLABER (oficial de la TF Bowie)&lt;br/&gt; Strike 4: Tte. Cnel. TOWNSEND (oficial del 4-31)&lt;br/&gt; Strike 41: Cap. STEVENS (oficial de la Compañía A del 4-31)&lt;br/&gt; Strike 42: Tte. EXUM&lt;br/&gt; Strike 43 (tu equipo): Cap. KOZELKA (oficial de la Compañía C del 4-31)&lt;br/&gt; Strike 47: Equipo de morteros</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingCommand_Text_player2_1M11">
+        <English>A. Signal:&lt;br/&gt; Mountain - MG HAGENBECK (CJTF Mountain CO)&lt;br/&gt; Panther - LTC BLABER (TF Bowie CO)&lt;br/&gt; Strike 4 - LTC TOWNSEND (4-31 CO)&lt;br/&gt; Strike 41 - CPT STEVENS (4-31 A Company CO)&lt;br/&gt; Strike 42 - LT EXUM (you)&lt;br/&gt; Strike 43 (your team) - CPT KOZELKA (4-31 C Company CO)&lt;br/&gt; Strike 47 - Mortar team</English>
+        <Spanish>A. Señal:&lt;br/&gt; Mountain: May. Gral. HAGENBECK (oficial del la CJTF Mountain)&lt;br/&gt; Panther: Tte. Cnel. BLABER (oficial de la TF Bowie)&lt;br/&gt; Strike 4: Tte. Cnel. TOWNSEND (oficial del 4-31)&lt;br/&gt; Strike 41: Cap. STEVENS (oficial de la Compañía A del 4-31)&lt;br/&gt; Strike 42: Tte. EXUM (tú)&lt;br/&gt; Strike 43: Cap. KOZELKA (oficial de la Compañía C del 4-31)&lt;br/&gt; Strike 47: Equipo de morteros</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSustainment_Text_1M11">
+        <English>1. Supply: Standard US Desert BDUs, Interceptor vests, PASGT helmets, standard issue US small arms including M4 carbines, Mossberg shotguns, M249 and M240 machine guns, and M24, M21 and M107 sniper rifles.&lt;br/&gt;2. Transportation: Both Strike companies will be deployed in 2 CH-47D Chinooks of the 101st Aviation Regiment.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Strike has 1x embedded medical sergeant, in the event of a mission failure due to substantial casualties, Mountain will authorize CASEVAC.</English>
+        <Spanish>1. Suministros: Uniformes estándar de combate en camuflaje desierto, chalecos Interceptor, cascos PASGT, armas reglamentarias de EE. UU. como carabinas M4, escopetas Mossberg, ametralladoras M249 y M240, y fusiles de tirador M24, M21 y M107.&lt;br/&gt;2. Transporte: Ambas compañías Strike serán desplegadas en 2 CH-47D Chinooks del 101.er Regimiento de Aviación.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Strike tiene 1x sargento médico asignado. En caso de fracaso debido a una cantidad considerable de bajas, Mountain autorizará CASEVAC.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingExecution_Text_1M11">
+        <English>Two companies of the 4th Battalion, 31st Infantry Regiment will carry out Operation Polar Harpoon:&lt;br/&gt;&lt;br/&gt;Alpha Company, led by CPT John Stevens, will be deployed &lt;marker name="marker_1">here&lt;/marker&gt;. Upon disembarking, they will cross the &lt;marker name="marker_9">Naka Valley&lt;/marker&gt; on foot, seaching compounds, destroying caches, and requisitioning enemy weapons left behind. When they are finished, they will set up camp there and wait for the Chinooks to arrive the next day.&lt;br/&gt;&lt;br/&gt;Charlie Company, led by CPT Gregory Kozelka, will be deployed &lt;marker name="marker_0">here&lt;/marker&gt;. Upon disembarking, they will climb up the &lt;marker name="marker_7">Takur Ghar&lt;/marker&gt; mountain on foot, investigating Al-Qaeda's defensive positions, destroying caches, requisitioning enemy weapons left behind, and finding evidence of the battle that took place on the peak. When they are finished, they will set up camp there and wait for the Chinooks to arrive the next day.</English>
+        <Spanish>Dos compañías del 4.º Batallón, 31.er Regimiento de Infantería llevarán a cabo la Operación Polar Harpoon:&lt;br/&gt;&lt;br/&gt;La Compañía Alpha, liderada por el Cap. John Stevens, será desplegada &lt;marker name="marker_1">aquí&lt;/marker&gt;. Al apearse, cruzarán el &lt;marker name="marker_9">valle de Naka&lt;/marker&gt; a pie, registrando complejos, destruyendo alijos e incautando armas enemigas. Cuando terminen, montarán su campamento allí y esperarán a que lleguen los Chinooks el día siguiente.&lt;br/&gt;&lt;br/&gt;La Compañía Charlie, liderada por el Cap. Gregory Kozelka, será desplegada &lt;marker name="marker_0">aquí&lt;/marker&gt;. Al apearse, escalarán la montaña de &lt;marker name="marker_7">Takur Ghar&lt;/marker&gt; a pie, investigando las posiciones defensivas de Al Qaeda, destruyendo alijos, incautando armas enemigas y buscando pruebas de la batalla acontecida en la cima. Cuando terminen, montarán su campamento allí y esperarán a que lleguen los Chinooks el día siguiente.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingMission_Text_player1_1M11">
+        <English>Who: 1st Platoon, C Company, 4th Battalion, 31st Infantry Regiment, 10th Mountain Division, Task Force Commando (TF Commando)&lt;br/&gt;What: SWEEP Takur Ghar&lt;br/&gt;Where: In vicinity, Shah-i-Kot Valley&lt;br/&gt;When: 062500ZMAR18&lt;br/&gt;Why: Operation Anaconda</English>
+        <Spanish>Quién: 1.er Pelotón, Compañía C, 4.º Batallón, 31.er Regimiento de Infantería, 10.ª División de Montaña, Fuerza Operativa Commando (TF Commando)&lt;br/&gt;Qué: PEINAR Takur Ghar&lt;br/&gt;Dónde: En las inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Cuándo: 062500ZMAR18&lt;br/&gt;Por qué: Operación Anaconda</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingMission_Text_player2_1M11">
+        <English>Who: 3rd Platoon, A Company, 4th Battalion, 31st Infantry Regiment, 10th Mountain Division, Task Force Commando (TF Commando)&lt;br/&gt;What: SWEEP the Naka Valley&lt;br/&gt;Where: In vicinity, Shah-i-Kot Valley&lt;br/&gt;When: 062500ZMAR18&lt;br/&gt;Why: Operation Anaconda</English>
+        <Spanish>Quién: 3.er Pelotón, Compañía A, 4.º Batallón, 31.er Regimiento de Infantería, 10.ª División de Montaña, Fuerza Operativa Commando (TF Commando)&lt;br/&gt;Qué: PEINAR el valle de Naka&lt;br/&gt;Dónde: En las inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Cuándo: 062500ZMAR18&lt;br/&gt;Por qué: Operación Anaconda</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSituation_Text_player1_1M11">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: No expected fighters&lt;br/&gt;Activity: No movement, no radio chatter&lt;br/&gt;Location: Vicinity, Shah-i-Kot Valley&lt;br/&gt;Unit: Unknown, none expected&lt;br/&gt;Time Observed: March 16, 2002&lt;br/&gt;Equipment: Small arms, RPGs, stationary weapons&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To sweep Takur Ghar and the Naka Valley to the east, neutralizing enemy caches and capturing enemy weapons.&lt;br/&gt;2. Adjacent Units: CPT John Stevens' A Company (callsign: Strike 41).&lt;br/&gt;3. Supporting: Two AH-64A Apaches of the 101st Aviation Regiment will provide support during the insertion of the 31st Infantry Regiment. Mortar support will be available when Strike 47 deploys its mortar. CASEVAC will be available for this mission at the request of Mountain.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: No se esperan enemigos&lt;br/&gt;Actividad: No hay movimiento, no hay vibraciones de radio&lt;br/&gt;Ubicación: Inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Unidades: Se desconoce, no se esperan&lt;br/&gt;Fecha de observación: 16 de marzo de 2002&lt;br/&gt;Equipo: armas ligeras, RPG, armas estacionarias&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Peinar Takur Ghar y el valle de Naka al este, neutralizando alijos enemigos y capturando armas enemigas.&lt;br/&gt;2. Unidades adyacentes: Compañía A del Cap. John Stevens (indicativo: Strike 41).&lt;br/&gt;3. Apoyo: Dos AH-64A Apaches del 101.er Regimiento de Aviación proporcionarán apoyo durante la inserción del 31.er Regimiento de Infantería. El apoyo de morteros estará disponible cuando Strike 47 despliegue su mortero. La CASEVAC solo estará autorizada cuando la solicite Mountain.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSituation_Text_player2_1M11">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: No expected fighters&lt;br/&gt;Activity: No movement, no radio chatter&lt;br/&gt;Location: Vicinity, Shah-i-Kot Valley&lt;br/&gt;Unit: Unknown, none expected&lt;br/&gt;Time Observed: March 16, 2002&lt;br/&gt;Equipment: Small arms, RPGs, stationary weapons&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To sweep Takur Ghar and the Naka Valley to the east, neutralizing enemy caches and capturing enemy weapons.&lt;br/&gt;2. Adjacent Units: LTC Stephen Townsend's TAC (callsign: Strike 4), CPT Gregory Kozelka's C Company (callsign: Strike 43).&lt;br/&gt;3. Supporting: Two AH-64A Apaches of the 101st Aviation Regiment will provide support during the insertion of the 31st Infantry Regiment. Mortar support will be available when Strike 47 deploys its mortar. CASEVAC will be available for this mission at the request of Mountain.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: No se esperan enemigos&lt;br/&gt;Actividad: No hay movimiento, no hay vibraciones de radio&lt;br/&gt;Ubicación: Inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Unidades: Se desconoce, no se esperan&lt;br/&gt;Fecha de observación: 16 de marzo de 2002&lt;br/&gt;Equipo: armas ligeras, RPG, armas estacionarias&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Peinar Takur Ghar y el valle de Naka al este, neutralizando alijos enemigos y capturando armas enemigas.&lt;br/&gt;2. Unidades adyacentes: TAC del Tte. Cnel. Stephen Townsend (indicativo: Strike 4), Compañía C del Cap. Gregory Kozelka (indicativo: Strike 43).&lt;br/&gt;3. Apoyo: Dos AH-64A Apaches del 101.er Regimiento de Aviación proporcionarán apoyo durante la inserción del 31.er Regimiento de Infantería. El apoyo de morteros estará disponible cuando Strike 47 despliegue su mortero. La CASEVAC solo estará autorizada cuando la solicite Mountain.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Briefing_Text_1M11">
+        <English>Task Force Rakkasan has been finally pulled out of the Shah-i-Kot Valley. The Afghans have cleared the valley floor, but the high command is still worried about two spots: the &lt;marker name="marker_45">Whale&lt;/marker&gt; and &lt;marker name="marker_10">Takur Ghar&lt;/marker&gt;. While LTC Stogran and the Canadians have swept the Whale for enemy movement, the 4th Battalion, 31st Infantry Regiment has been tasked with clearing Takur Ghar. Alpha Company, led by CPT John Stevens, will sweep the &lt;marker name="marker_9">Naka Valley&lt;/marker&gt;, southeast of Takur Ghar. Charlie Company, led by CPT Gregory Kozelka, will sweep the peak itself.</English>
+        <Spanish>La Fuerza Operativa Rakkasan ha sido retirada por fin del valle de Shah-i-Kot. Los afganos han despejado el fondo del valle, pero el alto mando sigue preocupado por dos puntos: la &lt;marker name="marker_45">Ballena&lt;/marker&gt; y &lt;marker name="marker_10">Takur Ghar&lt;/marker&gt;. Mientras el Tte. Cnel. Stogran y los canadienses han rastreado la Ballena en busca de movimientos enemigos, el 4.º Batallón del 31.er Regimiento de Infantería ha recibido el encargo de despejar Takur Ghar. La Compañía Alpha, liderada por el Cap. John Stevens, peinará el &lt;marker name="marker_9">valle de Naka&lt;/marker&gt;, al sureste de Takur Ghar. La Compañía Charlie, liderada por el Cap. Gregory Kozelka, peinará la cima en sí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_player1_Description_1M11">
+        <English>C Company's main objective for Operation Polar Harpoon is to reconnoitre &lt;marker name="marker_7">Takur Ghar&lt;/marker&gt;, collect any US hardware left behind from the battle, and destroy any enemy caches or stationary weapons.</English>
+        <Spanish>El objetivo principal de la Compañía C para la Operación Polar Harpoon es reconocer &lt;marker name="marker_7">Takur Ghar&lt;/marker&gt;, recoger el equipo estadounidense abandonado durante la batalla y destruir cualquier alijo o arma estacionaria del enemigo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_player1_Title_1M11">
+        <English>Investigate Takur Ghar</English>
+        <Spanish>Investigar Takur Ghar</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj1_2_player1_Description_1M11">
+        <English>One unmanned DShK machine gun has been spotted overlooking the Shah-i-Kot Valley. It needs to go. Use an incendiary grenade or an explosive charge to render it unusable.</English>
+        <Spanish>Se ha avistado una ametralladora DShK abandonada con vistas al valle de Shah-i-Kot. Tiene que desaparecer. Usa una granada incendiaria o una carga explosiva para inutilizarla.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_2_player1_Title_1M11">
+        <English>Destroy the DShKM</English>
+        <Spanish>Destruir la DShKM</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj1_3_player1_Description_1M11">
+        <English>One unmanned SPG-9 recoilless rifle has been spotted overlooking the Shah-i-Kot Valley. It needs to be destroyed pronto, lest some Talib mans it and destroys half our motor fleet.</English>
+        <Spanish>Se ha avistado un cañón sin retroceso SPG-9 abandonado con vistas al valle de Shah-i-Kot. Hay que destruirlo ya de ya, no sea que algún tali lo use para destruir la mitad de nuestros vehículos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_3_player1_Title_1M11">
+        <English>Destroy the SPG-9</English>
+        <Spanish>Destruir el SPG-9</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj1_4_player1_Description_1M11">
+        <English>The Arabs' trench and bunker network on the peak harbors at least two PKM machine guns and one explosive cache. Destroy them.</English>
+        <Spanish>La red de trincheras y búnkeres de los árabes en la cima alberga al menos dos ametralladoras PKM y un alijo de explosivos. Destrúyelos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_4_player1_Title_1M11">
+        <English>Clear the trenches and bunkers</English>
+        <Spanish>Despejar las trincheras y los búnkeres</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj1_5_player1_Description_1M11">
+        <English>We have found a hidden enemy cache within an alcove on Takur Ghar. The sneaky assholes really thought about the Predator identifying it... But we have found it instead. Destroy it.</English>
+        <Spanish>Hemos encontrado un alijo enemigo dentro de un hueco en Takur Ghar. Los capullos astutos pensaron en que el Predator no lo identificara... Pero lo hemos encontrado nosotros. Destrúyelo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_5_player1_Title_1M11">
+        <English>Destroy the cache</English>
+        <Spanish>Destruir el alijo</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj1_6_player1_Description_1M11">
+        <English>Takur Ghar looks clear for now and all enemy caches and weapons have been destroyed. Report to LTC Townsend for further orders.</English>
+        <Spanish>Takur Ghar parece despejado por ahora y todos los alijos y armas enemigos han sido destruidos. Preséntate ante el Tte. Cnel. Townsend para recibir más órdenes.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_6_player1_Title_1M11">
+        <English>Report to LTC Townsend</English>
+        <Spanish>Presentarse ante el Tte. Cnel. Townsend</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj1_player2_Description_1M11">
+        <English>A Company's main objective for Operation Polar Harpoon is to reconnoitre the &lt;marker name="marker_9">Naka Valley&lt;/marker&gt;, a valley southeast of Takur Ghar, and to destroy any enemy caches or stationary weapons.</English>
+        <Spanish>El objetivo principal de la Compañía A para la Operación Polar Harpoon es reconocer el &lt;marker name="marker_9">valle de Naka&lt;/marker&gt;, un valle al sureste de Takur Ghar, y destruir cualquier alijo o arma estacionaria del enemigo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_player2_Title_1M11">
+        <English>Investigate the Naka Valley</English>
+        <Spanish>Investigar el valle de Naka</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj1_2_player2_Description_1M11">
+        <English>We have found a compound in the Naka Valley. Although all its occupants are now dead, probably due to the airstrikes, one building is not fully destroyed and could be housing something. Investigate it.</English>
+        <Spanish>Hemos encontrado un complejo en el valle de Naka. Aunque todos sus ocupantes están muertos, probablemente debido a los ataques aéreos, un edificio no está totalmente destruido y podría albergar algo. Investígalo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_2_player2_Title_1M11">
+        <English>Search the building</English>
+        <Spanish>Registrar el edificio</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj1_3_player2_Description_1M11">
+        <English>Indeed, the half-destroyed building was holding a weapons cache. The airstrikes destroyed the opposite part of the house, including the cache guard. Order your squad's demolitions expert to destroy it.</English>
+        <Spanish>Efectivamente, el edificio medio destruido guardaba un alijo de armas. Los ataques aéreos destruyeron la parte opuesta de la casa, incluido el guardián del alijo. Ordena al experto en demoliciones de tu escuadrón que lo destruya.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_3_player2_Title_1M11">
+        <English>Destroy the cache</English>
+        <Spanish>Destruir el alijo</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj1_4_player2_Description_1M11">
+        <English>There's two bunkers in the Naka Valley. Though they seem empty, you never know. While Stevens' platoon sets up the explosives on the huge cache, your platoon will scout that position.</English>
+        <Spanish>Hay dos búnkeres en el valle de Naka. Aunque parecen vacíos, nunca se sabe. Mientras el pelotón de Stevens prepara los explosivos en el alijo enorme, tu pelotón explorará esa posición.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_4_player2_Title_1M11">
+        <English>Scout the bunkers</English>
+        <Spanish>Explorar los búnkeres</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_player2_Description_1M11">
+        <English>After 6 hours, the huge cache inside the ruined building has been wired with C4. Time to trigger it. Tell your demolitions expert to set it off.</English>
+        <Spanish>Después de 6 horas, el enorme alijo dentro del edificio en ruinas ha sido cableado con C4. Es hora de activarlo. Dile a tu experto en demoliciones que lo active.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_player2_Title_1M11">
+        <English>Trigger the C4</English>
+        <Spanish>Activar el C4</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_MissionTitle_1M11">
+        <English>Polar Harpoon</English>
+        <Spanish>Polar Harpoon</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Intro_1M11">
+        <English>Mission 11 Intro</English>
+        <Spanish>Misión 11: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Outro_1M11">
+        <English>Mission 11 Outro</English>
+        <Spanish>Misión 11: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionDescription_1M11">
+        <English>After the Canadians have cleared the Whale of enemy troops and munitions, the 31st Infantry Regiment is airlifted to the Shah-i-Kot to sweep Takur Ghar and the Naka Valley after the infamous battle on the peak.</English>
+        <Spanish>Después de que los canadienses hayan despejado la Ballena de tropas y municiones enemigas, el 31.er Regimiento de Infantería es transportado por aire a Shah-i-Kot para peinar Takur Ghar y el valle de Naka tras la infame batalla en la cima.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_text_1M11">
+        <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER XI - Polar Harpoon&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'They were... the hard core cadre that had been doing the training for a number of years in Afghanistan of these tens of thousands of terrorists that were trained there. If you think of them in terms of the captains and majors and drill sergeants that might run our schools at Fort Benning or Fort Sill, that was who these characters were. They were war veterans.'&lt;br/&gt;&lt;br/&gt;-LTG FRANKLIN L. HAGENBECK (RET.)&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO XI: Polar Harpoon&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«Eran... el núcleo duro que había estado instruyendo durante varios años en Afganistán a estas decenas de miles de terroristas que habían sido entrenados allí. Si piensas en ellos en términos de los capitanes y mayores y sargentos de instrucción que podrían llevar nuestras academias en Fort Benning o Fort Sill, así eran estos personajes. Eran veteranos de guerra».&lt;br/&gt;&lt;br/&gt;—TTE. GRAL. FRANKLIN L. HAGENBECK (JUB.)&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel1_player1_1M11">
+        <English>CPL Joel Burns</English>
+        <Spanish>Cabo Joel Burns</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel1_player2_1M11">
+        <English>LT Andrew Exum</English>
+        <Spanish>Tte. Andrew Exum</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel2_1M11">
+        <English>4th Bn., 31st Inf. Regt.</English>
+        <Spanish>4.º Bat., 31.er Reg. de Inf.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel3_1M11">
+        <English>Approaching Takur Ghar</English>
+        <Spanish>Rumbo a Takur Ghar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel4_1M11">
+        <English>March 18, 2002 - 0625</English>
+        <Spanish>18 marzo 2002 - 0625</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message1_1M11">
+        <English>Get set for landing!</English>
+        <Spanish>¡Prepárense para aterrizar!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message2_1M11">
+        <English>Out, out! Form a perimeter!</English>
+        <Spanish>¡Fuera, fuera! ¡Formen un perímetro!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message3_1M11">
+        <English>Takur Ghar's right there! Let's get moving!</English>
+        <Spanish>¡Takur Ghar está justo ahí! ¡En marcha!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message4_1M11">
+        <English>Look, there's Alpha landing to our left. Just in time to sweep the peak and the valley together.</English>
+        <Spanish>Miren, Alpha está aterrizando a nuestra izquierda. Justo a tiempo para peiner la cima y el valle juntos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message5_1M11">
+        <English>So what are we expecting on the peak, sir?</English>
+        <Spanish>¿Qué esperamos en la cima, señor?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message6_1M11">
+        <English>The briefings exist for a reason, don't they, Corporal? Anyway, here's the deal.</English>
+        <Spanish>Para algo están las sesiones informativas, ¿no es así, cabo? En cualquier caso, verá.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message7_1M11">
+        <English>It's a pretty standard search operation. We expect the entire valley to be clear by now, but eyes open.</English>
+        <Spanish>Es una operación de búsqueda muy normalita. Esperamos que el valle entero esté despejado a estas alturas, pero ojos abiertos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message8_1M11">
+        <English>If we find any caches or stationary weapons, you'll destroy them. That's why you got the explosives, you dimwit.</English>
+        <Spanish>Si vemos algún alijo o arma estacionaria, usted lo destruye. Por eso lleva los explosivos, cabeza de chorlito.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message9_1M11">
+        <English>Mortar team, stay here and deploy the mortar! Who knows if we're gonna need it.</English>
+        <Spanish>¡Equipo de morteros, quédense aquí y desplieguen el mortero! Quién sabe si lo vamos a necesitar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message10_1M11">
+        <English>Five bodies and a destroyed cave. Looks like this was a makeshift camp.</English>
+        <Spanish>Cinco cuerpos y una cueva destruida. Parece que esto era un campamento improvisado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message11_1M11">
+        <English>Alright, up we go then.</English>
+        <Spanish>Vale, pues vamos para arriba.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message12_1M11">
+        <English>A Dushka overlooking the entire valley. Burns, destroy it.</English>
+        <Spanish>Una Dushka supervisando todo el valle. Burns, destrúyala.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message13_1M11">
+        <English>Good. Let's keep moving.</English>
+        <Spanish>Bien. Sigamos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message14_1M11">
+        <English>Holy shit, this must've been one hell of a battle. There's bodies and craters everywhere...</English>
+        <Spanish>Hostia puta, debe de haber sido una pedazo de batalla. Hay cuerpos y cráteres por todas partes...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message15_1M11">
+        <English>A recoilless rifle. Good thing our ground vehicles didn't come through here. Burns, your turn.</English>
+        <Spanish>Un cañón sin retroceso. Menos mal que nuestros vehículos terrestres no han pasado por aquí. Burns, le toca.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message16_1M11">
+        <English>Good Lord, the fuckers had their own trench network and everything. Okay Corporal, get in there and destroy any caches or weapons you find.</English>
+        <Spanish>Dios bendito, los cabrones tenían su propia red de trincheras y todo. Vale, cabo, entre ahí y destruya cualquier alijo o arma que encuentre.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message17_1M11">
+        <English>That's an SF SAW. Probably belonged to that SEAL, Roberts.</English>
+        <Spanish>Esto es una SAW de las fuerzas especiales. Seguramente fuese de ese SEAL, Roberts.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message18_1M11">
+        <English>This sector looks clear. Waiting on you, Burns.</English>
+        <Spanish>Este sector parece despejado. Lo esperamos, Burns.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message19_1M11">
+        <English>Strike 47 to all Strike units: mortar is online. Tell us where you want those shells. Out.</English>
+        <Spanish>STrike 47 para todas las unidades Strike: mortero disponible. Dígannos dónde quieren los proyectiles. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message20_1M11">
+        <English>Strike 4 Actual, the trenches are clear. Two PKs and one cache down, over.</English>
+        <Spanish>Strike 4 Jefe, las trincheras están despejadas. Dos PK y un alijo menos, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message21_1M11">
+        <English>Roger. Let's keep going. Don't fall behind, Corporal.</English>
+        <Spanish>Recibido. Sigamos. No se quede atrás, cabo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message22_1M11">
+        <English>SEAL helmet on the ground. Roberts'?</English>
+        <Spanish>Un casco de los SEAL en el suelo. ¿El de Roberts?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message23_1M11">
+        <English>Got visual on an abandoned hut and a mortar. Let's go in for a closer look.</English>
+        <Spanish>Veo una choza abandonada y un mortero. Vamos a echar un vistazo más de cerca.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message24_1M11">
+        <English>That mortar is already destroyed, funnily enough. On me, let's check the hut!</English>
+        <Spanish>El mortero ya está destruido, curiosamente. ¡Conmigo, vamos a comprobar la choza!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message25_1M11">
+        <English>Clear!</English>
+        <Spanish>¡Limpia!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message26_1M11">
+        <English>Hah, witty cunts. They had one stash hidden in this little alcove.</English>
+        <Spanish>Ja, mamones astutos. Tenían un alijo escondido en este pequeño hueco.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message27_1M11">
+        <English>Yep. Good thing we didn't miss it. Burns, hope you got some explosives left. The rest of you, stay away from the cave!</English>
+        <Spanish>Sí. Menos mal que no nos lo hemos saltado. Burns, espero que le queden explosivos. ¡El resto de ustedes, manténganse alejados de la cueva!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message28_1M11">
+        <English>That cache is done for, Coronel.</English>
+        <Spanish>El alijo está acabado, coronel.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message29_1M11">
+        <English>Good job, Corporal. I think we're done here. Let's cover Alpha from our high ground.</English>
+        <Spanish>Buen trabajo, cabo. Creo que hemos terminado por aquí. Vamos a cubrir a Alpha desde nuestro terreno elevado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message30_1M11">
+        <English>A SIG pistol. This must've belonged to one of the Mako SEALs.</English>
+        <Spanish>Una pistola SIG. Debía de pertenecer a uno de los SEAL de Mako.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message31_1M11">
+        <English>What the fuck? This Uzbek is wearing a legit US parka. Where'd he get it from?</English>
+        <Spanish>¿Qué coño? Este uzbeko lleva una parka estadounidense real. ¿De dónde la ha sacado?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message32_1M11">
+        <English>A spec-ops helmet next to the destroyed Chinook. It says 'Crose'. Probably from a fallen Ranger.</English>
+        <Spanish>Un casco de fuerzas especiales al lado del Chinook destruido. Dice «Crose». Probablemente de un Ranger caído.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message33_1M11">
+        <English>Strike 41, this is Actual. Takur Ghar is clear. We're going to set up shop here and cover you while you sweep the valley, over.</English>
+        <Spanish>Strike 41, aquí Jefe. Takur Ghar estád espejado. Vamos a montar el chiringuito aquí y a cubrirlos mientras peinan el valle, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message34_1M11">
+        <English>Roger that, much appreciated. Out.</English>
+        <Spanish>Recibido, se agradece. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message35_1M11">
+        <English>Hey, Greg! You gotta listen to this. Franks is in Bagram.</English>
+        <Spanish>¡Eh, Greg! Tienes que escuchar esto. Franks está en Bagram.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message36_1M11">
+        <English>...operation was an unqualified and absolute success from the perspective not only of the Coalition forces involved, but also from the view of the Afghan forces.</English>
+        <Spanish>...operación ha sido un éxito absoluto y sin reservas, no solo desde el punto de vista de las fuerzas de la Coalición implicadas, sino también desde la perspectiva de las fuerzas afganas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message37_1M11">
+        <English>I won't talk to you about numbers of casualties. I won't talk to you about body count. But I will say that the area around Shah-i-Kot is a completely different area than it was two weeks ago.</English>
+        <Spanish>No les hablaré de cifras de víctimas. No les hablaré sobre el recuento de cadáveres. Pero diré que el área alrededor de Shah-i-Kot es completamente diferente de lo que era hace dos semanas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message38_1M11">
+        <English>What a proud day for me-- to honor these heroes and to honor you. As the president of the United States said very early in this, it's going to be the responsibility of our men and women in uniform to do the work. The generals will do what the generals do, to be sure. But where it counts is where you are. What counts is who you are.</English>
+        <Spanish>Qué día tan orgulloso para mí... honrar a estos héroes y honrarlos a ustedes. Como dijo el presidente de los Estados Unidos muy al principio, será responsabilidad de nuestros hombres y mujeres de uniforme hacer el trabajo. Los generales harán lo que hacen los generales, sin duda. Pero lo que cuenta es dónde estás. Lo que cuenta es quién eres.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message39_1M11">
+        <English>This is about Operation Anaconda, which has been completed. It has because you did it. You did it on time. You did it with a good plan. You did it with violent execution. You did it taking care of one another. You did it taking care of business.</English>
+        <Spanish>Se trata de la Operación Anaconda, que ha terminado. Ha terminado porque ustedes lo han hecho. Lo han hecho a tiempo. Lo han hecho con un buen plan. Lo han hecho con una ejecución violenta. Lo han hecho cuidando los unos de los otros. Lo han hecho encargándose de sus asuntos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message39_2_1M11">
+        <English>And the only thing I guess I can leave you with is you are much appreciated. You're, in fact, treasured. I love all of you. God bless you and God bless this work. Thanks a lot.</English>
+        <Spanish>Y lo único con lo que creo que puedo dejarlos es que son muy apreciados. Son, de hecho, atesorados. Los quiero a todos. Que Dios los bendiga y que Dios bendiga este trabajo. Muchas gracias.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message40_1M11">
+        <English>It's over?</English>
+        <Spanish>¿Se ha acabado?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message41_1M11">
+        <English>Looks like. This is honestly the biggest birthday present I could've asked for. Go gather the men, I'll ask about our evac.</English>
+        <Spanish>Eso parece. No podía haber pedido un mejor regalo de cumpleaños. Reúne a los hombres, yo preguntaré por la evacuación.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message42_1M11">
+        <English>Copy. Oh, and happy birthday, sir.</English>
+        <Spanish>Recibido. Ah, y felicidades, señor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message43_1M11">
+        <English>We're closing in on our LZ. Lieutenant Exum, care to do a last-minute briefing for the scatterbrains and the sleepyheads?</English>
+        <Spanish>Nos acercamos a nuestra ZA. Teniente Exum, ¿le importa hacer un repaso de última hora para los desperdigados y los dormilones?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message44_1M11">
+        <English>Absolutely, sir. We're in the middle of Operation Polar Harpoon, which is part of Operation Anaconda, which is part of Operation Enduring Freedom. Whatever.</English>
+        <Spanish>Desde luego, señor. Estamos en medio de la Operación Polar Harpoon, que forma parte de la Operación Anaconda, que forma parte de la Operación Libertad Duradera. En fin.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message45_1M11">
+        <English>Our regiment's objective is to sweep the southern end of the Shah-i-Kot Valley. This means Takur Ghar and the Naka Valley to its southeast.</English>
+        <Spanish>El objetivo de nuestro regimiento es peinar el extremo sur del valle de Shah-i-Kot. Esto significa Takur Ghar y el valle de Naka al sureste.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message46_1M11">
+        <English>Charlie takes Takur Ghar, we, Alpha, take the Naka Valley. We won't leave a single stone unturned.</English>
+        <Spanish>Charlie se ocupa de Takur Ghar, nosotros, Alpha, del valle de Naka. No dejaremos piedra sin remover.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message47_1M11">
+        <English>Whatever we see, an IED, an AK, a Dushka, we blow it up. And by we, I mean you, Nichols.</English>
+        <Spanish>Cualquier cosa que veamos, un IED, un AK, una Dushka, lo volamos. Y por nosotros me refiero a usted, Nichols.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message48_1M11">
+        <English>Enemy resistance is expected to be null, but Charlie's bringing the mortar team with them just in case.</English>
+        <Spanish>Se espera que la resistencia enemiga sea nula, pero Charlie lleva el mortero por si acaso.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message49_1M11">
+        <English>Any doubts or complaints? ...No? Good. Let's get this bread.</English>
+        <Spanish>¿Alguna duda o queja? ...¿No? Bien. Vamos a ganarnos el pan.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message50_1M11">
+        <English>Spread out! Form a perimeter!</English>
+        <Spanish>¡Divídanse! ¡Formen un perímetro!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message51_1M11">
+        <English>Two dead fighters here. Arabs or Uzbeks, but definitely not Taliban. We're getting close. Follow me, but let's take it easy.</English>
+        <Spanish>Dos combatientes muertos. Árabes o uzbekos, pero desde luego talibanes no. Nos estamos ccercando. Síganme, pero vamos con calma.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message52_1M11">
+        <English>More bodies. This leads to something.</English>
+        <Spanish>Más cuerpos. Esto apunta a algo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message53_1M11">
+        <English>Eyes on a compound to our 12.</English>
+        <Spanish>Veo un complejo a nuestras 12.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message54_1M11">
+        <English>Yeah, it's not exactly well hidden. Let's take a closer look.</English>
+        <Spanish>Sí, tampoco es que esté bien oculto. Vamos a acercanos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message55_1M11">
+        <English>The outside looks clear. Lieutenant Exum, go check out that half-destroyed house to our left.</English>
+        <Spanish>El exterior parece despejado. Teniente Exum, vaya a ver esa casa medio destruida a nuestra izquierda.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message56_1M11">
+        <English>Roger.</English>
+        <Spanish>Recibido.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message57_1M11">
+        <English>Looks like Charlie has started their demolitions already.</English>
+        <Spanish>Parece que Charlie ya ha comenzado sus demoliciones.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message58_1M11">
+        <English>You just had to imagine it. A cache. And its guard dead next to it. Nichols, get over here!</English>
+        <Spanish>Era de esperar. Un alijo. Y su guardián muerto al lado. ¡Nichols, venga aquí!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message59_1M11">
+        <English>Planting charges! Fire in the hole!</English>
+        <Spanish>¡Colocando cargas! ¡Agachen la cabeza!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message60_1M11">
+        <English>Well done, Nichols. Let's keep moving!</English>
+        <Spanish>Bien hecho, Nichols. ¡Sigamos avanzando!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortar_4_dialogue_1_1M11">
+        <English>Strike 42 to 47, requesting mortar support at grid</English>
+        <Spanish>Strike 42 a 37, solicito apoyo de mortero en las coordenadas</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortar_4_dialogue_1_2_1M11">
+        <English>. How copy, over?</English>
+        <Spanish>. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortar_4_dialogue_1_3_1M11">
+        <English>Rounds complete.</English>
+        <Spanish>Disparos realizados.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message61_1M11">
+        <English>Hmm, another ruined building to the right, behind the rocks...</English>
+        <Spanish>Mmm, otro edificio destrozado a la derecha, detrás de las rocas...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message62_1M11">
+        <English>Jesus Christ, that's a fucking cache if I've ever seen one. Andy, mind if we take Nichols? This is gonna take awhile.</English>
+        <Spanish>Dios santo, pocos alijos he visto como este. Andy, ¿te importa si nos quedamos a Nichols? Esto va a llevar lo suyo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message63_1M11">
+        <English>Sure, he's all yours. What do you want us to do in the meantime?</English>
+        <Spanish>Sí, todo suyo. ¿Qué quiere que hagamos mientras tanto?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message64_1M11">
+        <English>I think I saw a couple of bunkers to our southeast. Worth checking out. But tread carefully, use the mortars if you have to.</English>
+        <Spanish>Creo que he visto un par de búnkeres a nuestro sureste. No estaría de más revisarlos. Pero con cuidado, use los morteros si hace falta.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message65_1M11">
+        <English>On our way. Keep your radio on.</English>
+        <Spanish>Vamos para allá. Deje la radio encendida.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message66_1M11">
+        <English>Oh shit! Contact front, contact front!</English>
+        <Spanish>¡Mierda! ¡Contacto al frente, contacto al frente!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message67_1M11">
+        <English>Motherfucker!</English>
+        <Spanish>¡Hijo de puta!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message68_1M11">
+        <English>Strike 42, we heard gunfire. Everything alright over there?</English>
+        <Spanish>Strike 42, hemos oído disparos. ¿Va todo bien?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message69_1M11">
+        <English>Affirmative. It was some goddamn Arab with an M249 that came out of a bunker. He's been neutralized.</English>
+        <Spanish>Afirmativo. Era un puñetero árabe con una M249 que ha salido de un búnker. Ha sido neutralizado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message70_1M11">
+        <English>Understood. Search that bunker! Out.</English>
+        <Spanish>Entendido. ¡Registren ese búnker! Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message71_1M11">
+        <English>This bunker is clear.</English>
+        <Spanish>Este búnker está despejado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message72_1M11">
+        <English>Jesus...</English>
+        <Spanish>Dios...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message73_1M11">
+        <English>41, this is 42, message. That Arab? He was guarding a massive cache, and get this, it's all captured US weapons. How copy, over?</English>
+        <Spanish>41, aquí 42, mensaje. ¿El árabe? Estaba protegiendo un alijo enorme, y atención, son todo armas estadounidenses capturadas. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message74_1M11">
+        <English>All copied. We'll requisition them once we blow this stash up. Hold your position for the moment, out.</English>
+        <Spanish>Alto y claro. Las incautaremos cuando volemos este alijo. Mantengan la posición por el momento, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message75_1M11">
+        <English>Ready when you are, Lieutenant. Blow it to hell.</English>
+        <Spanish>Cuando quiera, teniente. Vuélelo en mil pedazos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message76_1M11">
+        <English>Fire in the hole! Fire in the hole!</English>
+        <Spanish>¡A cubierto! ¡A cubierto!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message77_1M11">
+        <English>There's that done. Let's go inside that bunker.</English>
+        <Spanish>Una cosa menos. Vamos a ver ese búnker.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message78_1M11">
+        <English>So, when do you think this'll be over?</English>
+        <Spanish>¿Cuándo cree que acabará esto?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message79_1M11">
+        <English>Can't be much longer, right? We've searched every nook and cranny of the valley and there's not AQ to be seen...</English>
+        <Spanish>No puede quedar mucho, ¿no? Hemos registrado cada rincón del valle y no quedan más de AQ...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message80_1M11">
+        <English>Yeah. Unless they- wait, hold on. Something coming through SATCOM.</English>
+        <Spanish>Ya. A menos que... espera, espera. Llega algo por SATCOM.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message81_1M11">
+        <English>There's your answer. I'm expecting the Chinooks to arrive this morning.</English>
+        <Spanish>Ahí tienes tu respuesta. Espero que los Chinooks lleguen esta mañana.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message82_1M11">
+        <English>Let's hope so. I'll go inform the others.</English>
+        <Spanish>Esperemos. Iré a informar a los demás.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message83_1M11">
+        <English>Shit, man down! Need MEDEVAC!</English>
+        <Spanish>¡Mierda, hombre caído! ¡Necesito MEDEVAC!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message84_1M11">
+        <English>Here's our ride! Let's go, last of the Rakkasans!</English>
+        <Spanish>¡Aquí está nuestro viaje! ¡Vamos, los últimos de los Rakkasans!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message86_1M11">
+        <English>First of all, Kevin, sorry for summoning you on such short notice, but I need you on the field.</English>
+        <Spanish>En primer lugar, Kevin, siento convocarlo con tan poca antelación, pero lo necesito sobre el terreno.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message87_1M11">
+        <English>The Rakkasans have been pulled out this morning, but we are not sure the valley is fully clear yet.</English>
+        <Spanish>Los Rakkasans han sido retirados esta mañana, pero no estamos seguros de que el valle esté completamente despejado todavía.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message88_1M11">
+        <English>I need you to go to the Whale. We believe that, if there's any enemy left in the valley, it's there.</English>
+        <Spanish>Necesito que vaya a la Ballena. Creemos que, si queda algún enemigo en el valle, está allí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message89_1M11">
+        <English>Wasn't the Whale secured by the Tajiks, sir?</English>
+        <Spanish>¿Los tayikos no aseguraron la Ballena, señor?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message90_1M11">
+        <English>Nominally. I think their sweep was insufficient. Now that we have more conventional forces, I need you to finish that job.</English>
+        <Spanish>En teoría. Creo que su registro fue insuficiente. Ahora que disponemos de fuerzas más convencionales, necesito que termine el trabajo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message91_1M11">
+        <English>You will be carrying out Operation Harpoon. For this task, I'm giving you control over the 31st Infantry Regiment.</English>
+        <Spanish>Llevará a cabo la Operación Harpoon. Para esta tarea, le doy el control del 31.er Regimiento de Infantería.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message92_1M11">
+        <English>Additionally, the 3 PPCLI under LTC Stogran arrived 3 days ago from Kandahar. They will join you in this operation. They're the best mountain fighters in the Coalition.</English>
+        <Spanish>Además, el 3 PPCLI del Tte. Cnel. Stogran llegó hace 3 días desde Kandahar. Se unirán a usted en esta operación. Son los mejores montañeros de la Coalición.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message92_2_1M11">
+        <English>We were originally planning for them to sweep Takur Ghar and the Naka Valley at first, but the Whale is a higher priority right now to us.</English>
+        <Spanish>Al principio planeábamos que peinaran Takur Ghar y el valle de Naka, pero la Ballena es más importante para nosotros ahora mismo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message93_1M11">
+        <English>As for air assets, TF Talon's Chinooks will transport you to the Whale, but HMM-165 has also lent us 3 of their Sea Stallions and 5 SuperCobras for us to use. All clear?</English>
+        <Spanish>En cuanto a activos aéreos, los Chinooks de la TF Talon los transportarán hasta la Ballena, pero el HMM-165 también nos ha prestado 3 de sus Sea Stallions y 5 SuperCobras. ¿Todo claro?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message94_1M11">
+        <English>All understood, sir. When does the operation kick off?</English>
+        <Spanish>Entendido, señor. ¿Cuándo comienza la operación?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message95_1M11">
+        <English>Tomorrow morning. Your task force callsign will be Commando. Get moving.</English>
+        <Spanish>Mañana por la mañana. El indicativo de su fuerza será Commando. En marcha.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message96_1M11">
+        <English>Alright fellas, we search the spine, you search the slopes? That what we agreed on?</English>
+        <Spanish>Vale, muchachos, ¿nosotros registramos la columna, ustedes las faldas? ¿En eso hemos quedado?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message97_1M11">
+        <English>Yes Yank, don't worry. We're adepts at this.</English>
+        <Spanish>Sí, yanqui, no se preocupe. Somos expertos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message98_1M11">
+        <English>We'll see...</English>
+        <Spanish>Ya veremos...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message98_2_1M11">
+        <English>Alright, fire on my mark. Three, two... Mark.</English>
+        <Spanish>Vale, disparen cuando yo lo diga. Tres, dos... Fuego.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message99_1M11">
+        <English>Mountain, this is Strike 41. Three hostiles eliminated on the Whale. Continuing our search, out.</English>
+        <Spanish>Mountain, aquí Strike 41. Tres hostiles eliminados en la Ballena. Continuamos nuestra búsqueda, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message100_1M11">
+        <English>Mountain, Strike 41. Harpoon is over, the Whale has been fully cleared. Three hostiles down and a plethora of stashes destroyed. How copy, over?</English>
+        <Spanish>Mountain, Strike 41. Harpoon ha terminado, la Ballena está despejada. Tres hostiles abatidos y una infinidad de alijos destruidos. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message101_1M11">
+        <English>Solid copy. Stevens, get back to Bagram. A Chinook is on its way. We've got new orders for you.</English>
+        <Spanish>Alto y claro. Stevens, vuelva a Bagram. Un Chinook va de camino. Tenemos nuevas órdenes para usted.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message102_1M11">
+        <English>What about us?</English>
+        <Spanish>¿Y nosotros?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message103_1M11">
+        <English>You've done a great job. You'll be extracted between today and tomorrow, and you'll be returning to Kandahar. Out.</English>
+        <Spanish>Han hecho un gran trabajo. Serán extraídos entre hoy y mañana, y volverán a Kandahar. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message104_1M11">
+        <English>First of all, I support you in what you did. If you feel as I do, 3,000 dead Americans on September 11 is all the justification you need.</English>
+        <Spanish>En primer lugar, los apoyo en lo que hicieron. Si piensan como yo, 3000 estadounidenses muertos el 11 de septiembre es toda la justificación que necesitan.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message105_1M11">
+        <English>Now, some of you might consider yourselves lucky to have the chance to get one of them, and that’s okay. If you feel good about it, keep it to yourself. Don’t make other people listen to it.</English>
+        <Spanish>Ahora bien, algunos se pueden dar por afortunados por tener la oportunidad de matar a uno de ellos, y no pasa nada. Si se sienten bien, guárdenselo para ustedes. No hagan que otros lo escuchen.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message106_1M11">
+        <English>But most of you probably say to yourselves, 'I didn’t want to kill anybody. I was just doing my job.' To those people I want to say don’t feel bad about what you have to do.</English>
+        <Spanish>Pero la mayoría se estarán diciendo: «Yo no quería matar a nadie. Solo hacía mi trabajo». A esas personas quiero decirles que no tienen por qué sentirse mal de lo que tengan que hacer.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message107_1M11">
+        <English>Don’t let this cloud your vision. There may be more of it to be done in the days ahead.</English>
+        <Spanish>Que esto no les nuble el juicio. Puede que queden más cosas por hacer en los próximos días.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message108_1M11">
+        <English>All right, I think that concludes our assessment of Operation Anaconda. If you have any questions, my officers and I will be happy to answer them.</English>
+        <Spanish>Muy bien, creo que con esto concluye nuestra evaluación de la Operación Anaconda. Si tienen alguna pregunta, mis oficiales y yo estaremos encantados de responderla.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message109_1M11">
+        <English>General Franks, has Al-Qaeda been destroyed? Is it possible the terrorists can regroup?</English>
+        <Spanish>General Franks. ¿ha sido Al Qaeda destruida? ¿Es posible que los terroristas puedan reagruparse?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message110_1M11">
+        <English>Yes, I believe it is possible for fighters to regroup in various places inside Afghanistan. I think we've been careful to say that this is not over.</English>
+        <Spanish>Sí, creo que es posible que los combatientes se reagrupen en varios lugares de Afganistán. Creo que hemos tenido cuidado de decir que esto no ha terminado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message111_1M11">
+        <English>This operation in the vicinity of Shah-i-Kot, as I mentioned earlier, is getting close to being over because we are in fact completing the exploitation of that area.</English>
+        <Spanish>Esta operación en las inmediaciones de Shah-i-Kot, como he mencionado antes, está a punto de terminar porque, de hecho, estamos completando la explotación de esa zona.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message112_1M11">
+        <English>But one should suspect that these operations are going to continue. Yes, there is a possibility for enemy forces to maybe regroup or perhaps enemy forces which we have not yet identified the location of to be involved with us in a fight as we continue.</English>
+        <Spanish>Pero hay que sospechar que estas operaciones van a continuar. Sí, existe la posibilidad de que las fuerzas enemigas se reagrupen o de que fuerzas enemigas cuya ubicación aún no hemos identificado se involucren con nosotros en un combate mientras continuamos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message113_1M11">
+        <English>Major General Hagenbeck, could you share some insights into the coordination and collaboration between different branches of the military during the operation?</English>
+        <Spanish>Mayor general Hagenbeck, ¿podría darnos su opinión sobre la coordinación y colaboración entre las distintas ramas de las Fuerzas Armadas durante la operación?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message114_1M11">
+        <English>Operation Anaconda was a truly joint operation, involving the Army, Navy, Air Force, and Marine Corps. We worked closely together, sharing intelligence, coordinating airstrikes, and providing mutual support on the ground. This seamless cooperation was essential to our success.</English>
+        <Spanish>La Operación Anaconda ha sido una operación verdaderamente conjunta, en la que han participado el Ejército, la Armada, la Fuerza Aérea y el Cuerpo de Marines. Hemos trabajado en estrecha colaboración, compartiendo información, coordinando ataques aéreos y prestándonos apoyo mutuo sobre el terreno. Esta cooperación sin fisuras ha sido esencial para nuestro éxito.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message115_1M11">
+        <English>Officers, how did you ensure that civilian casualties were minimized during Operation Anaconda?</English>
+        <Spanish>Oficiales, ¿cómo se aseguraron de minimizar las bajas civiles durante la Operación Anaconda?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message116_1M11">
+        <English>Minimizing civilian casualties was a top priority for us throughout Operation Anaconda. Even though our special forces units did not identify a single civilian inside the valley, we took every possible measure to avoid harming innocent civilians.</English>
+        <Spanish>Minimizar las bajas civiles ha sido una de nuestras máximas prioridades durante toda la Operación Anaconda. Aunque nuestras unidades de fuerzas especiales no identificaron a ningún civil dentro del valle, tomamos todas las medidas posibles para evitar dañar a civiles inocentes.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message117_1M11">
+        <English>Lieutenant Colonel Blaber, I understand that you worked very closely with the Afghan peoples. How would you describe their involvement in Operation Anaconda?</English>
+        <Spanish>Teniente coronel Blaber, tengo entendido que trabajó en estrecha colaboración con los pueblos afganos. ¿Cómo describiría su participación en la Operación Anaconda?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message118_1M11">
+        <English>Yes, that is correct. The Pashtuns and Tajiks played a crucial role in our success in Operation Anaconda. They provided us with valuable intelligence, and cleared the main settlements. We are very grateful for their support and cooperation.</English>
+        <Spanish>Sí, es correcto. Los pastunes y los tayikos han desempeñado un papel crucial en la Operación Anaconda. Nos proporcionaron información valiosa y despejaron los principales asentamientos. Estamos muy agradecidos por su apoyo y colaboración.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message119_1M11">
+        <English>Thank you for your attention. We appreciate your interest in Operation Anaconda and your dedication to keeping the American people safe. The battle has just begun. We will keep you up to date. Thank you again.</English>
+        <Spanish>Gracias por su atención. Apreciamos su interés en la Operación Anaconda y su dedicación a mantener a salvo al pueblo estadounidense. La batalla acaba de comenzar. Los mantendremos informados. Gracias de nuevo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_stogran_dialogue_1M11">
+        <English>LCOL STOGRAN</English>
+        <Spanish>TTE. CNEL. STOGRAN</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_stogran_radio_1M11">
+        <English>Alpha 1 (LCol Stogran)</English>
+        <Spanish>Alpha 1 (Tte. Cnel. Stogran)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_journalist_dialogue_1M11">
+        <English>JOURNALIST</English>
+        <Spanish>PERIODISTA</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_wilkerson_dialogue_1M11">
+        <English>COL WILKERSON</English>
+        <Spanish>CNEL. WILKERSON</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_wilkerson_radio_1M11">
+        <English>Commando (COL Wilkerson)</English>
+        <Spanish>Commando (Cnel. Wilkerson)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_kozelka_dialogue_1M11">
+        <English>CPT KOZELKA</English>
+        <Spanish>CAP. KOZELKA</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_kozelka_radio_1M11">
+        <English>Strike 43 (CPT Kozelka)</English>
+        <Spanish>Strike 43 (Cap. Kozelka)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_townsend_dialogue_1M11">
+        <English>LTC TOWNSEND</English>
+        <Spanish>TTE. CNEL. TOWNSEND</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_townsend_radio_1M11">
+        <English>Strike 4 (LTC Townsend)</English>
+        <Spanish>Strike 4 (Tte. Cnel. Townsend)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_USplayer1_dialogue_1M11">
+        <English>CPL BURNS</English>
+        <Spanish>CABO BURNS</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_USplayer1_radio_1M11">
+        <English>Strike 43 (CPL Burns)</English>
+        <Spanish>Strike 43 (Cabo Burns)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_polarbear43_radio_1M11">
+        <English>Strike 43</English>
+        <Spanish>Strike 43</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_polarbear47_radio_1M11">
+        <English>Strike 47</English>
+        <Spanish>Strike 47</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_polarbear42_radio_1M11">
+        <English>Strike 42</English>
+        <Spanish>Strike 42</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_stevens_dialogue_1M11">
+        <English>CPT STEVENS</English>
+        <Spanish>CAP. STEVENS</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_stevens_radio_1M11">
+        <English>Strike 41 (CPT Stevens)</English>
+        <Spanish>Strike 41 (Cap. Stevens)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_franks_dialogue_1M11">
+        <English>GEN FRANKS</English>
+        <Spanish>GRAL. FRANKS</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_franks_radio_1M11">
+        <English>CENTCOM (GEN Franks)</English>
+        <Spanish>CENTCOM (Gral. Franks)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_player2_dialogue_1M11">
+        <English>LT EXUM</English>
+        <Spanish>TTE. EXUM</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_player2_radio_1M11">
+        <English>Strike 42 (LT Exum)</English>
+        <Spanish>Strike 42 (Tte. Exum)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_chinook_dialogue_1M11">
+        <English>CHINOOK PILOT</English>
+        <Spanish>PILOTO DE CHINOOK</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission_1M11">
+        <English>&lt;t size='1.5'&gt;T H E   N E X T   M O R N I N G . . .&lt;br/&gt;&lt;br/&gt;D-DAY +17&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;L A   M A Ñ A N A   S I G U I E N T E . . .&lt;br/&gt;&lt;br/&gt;DÍA D +17&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission_2_1M11">
+        <English>&lt;t size='1.5'&gt;T H E   N E X T   M O R N I N G . . .&lt;br/&gt;&lt;br/&gt;D-DAY +11&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;L A   M A Ñ A N A   S I G U I E N T E . . .&lt;br/&gt;&lt;br/&gt;DÍA D +11&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission2_1M11">
+        <English>&lt;t size='1.5'&gt;6   H O U R S   L A T E R . . .&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;6   H O R A S   D E S P U É S . . .&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission3_1M11">
+        <English>&lt;t size='1.5'&gt;T F   S U M M I T&lt;br/&gt;&lt;br/&gt;D-DAY +10 (0610)&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;T F   S U M M I T&lt;br/&gt;&lt;br/&gt;DÍA D +10 (0610)&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission4_1M11">
+        <English>&lt;t size='1.5'&gt;T W O   D A Y S   L A T E R . . .&lt;br/&gt;&lt;br/&gt;D-DAY +13&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;D O S   D Í A S   D E S P U É S . . .&lt;br/&gt;&lt;br/&gt;DÍA D +13&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission5_1M11">
+        <English>&lt;t size='1.5'&gt;T H E   N E X T   D A Y . . .&lt;br/&gt;&lt;br/&gt;D-DAY +14&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;A L   S I G U I E N T E   D Í A . . .&lt;br/&gt;&lt;br/&gt;DÍA D +14&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_tfcommando_marker_1M11">
+        <English>TF Commando</English>
+        <Spanish>TF Commando</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_acomp_marker_1M11">
+        <English>A Company</English>
+        <Spanish>Compañía A</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_ccomp_marker_1M11">
+        <English>C Company</English>
+        <Spanish>Compañía C</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_destroy_hint_1M11">
+        <English>You have 3x incendiary grenades, 3x M112 charges and 3x M112 bundles to destroy the enemy caches and stationary weapons. Use them at your own discretion.</English>
+        <Spanish>Tienes 3 granadas incendiarias, 3 cargas M112 y 3 paquetes M112 para destruir los alijos y las armas estacionarias del enemigo. Úsalos a tu discreción.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_destroy2_hint_1M11">
+        <English>Since you're a team leader, you'll have to order your demolitions expert to destroy the cache. Select him (F3), open his action menu (6) and cycle through the actions until you see the 'Plant M112' one. To make him trigger it, go back to unit 3's action menu and select the 'Touch off' option. ...Or you can just take the explosives from his backpack and destroy it yourself.</English>
+        <Spanish>Como eres un líder de equipo, tendrás que ordenar a tu experto en demoliciones que destruya el alijo. Selecciónalo (F3), abre su menú de acciones (6) y desplázate por las acciones hasta que veas la de «Colocar M112». Para que lo active, vuelve al menú de acciones de la unidad 3 y selecciona la opción «Detonar». ...O también puedes coger los explosivos de su mochila y destruirlo tú mismo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_destroy2_hint2_1M11">
+        <English>Same as before, access your demolitions expert's action menu (6) and select the 'Touch off' option.</English>
+        <Spanish>Igual que antes, accede al menú de acciones de tu experto en demoliciones (6) y selecciona la opción «Detonar».</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_reportin_action_1M11">
+        <English>report in</English>
+        <Spanish>presentarte</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_investigate_action_1M11">
+        <English>investigate</English>
+        <Spanish>investigar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortarsupport_1M11">
+        <English>Mortar support</English>
+        <Spanish>Apoyo de mortero</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_end1_subtitle_1M11">
+        <English>Operation Anaconda is over</English>
+        <Spanish>La Operación Anaconda ha terminado</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_end1_description_1M11">
+        <English>After 17 days, Operation Anaconda has finally ended with a Coalition victory. Despite the many casualties and the utter lack of coordination in some aspects, the Taliban and Al-Qaeda have been effectively evicted from the Shah-i-Kot Valley. Now, what will Afghanistan's future look like?</English>
+        <Spanish>Tras 17 días, la Operación Anaconda ha concluido por fin con una victoria de la Coalición. A pesar de las numerosas bajas y de la absoluta falta de coordinación en algunos aspectos, los talibanes y Al Qaeda han sido efectivamente desalojados del valle de Shah-i-Kot. Ahora ¿cuál será el futuro de Afganistán?</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

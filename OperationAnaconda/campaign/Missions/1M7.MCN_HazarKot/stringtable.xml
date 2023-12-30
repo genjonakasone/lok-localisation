@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="OperationAnaconda">
+  <Package name="OperationAnaconda_1M7">
+    <Container name="STR_DN">
+	  <Key ID="STR_TIOG_BriefingCommand_Text_1M7">
+        <English>A. Signal:&lt;br/&gt; Mountain - MG HAGENBECK (CJTF Mountain CO)&lt;br/&gt; Rak 6 - COL WIERCISNKI (TF Rakkasan CO)&lt;br/&gt; Panther - LTC BLABER (TF Bowie CO)&lt;br/&gt; TF 11 - BG TREBON (TF 11 CO)&lt;br/&gt; Mako 21 - LtCol HYDER&lt;br/&gt; Mako 30 (your team) - SCPO SLABINSKI&lt;br/&gt; Razor 03 - CWO MACK&lt;br/&gt; Razor 04 - CWO FRIEL&lt;br/&gt; Nail 22/Grim 32/Grim 33 - AC-130 Overwatch</English>
+        <Spanish>A. Señal:&lt;br/&gt; Mountain: May. Gral. HAGENBECK (oficial del la CJTF Mountain)&lt;br/&gt; Rak 6: Cnel. WIERCINSKI (oficial de la TF Rakkasan)&lt;br/&gt; Panther: Tte. Cnel. BLABER (oficial de la TF Bowie)&lt;br/&gt; TF 11: Gral. Brig. Trebon&lt;br/&gt; Mako 21: Tte. Cnel. HYDER&lt;br/&gt; Mako 30 (tu equipo): SCPO SLABINSKI&lt;br/&gt; Razor 03: CWO MACK&lt;br/&gt; Razor 04: CWO FRIEL&lt;br/&gt; Nail 22/Grim 32/Grim 33: AC-130</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingCommand_Text_2_1M7">
+        <English>A. Signal:&lt;br/&gt; Mountain - MG HAGENBECK (CJTF Mountain CO)&lt;br/&gt; Rak 6 - COL WIERCISNKI (TF Rakkasan CO)&lt;br/&gt; Panther - LTC BLABER (TF Bowie CO)&lt;br/&gt; TF 11 - GEN TREBON (TF 11 CO)&lt;br/&gt; Mako 21 - LtCol HYDER&lt;br/&gt; Mako 30 - SCPO SLABINSKI&lt;br/&gt; Razor 03 (your team) - CWO MACK&lt;br/&gt; Razor 04 - CWO FRIEL&lt;br/&gt; Nail 22/Grim 32/Grim 33 - AC-130 Overwatch</English>
+        <Spanish>A. Señal:&lt;br/&gt; Mountain: May. Gral. HAGENBECK (oficial del la CJTF Mountain)&lt;br/&gt; Rak 6: Cnel. WIERCINSKI (oficial de la TF Rakkasan)&lt;br/&gt; Panther: Tte. Cnel. BLABER (oficial de la TF Bowie)&lt;br/&gt; TF 11: Gral. Brig. Trebon&lt;br/&gt; Mako 21: Tte. Cnel. HYDER&lt;br/&gt; Mako 30: SCPO SLABINSKI&lt;br/&gt; Razor 03 (tu equipo): CWO MACK&lt;br/&gt; Razor 04: CWO FRIEL&lt;br/&gt; Nail 22/Grim 32/Grim 33: AC-130</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSustainment_Text_1M7">
+        <English>1. Supply: Standard US Gore-Tex DCU parkas, MBSS rigs with PACA vests, IBH helmets, standard issue US Navy SEAL small arms including M4A1 carbines, Mk 46 and Mk 43 machine guns, Mk 25 pistols, and Mk 11 and SEAL Recce sniper rifles.&lt;br/&gt;2. Transportation: Mako 21 and Mako 30 will be deployed on their respective LZs by two MH-47E Chinooks of the 160th SOAR, callsigns Razor 04 and 03 for each respective team.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: The Ranger QRF is on strip alert at Bagram Airfield. It will deploy once TF 11 gives it the order.</English>
+        <Spanish>1. Suministros: Parkas Gore-Tex estándar en camuflaje DCU, portacargadores MBSS con chalecos PACA, cascos IBH, armas ligeras reglamentarias de los Navy SEAL como carabinas M4A1, ametralladoras Mk. 46 y Mk. 43, pistolas Mk. 25, y fusiles de francotirador Mk. 11 y SEAL Recce.&lt;br/&gt;2. Transporte: Mako 21 y Mako 30 serán desplegados en sus respectivas ZA en dos MH-47E Chinooks del 106.º SOAR, indicativos Razor 04 y 03 para cada respectivo helicóptero.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: La FRR Ranger está en alerta en el aeropuerto de Bagram. Será desplegada en cuanto TF 11 dé la orden.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSustainment_Text_2_1M7">
+        <English>1. Supply: Standard Nomex flight suits, CMU-33/P22P-18 vests, HGU-56P helmets, M4A1 carbines as personal protection.&lt;br/&gt;2. Transportation: Mako 21 and Mako 30 will be deployed on their respective LZs by two MH-47E Chinooks of the 160th SOAR, callsigns Razor 04 and 03 for each respective team.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: None.</English>
+        <Spanish>1. Suministros: Monos de vuelo Nomex estándar, chalecos CMU-33/P22P-18, cascos HGU-56P, carabinas M4A1 para protección personal.&lt;br/&gt;2. Transporte: Mako 21 y Mako 30 serán desplegados en sus respectivas ZA en dos MH-47E Chinooks del 106.º SOAR, indicativos Razor 04 y 03 para cada respectivo helicóptero.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento:Ninguno.&lt;br/&gt;5. CASEVAC: Ninguno.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingExecution_Text_1M7">
+        <English>The operation will be carried out by two (2) DEVGRU teams:&lt;br/&gt;&lt;br/&gt;Mako 30: Led by SCPO Britt Slabinski, Mako 30 will be deployed by Razor 03 &lt;marker name="marker_22">here&lt;/marker&gt; and will move on foot to the peak of &lt;marker name="marker_10">Takur Ghar&lt;/marker&gt;. Upon reaching Takur Ghar, they will deploy their reconnaissance gear and will start scouting the Shah-i-Kot Valley. Mako 30 will direct friendly airstrikes on hostile targets of opportunity while TF Rakkasan clears the valley southwards on foot.&lt;br/&gt;&lt;br/&gt;Mako 21: Led by LtCol Vic Hyder, Mako 21 will be deployed by Razor 04 &lt;marker name="marker_14">near Juliet's position&lt;/marker&gt;. They will resupply &lt;marker name="marker_24">Juliet Team&lt;/marker&gt; (the only AFO team still in the valley) and will begin the trek towards their &lt;marker name="marker_25">designated observation post&lt;/marker&gt;, overwatching the Rakkasans' positions. Like Mako 30, Mako 21 will scout the area and call in airstrikes on hostile priority targets.</English>
+        <Spanish>La operación será realizada por dos (2) equipos DEVGRU:&lt;br/&gt;&lt;br/&gt;Mako 30: Liderados por el SCPO Britt Slabinski, Mako 30 será desplegado por Razor 03 &lt;marker name="marker_22">aquí&lt;/marker&gt; y avanzará a pie a la cima de &lt;marker name="marker_10">Takur Ghar&lt;/marker&gt;. Tras llegar a Takur Ghar, desplegarán su equipo de reconocimiento y empezarán a reconocer el valle de Shah-i-Kot. Mako 30 dirigirá ataques aéreos aliados en posibles blancos hostiles mientras la TF Rakkasan despeja el valle hacia el sur a pie.&lt;br/&gt;&lt;br/&gt;Mako 21: Liderados por el Tte. Cnel. Vic Hyder, Mako 21 será desplegado por Razor 04 &lt;marker name="marker_14">cerca de la posición de Juliet&lt;/marker&gt;. Reabastecerán al &lt;marker name="marker_24">equipo Juliet&lt;/marker&gt; (el único equipo AFO que aún sigue en el valle) e iniciarán la marcha hacia su &lt;marker name="marker_25">puesto de observación designado&lt;/marker&gt;, observando las posiciones de los Rakkasans. Al igual que Mako 30, Mako 21 reconocerá la zona y pedirá ataques aéreos en objetivos prioritarios hostiles.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingMission_Text_1M7">
+        <English>Who: Mako 30, DEVGRU, Task Force 11 (TF 11)&lt;br/&gt;What: ESTABLISH an OP at Takur Ghar&lt;br/&gt;Where: In vicinity, Shah-i-Kot Valley&lt;br/&gt;When: 025700ZMAR04&lt;br/&gt;Why: Support of Operation Anaconda</English>
+        <Spanish>Quién: Mako 30, DEVGRU, Fuerza Operativa 11 (TF 11)&lt;br/&gt;Qué: ESTABLECER un PO en Takur Ghar&lt;br/&gt;Dónde: En las inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Cuándo: 025700ZMAR04&lt;br/&gt;Por qué: Apoyo a la Operación Anaconda</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingMission_Text_2_1M7">
+        <English>Who: B Company, 2nd Battalion, 160th Special Operations Aviation Regiment, Task Force Dagger (TF Dagger)&lt;br/&gt;What: DEPLOY Mako 30&lt;br/&gt;Where: In vicinity, Shah-i-Kot Valley&lt;br/&gt;When: 025700ZMAR04&lt;br/&gt;Why: Support of Operation Anaconda</English>
+        <Spanish>Quién: Compañía B, 2.º Batallón, 106.º Regimiento de Aviación de Operaciones Especiales, Fuerza Operativa Dagger (TF Dagger)&lt;br/&gt;Qué: DESPLEGAR a Mako 30&lt;br/&gt;Dónde: En las inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Cuándo: 025700ZMAR04&lt;br/&gt;Por qué: Apoyo a la Operación Anaconda</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSituation_Text_1M7">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: 500-1000 expected fighters&lt;br/&gt;Activity: Heavy movement, moderate radio chatter&lt;br/&gt;Location: Vicinity, Shah-i-Kot Valley&lt;br/&gt;Unit: Uzbek light infantry with anti-aircraft guns and mortars, supported by Arab and Chechen fighters&lt;br/&gt;Time Observed: March 2, 2002&lt;br/&gt;Equipment: Small arms, mortars, RPGs&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To establish an OP on the peak of Takur Ghar and direct airstrikes against hostile targets in the valley.&lt;br/&gt;2. Adjacent Units: LtCol Hyder (callsign: Mako 21), attached Grey Fox operator 'Thor', attached USAF CCT TSgt John Chapman.&lt;br/&gt;3. Supporting: Three AC-130s (callsigns: Nail 22, Grim 32, Grim 33) and one CIA Predator will provide overwatch and potential fire support. Artillery support will not be available for this mission. CASEVAC by the Ranger QRF will be available by request of TF 11.</English>
+       <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: 500-1000 combatientes esperados&lt;br/&gt;Actividad: Movimiento intenso, vibraciones de radio moderadas&lt;br/&gt;Ubicación: Inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Unidades: Infantería ligera uzbeka con cañones antiaéreos y morteros, apoyada por combatientes árabes y chechenos&lt;br/&gt;Fecha de observación: 2 de marzo de 2002&lt;br/&gt;Equipo: armas ligeras, morteros, granadas RPG&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Establecer un PO en la cima de Takur Ghar y dirigir ataques aéreos contra blancos hostiles en el valle.&lt;br/&gt;2. Unidades adyacentes: Tte. Cnel. Hyder (indicativo: Mako 21), operador Gray Fox asignado «Thor», controlador de la Fuerza Aérea asignado John Chapman.&lt;br/&gt;3. Apoyo: Tres AC-130 (indicativos: Nail 22, Grim 32, Grim 33) y un Predator de la CIA proporcionarán supervisión y posible fuego de apoyo. No habrá apoyo de artillería para esta misión. La CASEVAC de la FRR Ranger estará disponible cuando la solicite TF 11.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSituation_Text_2_1M7">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: 500-1000 expected fighters&lt;br/&gt;Activity: Heavy movement, moderate radio chatter&lt;br/&gt;Location: Vicinity, Shah-i-Kot Valley&lt;br/&gt;Unit: Uzbek light infantry with anti-aircraft guns and mortars, supported by Arab and Chechen fighters&lt;br/&gt;Time Observed: March 2, 2002&lt;br/&gt;Equipment: Small arms, mortars, RPGs&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To deploy Mako 21 and Mako 30 so they can set up OPs and direct airstrikes on the enemy.&lt;br/&gt;2. Adjacent Units: CWO Friel (callsign: Razor 04).&lt;br/&gt;3. Supporting: Three AC-130s (callsigns: Nail 22, Grim 32, Grim 33) and one CIA Predator will provide overwatch and potential fire support. Artillery support will not be available for this mission. CASEVAC will not be available for this mission.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: 500-1000 combatientes esperados&lt;br/&gt;Actividad: Movimiento intenso, vibraciones de radio moderadas&lt;br/&gt;Ubicación: Inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Unidades: Infantería ligera uzbeka con cañones antiaéreos y morteros, apoyada por combatientes árabes y chechenos&lt;br/&gt;Fecha de observación: 2 de marzo de 2002&lt;br/&gt;Equipo: armas ligeras, morteros, granadas RPG&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Establecer un PO en la cima de Takur Ghar y dirigir ataques aéreos contra blancos hostiles en el valle.&lt;br/&gt;2. Unidades adyacentes: CWO Friel (indicativo: Razor 04).&lt;br/&gt;3. Apoyo: Tres AC-130 (indicativos: Nail 22, Grim 32, Grim 33) y un Predator de la CIA proporcionarán supervisión y posible fuego de apoyo. No habrá apoyo de artillería para esta misión. No habrá CASEVAC para esta misión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Briefing_Text_1M7">
+        <English>Task Force 11 (Mako 21 and Mako 30) will be inserted by two MH-47 Chinooks of the 160th SOAR in the Shah-i-Kot Valley. Mako 30, led by SCPO Britt Slabinski, will land &lt;marker name="marker_22">here&lt;/marker&gt; and will move on foot to the peak of &lt;marker name="marker_10">Takur Ghar&lt;/marker&gt; to establish an observation post (OP). When daylight breaks, they will start calling in airstrikes on hostile targets of opportunity. Meanwhile, Mako 21, led by LtCol Vic Hyder, will set up an OP &lt;marker name="marker_25">near Juliet's position&lt;/marker&gt; and direct airstrikes as well.</English>
+        <Spanish>La Fuerza Operativa 11 (Mako 21 y Mako 30) será insertada por dos MH-47 Chinooks del 160.º SOAR en el valle de Shah-i-Kot. Mako 30, liderados por el SCPO Britt Slabinski, aterrizará &lt;marker name="marker_22">aquí&lt;/marker&gt; y avanzará a pie hasta la cima de &lt;marker name="marker_10">Takur Ghar&lt;/marker&gt; para establecer un puesto de observación (PO). Cuando salga el sol, empezarán a pedir ataques aéreos contra posibles objetivos hostiles. Mientras tanto, Mako 21, liderados por el Tte. Cnel. Vic Hyder, montarán un PO &lt;marker name="marker_25">cerca de la posición de Juliet&lt;/marker&gt; y también dirigirán ataques aéreos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Briefing_Text_2_1M7">
+        <English>Task Force 11 (Mako 21 and Mako 30) will be inserted by two MH-47 Chinooks of the 160th SOAR in the Shah-i-Kot Valley. Razor 03, led by CWO Al Mack, will deploy Mako 30 &lt;marker name="marker_22">here&lt;/marker&gt;. Mako 30 will then proceed to move on foot to &lt;marker name="marker_10">Takur Ghar&lt;/marker&gt; to establish an observation post (OP). Meanwhile, Razor 04, led by CWO Jason Friel, will deploy Mako 21 &lt;marker name="marker_14">near Juliet's position&lt;/marker&gt;. Both helicopters will return to base once the mission is over.</English>
+        <Spanish>La Fuerza Operativa 11 (Mako 21 y Mako 30) será insertada por dos MH-47 Chinooks del 160.º SOAR en el valle de Shah-i-Kot. Razor 03, liderados por el CWO Al Mack, desplegará a Mako 30 &lt;marker name="marker_22">aquí&lt;/marker&gt;. Mako 30 procederá a avanzar a pie hasta la cima de &lt;marker name="marker_10">Takur Ghar&lt;/marker&gt; para establecer un puesto de observación (PO). Mientras tanto, Razor 04, liderados por el CWO Jason Friel, desplegará a Mako 21 &lt;marker name="marker_25">cerca de la posición de Juliet&lt;/marker&gt;. Ambos helicópteros volverán a la base cuando termine su misión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_ChapmanMOH_Title_1M7">
+        <English>Medal of Honor citation - MSgt John A. Chapman</English>
+        <Spanish>Cita de la Medalla de Honor: Sgto. Mtro. John A. Champan</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_ChapmanMOH_Text_1M7">
+        <English>Technical Sergeant John A. Chapman distinguished himself by extraordinary heroism as an Air Force Special Tactics combat controller, attached to a Navy Sea, Air, and Land (SEAL) Team conducting reconnaissance operations in Takur Ghar, Afghanistan, on March 4, 2002. During insertion, the team's helicopter was ambushed causing a teammate to fall into an entrenched group of enemy combatants below. Sergeant Chapman and the team voluntarily reinserted onto the snow-capped mountain, into the heart of a known enemy stronghold to rescue one of their own. Without regard for his own safety, Sergeant Chapman immediately engaged, moving in the direction of the closest enemy position despite coming under heavy fire from multiple directions. He fearlessly charged an enemy bunker, up a steep incline in thigh-deep snow and into hostile fire, directly engaging the enemy. Upon reaching the bunker, Sergeant Chapman assaulted and cleared the position, killing all enemy occupants. With complete disregard for his own life, Sergeant Chapman deliberately moved from cover only 12 meters from the enemy, and exposed himself once again to attack a second bunker, from which an emplaced machine gun was firing on his team. During this assault from an exposed position directly in the line of intense fire, Sergeant Chapman was struck and injured by enemy fire. Despite severe, mortal wounds, he continued to fight relentlessly, sustaining a violent engagement with multiple enemy personnel before making the ultimate sacrifice. By his heroic actions and extraordinary valor, sacrificing his life for the lives of his teammates, Technical Sergeant Chapman upheld the highest traditions of military service and reflected great credit upon himself and the United States Air Force.</English>
+        <Spanish>El sargento técnico John A. Champan se distinguió por su extraordinario heroísmo como controlador de Tácticas Especiales de la Fuerza Aérea, asignado con un equipo de Sea, Air and Land (SEAL) de la Armada que realizaba operaciones de reconocimiento en Takur Ghar, Afganistán, el 4 de marzo de 2002. Durante la inserción, el helicóptero del equipo sufrió una emboscada que provocó la caída de un compañero sobre un grupo atrincherado de combatientes enemigos situado debajo. El sargento Chapman y el equipo se reinsertaron voluntariamente en la montaña nevada, en el corazón de un bastión enemigo conocido, para rescatar a uno de los suyos. Sin velar por su propia seguridad, el sargento Chapman se puso en marcha de inmediato, avanzando en dirección a la posición enemiga más cercana a pesar del intenso fuego que recibía desde múltiples direcciones. Sin miedo a nada, cargó contra un búnker enemigo, subió una pendiente pronunciada con nieve hasta los muslos y se enfrentó al fuego hostil, atacando directamente al enemigo. Al llegar al búnker, el sargento Chapman asaltó y despejó la posición, matando a todos los ocupantes enemigos. Haciendo caso omiso de su propia vida, el sargento Chapman salió deliberadamente de su cobertura, a solo 12 metros del enemigo, y se expuso una vez más para atacar un segundo búnker, desde el que una ametralladora emplazada estaba disparando a su equipo. Durante este asalto desde una posición expuesta directamente en la línea de fuego intenso, el sargento Chapman fue alcanzado y herido por fuego enemigo. A pesar de sus graves y mortales heridas, continuó luchando sin descanso, manteniendo un violento enfrentamiento con múltiples enemigos antes de hacer el último sacrificio. Por sus acciones heroicas y su extraordinario valor, sacrificando su vida por las vidas de sus compañeros, el sargento técnico Champan mantuvo las más altas tradiciones del servicio militar y reflejó un gran crédito para sí mismo y para la Fuerza Aérea de los Estados Unidos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_SlabMOH_Title_1M7">
+        <English>Medal of Honor citation - SCPO Britt K. Slabinski</English>
+        <Spanish>Cita de la Medalla de Honor: SCPO Britt K. Slabinski</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_SlabMOH_Text_1M7">
+        <English>For conspicuous gallantry and intrepidity at the risk of his life above and beyond the call of duty while assigned to a Joint Task Force in support of Operation ENDURING FREEDOM. In the early morning of 4 March 2002, Senior Chief Special Warfare Operator Slabinski led a reconnaissance team to its assigned area atop a 10,000-foot snow-covered mountain. Their insertion helicopter was suddenly riddled with rocket-propelled grenades and small arms fire from previously undetected enemy positions. The crippled helicopter lurched violently and ejected one teammate onto the mountain before the pilots were forced to crash land in the valley far below. Senior Chief Slabinski boldly rallied his five remaining team members and marshalled supporting assets for an assault to rescue their stranded teammate. During reinsertion the team came under fire from three directions, and one teammate started moving uphill toward an enemy strongpoint. Without regard for his own safety, Senior Chief Slabinski charged directly toward enemy fire to join his teammate. Together, they fearlessly assaulted and cleared the first bunker they encountered. The enemy then unleashed a hail of machine gun fire from a second hardened position only twenty meters away. Senior Chief Slabinski repeatedly exposed himself to deadly fire to personally engage the second enemy bunker and orient his team's fires in the furious, close-quarters firefight. Proximity made air support impossible, and after several teammates became casualties, the situation became untenable. Senior Chief Slabinski maneuvered his team to a more defensible position, directed air strikes in very close proximity to his team's position, and requested reinforcements. As daylight approached, accurate enemy mortar fire forced the team further down the sheer mountainside. Senior Chief Slabinski carried a seriously wounded teammate through deep snow and led a difficult trek across precipitous terrain while calling in fire on the enemy, which was engaging the team from the surrounding ridges. Throughout the next 14 hours, Senior Chief Slabinski stabilized the casualties and continued the fight against the enemy until the hill was secured and his team was extracted. By his undaunted courage, bold initiative, leadership, and devotion to duty, Senior Chief Slabinski reflected great credit upon himself and upheld the highest traditions of the United States Naval Service.</English>
+        <Spanish>Por su destacada valentía e intrepidez arriesgando su vida más allá de lo exigido por el deber mientras estaba asignado a una fuerza operativa conjunta en apoyo de la Operación LIBERTAD DURADERA. En la madrugada del 4 de marzo de 2002, el operador jefe Slabinski dirigía un equipo de reconocimiento a la zona asignada en la cima de una montaña nevada de 3000 metros. De repente, su helicóptero de inserción fue acribillado con granadas RPG y fuego de armas ligeras desde posiciones enemigas no detectadas previamente. El helicóptero averiado se tambaleó violentamente y expulsó a un compañero de equipo sobre la montaña antes de que los pilotos se vieran obligados a aterrizar de emergencia en el valle situado más abajo. El suboficial Slabinski reunió con valentía a los cinco miembros restantes de su equipo y reunió los medios de apoyo para un asalto con el fin de rescatar a su compañero varado. Durante la reinserción, el equipo fue atacado desde tres direcciones, y uno de sus compañeros empezó a avanzar cuesta arriba hacia un fortín enemigo. Sin velar por su propia seguridad, el suboficial Slabinski cargó directamente contra el fuego enemigo para unirse a su compañero. Juntos, asaltaron sin miedo y despejaron el primer búnker que encontraron. A continuación, el enemigo desató sus ametralladoras desde una segunda posición reforzada situada a solo veinte metros. El suboficial Slabinski se expuso repetidamente a un fuego mortífero para asaltar personalmente el segundo búnker enemigo y orientar los disparos de su equipo en el furioso tiroteo en espacios cerrados. La proximidad hizo imposible el apoyo aéreo, y después de que varios compañeros se convirtieran en bajas, la situación se tornó insostenible. El suboficial Slabinski maniobró a su equipo a una posición más defendible, dirigió ataques aéreos muy cerca de la posición de su equipo y solicitó refuerzos. A medida que se acercaba el amanecer, un certero fuego de mortero enemigo obligó al equipo a descender por la escarpada falda de la montaña. El suboficial Slabinski cargó con un compañero gravemente herido a través de la nieve profunda y dirigió una difícil caminata a través de un terreno escarpado, al tiempo que pedía fuego contra el enemigo, que estaba atacando al equipo desde las crestas circundantes. A lo largo de las 14 horas siguientes, el suboficial Slabinski estabilizó a los heridos y continuó luchando contra el enemigo hasta que la colina estuvo asegurada y su equipo fue extraído. Por su valor inquebrantable, su audaz iniciativa, su liderazgo y su devoción al deber, el suboficial Slabinski reflejó un gran crédito para sí mismo y mantuvo las más altas tradiciones del servicio naval de los Estados Unidos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_Description_1M7">
+        <English>We have been given the order to establish an observation post (OP) &lt;marker name="marker_47">on the peak of Takur Ghar&lt;/marker&gt;, a known enemy position, to direct more airstrikes and help the Rakkasans clear the valley.</English>
+        <Spanish>Nos han dado la orden de establecer un puesto de observación (PO) &lt;marker name="marker_47">en la cima de Takur Ghar&lt;/marker&gt;, una posición enemiga conocida, para dirigir más ataques aéreos y ayudar a los Rakkasans a despejar el valle.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_Title_1M7">
+        <English>Set up an observation post</English>
+        <Spanish>Montar un puesto de observación</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_Description_1M7">
+        <English>PO1 Neil Roberts fell from the helicopter while it was trying to do an evasive manouver! We know he's still alive and fighting for his life somewhere on the peak of Takur Ghar! We have to go rescue him ASAP, damn the recon mission!</English>
+        <Spanish>¡El PO1 Neil Roberts se ha caído del helicóptero mientras este intentaba hacer una maniobra evasiva! ¡Sabemos que sigue vivo y luchando por su vida en algún lugar de la cima de Takur Ghar! ¡Tenemos que ir a rescatarlo de inmediato, que le den a la misión de reconocimiento!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_Title_1M7">
+        <English>Rescue Roberts</English>
+        <Spanish>Rescatar a Roberts</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_wait_Description_1M7">
+        <English>Razor 04, the helicopter that deployed Mako 21 near Juliet's position, is coming to pick us and Razor 03's crew up. Form a 360-degree perimeter around the downed helicopter with your team.</English>
+        <Spanish>Razor 04, el helicóptero que desplegó a Mako 21 cerca de la posición de Juliet, viene a recogernos y a la tripulación de Razor 03. Forma un perímetro de 360 grados alrededor del helicóptero derribado con tu equipo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_wait_Title_1M7">
+        <English>Wait for Razor 04</English>
+        <Spanish>Esperar a Razor 04</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_board_Description_1M7">
+        <English>Razor 04 has arrived. Board the chopper to fly back to Gardez, stock up on ammo, and then go back to Takur Ghar to rescue Roberts!</English>
+        <Spanish>Razor 04 ha llegado. ¡Monta en el helicóptero para volver a Gardez, coge munición y vuelve a Takur Ghar para rescatar a Roberts!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_board_Title_1M7">
+        <English>Board Razor 04</English>
+        <Spanish>Montar en Razor 04</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_flank_Description_1M7">
+        <English>Chapman has been apparently possessed by the devil and has taken out a whole Uzbek bunker by himself. He's now heading towards the second bunker through the trenches. Flank the second bunker and support his assault!</English>
+        <Spanish>Al parecer, a Chapman lo ha poseído el diablo y ha acabado él solo con todo un búnker uzbeko. Ahora se dirige hacia el segundo búnker por las trincheras. ¡Flanquea el segundo búnker y apoya su asalto!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_flank_Title_1M7">
+        <English>Flank the second bunker</English>
+        <Spanish>Flanquear el segundo búnker</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_Description_1M7">
+        <English>Chapman is dead, Roberts is probably dead too, Brett is heavily wounded and Kyle was hit by shrapnel! We have to pull back and call the QRF before it's too late for the rest of us!</English>
+        <Spanish>¡Chapman está muerto, Roberts probablemente también lo esté, Brett está gravemente herido y Kyle ha sido alcanzado por metralla! ¡Tenemos que replegarnos y llamar a la FRR antes de que sea demasiado tarde para el resto!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_Title_1M7">
+        <English>Retreat!</English>
+        <Spanish>¡Retirarse!</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj1_razor_Description_1M7">
+        <English>Our objective is to airlift Mako 30, a DEVGRU team, and land them &lt;marker name="marker_22">near the peak of Takur Ghar&lt;/marker&gt; so they can carry out their recon mission. As the ramp gunner, cover friendly forces and provide suppressive fire on the peak if enemies are found.</English>
+        <Spanish>Nuestro objetivo es transportar a Mako 30, un equipo del DEVGRU, y dejarlos &lt;marker name="marker_22">cerca de la cima de Takur Ghar&lt;/marker&gt; para que puedan realizar su misión de reconocimiento. Como el artillero de rampa, cubre a las fuerzas aliadas y proporciona fuego de contención en la cima si hay enemigos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_razor_Title_1M7">
+        <English>Deploy Mako 30</English>
+        <Spanish>Desplegar a Mako 30</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_MissionTitle_1M7">
+        <English>Some Gave All...</English>
+        <Spanish>Algunos lo dieron todo...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Intro_1M7">
+        <English>Mission 7 Intro</English>
+        <Spanish>Misión 7: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Outro_1M7">
+        <English>Mission 7 Outro</English>
+        <Spanish>Misión 7: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionDescription_1M7">
+        <English>DEVGRU fire team Mako 30 is assigned the task of establishing an observation post on Takur Ghar, the highest peak in the valley, in order to assist TF Rakkasan and help direct more airstrikes.</English>
+        <Spanish>Se encomienda al escuadrón Mako 30 del DEVGRU la tarea de establecer un puesto de observación en Takur Ghar, la cima más alta del valle, para ayudar a la TF Rakkasan y ayudar a dirigir más ataques aéreos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_text_1M7">
+        <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER VII - Some Gave All...&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'Give yourself before taking of someone else.'&lt;br/&gt;&lt;br/&gt;-MSGT JOHN A. CHAPMAN (KIA)&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO VII: Algunos lo dieron todo...&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«Da de ti antes de tomar de otra persona».&lt;br/&gt;&lt;br/&gt;—SGTO. MTRO. JOHN A. CHAPMAN (KIA)&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel1_1M7">
+        <English>AB1 Stephen 'Turbo' Toboz</English>
+        <Spanish>AB1 Stephen «Turbo» Toboz</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel2_1M7">
+        <English>Mako 30, DEVGRU</English>
+        <Spanish>Mako 30, DEVGRU</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel1_2_1M7">
+        <English>SGT Dan Madden</English>
+        <Spanish>Sgto. Dan Madden</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel2_2_1M7">
+        <English>2nd Bn., 160th SOAR</English>
+        <Spanish>2.º Bat., 160.º SOAR</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel3_1M7">
+        <English>Approaching Takur Ghar</English>
+        <Spanish>Rumbo a Takur Ghar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel4_1M7">
+        <English>March 4, 2002 - 0257</English>
+        <Spanish>4 marzo 2002 - 0257</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message1_1M7">
+        <English>General, this is Mako 30 Actual. If we are to land at an offset LZ, we will arrive at the peak at 0600, with the sun out. Requesting a 24-hour delay to land tomorrow at night, over.</English>
+        <Spanish>General, aquí Mako 30 Jefe. Si aterrizamos en una ZA apartada, llegaremos a la cima a las 0600, con el sol fuera. Solicito un aplazamiento de 24 horas para aterrizar mañana por la noche, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message2_1M7">
+        <English>We need you to rethink that. We really need to get you in there tonight. Out.</English>
+        <Spanish>Necesitamos que le dé una vuelta a eso. Los necesitamos ahí esta noche. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message3_1M7">
+        <English>Fuck me. We're gonna have to do what Vic told me, to land directly on the peak. Shit. Mack, can you take me to the top?</English>
+        <Spanish>Puta madre. Vamos a tener que hacer lo que me dijo Vic, aterrizar directamente en la cima. Mierda. Mack, ¿puede llevarme a la cima?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message4_1M7">
+        <English>I can do it, but I can’t guarantee that I can land up there. I have not seen the imagery. If I take you up there and hover around without landing and don’t let you out, I’ll have compromised your position. The enemy will know that we are interested in that terrain. Is that okay with you?</English>
+        <Spanish>Puedo, pero no puedo garantizarle que pueda aterrizar ahí. No he visto las imágenes. Si los llevo hasta allí y planeo sin aterrizar y no los dejo salir, habré arriesgado su posición. El enemigo sabrá que estamos interesados en ese terreno. ¿Está de acuerdo?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message5_1M7">
+        <English>I’ve seen the imagery. There’s room up there for you to land.</English>
+        <Spanish>Yo he visto las imágenes. Tiene espacio de sobra para aterrizar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message6_1M7">
+        <English>Nail 22, this is Razor 03, we're approaching Takur Ghar. Can you do a sensor sweep of the peak so we know we're good to go? Over.</English>
+        <Spanish>Nail 22, aquí Razor 03, nos acercamos a Takur Ghar. ¿Puede escanear la cima con el sensor para saber que está todo bien? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message7_1M7">
+        <English>Roger. Hold on... Nobody is there. You are cleared in. Be advised, we're turning to respond to a Rakkasan TIC. Out.</English>
+        <Spanish>Recibido. Esperen... No hay nadie. Vía libre. Atención, giramos para responder a un TIC de los Rakkasans. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message8_1M7">
+        <English>Don't ask why, but I'm not too confident in that Spectre...</English>
+        <Spanish>No preguntes por qué, pero ese Spectre no me da buena espina...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message9_1M7">
+        <English>Okay, get ready! I'm seeing an unmanned Dushka, probably a relic from the Soviets... Gunners, call your targets!</English>
+        <Spanish>¡Vale, prepárense! Veo una Dushka vacía, probablemente una reliquia de los soviéticos... ¡Artilleros, decid blancos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message10_1M7">
+        <English>I see some chickens and a donkey.</English>
+        <Spanish>Veo algunas gallinas y un burro.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message11_1M7">
+        <English>Goats hanging in a tree. Fresh meat.</English>
+        <Spanish>Cabras colgando de un árbol. Carne fresca.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message12_1M7">
+        <English>Hey, a guy just popped his head up!</English>
+        <Spanish>¡Eh, acabo de ver una cabeza!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message13_1M7">
+        <English>Hold your horses, we're not taking fire yet.</English>
+        <Spanish>Agárrense los machos, aún no nos están disparando.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message14_1M7">
+        <English>Ramp's clear! We're good to go!</English>
+        <Spanish>¡La rampa está despejada! ¡Todo bien!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message15_1M7">
+        <English>RPG!</English>
+        <Spanish>¡RPG!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message16_1M7">
+        <English>We're hit, we're taking fire, pick it up! Go, go, go!</English>
+        <Spanish>¡Nos han dado, nos están disparando, sube! ¡Vamos, vamos, vamos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message17_1M7">
+        <English>Hold onto something, I'm gonna swerve!</English>
+        <Spanish>¡Agárrense a algo, voy a virar bruscamente!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message18_1M7">
+        <English>Jesus! We lost one, we got a man on the ground!</English>
+        <Spanish>¡Dios! ¡Hemos perdido a uno, tenemos un hombre en tierra!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message19_1M7">
+        <English>What? What did you say?</English>
+        <Spanish>¿Qué? ¿Qué has dicho?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message20_1M7">
+        <English>One of the team guys is on the LZ, he fell! I tried to grab him, but he was too heavy!</English>
+        <Spanish>¡Uno de los del equipo está en la ZA, se ha caído! ¡He intentado agarrarlo, pero pesaba demasiado!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message21_1M7">
+        <English>Fucking hell, I'm going back around to get him! Jeremy, Mike, why am I not hearing those guns?</English>
+        <Spanish>¡Me cago en la puta, voy a dar la vuelta para recogerlo! Jeremy, Mike, ¿por qué no oigo esas ametralladoras?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message22_1M7">
+        <English>The miniguns are down! I got a 60, that's all we got!</English>
+        <Spanish>¡Las miniguns no funcionan! ¡Tengo una 60, eso es todo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message23_1M7">
+        <English>I see SAW flashes and a strobe, that's gotta be him! He's still alive!</English>
+        <Spanish>¡Veo destellos de SAW y una baliza, debe de ser él! ¡Sigue vivo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message24_1M7">
+        <English>I'm having a hard time moving the controls! I have to abort the rescue and get us someplace safe!</English>
+        <Spanish>¡Me está costando mover los controles! ¡Tengo que abortar el rescate y ponernos a salvo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message25_1M7">
+        <English>Roberts, do you copy? Fifi, come in! Shit! Mack, you put us down there right fucking now!</English>
+        <Spanish>Roberts, ¿me recibes? ¡Fifi, adelante! ¡Joder! ¡Mack, déjenos ahí ahora mismo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message25_2_1M7">
+        <English>It's not responding anymore! Brace for impact!</English>
+        <Spanish>¡Ya no responde! ¡Prepárense para el impacto!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message26_1M7">
+        <English>Alright everybody, I want a 360 security perimeter around the aircraft! Chappy, get in contact with a rescue party!</English>
+        <Spanish>¡Vale, gente, quiero un perímetro de seguridad de 360 alrededor del helicóptero! ¡Chappy, ponte en contacto con una partida de rescate!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message27_1M7">
+        <English>Grim 32, Mako 30, we have a stranded SEAL on the peak of Takur Ghar! We need you to scan the surroundings and ascertain if he's still alive! The rest of us have crash-landed north of the Rakkasans. How copy, over?</English>
+        <Spanish>¡Grim 32, Mako 30, tenemos un SEAL varado en la cima de Takur Ghar! ¡Necesitamos que escanee los alrededores y afirme si sigue vivo! Los demás hemos realizado un aterrizaje forzoso al norte de los Rakkasans. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message28_1M7">
+        <English>Roger that, retasking. Grim 33, get eyes on Mako 30. Make sure no hostiles get near their helicopter. Razor 04, be advised, Razor 03 is down. Out.</English>
+        <Spanish>Recibido, viramos. Grim 33, vigilen a Mako 30. Asegúrense de que ningún hostil se acerque a su helicóptero. Razor 04, atención, Razor 03 ha caído. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message29_1M7">
+        <English>This is General Trebon to Mako 30, what the hell is going on? What is this I'm hearing from Blaber about a 'crash landing'?</English>
+        <Spanish>Aquí el general Trebon para Mako 30, ¿qué coño está pasando? ¿Qué es esto que me comenta Blaber sobre un «aterrizaje forzoso»?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message30_1M7">
+        <English>General, we've taken heavy fire from Takur Ghar. One SEAL fell from the helicopter and the rest of us are stranded here with the chopper and its crew. Please advise, over.</English>
+        <Spanish>General, nos han acribillado desde Takur Ghar. Un SEAL se ha caído del helicóptero y los demás estamos aquí varados con el helicóptero y su tripulación. Solicito consejo, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message31_1M7">
+        <English>Roger that. I'm sending Razor 04 to pick you and Razor 03's crew up, and you'll come back to Gardez.</English>
+        <Spanish>Recibido. Voy a enviar a Razor 04 a recogerlos a ustedes y a la tripulación de Razor 03, y volverán a Gardez.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message32_1M7">
+        <English>No, no, no! General, this is Mako 30 Actual, we cannot do that! One of ours is fucking alone on the hottest mountain in the valley! We need to rescue him ASAP, and then fly back to Gardez!</English>
+        <Spanish>¡No, no, no! ¡General, aquí Mako 30 Jefe, no podemos hacer eso! ¡Uno de los nuestros está solo en la montaña más peligrosa del valle! ¡Tenemos que rescatarlo ya, y luego volar a Gardez!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message33_1M7">
+        <English>Negatory, Mako 30. An MH-47 carrying two helicopter crews and your team is dangerously overweight, and flying to Takur Ghar like that is looking for danger. You will return to Gardez, drop off Razor 03 and the Gray Fox operator, as well as your recce gear, and then come back to Takur Ghar.</English>
+        <Spanish>Negativo, Mako 30. Un MH-47 con dos tripulaciones de helicóptero y su equipo pesa demasiado, y volar a Takur Ghar así es pedir guerra. Volverán a Gardez, dejarán a Razor 03 y al operador Gray Fox, así como su equipo de reconocimiento, y entonces volverán a Takur Ghar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message34_1M7">
+        <English>Well gentlemen, I hope you heard that too. We have to fucking wait and return to Gardez before rescuing Roberts.</English>
+        <Spanish>Bueno, caballeros, espero que vosotros también lo hayáis oído. Tenemos que esperar y volver a Gardez antes de rescatar a Roberts.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message35_1M7">
+        <English>This is Grim 33... Uhh, our thermals are picking up heat signatures heading to your crash site. We can't tell if they're friendly or not.</English>
+        <Spanish>Aquí Grim 33... Eh, nuestras térmicas están captando señales de calor dirigiéndose a su lugar del accidente. No sabemos si son amigos o no.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message36_1M7">
+        <English>Then hold your fire, we don't need more friendly casualties. If they are enemies, we'll be ready for them. Out.</English>
+        <Spanish>Pues no disparen, no necesitamos más bajas aliadas. Si son enemigos, estaremos listos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message37_1M7">
+        <English>Panther, Grim 32, we see a group of individuals on the peak, but we can't tell who the SEAL is. Please advise, over.</English>
+        <Spanish>Panther, Grim 32, vemos un grupo de individuos en la cima, pero no distinguimos al SEAL. Solicito consejo, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message38_1M7">
+        <English>Disperse them! Whoever runs away or has a strobe on is Roberts.</English>
+        <Spanish>¡Dispérsenlos! El que salga corriendo o tenga una baliza encendida es Roberts.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message39_1M7">
+        <English>So do we open fire or what? What if we hit Roberts? One friendly was already killed on my watch, we don't want that to happen again. Shit.</English>
+        <Spanish>¿Entonces abrimos fuego o qué? ¿Y si le damos a Roberts? Ya murió un aliado en mi guardia, no queremos que vuelva a pasar. Mierda.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message40_1M7">
+        <English>Change of plans, gentlemen: we're going to get our boy back. Thor, you're getting off at Gardez. The rest of you, drop your cameras and grab more magazines. We're heading into the lion's den.</English>
+        <Spanish>Cambio de planes, caballeros: vamos a volver a por nuestro muchacho. Thor, usted se bajará en Gardez. El resto, soltad las cámaras y coged más cargadores. Vamos a la boca del lobo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message41_1M7">
+        <English>Hope you're all ready. We’re going back up there and killing every last one of those motherfuckers.</English>
+        <Spanish>Espero que estéis listos. Vamos a volver ahí y vamos a matar a cada uno de esos hijoputas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message42_1M7">
+        <English>Mako, listen up: we're bingo fuel. I'll only have time to drop you off on the peak and leave. You only have one chance at this.</English>
+        <Spanish>Mako, escuchen: estamos bajo mínimos. Solo tengo tiempo para soltarlos en la cima y marcharme. Tienen una oportunidad.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message43_1M7">
+        <English>Doesn't matter. As long as we reach the peak in time, anything goes.</English>
+        <Spanish>No importa. Mientras lleguemos a la cima a tiempo, que sea lo que tenga que ser.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message44_1M7">
+        <English>Grim 32, this is Mako 30. We're nearing Takur Ghar again. Can you do pre-assault fires on the peak?</English>
+        <Spanish>Grim 32, aquí Mako 30. Nos acercamos a Takur Ghar de nuevo. ¿Pueden disparar a la cima antes de nuestro asalto?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message45_1M7">
+        <English>Negative, Mako. We can't identify Roberts, we run the risk of hurting him, and we're receiving too many conflicting messages. Out.</English>
+        <Spanish>Negativo, Mako. No podemos identificar a Roberts, corremos el riesgo de herirlo, y estamos recibiendo demasiados mensajes contradictorios. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message46_1M7">
+        <English>Go, go, go, go! Rush the bunker in two-man pairs: Chap with me, Brett with Kyle, Turbo with Randy. Move!</English>
+        <Spanish>¡Va, va, va, va! Asaltad el búnker en parejas: Chap conmigo, Brett con Kyle, Turbo con Randy. ¡Moveos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message47_1M7">
+        <English>First bunker is clear, three hostiles down! No sign of Roberts! Let's keep moving to the second bunker!</English>
+        <Spanish>¡El primer búnker está despejado, tres hostiles abatidos! ¡No hay pista de Roberts! ¡Vamos al segundo búnker!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message48_1M7">
+        <English>Jesus Chap, take it easy! You're fucking possessed! Randy, Turbo, try to flank the second bunker! Brett, cover them with the 60!</English>
+        <Spanish>¡Por Dios, Chap, tranquilo! ¡Estás poseído, joder! ¡Randy, Turbo, intentad flanquear el segundo búnker! ¡Brett, cúbrelos con la 60!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message49_1M7">
+        <English>Roger that! Turbo, on me!</English>
+        <Spanish>¡Recibido! ¡Turbo, conmigo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message50_1M7">
+        <English>Shit, they fucking hit Chap! Throw all your grenades at the bunker!</English>
+        <Spanish>¡Joder, han dado a Chap! ¡Tirad todas vuestras granadas al búnker!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message51_1M7">
+        <English>Ahhh! My fucking legs! I'm hit!</English>
+        <Spanish>¡Ahhh! ¡Mis putas piernas! ¡Me han dado!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message52_1M7">
+        <English>Chappy's non-responsive! I think we fucking lost him! Anyone got eyes on Fifi?</English>
+        <Spanish>¡Chappy no responde! ¡Creo que lo hemos perdido! ¿Alguien ve a Fifi?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message53_1M7">
+        <English>Negative! Brett is seriously wounded and I got hit by shrapnel, sir!</English>
+        <Spanish>¡Negativo! ¡Brett está gravemente herido y a mí me ha alcanzado metralla, señor!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message54_1M7">
+        <English>Fuck! Okay, break contact, withdraw from the peak! Regroup at the eastern ledge! Throw smoke to cover our retreat!</English>
+        <Spanish>¡Joder! ¡Vale, romped el contacto, retiraos de la cima! ¡Reagrupaos en la cornisa oriental! ¡Lanzad humo para cubrir nuestra retirada!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message55_1M7">
+        <English>Ow! Some fucker just destroyed my foot!</English>
+        <Spanish>¡Au! ¡Algún cabrón me ha destrozado el pie!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message56_1M7">
+        <English>Let's go Turbo, keep it up!</English>
+        <Spanish>¡Vamos, Turbo, no te pares!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message57_1M7">
+        <English>Grim 32, this is Mako 30 Actual, requesting immediate fire support on the peak! Tell TF 11 to send the QRF immediately! Over!</English>
+        <Spanish>¡Grim 32, aquí Mako 30 Jefe, solicito apoyo inmediato en la cima! ¡Dígale a TF 11 que envíe a la FRR de inmediato! ¡Cambio!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message58_1M7">
+        <English>Roger that, Mako. Turn on your IR strobe so I don't hit you.</English>
+        <Spanish>Recibido, Mako. Enciendan su baliza IR para que no les dé.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message59_1M7">
+        <English>It's on, Grim 32!</English>
+        <Spanish>¡Encendida, Grim 32!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message60_1M7">
+        <English>Roger that, we see it. Engaging with the 105.</English>
+        <Spanish>Recibido, la vemos. Atacamos con el 105.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message61_1M7">
+        <English>They're firing mortars!</English>
+        <Spanish>¡Están disparando morteros!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message62_1M7">
+        <English>Let 'em! They don't know we're not on the peak anymore, they're firing at their own guys!</English>
+        <Spanish>¡Dejadlos! ¡No saben que ya no estamos en la cima, están disparando a los suyos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message63_1M7">
+        <English>So, that's the plan. If we're all on the same page, Task Force Hammer leaves tomorrow at 0200, with myself at the helm.</English>
+        <Spanish>Pues el plan es ese. Si todos estamos de acuerdo, la Fuerza Operativa Hammer saldrá mañana a las 0200, conmigo mismo al timón.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message64_1M7">
+        <English>Lieutenant Colonel Blaber?</English>
+        <Spanish>¿Teniente coronel Blaber?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message65_1M7">
+        <English>Yes, that would be me. What do you need?</English>
+        <Spanish>Sí, ese soy yo. ¿Qué necesitan?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message66_1M7">
+        <English>We're Lieutenant Colonel Hyder and SCPO Slabinski from DEVGRU. We have orders from Brigadier General Trebon to insert in the valley as soon as possible.</English>
+        <Spanish>Somos el teniente coronel Hyder y el SCPO Slabinski del DEVGRU. Tenemos órdenes del general de brigada Trebon de insertarnos en el valle lo antes posible. </Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message67_1M7">
+        <English>What? And now I'm made aware of this? Please excuse me, take a seat, I have to make a quick phone call.</English>
+        <Spanish>¿Cómo? ¿Y ahora me entero? Si me disculpan, tomen asiento, yo tengo que ir a hacer una llamadita.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message69_1M7">
+        <English>General, you can't just shuffle my teams around without my explicit permission. I'm in charge of the entire reconnaissance operation, of my own AFO.</English>
+        <Spanish>General, no puede reorganizar mis equipos sin mi permiso explícito. Estoy a cargo de toda la operación de reconocimiento, de mi propia AFO.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message70_1M7">
+        <English>Blaber, we have been raised with the idea of fairness. Everyone needs to get a turn, and your AFO teams are probably exhausted by now.</English>
+        <Spanish>Blaber, nos han educado en la idea de la equidad. Todo el mundo tiene que tener su turno, y sus equipos AFO probablemente ya estén agotados.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message71_1M7">
+        <English>I'm sorry, sir, but this just seems like an extremely imprudent idea. My three teams were doing an excellent job; hell, Mako 30 saved our asses by neutralizing that DShK position before the assault, and just this last night Mako and India were replaced by one of your DEVGRU teams!</English>
+        <Spanish>Lo siento, señor, pero esto me parece una idea extremadamente imprudente. Mis tres equipos estaban haciendo una labor excelente; joder, ¡Mako 30 nos salvó el culo neutralizando esa posición de DShK antes del asalto, y justo anoche Mako e India fueron reemplazados por uno de sus equipos DEVGRU!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message72_1M7">
+        <English>My teams were trained for this very occasion. They are critical to the operation. It is not the right time to pull them out. The SEAL teams need time to study the terrain just as the AFO did. I hope you can understand my point.</English>
+        <Spanish>Mis equipos entrenaron para esta ocasión. Son fundamentales para la operación. No es el momento adecuado para sacarlos. Los equipos SEAL necesitan tiempo para estudiar el terreno al igual que la AFO. Espero que pueda entender mi argumento.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message73_1M7">
+        <English>No, Colonel, there is no point to be made. These are my orders. I want the teams in and fast, tonight in fact. From this point on, I will be in direct charge of my SEAL teams. Juliet will still be yours... for now.</English>
+        <Spanish>No, coronel, no hay ningún argumento. Son mis órdenes. Quiero a los equipos allí y rápido, esta noche de hecho. Desde ahora, estaré a cargo directo de mis equipos SEAL. Juliet seguirá siendo suyo... por ahora.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message74_1M7">
+        <English>Folks, we have to get off this fucking mountain! If we wait for the QRF here, they won't find just the bodies of Fifi and Chappy. Turbo, Brett, can you run?</English>
+        <Spanish>¡Señores, tenemos que bajarnos de esta puta montaña! Si esperamos aquí a la FRR, no solo encontrarán los cuerpos de Fifi y Chappy. Turbo, Brett, ¿podéis correr?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message76_1M7">
+        <English>I'm gonna lose my foot if I have to do any more hiking.</English>
+        <Spanish>Voy a perder el pie como tenga que caminar más.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message77_1M7">
+        <English>No fucking way chief, my legs are fucking sausages right now.</English>
+        <Spanish>Ni de puta coña, jefe, tengo las piernas que parecen putas salchichas ahora mismo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message78_1M7">
+        <English>Alright! Randy, help Turbo! Brett, I'll carry you! Throw smoke and run to those rocks behind us!</English>
+        <Spanish>¡Vale! ¡Randy, ayuda a Turbo! ¡Brett, yo te llevo! ¡Tirad humo y corred a esas rocas detrás de nosotros!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission_1M7">
+        <English>&lt;t size='1.5'&gt;O N E   H O U R   L A T E R . . .&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;U N A    H O R A    D E S P U É S . . .&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission2_1M7">
+        <English>&lt;t size='1.5'&gt;G A R D E Z&lt;br/&gt;&lt;br/&gt;D-DAY +1&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;G A R D E Z&lt;br/&gt;&lt;br/&gt;DÍA D +1&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

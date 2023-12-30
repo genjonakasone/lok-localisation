@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="OperationAnaconda">
+  <Package name="OperationAnaconda_1M2">
+    <Container name="STR_DN">
+	  <Key ID="STR_TIOG_BriefingNotes_1M2">
+        <English>EDITOR'S NOTES:&lt;br/&gt;Just follow your orders and read carefully and everything will go silky smooth.&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;None so far...</English>
+        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Sigue tus órdenes y lee todo con atención y todo irá como la seda.&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Nada de momento...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingCommand_Text_1M2">
+        <English>A. Signal:&lt;br/&gt; Panther - LTC BLABER (TF Bowie CO)&lt;br/&gt; Juliet Actual (your team) - MSG KRIS&lt;br/&gt; India Actual - SSG SPEEDY&lt;br/&gt; Mako 31 - MCPO GOODY&lt;br/&gt; Grim 31 - AC-130 Overwatch</English>
+        <Spanish>A. Señal:&lt;br/&gt; Panther: Tte. Cnel. BLABER (oficial de la TF Bowie)&lt;br/&gt; Juliet Jefe (tu equipo): Sgto. Mtro. KRIS&lt;br/&gt; India Jefe: Sgto. 1.º SPEEDY&lt;br/&gt; Mako 31: MCPO Goody&lt;br/&gt; Grim 31: AC-130</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingCommand_Text_2_1M2">
+        <English>A. Signal:&lt;br/&gt; Panther - LTC BLABER (TF Bowie CO)&lt;br/&gt; Juliet Actual - MSG KRIS&lt;br/&gt; India Actual - SSG SPEEDY&lt;br/&gt; Mako 31 (your team) - MCPO GOODY&lt;br/&gt; Grim 31 - AC-130 Overwatch</English>
+        <Spanish>A. Señal:&lt;br/&gt; Panther: Tte. Cnel. BLABER (oficial de la TF Bowie)&lt;br/&gt; Juliet Jefe: Sgto. Mtro. KRIS&lt;br/&gt; India Jefe: Sgto. 1.º SPEEDY&lt;br/&gt; Mako 31 (tu equipo): MCPO Goody&lt;br/&gt; Grim 31: AC-130</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSustainment_Text_1M2">
+        <English>1. Supply: Commercial US or traditional Afghan cold weather clothing, like khetpartugs and anoraks, Blackhawk and Chicom rigs, and select weapons for the operation: M4A1 carbine and SR-25 sniper rifle.&lt;br/&gt;2. Transportation: Juliet Team will make use of five (5) Polaris ATVs to traverse the Arma Mountains.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: None.</English>
+        <Spanish>1. Suministros: Ropa de invierno comercial estadounidense o tradicional afgana, como khetpartugs y anoraks, portacargadores Blackhawk y Chicom, y armas selectas para la operación: carabina M4A1 y fusil de tirador SR-25.&lt;br/&gt;2. Transporte: El equipo Juliet empleará cinco (5) quads Polaris para atravesar las montañas Arma.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Ninguno.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSustainment_Text_2_1M2">
+        <English>1. Supply: US cold weather clothing, like parkas and fleece jackets, LBT-0290 load-bearing rigs, light headgear and IBH helmets, and select weapons for the operation: M4A1 carbine and SR-25 sniper rifle.&lt;br/&gt;2. Transportation: None after disembarking Afghan Toyota pickups.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: None.</English>
+        <Spanish>1. Suministros: Ropa de invierno estadounidense, como parkas y forros polares, portacargadores LBT-0290, gorros ligeros y cascos IBH, y armas selectas para la operación: carabina M4A1 y fusil de tirador SR-25.&lt;br/&gt;2. Transporte: Ninguno después de bajarse de las camionetas Toyota afganas.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Ninguno.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingExecution_Text_1M2">
+        <English>The operation will be carried out by three (3) AFO teams:&lt;br/&gt;&lt;br/&gt;&lt;marker name="marker_24">Juliet Team&lt;/marker&gt;: Led by MSG Kris, Juliet will drive through the Arma Mountains to the north in five Polaris all-terrain vehicles (ATV), headed towards &lt;marker name="marker_7">OP Clementine&lt;/marker&gt;. Upon reaching Clementine, they will deploy their satellite radios, GPS laptops and handheld cameras, and will start scouting the northern end of &lt;marker name="marker_45">the Whale&lt;/marker&gt;, a vertical range that traverses the Shah-i-Kot Valley. Afterwards, Juliet will mark positions on their laptop for the air assets to neutralize when Operation Anaconda officially commences. Once their task has been completed, Juliet will remain at their OP and keep scouting the location and marking targets of opportunity for the aircraft.&lt;br/&gt;&lt;br/&gt;&lt;marker name="marker_8">India Team&lt;/marker&gt;: Led by SSG 'Speedy', Afghan forces will drive both India and Mako 31 in Toyota Hilux pickups close to the southern end of the Shah-i-Kot. Upon disembarking, both teams will split up. India's mission is to establish an OP at &lt;marker name="marker_20">Neptune&lt;/marker&gt; and get eyes on the southern end of &lt;marker name="marker_45">the Whale&lt;/marker&gt;. They will mark targets of opportunity for the aircraft during this operation and after Operation Anaconda officially commences.&lt;br/&gt;&lt;br/&gt;&lt;marker name="marker_9">Mako 31&lt;/marker&gt;: Led by MCPO 'Goody', Mako 31 will disembark from the Afghan pickups alongside India south of the Shah-i-Kot Valley, and will start making their way on foot to &lt;marker name="marker_21">OP Dorothy&lt;/marker&gt;, located on top of &lt;marker name="marker_46">the Finger&lt;/marker&gt;. Upon reaching their OP, Mako 31 will scout the planned landing zone for Task Force Rakkasan, the valley floor located &lt;marker name="marker_25">here&lt;/marker&gt;. Like the other two teams, they will mark targets of opportunity for the aircraft to destroy at H-Hour.&lt;br/&gt;&lt;br/&gt;It is absolutely essential that all three teams maintain their cover. If the enemy discovers our forces are already present in the valley, they will be on high alert and the main assault will be a disaster.</English>
+        <Spanish>Tres (3) equipos AFO llevarán a cabo la operación:&lt;br/&gt;&lt;br/&gt;&lt;marker name="marker_24">Equipo Juliet&lt;/marker&gt;: Liderados por el Sgto. Mtro. Kris, Juliet conducirá a través de las montañas Arma al norte en cinco quads Polaris, dirigiéndose hacia el &lt;marker name="marker_7">PO Clementine&lt;/marker&gt;. Al llegar a Clementine, desplegarán sus radios satelitales, portátiles GPS y cámaras de mano y empezarán a reconocer la punta norte de &lt;marker name="marker_45">la Ballena&lt;/marker&gt;, una cordillera que atraviesa el valle de Shah-i-Kot. Acto seguido, Juliet marcará posiciones en su portátil para que los activos aéreos las neutralicen cuando comience oficialmente la Operación Anaconda. Cuando hayan cumplido su misión, Juliet permanecerá en su PO y seguirá reconociendo la ubicación y marcando posibles objetivos para los aviones.&lt;br/&gt;&lt;br/&gt;&lt;marker name="marker_8">Equipo India&lt;/marker&gt;: Liderados por el Sgto. 1.º «Speedy», fuerzas afganas transportarán a India y Mako 31 en camionetas Toyota Hilux hasta la punta sur de Shah-i-Kot. Al bajarse, ambos equipos se separarán. La misión de India es establecer un PO en &lt;marker name="marker_20">Neptuno&lt;/marker&gt; y entablar contacto visual con la punta sur de &lt;marker name="marker_45">la Ballena&lt;/marker&gt;. Marcarán posibles objetivos para los aviones durante esta operación y después de que comience oficialmente la Operación Anaconda.&lt;br/&gt;&lt;br/&gt;&lt;marker name="marker_9">Mako 31&lt;/marker&gt;: Liderados por el MCPO «Goody», Mako 31 se bajará de las camionetas afganas junto con India al sur del valle de Shah-i-Kot y empezará a caminar hacia el &lt;marker name="marker_21">PO Dorothy&lt;/marker&gt;, ubicado en la cima del &lt;marker name="marker_46">Dedo&lt;/marker&gt;. Tras llegar a su PO, Mako 31 reconocerá la zona de aterrizaje planeada para la Fuerza Operativa Rakkasan, el valle situado &lt;marker name="marker_25">aquí&lt;/marker&gt;. Al igual que los otros dos equipos, marcarán posibles objetivos para que los aviones los destruyan en la hora H.&lt;br/&gt;&lt;br/&gt;Es absolutamente esencial que los tres equipos mantengan su tapadera. Si el enemigo descubre que nuestras fuerzas ya están presentes en el valle, estarán alerta y el asalto principal será un desastre.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingMission_Text_1M2">
+        <English>Who: Juliet Team, 1st SFOD-D, Task Force Bowie (TF Bowie)&lt;br/&gt;What: ESTABLISH observation posts, COLLECT intel&lt;br/&gt;Where: In vicinity, Shah-i-Kot Valley&lt;br/&gt;When: 030800ZFEB28&lt;br/&gt;Why: Support of Operation Anaconda</English>
+        <Spanish>Quién: Equipo Juliet, 1.er SFOD-D, Fuerza Operativa Bowie (TF Bowie)&lt;br/&gt;Qué: ESTABLECER puestos de observación, REUNIR información&lt;br/&gt;Dónde: En las inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Cuándo: 030800ZFEB28&lt;br/&gt;Por qué: Apoyo a la Operación Anaconda</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingMission_Text_2_1M2">
+        <English>Who: Mako 31, DEVGRU, Task Force Bowie (TF Bowie)&lt;br/&gt;What: ESTABLISH observation posts, COLLECT intel&lt;br/&gt;Where: In vicinity, Shah-i-Kot Valley&lt;br/&gt;When: 042300ZMAR01&lt;br/&gt;Why: Support of Operation Anaconda</English>
+        <Spanish>Quién: Mako 31, DEVGRU, Fuerza Operativa Bowie (TF Bowie)&lt;br/&gt;Qué: ESTABLECER puestos de observación, REUNIR información&lt;br/&gt;Dónde: En las inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Cuándo: 042300ZMAR01&lt;br/&gt;Por qué: Apoyo a la Operación Anaconda</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSituation_Text_1M2">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: 500-1000 expected fighters&lt;br/&gt;Activity: Little movement, moderate radio chatter&lt;br/&gt;Location: Vicinity, Shah-i-Kot Valley&lt;br/&gt;Unit: Taliban light infantry with anti-aircraft guns and mortars, supported by Al-Qaeda and North Caucasian fighters&lt;br/&gt;Time Observed: February 20-21, 2002&lt;br/&gt;Equipment: Small arms, mortars, anti-aircraft guns&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To gather enough intel about enemy positions in the Shah-i-Kot Valley in preparation for Operation Anaconda.&lt;br/&gt;2. Adjacent Units: Gray Fox operator Jason, embedded with Juliet Team. India Team and Mako 31 will be operating in the south.&lt;br/&gt;3. Supporting: CAS will not be available for this mission until H-Hour, 0630 2 March 2002. Artillery support will not be available for this mission. CASEVAC will not be available for this mission.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: 500-1000 combatientes esperados&lt;br/&gt;Actividad: Movimiento leve, vibraciones de radio moderadas&lt;br/&gt;Ubicación: Inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Unidades: Infantería ligera talibán con cañones antiaéreos y morteros, apoyada por combatientes de Al Qaeda y norcaucásicos&lt;br/&gt;Fecha de observación: 20-21 de febrero de 2002&lt;br/&gt;Equipo: armas ligeras, morteros, cañones antiaéreos&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Reunir suficiente información sobre las posiciones enemigas en el valle de Shah-i-Kot en preparación de la Operación Anaconda.&lt;br/&gt;2. Unidades adyacentes: Operador Gray Fox Jason, asignado con el equipo Juliet. El equipo India y Mako 31 estarán operando al sur.&lt;br/&gt;3. Apoyo: No habrá apoyo aéreo cercano para esta misión hasta la hora H, las 0630 del 2 de marzo de 2002. No habrá apoyo de artillería para esta misión. No habrá CASEVAC para esta misión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSituation_Text_2_1M2">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: 500-1000 expected fighters&lt;br/&gt;Activity: Little movement, moderate radio chatter&lt;br/&gt;Location: Vicinity, Shah-i-Kot Valley&lt;br/&gt;Unit: Taliban light infantry with anti-aircraft guns and mortars, supported by Al-Qaeda and North Caucasian fighters&lt;br/&gt;Time Observed: February 20-21, 2002&lt;br/&gt;Equipment: Small arms, mortars, anti-aircraft guns&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To gather enough intel about enemy positions in the Shah-i-Kot Valley in preparation for Operation Anaconda.&lt;br/&gt;2. Adjacent Units: Navy EOD operator Adam and USAF combat controller Andy, embedded with Mako 31. India Team will be operating in the south, while Juliet scouts the north.&lt;br/&gt;3. Supporting: CAS will not be available for this mission until H-Hour, 0630 2 March 2002. Artillery support will not be available for this mission. CASEVAC will not be available for this mission.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: 500-1000 combatientes esperados&lt;br/&gt;Actividad: Movimiento leve, vibraciones de radio moderadas&lt;br/&gt;Ubicación: Inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Unidades: Infantería ligera talibán con cañones antiaéreos y morteros, apoyada por combatientes de Al Qaeda y norcaucásicos&lt;br/&gt;Fecha de observación: 20-21 de febrero de 2002&lt;br/&gt;Equipo: armas ligeras, morteros, cañones antiaéreos&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Reunir suficiente información sobre las posiciones enemigas en el valle de Shah-i-Kot en preparación de la Operación Anaconda.&lt;br/&gt;2. Unidades adyacentes: Artificiero de la Armada Adam y controlador de la Fuerza Aérea Andy, asignados con Mako 30. El equipo India estará operando al sur, mientras que Juliet reconocerá el norte.&lt;br/&gt;3. Apoyo: No habrá apoyo aéreo cercano para esta misión hasta la hora H, las 0630 del 2 de marzo de 2002. No habrá apoyo de artillería para esta misión. No habrá CASEVAC para esta misión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Briefing_Text_1M2">
+        <English>Travelling in five Polaris all-terrain vehicles (ATV), Juliet Team will drive through the Arma Mountains until reaching &lt;marker name="marker_7">OP Clementine&lt;/marker&gt;. Upon reaching their designated OP, they will scout &lt;marker name="marker_45">the Whale&lt;/marker&gt; for enemy positions and strength, marking targets for air support and taking pictures if necessary. When enough information has been gathered, Juliet will remain at their OP and keep marking targets for air support.</English>
+        <Spanish>Viajando en cinco quads Polaris, el equipo Juliet conducirá a través de las montañas Arma hasta llegar al &lt;marker name="marker_7">PO Clementine&lt;/marker&gt;. Al llegar a su PO designado, reconocerán posiciones enemigas en &lt;marker name="marker_45">la Ballena&lt;/marker&gt;, marcando blancos para el apoyo aéreo y tomando fotografías de ser necesario. Cuando hayan reunido suficiente información, Juliet permanecerá en su PO y seguirá marcando objetivos para el apoyo aéreo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Briefing_Text_2_1M2">
+        <English>Mako 31, already behind the other two AFO teams, will set up an OP at &lt;marker name="marker_46">the Finger&lt;/marker&gt;, designated &lt;marker name="marker_21">Dorothy&lt;/marker&gt;. Upon reaching their designated OP, they will scout the &lt;marker name="marker_25">designated landing zone&lt;/marker&gt; for TF Rakkasan, marking targets for air support and taking pictures if necessary. When enough information has been gathered, Mako 31 will remain at their OP and keep marking targets for air support.</English>
+        <Spanish>Mako 31, ya detrás de los otros dos equipos AFO, establecerá un PO en &lt;marker name="marker_46">el Dedo&lt;/marker&gt;, designado &lt;marker name="marker_21">Dorothy&lt;/marker&gt;. Al llegar a su PO designado, reconocerán la &lt;marker name="marker_25">zona de aterrizaje designada&lt;/marker&gt; para la TF Rakkasan, marcando objetivos para el apoyo aéreo y tomando fotografías de ser necesario. Cuando hayan reunido suficiente información, Mako 31 permanecerá en su PO y seguirá marcando objetivos para el apoyo aéreo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_Description_1M2">
+        <English>Before Operation Anaconda officially commences, Juliet Team has to reach OP Clementine and start identifying priority targets for ordnance.</English>
+        <Spanish>Antes de que comience oficialmente la Operación Anaconda, el equipo Juliet tiene que llegar al PO Clementine y empezar a identificar objetivos prioritarios para la artillería.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_Title_1M2">
+        <English>Move to OP Clementine</English>
+        <Spanish>Avanzar al PO Clementine</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj1_1_Description_1M2">
+        <English>Follow your team leader's orders at all costs, since he knows the way and he has carefully studied all the mission's objectives.</English>
+        <Spanish>Sigue las órdenes del líder de tu equipo a toda costa, puesto que él conoce el camino y ha estudiado minuciosamente todos los objetivos de la misión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_1_Title_1M2">
+        <English>Follow Kris</English>
+        <Spanish>Seguir a Kris</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj1_2_Description_1M2">
+        <English>You have been ordered to take a couple of strobe lights and a camera in order to carry out the reconnaissance mission at hand. Grab them from your ATV, since we will be going on foot from here.</English>
+        <Spanish>Te han encargado coger un par de luces estroboscópicas y una cámara para llevar a cabo la misión de reconocimiento en cuestión. Cógelas de tu quad, dado que iremos a pie a partir de aquí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_2_Title_1M2">
+        <English>Grab gear from ATV</English>
+        <Spanish>Coger el equipo del quad</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj1_3_Description_1M2">
+        <English>Since we'll have to leave the ATVs here unattended, we're just going to booby-trap them in case the enemy finds them before we get back. If everything goes well, none of them will have detonated and we will safely defuse them.</English>
+        <Spanish>Como tendremos que dejar los quads aquí desatendidos, vamos a minarlos por si el enemigo los encuentra antes de que volvamos. Si todo va bien, ninguno habrá explotado y los desactivaremos con seguridad.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_3_Title_1M2">
+        <English>Booby-trap all ATVs</English>
+        <Spanish>Minar todos los quads</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_Description_1M2">
+        <English>Once Juliet is at OP Clementine, their mission is to identify priority targets for the fast movers and the AC-130 to destroy. They will accomplish that by locating the targets using magnified optics and binoculars, figuring out their grid reference, and marking it on their issued satellite laptop.</English>
+        <Spanish>Una vez que Juliet se encuentre en el PO Clementine, su misión consistirá en identificar los objetivos prioritarios que los cazas y los AC-130 deben destruir. Para ello, localizarán los objetivos con prismáticos y visores con aumentos, averiguarán sus coordenadas y los marcarán en el ordenador portátil por satélite que se les ha entregado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_Title_1M2">
+        <English>Identify targets</English>
+        <Spanish>Identificar blancos</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_Description_1M2">
+        <English>Several targets have been identified for air support, confirming heavy enemy presence in the Shah-i-Kot. We can still go further. Our objective now is to collect more intel that can help our cause and assist our attacking comrades in a few days.</English>
+        <Spanish>Se han identificado varios objetivos para el apoyo aéreo, confirmando una gran presencia enemiga en Shah-i-Kot. Podemos ir más allá. Nuestro objetivo ahora es reunir más información que pueda ayudar a nuestra causa y apoyar a nuestros compañeros en unos días.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_Title_1M2">
+        <English>Collect intel</English>
+        <Spanish>Reunir información</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_1_Description_1M2">
+        <English>There's three seemingly abandoned huts on the skirt of the hill heading to Wazghar. The enemy could be hiding anything in those huts, so we'd better investigate them.</English>
+        <Spanish>Hay tres chozas aparentemente abandonadas en la falda de la colina que se dirige a Wazghar. El enemigo podría estar escondiendo cualquier cosa en esas chozas, así que será mejor que las investiguemos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_1_Title_1M2">
+        <English>Investigate the first hut</English>
+        <Spanish>Investigar la primera choza</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_2_Description_1M2">
+        <English>There's three seemingly abandoned huts on the skirt of the hill heading to Wazghar. The enemy could be hiding anything in those huts, so we'd better investigate them.</English>
+        <Spanish>Hay tres chozas aparentemente abandonadas en la falda de la colina que se dirige a Wazghar. El enemigo podría estar escondiendo cualquier cosa en esas chozas, así que será mejor que las investiguemos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_2_Title_1M2">
+        <English>Investigate the second hut</English>
+        <Spanish>Investigar la segunda choza</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_3_Description_1M2">
+        <English>There's three seemingly abandoned huts on the skirt of the hill heading to Wazghar. The enemy could be hiding anything in those huts, so we'd better investigate them.</English>
+        <Spanish>Hay tres chozas aparentemente abandonadas en la falda de la colina que se dirige a Wazghar. El enemigo podría estar escondiendo cualquier cosa en esas chozas, así que será mejor que las investiguemos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_3_Title_1M2">
+        <English>Investigate the third hut</English>
+        <Spanish>Investigar la tercera choza</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_4_Description_1M2">
+        <English>Two logistical trucks have arrived in Wazghar to resupply the fighters stationed there. We know they'll be leaving shortly, so we'll have to mark both of them with an IR strobe so our Spectres can later identify them with ease.</English>
+        <Spanish>Dos camiones logísticos han llegado a Wazghar para reabastecer a los combatientes allí apostados. Sabemos que se marcharán pronto, así que tendremos que marcar los dos con una baliza IR para que nuestros Spectres puedan identificarlos fácilmente.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_4_Title_1M2">
+        <English>Mark both trucks</English>
+        <Spanish>Marcar ambos camiones</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj4_Description_1M2">
+        <English>With enough intel collected, we can call this recon operation a success. Let's now return to OP Clementine and keep watching enemy movements until TF Hammer and TF Rakkasan arrive in a couple of days.</English>
+        <Spanish>Con suficiente información reunida, podemos considerar esta operación de reconocimiento un éxito. Volvamos ahora al PO Clementine y sigamos vigilando los movimientos enemigos hasta que la TF Hammer y la TF Rakkasan lleguen en un par de días.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj4_Title_1M2">
+        <English>Return to OP Clementine</English>
+        <Spanish>Volver al PO Clementine</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj1_mako_Description_1M2">
+        <English>Mako 31 has been tasked with setting up an observation post on the ridgeline known as "The Finger". This OP will be called Dorothy and will give Mako 31 a great view of the Rakkasans' landing zone.</English>
+        <Spanish>Se ha encomendado a Mako 31 establecer un puesto de observación en la cresta conocida como «dl Dedo». Este PO se llamará Dorothy y proporcionará a Mako 31 una gran vista de la zona de aterrizaje de los Rakkasans.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_mako_Title_1M2">
+        <English>Move to OP Dorothy</English>
+        <Spanish>Avanzar al PO Dorothy</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_mako_Description_1M2">
+        <English>OP Dorothy is occupied by someone, we are not sure who. Whoever that may be, we have to go back to our team leader and inform him about the situation so we can take appropiate measures.</English>
+        <Spanish>El PO Dorothy está ocupado por alguien, pero no sabemos quién. Sea quien sea, tenemos que volver con nuestro líder y ponerle al día de la situación para poder tomar medidas apropiadas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_mako_Title_1M2">
+        <English>Return to Goody</English>
+        <Spanish>Volver con Goody</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_mako_Description_1M2">
+        <English>Blaber has confirmed the individuals present at OP Dorothy are not friendlies. If they are occupying our position and have a heavy machine gun ready to tear friendly helicopters apart, they need to be dealt with ASAP. We'll wait until just one hour before H-Hour so as to not blow our cover.</English>
+        <Spanish>Blaber ha confirmado que los individuos presentes en el PO Dorothy no son aliados. Si están ocupando nuestra posición y tienen una ametralladora pesada lista para hacer trizas nuestros helicópteros, debemos ocuparnos de ellos de inmediato. Esperaremos hasta justo una hora antes de la hora H para no desenmascararnos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_mako_Title_1M2">
+        <English>Attack OP Dorothy</English>
+        <Spanish>Atacar el PO Dorothy</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_MissionTitle_1M2">
+        <English>Blackout Whiteout</English>
+        <Spanish>Apagón en la ventisca</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Intro_1M2">
+        <English>Mission 2 Intro</English>
+        <Spanish>Misión 2: Intro</Spanish>
+        <Polish>Misja 2: Intro</Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Outro_1M2">
+        <English>Mission 2 Outro</English>
+        <Spanish>Misión 2: Outro</Spanish>
+        <Polish>Misja 2: Outro</Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionDescription_1M2">
+        <English>Everything seems to suggest up to a thousand hostiles are entrenched in the Shah-i-Kot Valley. Three AFO teams insert in various points of the valley to mark targets for future airstrikes, collect intel and establish observation posts.</English>
+        <Spanish>Todo parece indicar que hasta mil hostiles están atrincherados en el valle de Shah-i-Kot. Tres equipos AFO son insertados en varios puntos del valle para marcar objetivos para futuros ataques aéreos, reunir información y establecer puestos de observación.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_text_1M2">
+        <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER II - Blackout Whiteout&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'Do not repeat the tactics which have gained you one victory, but let your methods be regulated by the infinite variety of circumstances.'&lt;br/&gt;&lt;br/&gt;-SUN TZU&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO II: Apagón en la ventisca&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«No repitas las tácticas que te han valido una victoria, sino deja que tus métodos se regulen por la infinita variedad de circunstancias».&lt;br/&gt;&lt;br/&gt;—SUN TZU&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel1_1M2">
+        <English>SGT Jim 'Riddle' Lambert</English>
+        <Spanish>Sgto. Jim «Riddle» Lambert</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel2_1M2">
+        <English>Juliet Team, 1st SFOD-D</English>
+        <Spanish>Equipo Juliet, 1.er SFOD-D</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel3_1M2">
+        <English>North of Shah-i-Kot</English>
+        <Spanish>Norte de Shah-i-Kot</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel4_1M2">
+        <English>February 28, 2002 - 0308</English>
+        <Spanish>28 febrero 2002 - 0308</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro2_intel1_1M2">
+        <English>PO2 Eric Bennett</English>
+        <Spanish>PO2 Eric Bennett</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro2_intel2_1M2">
+        <English>Mako 31, DEVGRU</English>
+        <Spanish>Mako 31, DEVGRU</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro2_intel3_1M2">
+        <English>South of Shah-i-Kot</English>
+        <Spanish>Sur de Shah-i-Kot</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro2_intel4_1M2">
+        <English>March 1, 2002 - 0423</English>
+        <Spanish>1 marzo 2002 - 0423</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message1_1M2">
+        <English>So, Abdul... Tell us, where are the enemy now?</English>
+        <Spanish>Bien, Abdul... Díganos: ¿dónde está el enemigo ahora?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message2_1M2">
+        <English>Here. Paktia. Shah-i-Kot Valley. South of Gardez.</English>
+        <Spanish>Aquí. Paktia. Valle de Shah-i-Kot. Al sur de Gardez.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message3_1M2">
+        <English>And how many?</English>
+        <Spanish>¿Cuántos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message4_1M2">
+        <English>I am not sure, hundreds, maybe thousands! You have to go now!</English>
+        <Spanish>No estoy seguro, cientos, ¡quizás miles! ¡Tienen que ir ya!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message5_1M2">
+        <English>Shah-i-Kot, the 'valley of kings'... He must be right. The CIA's SIGINT and HUMINT have been reporting increased signals in that area.</English>
+        <Spanish>Shah-i-Kot, el «valle de los reyes»... Debe de estar en lo cierto. El SIGINT y HUMINT de la CIA han estado informando de mayores señales en esa zona.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message6_1M2">
+        <English>And from what the Northern Alliance told us during Tora Bora, they know that area damn well from their war with the Soviets.</English>
+        <Spanish>Y, a juzgar por lo que la Alianza del Norte nos dijo durante Tora Bora, se conocen de sobra esa zona por su guerra con los soviéticos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message7_1M2">
+        <English>It's time to get planning. Thank you for your cooperation, Abdul. Juliet, dismissed. You did a good job.</English>
+        <Spanish>Hora de ponernos a planificar. Gracias por su cooperación, Abdul. Juliet, retírense. Han hecho un buen trabajo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message7_2_1M2">
+        <English>Colonel Wiercinski, Lieutenant Colonel Blaber, thank you for joining me. As you know, the Shah-i-Kot is our utmost priority right now.</English>
+        <Spanish>Coronel Wiercinski, teniente coronel Blaber, gracias por venir. Como sabrán, Shah-i-Kot es nuestra mayor prioridad ahora mismo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message7_3_1M2">
+        <English>Heavy Taliban and AQ presence in the valley has been confirmed. Everything seems to suggest they are preparing for a spring offensive.</English>
+        <Spanish>Se ha confirmado una gran presencia talibán y de AQ. Todo parece indicar que se están preparando para una ofensiva en primavera.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message7_4_1M2">
+        <English>We need to strike while the iron's hot and encircle them in the valley. In order to finally take them out of the equation, we need to come up with a cohesive plan.</English>
+        <Spanish>Tenemos que aprovechar el momento y envolverlos en el valle. Para sacarlos definitivamente de la ecuación, tenemos que idear un plan cohesionado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message7_5_1M2">
+        <English>I suggest the following: Lieutenant Colonel, your AFO will survey the terrain under the cover of darkness to collect intel and confirm the green light.</English>
+        <Spanish>Propongo lo siguiente: teniente coronel, su AFO reconocerá el terreno al amparo de la oscuridad para reunir información y confirmar la luz verde.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message7_6_1M2">
+        <English>Meanwhile, I will organize the main assault. I'll ask the local Afghans to advance from the west and assault the enemy head-on.</English>
+        <Spanish>Mientras tanto, yo organizaré el asalto principal. Pediré a los afganos locales que avancen desde el oeste y ataquen al enemigo de frente.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message7_7_1M2">
+        <English>I think it'd benefit us if they feel like this victory is theirs. However, we can't keep pushing them eastwards, towards Pakistan, we can't risk another Tora Bora.</English>
+        <Spanish>Creo que nos viene bien que piensen que esta victoria es suya. Sin embargo, no podemos seguir empujándolos hacia el este, hacia Pakistán, no puede haber otro Tora Bora.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message7_8_1M2">
+        <English>Colonel Wiercinski, your 101st Airborne will be inserted east of the valley via Chinook. They will set up blocking positions to make sure the Taliban do not escape.</English>
+        <Spanish>Coronel Wiercinski, su 101.ª Aerotransportada será insertada al este del valle vía Chinook. Formarán posiciones de bloqueo para asegurarse de que los talibanes no escapen.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message7_9_1M2">
+        <English>It's a simple plan that I believe can yield great results. Any objections or suggestions?</English>
+        <Spanish>Es un plan sencillo que creo que puede dar grandes resultados. ¿Alguna objeción o sugerencia?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message8_1M2">
+        <English>Yo, fuckwads, briefing with Blaber. We got plans for tomorrow night. Come on.</English>
+        <Spanish>Eh, capullos, reunión con Blaber. Tenemos planes para mañana por la noche. Vamos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message9_1M2">
+        <English>Having a date with you was not on my plans, but okay, better than staying at this airfield. Anything you can tell us in advance?</English>
+        <Spanish>No contaba con tener una cita contigo, pero bueno, mejor que estar en este aeropuerto. ¿Algo que puedas adelantarnos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message10_1M2">
+        <English>Mountains. ATVs. A thousand Taliban. That up your alley or not?</English>
+        <Spanish>Montañas. Quads. Mil talibanes. ¿Es tu rollo o no?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message11_1_1M2">
+        <English>Jesus, it's fucking cold...</English>
+        <Spanish>Dios, qué puto frío...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message11_1M2">
+        <English>That grouping of huts up ahead looks clear. On me, let's go in for a closer look. Drive slowly, we're in enemy territory now.</English>
+        <Spanish>Esa agrupación de chozas más adelante parece despejada. Conmigo, vamos a echar un vistazo más de cerca. Conducid despacio, ahora estamos en territorio enemigo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message12_1M2">
+        <English>Confirmed, all clear. Next stop is OP Clementine. Anyone wanna take a piss while we're here? No? Then let's rock and roll.</English>
+        <Spanish>Confirmado, todo despejado. La siguiente parada es el PO Clementine. ¿Alguien quiere mear ya que estamos? ¿No? Pues vamos a por todas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message13_1M2">
+        <English>Off the ATVs everybody, we'll have to make it to the top on foot. Jason, move to the peak of the mountain and intercept enemy communications.</English>
+        <Spanish>Bajaos todos de los quads, tendremos que llegar hasta arriba a pie. Jason, ve a la cima de la montaña e intercepta las comunicaciones enemigas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message14_1M2">
+        <English>Canvas, go with him and escort him. Riddle, Quartz, you're with me. We're going to Clementine.</English>
+        <Spanish>Canvas, ve con él y escóltalo. Riddle, Quartz, venís conmigo. Vamos a Clementine.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message14_2_1M2">
+        <English>Roger, see you there shortly. Stay safe.</English>
+        <Spanish>Recibido, allí nos vemos. Cuidaos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message15_1M2">
+        <English>Riddle, take the camera and a couple of strobes from your ATV. You've got a lighter load and we're gonna need them.</English>
+        <Spanish>Riddle, coge la cámara y un par de balizas de tu quad. Tú vas más ligero y las vamos a necesitar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message16_1M2">
+        <English>Good. Now, rig the ATVs. If AQ finds them before we come back, they'll be in for a surprise.</English>
+        <Spanish>Bien. Ahora, mina los quads. Si AQ los descubre antes de que volvamos, se llevarán una sorpresa.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message17_1M2">
+        <English>All done, sir.</English>
+        <Spanish>Hecho, señor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message18_1M2">
+        <English>Let's get trekking, gentlemen.</English>
+        <Spanish>A pegarnos una caminata, caballeros.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message19_1M2">
+        <English>Here we are. Binos out, start spotting targets of opportunity. Call out grid markings and I'll mark them on the laptop for the Spectre.</English>
+        <Spanish>Ya hemos llegado. Sacad los prismáticos y empezad a avistar posibles blancos. Decid las coordenadas y las marcaré en el portátil para el Spectre.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message20_1M2">
+        <English>Got eyes on a cave entrance with two guys outside, grid 037989. I figure with this blizzard there's a lot more inside.</English>
+        <Spanish>Veo una entrada a una cueva con dos tíos fuera, coordenadas 037989. Imagino que habrá más dentro con esta ventisca.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message21_1M2">
+        <English>Yeah, seems like the logical choice. That's a priority target for the guns. Marking.</English>
+        <Spanish>Sí, parece lógico. Ese es un objetivo prioritario para los cañones. Marcando.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message22_1M2">
+        <English>A mortar pit, grid</English>
+        <Spanish>Un pozo de mortero, coordenadas</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message22_1_1M2">
+        <English>. It's aiming straight towards the planned HLZs.</English>
+        <Spanish>. Está apuntando a las ZA planeadas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message23_1M2">
+        <English>Good find, it must be out of action before our guys arrive. Position marked.</English>
+        <Spanish>Bien visto, debe estar fuera de combate antes de que lleguen nuestros chicos. Posición marcada.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message24_1M2">
+        <English>Holy shit, that's a fucking ZPU at grid</English>
+        <Spanish>Hostia puta, eso es una jodida ZPU en las coordenadas</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message24_1_1M2">
+        <English>. If it's alive by H-Hour, this will be a military disaster.</English>
+        <Spanish>. Si sigue viva a la hora H, esto será un desastre militar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message25_1M2">
+        <English>Priority target for sure. Marking.</English>
+        <Spanish>Objetivo prioritario desde luego. Marcando.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message26_1M2">
+        <English>Dushka on the roof of a house in Wazghar, grid 038987. Big threat for the Chinooks.</English>
+        <Spanish>Una Dushka en el techo de una casa en Wazghar, coordenadas 038987. Gran amenaza para los Chinooks.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message27_1M2">
+        <English>Marking.</English>
+        <Spanish>Marco.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message27_2_1M2">
+        <English>Negative, that's not a target.</English>
+        <Spanish>Negativo, eso no es un blanco.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message28_1M2">
+        <English>A metric ton of enemies inside Wazghar, grid 038987. That hamlet is definitely populated.</English>
+        <Spanish>Un cojón de enemigos dentro de Wazghar, coordenadas 038987. Esa aldea está poblada sin duda.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message29_1M2">
+        <English>You see any civilians?</English>
+        <Spanish>¿Ves algún civil?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message30_1M2">
+        <English>Negative, no civilian presence.</English>
+        <Spanish>Negativo, no hay presencia civil.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message31_1M2">
+        <English>Roger, that town will have to be levelled. Marking for the guns.</English>
+        <Spanish>Entendido, habrá que arrasar ese pueblo. Marcando para los cañones.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message32_1M2">
+        <English>Patrols. A bunch of guys all over the place in the middle of a blizzard. Brave of them, but still.</English>
+        <Spanish>Patrullas. Un montón de tíos por todas partes en medio de una ventisca. Valiente por su parte, pero bueno.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message33_1M2">
+        <English>Roger that. I can't mark 'em because they're not stationary, but good find nonetheless.</English>
+        <Spanish>Recibido. No los puedo marcar porque no están quietos, pero bien visto de todos modos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message34_1M2">
+        <English>Alright, I think we've got enough information. This is definitely a killzone. Gonna report to Blaber.</English>
+        <Spanish>Vale, creo que ya tenemos suficiente información. Esto es un matadero. Voy a informar a Blaber.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message35_1M2">
+        <English>Panther, this is Juliet Actual. We're at OP Clementine. Be advised, the Whale is packed with Taliban and AQ. Advise, over.</English>
+        <Spanish>Panther, aquí Juliet Jefe. Estamos en el PO Clementine. Atención: la Ballena está a rebosar de talibanes y AQ. Solicito consejo, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message36_1M2">
+        <English>Roger that, Juliet. We're proceeding with the operation as planned. Remain at OP Clementine and keep searching for targets and intel. Out.</English>
+        <Spanish>Recibido, Juliet. Seguimos con la operación como se planificó. Permanezcan en el PO Clementine y sigan buscando objetivos e información. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message37_1M2">
+        <English>Canvas, Jason, we've been ordered to remain here. Keep intercepting their comms. How copy, over?</English>
+        <Spanish>Canvas, Jason, nos han ordenado que nos quedemos aquí. Seguid interceptando sus comunicaciones. ¿Me recibís? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message38_1M2">
+        <English>Solid copy. Yeah, we're getting some radio traffic, but nothing intelligible. Jason suggests we check out those three huts down the hill. Over.</English>
+        <Spanish>Alto y claro. Sí, tenemos algo de tráfico de radio, pero nada inteligible. Jason sugiere que investiguemos esas tres chozas en la falda de la colina. Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message39_1M2">
+        <English>Riddle, Quartz, you're up. I'll provide sniper overwatch from here. Investigate those three huts, but do not fire unless strictly necessary.</English>
+        <Spanish>Riddle, Quartz, os toca. Proporcionaré apoyo de francotirador desde aquí. Investigad esas tres chozas, pero no disparéis a no ser que sea estrictamente necesario.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message40_1M2">
+        <English>See anything interesting, I want to hear about it. Take a picture of it and send it to Jason. Now go.</English>
+        <Spanish>Si veis algo interesante, quiero enterarme. Sacadle una foto y enviádsela a Jason. Moveos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message41_1M2">
+        <English>Roger, I've sent Riddle and Quartz down there. I've got them in my sights. Out.</English>
+        <Spanish>Recibido, he enviado a Riddle y a Quartz. Los tengo en la mira. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message42_1M2">
+        <English>Watch out, fellas: our IR systems are picking up anomalies in the dirt northeast of Wazghar. Most likely mines from the Soviet war. I don't even think the Talibs know about them. Stay clear of that area.</English>
+        <Spanish>Atención, señores: nuestros sistemas IR están captando anomalías en la tierra al noreste de Wazghar. Seguramente minas de la guerra soviética. Creo que ni los talibanes saben de su existencia. Alejaos de esa zona.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message43_1M2">
+        <English>Yeah, the half-dilapidated hut in the middle of the valley is empty, obviously. Was this really necessary, Jason?</English>
+        <Spanish>Sí, la choza medio derruida en medio del valle está vacía, claro que sí. ¿En serio esto hacía falta, Jason?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message44_1M2">
+        <English>There could be an entrance to a basement or a cave, Bin Laden could be hiding in there. Keep looking.</English>
+        <Spanish>Podría haber una entrada a un sótano o una cueva, Bin Laden podría estar ahí dentro. Seguid buscando.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message45_1M2">
+        <English>This house is empty.</English>
+        <Spanish>Esta casa está vacía.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message46_1M2">
+        <English>Uh, I've got a dead body in this house. A man with a pistol next to him. Suicide, maybe?</English>
+        <Spanish>Eh, hay un cadáver en esta casa. Un hombre con una pistola al lado. ¿Un suicidio, quizás?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message47_1M2">
+        <English>Could be. We don't know for sure. Take a picture, send it to me, and continue with your mission.</English>
+        <Spanish>Puede ser. No lo sabemos. Sácale una foto, envíamela y continúa con tu misión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message48_1M2">
+        <English>This one is clear, but there's some document in Pashto I don't understand. I'll send you a picture, Jason.</English>
+        <Spanish>Esta está despejada, pero hay un documento en pastún que no entiendo. Te envío una foto, Jason.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message49_1M2">
+        <English>Go ahead.</English>
+        <Spanish>Adelante.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message50_1M2">
+        <English>Hmmm... "Our fires underneath will bring down the prying eagles". Are the eagles our helicopters?</English>
+        <Spanish>Mmmm... «Nuestros fuegos por debajo derribarán a las águilas indiscretas». ¿Son las águilas nuestros helicópteros?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message51_1M2">
+        <English>Wait a second, I'm intercepting a cell phone call... Yeah, looks like two trucks will be arriving in Wazghar at any moment. Riddle, Quartz, find a place to hide.</English>
+        <Spanish>Espera un momento, estoy interceptando una llamada de móvil... Sí, parece que dos camiones llegarán a Wazghar en cualquier momento. Riddle, Quartz, encontrad un lugar donde esconderos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message52_1M2">
+        <English>Shit, they're logi trucks... Destroying them would greatly cripple their defenses. Riddle, I'm afraid you're gonna have to mark them with an IR strobe before they leave.</English>
+        <Spanish>Mierda, son camiones logísticos... Destruirlos inutilizaría en gran medida sus defensas. Riddle, me temo que vas a tener que marcarlos con una baliza IR antes de que se vayan.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message53_1M2">
+        <English>Goddammit... Fine, but I want my ass covered at all times.</English>
+        <Spanish>Joder... Vale, pero quiero que me cubráis en todo momento.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message54_1M2">
+        <English>You can count on that. Now get moving.</English>
+        <Spanish>Cuenta con ello. Ponte en marcha.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message55_1M2">
+        <English>Strobes planted.</English>
+        <Spanish>Balizas colocadas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message56_1M2">
+        <English>Great, now the Spectre will know at all times where they are. Get back here, you two. That's enough bravura for tonight.</English>
+        <Spanish>Genial, ahora el Spectre sabrá dónde están en todo momento. Volved aquí los dos. Suficiente bravura por esta noche.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message57_1M2">
+        <English>Well done, fellas. Now we'll just sit here, keep watching their movements, and wait for the cavalry to arrive...</English>
+        <Spanish>Bien hecho, muchachos. Ahora nos sentaremos aquí, vigilaremos sus movimientos y esperaremos a que llegue la caballería...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message58_1M2">
+        <English>Let's double-time it, gents. We're one day behind, Juliet and India are already at their designated OPs, and the main assault is tomorrow.</English>
+        <Spanish>Daos brío, caballeros. Llevamos un día de retraso, Juliet e India ya están en sus PO designados, y el asalto principal es mañana.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message59_1M2">
+        <English>A small village. I see some guys looking out the windows. Let's go around it until we reach the Finger.</English>
+        <Spanish>Un pueblecito. Veo gente asomada a las ventanas. Vamos a rodearlo hasta llegar al Dedo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message60_1M2">
+        <English>Okay, we're getting close to Dorothy. Chris, Eric, you're going to be our pointmen.</English>
+        <Spanish>Vale, nos estamos acercando a Dorothy. Chris, Eric, vais a ser nuestros cabecillas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message61_1M2">
+        <English>Move up to the Finger, get eyes on the OP and the valley, assess the situation, and come back.</English>
+        <Spanish>Avanzad al Dedo, observad el PO y el valle, evaluad la situación y volved.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message62_1M2">
+        <English>Do not fire no matter what, we don't want to compromise the operation. We're ghosts. We'll stay here and guard the gear. Got it?</English>
+        <Spanish>No disparéis bajo ningún concepto, no queremos poner en peligro la operación. Somos fantasmas. Nos quedaremos aquí y vigilaremos la retaguardia. ¿Estamos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message63_1M2">
+        <English>Understood. Let's go, Eric. On me.</English>
+        <Spanish>Entendido. Vamos, Eric. Conmigo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message64_1M2">
+        <English>Hold on, I think I'm seeing something at Dorothy. A tent? Behind me, Eric, let's get close stealthily.</English>
+        <Spanish>Espera, creo que estoy viendo algo en Dorothy. ¿Una tienda? Detrás de mí, Eric, vamos a acercarnos en silencio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message65_1M2">
+        <English>You see what I'm seein'?</English>
+        <Spanish>¿Ves lo que yo?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message66_1M2">
+        <English>Think so. A tent that can hold a bunch of guys and a heavy machine gun overlooking the Rakkasans' valley. Right in our OP.</English>
+        <Spanish>Eso creo. Una tienda en la que caben unos cuantos y una ametralladora pesada observando el valle de los Rakkasans. Justo en nuestro PO.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message67_1M2">
+        <English>We're fucked. That MG will tear our Chinooks to shreds if we don't silence it.</English>
+        <Spanish>Estamos jodidos. Esa ametralladora hará trizas nuestros Chinooks si no la silenciamos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message68_1M2">
+        <English>And hey, maybe it's just my NODs deceiving me, but don't those guys look... Caucasian to you?</English>
+        <Spanish>Y oye, a lo mejor es la visión nocturna que me está engañando, pero esos no te parecen... ¿caucásicos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message69_1M2">
+        <English>Yeah, they're most definitely not Arabs. Shit. Take a picture of it and let's go back to Goody.</English>
+        <Spanish>Sí, desde luego no son árabes. Mierda. Sácales una foto y volvamos con Goody.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message70_1M2">
+        <English>Ah, there you are. SITREP?</English>
+        <Spanish>Ah, ahí estáis. ¿Informe de situación?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message71_1M2">
+        <English>Sir, there's been a situation. OP Dorothy is occupied. A tent and a Dushka manned by a bunch of white guys. What do we do?</English>
+        <Spanish>Señor, ha habido un incidente. El PO Dorothy está ocupado. Una tienda y una Dushka tripulada por un puñado de blancos. ¿Qué hacemos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message72_1M2">
+        <English>Okay. Okay. I'll get Blaber on the line.</English>
+        <Spanish>Vale. Vale. Hablaré con Blaber.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message73_1M2">
+        <English>Panther, this is Mako 31 Actual. Be advised, OP Dorothy is occupied by what seem to be Caucasian fighters. Interrogative: are there Brits up here?</English>
+        <Spanish>Panther, aquí Mako 31 Jefe. Atención: el PO Dorothy está ocupado por lo que parecen ser combatientes caucásicos. Interrogo: ¿hay británicos ahí arriba?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message74_1M2">
+        <English>Negative, Mako 31. There is no British presence anywhere in the mountains. If the OP is occupied, it's occupied by the enemy.</English>
+        <Spanish>Negativo, Mako 31. No hay presencia británica en las montañas. Si el PO está ocupado, está ocupado por el enemigo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message75_1M2">
+        <English>Roger that. Be advised, they have a heavy machine gun that could bring down our Chinooks. The SAR operation could and would be more than we can chew. What should we do?</English>
+        <Spanish>Recibido. Aviso, tienen una ametralladora pesada que podría derribar nuestros Chinooks. La operación de SAR podría ser y sería más de lo que podemos soportar. ¿Qué deberíamos hacer?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message76_1M2">
+        <English>I'll ask you instead: what do you think you should do?</English>
+        <Spanish>Le preguntaré a usted: ¿qué cree que debería hacer?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message77_1M2">
+        <English>I think we ought to wait until H-2. At H-2 I start moving; I engage at H-1, and then follow up with AC-130. I understand that you have to make the decision on this and I'll support any decision you make.</English>
+        <Spanish>Creo que deberíamos esperar hasta H-2. En H-2 empiezo a moverme; ataco en H-1 y luego sigo con AC-130. Entiendo que tiene que tomar la decisión usted y aceptaré cualquier decisión que tome.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message78_1M2">
+        <English>Good hunting.</English>
+        <Spanish>Buena caza.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message79_1M2">
+        <English>Okay men, let's start digging. We'll attack Dorothy tomorrow, just before the main assault.</English>
+        <Spanish>Vale, muchachos, a cavar. Atacaremos Dorothy mañana, justo antes del asalto principal.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message80_1M2">
+        <English>Moment of truth, gentlemen. Adam, Andy, keep watch and guard our gear. Tell Grim 31 to point its guns at Dorothy.</English>
+        <Spanish>El momento de la verdad, caballeros. Adam, Andy, haced guardia y vigilad nuestro equipo. Decidle a Grim 31 que apunte sus cañones a Dorothy.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message81_1M2">
+        <English>Grim 31, this is Mako 31. OP Dorothy is an enemy emplacement, I repeat, there's enemy at Dorothy. Three members of Mako 31 are assaulting their position right now. I am asking you to support them, over.</English>
+        <Spanish>Grim 31, aquí Mako 31. El PO Dorothy es un emplazamiento enemigo, repito, hay enemigos en Dorothy. Tres miembros de Mako 31 van a asaltar su posición ahora mismo. Solicito que los apoye, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message82_1M2">
+        <English>Solid copy, we have visual on Dorothy. We will provide support as soon as you give us the order to fire. Out.</English>
+        <Spanish>Recibido, tenemos visual en Dorothy. Proporcionaremos apoyo tan pronto como nos den la orden de disparar. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message83_1M2">
+        <English>Let's find a good position behind those rocks. Keep your fingers off the trigger until I order you to fire.</English>
+        <Spanish>Encontremos una buena posición detrás de esas rocas. El dedo fuera del gatillo hasta que yo no ordene disparar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message84_1M2">
+        <English>You've got to be kidding... One of them is coming here to take a shit. Hold your position, the darkness is our friend.</English>
+        <Spanish>Tienes que estar de coña... Viene uno para acá a plantar un pino. Mantened la posición, la oscuridad es nuestra amiga.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message85_1M2">
+        <English>Fuck, we've been spotted! Fire at will, go, go, go!</English>
+        <Spanish>¡Joder, nos han visto! ¡Fuego a discreción, va, va, va!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message86_1M2">
+        <English>Disengage, get back, get back! Let the Spectre take care of them!</English>
+        <Spanish>¡Alto el fuego, atrás, atrás! ¡Que el Spectre se ocupe de ellos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message87_1M2">
+        <English>Mako 31, this is Grim 31. We see dead bodies at Dorothy. Requesting permission to engage at danger close distance. How copy, over?</English>
+        <Spanish>Mako 31, aquí Grim 31. Vemos cadáveres en Dorothy. Solicito permiso para atacar a distancia de peligro cercano. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message88_1M2">
+        <English>Permission granted, just fucking level it! Out!</English>
+        <Spanish>¡Permiso concedido, vuélenlo! ¡Corto!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message89_1M2">
+        <English>Thanks for the assist, Grim 31. We'll take it from here. Out.</English>
+        <Spanish>Gracias por la ayuda, Grim 31. Ya nos ocupamos nosotros. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message90_1M2">
+        <English>Alright, Dorothy is ours! Check the camp, let's see what they had in store for us!</English>
+        <Spanish>¡Vale, Dorothy es nuestro! ¡Revisad el campamento, a ver qué nos tenían guardado!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message91_1M2">
+        <English>These fuckers had enough ordnance to bring down the entire Air Force. Good lord.</English>
+        <Spanish>Estos cabrones tenían suficiente munición para derribar a la Fuerza Aérea entera. Dios santo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message92_1M2">
+        <English>Yeah, look at this guy's clothes. That's a Russian camo. Are the Russians involved now?</English>
+        <Spanish>Ya, mirad la ropa de este tipo. Es un camuflaje ruso. ¿Están metidos los rusos en esto?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message93_1M2">
+        <English>No. Chechens. These guys come here with experience from their own wars against Russia. They're Muslim, so go figure why they're here.</English>
+        <Spanish>No. Chechenos. Estos vienen aquí con experiencia de sus propias guerras contra Rusia. Son musulmanes, así que ya sabes por qué están aquí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message94_1M2">
+        <English>Guys, you gotta check this out.</English>
+        <Spanish>Chicos, tenéis que ver esto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message95_1M2">
+        <English>What is it?</English>
+        <Spanish>¿Qué es?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message96_1M2">
+        <English>Documents. They say the Chechens and Uzbeks are not simply volunteers, but part of AQ's cross-cultural teams.</English>
+        <Spanish>Documentos. Dicen que los chechenos y los uzbekos no son solo voluntarios, sino parte de los equipos culturales de AQ.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message97_1M2">
+        <English>And there's more: instructions on how to construct homemade bombs for blowing up bridges, buildings, buses, and cars.</English>
+        <Spanish>Y hay más: instrucciones sobre cómo construir bombas caseras para volar puentes, edificios, autobuses y coches.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message98_1M2">
+        <English>This is going to be harder than we thought.</English>
+        <Spanish>Esto va a ser más duro de lo que pensábamos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerCave_1M2">
+        <English>Cave</English>
+        <Spanish>Cueva</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerZPU_1M2">
+        <English>ZPU</English>
+        <Spanish>ZPU</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerDSHK_1M2">
+        <English>DShKM</English>
+        <Spanish>DShKM</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerWazghar_1M2">
+        <English>Enemies</English>
+        <Spanish>Enemigos</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerMortar_1M2">
+        <English>Mortar</English>
+        <Spanish>Mortero</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Abdul_dialogue_1M2">
+        <English>ABDUL</English>
+        <Spanish>ABDUL</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_boobytrap_action_1M2">
+        <English>booby-trap ATV</English>
+        <Spanish>minar quad</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_plantstrobe_action_1M2">
+        <English>plant IR strobe</English>
+        <Spanish>colocar baliza IR</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_binos_hint_1M2">
+        <English>Don't ditch the Vector rangefinder! Take the camera, but save the rangefinder in a backpack or wherever you feel like, you'll find it very useful later!</English>
+        <Spanish>¡No te dejes el telémetro Vector! Coge la cámara, pero guárdate el telémetro en una mochila o donde quieras, ¡te será de gran utilidad más tarde!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_binos_hint2_1M2">
+        <English>There's a total of six markable targets. You only need to successfully spot three to complete this objective. To mark them, aim at a potential target and call Radio Alpha (0-0-1). Hint: Look for light and heat signatures.</English>
+        <Spanish>Hay un total de seis objetivos marcables. Solo tienes que avistar tres para cumplir este objetivo. Para marcarlos, apunta a un posible blanco y llama a la radio Alpha (0-0-1). Consejo: busca fuentes de luz y calor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_binos_radio_1M2">
+        <English>Mark target</English>
+        <Spanish>Marcar objetivo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_introtext_1_1M2">
+        <English>BAGRAM AIRFIELD</English>
+        <Spanish>AEROPUERTO DE BAGRAM</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_introtext_2_1M2">
+        <English>JANUARY 15, 2002</English>
+        <Spanish>15 DE ENERO DE 2002</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intermission1_1M2">
+        <English>&lt;t size='1.5'&gt;O N E   W E E K   L A T E R . . .&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;U N A   S E M A N A   D E S P U É S . . .&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intermission2_1M2">
+        <English>&lt;t size='1.5'&gt;O N E   M O N T H   L A T E R . . .&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;U N   M E S   D E S P U É S . . .&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission3_1M2">
+        <English>&lt;t size='1.5'&gt;T H E   N E X T   N I G H T . . .&lt;br/&gt;&lt;br/&gt;H-HOUR -26&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;L A   S I G U I E N T E   N O C H E . . .&lt;br/&gt;&lt;br/&gt;HORA H -26&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission4_1M2">
+        <English>&lt;t size='1.5'&gt;O N E   D A Y   L A T E R . . .&lt;br/&gt;&lt;br/&gt;H-HOUR -1&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;U N   D Í A   D E S P U É S . . .&lt;br/&gt;&lt;br/&gt;HORA H -1&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_inspect_hint_1M2">
+        <English>To inspect the dead body, get up close and scroll through the action menu until you see the pertinent action.</English>
+        <Spanish>Para inspeccionar el cadáver, acércate y desplázate por el menú de acciones hasta que veas la acción pertinente.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_end1_subtitle_1M2">
+        <English>Operation Anaconda is a go</English>
+        <Spanish>Operación Anaconda en marcha</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_end1_description_1M2">
+        <English>Even though Anaconda has had a premature beginning due to Mako 31 being spotted, it was only at H-1 and their intervention has potentially saved the entire operation at large. All three teams have succeeded at their job, effectively confirming a large Taliban and Arab presence in the valley. Now it's just left for the Afghans and the Army regulars to actually clear it...</English>
+        <Spanish>Aunque Anaconda ha tenido un comienzo prematuro debido a que Mako 31 fue avistado, solo fue en H-1 y su intervención ha salvado posiblemente toda la operación en general. Los tres equipos han triunfado en su trabajo, confirmando una gran presencia talibán y árabe en el valle. Ahora solo queda que los afganos y los regulares del Ejército lo despejen...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lost_subtitle_1M2">
+        <English>Your ATV is broken</English>
+        <Spanish>Tu quad está roto</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lost_description_1M2">
+        <English>You have disabled your ATV by driving recklessly through the Arma Mountains. How do you expect to reach your observation point in the middle of this blizzard without your means of transportation?</English>
+        <Spanish>Has inhabilitado tu quad conduciendo de forma temeraria por las montañas Arma. ¿Cómo esperas llegar a tu puesto de observación en medio de esta ventisca sin tu medio de transporte?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lost2_subtitle_1M2">
+        <English>You have been spotted</English>
+        <Spanish>Te han avistado</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lost2_description_1M2">
+        <English>The whole point of this pre-assault recon operation is that nobody knows we're here and we know everything the enemy is doing. But now, they have spotted you, and they know for sure we're coming. The entire operation has been compromised.</English>
+        <Spanish>El objetivo de esta operación de reconocimiento previa al asalto es que nadie sepa que estamos aquí y que sepamos todo lo que hace el enemigo. Pero ahora te han visto y saben con certeza que vamos. Toda la operación está en peligro.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lost3_description_1M2">
+        <English>You have fired your rifle after being precisely ordered not to, and your team has been spotted. Now, they know for sure we're coming. The entire operation has been compromised.</English>
+        <Spanish>Has disparado tu fusil después de que te ordenasen precisamente no hacerlo y han avistado a tu equipo. Ahora saben de sobra que vamos. Toda la operación está en peligro.</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

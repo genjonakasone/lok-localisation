@@ -1,0 +1,1437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="OperationAnaconda">
+  <Package name="OperationAnaconda_1M5">
+    <Container name="STR_DN">
+	   <Key ID="STR_TIOG_BriefingNotes_1M5">
+        <English>EDITOR'S NOTES:&lt;br/&gt;As the Apache gunner, you can fire Hydra rockets, even though that's not possible in real life. This is just because the unitCaptureFiring command doesn't recognise which turret fired the weapons, and it automatically assumes it's the gunner.&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;None so far...</English>
+        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Como el artillero del Apache, puedes disparar cohetes Hydra, aunque no es posible en la vida real. Esto es porque el comando unitCaptureFiring no reconoce qué torreta dispara las armas y asume automáticamente que es el artillero.&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Nada de momento...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingCommand_Text_1M5">
+        <English>A. Signal:&lt;br/&gt; Mountain - MG HAGENBECK (CJTF Mountain CO)&lt;br/&gt; Rak 6 - COL WIERCISNKI (TF Rakkasan CO)&lt;br/&gt; Panther - LTC BLABER (TF Bowie CO)&lt;br/&gt;&lt;br/&gt;TF Rakkasan:&lt;br/&gt; Charlie 21 - 2-187 C Company 1st Platoon&lt;br/&gt; Charlie 22 - 2-187 C Company 2nd Platoon&lt;br/&gt; Charlie 23 - 2-187 C Company 3rd Platoon&lt;br/&gt; Alpha 11 - 1-87 A Company 1st Platoon&lt;br/&gt; Summit 11 - 1-87 C Company 1st Platoon&lt;br/&gt; Summit 12 - 1-87 C Company 2nd Platoon&lt;br/&gt;&lt;br/&gt;Killer Spades:&lt;br/&gt; Eagle 11 - CW3 CHENAULT + CPT HERMAN (you)&lt;br/&gt; Eagle 12 - CPT RYAN + CW3 KILLBURN&lt;br/&gt; Eagle 13 - CW4 CARR + CW2 PIERRE&lt;br/&gt; Eagle 14 - 1LT MARRIOTT&lt;br/&gt; Eagle 15 - CW3 HURLEY + CW3 CONTANT&lt;br/&gt; Eagle 16 - CW4 HARDY + CW2 PEDSWORTH</English>
+        <Spanish>A. Señal:&lt;br/&gt; Mountain: May. Gral. HAGENBECK (oficial del la CJTF Mountain)&lt;br/&gt; Rak 6: Cnel. WIERCINSKI (oficial de la TF Rakkasan)&lt;br/&gt; Panther: Tte. Cnel. BLABER (oficial de la TF Bowie)&lt;br/&gt;&lt;br/&gt;TF Rakkasan:&lt;br/&gt; Charlie 21: 1.er Pelotón de la Compañía C del 2-187&lt;br/&gt; Charlie 22: 2.º Pelotón de la Compañía C del 2-187&lt;br/&gt; Charlie 23: 3.er Pelotón de la Compañía C del 2-187&lt;br/&gt; Alpha 11: 1.er Pelotón de la Compañía A del 1-87&lt;br/&gt; Summit 11: 1.er Pelotón de la Compañía C del 1-87&lt;br/&gt; Summit 12: 2.º Pelotón de la Compañía C del 1-87&lt;br/&gt;&lt;br/&gt;Killer Spades:&lt;br/&gt; Eagle 11: CW3 CHENAULT + Cap. HERMAN (tú)&lt;br/&gt; Eagle 12: Cap. RYAN + CW3 KILLBURN&lt;br/&gt; Eagle 13: CW4 CARR + CW2 PIERRE&lt;br/&gt; Eagle 14: Tte. MARRIOTT&lt;br/&gt; Eagle 15: CW3 HURLEY + CW3 CONTANT&lt;br/&gt; Eagle 16: CW4 HARDY + CW2 PEDSWORTH</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSustainment_Text_1M5">
+        <English>1. Supply: Standard Nomex flight suits, CMU-33/P22P-18 vests, IHADSS helmets, M4 carbines as personal protection.&lt;br/&gt;2. Transportation: Each two-man team (pilot and gunner) will make use of an AH-64A Apache attack helicopter.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: None.</English>
+        <Spanish>1. Suministros: Monos de vuelo estándar Nomex, chalecos CMU-33/P22P-18, cascos IHADSS, carabinas M4 como protección personal.&lt;br/&gt;2. Transporte: Cada equipo de dos (piloto y artillero) empleará un helicóptero de ataque AH-64A Apache.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Ninguno.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingExecution_Text_1M5">
+        <English>1. Provide close air support (CAS) to and cover Task Force Rakkasan units as they move to establish their respective blocking positions (BPs), making sure no enemy emplacements pin them down.&lt;br/&gt;2. Destroy priority targets and enemy emplacements designated by the AFO teams, especially on &lt;marker name="marker_45">the Whale&lt;/marker&gt;.</English>
+        <Spanish>1. Proporcionar apoyo aéreo cercano (CAS) y cubrir a las unidades de la Fuerza Operativa Rakkasan mientras avanzan para establecer sus respectivas posiciones de bloqueo (PB), asegurándose de que ningún emplazamiento enemigo los inmovilice.&lt;br/&gt;2. Destruir los objetivos prioritarios y emplazamientos enemigos designados por los equipos AFO, especialmente en &lt;marker name="marker_45">la Ballena&lt;/marker&gt;.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingMission_Text_1M5">
+        <English>Who: A Company, 3rd Battalion, 101st Aviation Regiment&lt;br/&gt;What: SUPPORT TF Rakkasan, DESTROY enemy emplacements&lt;br/&gt;Where: In vicinity, Shah-i-Kot Valley&lt;br/&gt;When: 074000ZMAR02&lt;br/&gt;Why: Operation Anaconda</English>
+        <Spanish>Quién: Compañía A, 3.er Batallón, 101.er Regimiento de Aviación&lt;br/&gt;Qué: APOYAR a la TF Rakkasan, DESTRUIR emplazamientos enemigos&lt;br/&gt;Dónde: En las inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Cuándo: 074000ZMAR02&lt;br/&gt;Por qué: Operación Anaconda</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSituation_Text_1M5">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: 500-1000 expected fighters&lt;br/&gt;Activity: Heavy movement, moderate radio chatter&lt;br/&gt;Location: Vicinity, Shah-i-Kot Valley&lt;br/&gt;Unit: Taliban and Al-Qaeda light infantry with anti-aircraft guns and mortars, supported by North Caucasian fighters&lt;br/&gt;Time Observed: February 28-29, 2002&lt;br/&gt;Equipment: Small arms, mortars, anti-aircraft guns&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To support friendly forces establishing the designated blocking positions, and to destroy targets marked by the AFO CCTs and Rakkasan ETACs.&lt;br/&gt;2. Adjacent Units: CPT Bill Ryan + CW3 Jody Killburn (callsign: Eagle 12), CW4 Bob Carr + CW2 Emmanuel 'E-man' Pierre (callsign: Eagle 13), 1LT Gabe Marriott (callsign: Eagle 14), CW3 Keith Hurley + CW3 Stu Contant (callsign: Eagle 15), CW4 Jim Hardy + CW2 Stanley Pedsworth (callsign: Eagle 16).&lt;br/&gt;3. Supporting: No support, the Apaches themselves are the support.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: 500-1000 combatientes esperados&lt;br/&gt;Actividad: Movimiento intenso, vibraciones de radio moderadas&lt;br/&gt;Ubicación: Inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Unidades: Infantería ligera talibán y de Al Qaeda con cañones antiaéreos y morteros, apoyada por combatientes norcaucásicos&lt;br/&gt;Fecha de observación: 28-29 de febrero de 2002&lt;br/&gt;Equipo: armas ligeras, morteros, cañones antiaéreos&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Apoyar a las fuerzas aliadas estableciendo las posiciones de bloqueo designadas y destruir objetivos marcados por los controladores de los AFO y los ETAC de los Rakkasans.&lt;br/&gt;2. Unidades adyacentes: Cap. Bill Ryan + CW3 Jody Killburn (indicativo: Eagle 12), CW4 Bob Carr + CW2 Emmanuel «E-man» Pierre (indicativo: Eagle 13), Tte. Gabe Marriott (indicativo: Eagle 14), CW3 Keith Hurley + CW3 Stu Contant (indicativo: Eagle 15), CW4 Jim Hardy + CW2 Stanley Pedsworth (indicativo: Eagle 16).&lt;br/&gt;3. Apoyo: Nada de apoyo, los Apaches en sí mismos son el apoyo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Briefing_Text_1M5">
+        <English>The Killer Spades' Apaches will provide close air support to all Task Force Rakkasan units establishing their respective BPs as they come under attack. The Apaches will neutralize all threats to the Rakkasans to ensure a mission success. Besides, they will destroy priority targets marked by the AFO teams prior to the beginning of the operation that the fixed-wing aircraft failed to neutralize, mostly located on &lt;marker name="marker_45">the Whale&lt;/marker&gt;.</English>
+        <Spanish>Los Apaches de los Killer Spades proporcionarán apoyo aéreo cercano a todas las unidades de la Fuerza Operativa Rakkasan estableciendo sus respectivas PB a medida que sean atacadas. Los Apaches neutralizarán todas las amenazas para los Rakkasans para garantizar el éxito de la misión. Además, destruirán objetivos prioritarios marcados por los equipos AFO antes de que comenzase la operación que los aviones de ala fija no han conseguido neutralizar, principalmente ubicados en &lt;marker name="marker_45">la Ballena&lt;/marker&gt;.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingCommand_JTAC_Text_1M5">
+        <English>A. Signal:&lt;br/&gt; Mountain - MG HAGENBECK (CJTF Mountain CO)&lt;br/&gt; Rak 6 - COL WIERCISNKI (TF Rakkasan CO)&lt;br/&gt; Panther - LTC BLABER (TF Bowie CO)&lt;br/&gt; Summit 11 - 1LT MAROYKA&lt;br/&gt; Summit 12 - 1LT O'KEEFE&lt;br/&gt; Bishop - LTC LACAMERA&lt;br/&gt; Eagle 11 - AH-64 support&lt;br/&gt; Fang 31 - F-16 support&lt;br/&gt; Shocker 25 - F-15 support&lt;br/&gt; Blade 34 - B-52 support&lt;br/&gt; Wildcat 13 - F/A-18 support</English>
+        <Spanish>A. Señal:&lt;br/&gt; Mountain: May. Gral. HAGENBECK (oficial del la CJTF Mountain)&lt;br/&gt; Rak 6: Cnel. WIERCINSKI (oficial de la TF Rakkasan)&lt;br/&gt; Panther: Tte. Cnel. BLABER (oficial de la TF Bowie)&lt;br/&gt; Summit 11: Tte. MAROYKA&lt;br/&gt; Summit 12: Tte. O'KEEFE&lt;br/&gt; Bishop: Tte. Cnel. LACAMERA&lt;br/&gt; Eagle 11: Apoyo de AH-64&lt;br/&gt; Fang 31: Apoyo de F-16&lt;br/&gt; Shocker 25: Apoyo de F-15&lt;br/&gt; Blade 34: Apoyo de B-52&lt;br/&gt; Wildcat 13: Apoyo de F/A-18</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSustainment_JTAC_Text_1M5">
+        <English>1. Supply: Standard US Desert BDU, FLC load-bearing chest rig, MICH2001 helmet, standard-issue M4 carbine.&lt;br/&gt;2. Transportation: Task Force Rakkasan will be deployed near the blocking positions in 6 CH-47D Chinooks of the 101st Aviation Regiment.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Rakkasan has 6x embedded medical sergeants, in the event of a mission failure due to substantial casualties, Rak 6 will authorize CASEVAC and insertion by 1-187.</English>
+        <Spanish>1. Suministros: Uniformes estándar de combate en camuflaje desierto, portacargadores FLC, casco MICH 2001, carabina M4 reglamentaria.&lt;br/&gt;2. Transporte: La Fuerza Operativa Rakkasan será desplegada cerca de las posiciones de bloqueo en 6 CH-47D Chinooks del 101.er Regimiento de Aviación.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Los Rakkasans tienen 6x sargentos médicos asignados. En caso de fracaso debido a una cantidad considerable de bajas, Rak 6 autorizará CASEVAC y la inserción del 1-187.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingExecution_JTAC_Text_1M5">
+        <English>The battalion's attached ETAC, TSgt McCabe, will make sure the enemy doesn't get anywhere near &lt;marker name="marker_2">Hell's Halfpipe&lt;/marker&gt; by directing air and mortar support, diminishing their forces. At the same time, he will make sure no machine gun or mortar emplacements pin the 10th Mountain down. Even though the village of &lt;marker name="marker_41">Ghorband&lt;/marker&gt; seems like an ideal staging area for the enemy, all units are to hold fire on the village, since we are not sure if there are still civilians inside.</English>
+        <Spanish>El ETAC asignado al batallón, el Sgto. Téc. McCabe, se asegurará de que el enemigo no se acerque al &lt;marker name="marker_2">Medio Tubo del Infierno&lt;/marker&gt; dirigiendo el apoyo aéreo y de morteros y haciendo menguar sus fuerzas. Al mismo tiempo, se asegurará de que ningún emplazamiento de ametralladora o mortero inmovilice a la 10.ª de Montaña. Aunque el pueblo de &lt;marker name="marker_41">Ghorband&lt;/marker&gt; parece una zona de reagrupamiento ideal para el enemigo, todas las unidades han de abstenerse de disparar sobre el pueblo, dado que no estamos seguros de si quedan civiles dentro.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingMission_JTAC_Text_1M5">
+        <English>Who: Dragon 11, USAF Tactical Air Control Party, attached to 1st Battalion, 87th Infantry Regiment, 10th Mountain Division, Task Force Rakkasan (TF Rakkasan)&lt;br/&gt;What: DEFEND Hell's Halfpipe&lt;br/&gt;Where: In vicinity, Shah-i-Kot Valley&lt;br/&gt;When: 083000ZMAR02&lt;br/&gt;Why: Operation Anaconda</English>
+        <Spanish>Quién: Dragon 11, Equipo de Control Aerotáctico de la Fuerza Aérea, asignado con el 1.er Batallón, 87.º Regimiento de Infantería, 10.ª División de Montaña, Fuerza Operativa Rakkasan (TF Rakkasan)&lt;br/&gt;Qué: DEFENDER el Medio Tubo del Infierno&lt;br/&gt;Dónde: En las inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Cuándo: 083000ZMAR02&lt;br/&gt;Por qué: Operación Anaconda</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSituation_JTAC_Text_1M5">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: 500-1000 expected fighters&lt;br/&gt;Activity: Heavy movement, moderate radio chatter&lt;br/&gt;Location: Vicinity, Shah-i-Kot Valley&lt;br/&gt;Unit: Taliban and Al-Qaeda light infantry with anti-aircraft guns and mortars, supported by North Caucasian fighters&lt;br/&gt;Time Observed: February 28-29, 2002&lt;br/&gt;Equipment: Small arms, mortars, anti-aircraft guns&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To support friendly forces establishing the designated blocking positions, and to destroy targets marked by the AFO CCTs and Rakkasan ETACs.&lt;br/&gt;2. Adjacent Units: LTC LaCamera's TAC (callsign: Bishop), 1-87 C Company 1st and 2nd Platoons (callsign: Summit 11 and 12 respectively).&lt;br/&gt;3. Supporting: Several AH-64A Apaches of the 101st Aviation Regiment are supporting TF Rakkasan during the operation. Fixed-wing air assets will provide support as they start arriving on station. 1-87 has one 120mm mortar that can provide support. CASEVAC will be available for this mission at the request of Rak 6.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: 500-1000 combatientes esperados&lt;br/&gt;Actividad: Movimiento intenso, vibraciones de radio moderadas&lt;br/&gt;Ubicación: Inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Unidades: Infantería ligera talibán y de Al Qaeda con cañones antiaéreos y morteros, apoyada por combatientes norcaucásicos&lt;br/&gt;Fecha de observación: 28-29 de febrero de 2002&lt;br/&gt;Equipo: armas ligeras, morteros, cañones antiaéreos&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Apoyar a las fuerzas aliadas estableciendo las posiciones de bloqueo designadas y destruir objetivos marcados por los controladores de los AFO y los ETAC de los Rakkasans.&lt;br/&gt;2. Unidades adyacentes: TAC del Tte. Cnel. LaCamera (indicativo: Bishop), 1.er y 2.º Pelotón de la Compañía C del 1-87 (indicativo: Summit 11 y 12 respectivamente).&lt;br/&gt;3. Apoyo: Varios AH-64A Apaches del 101.er Regimiento de Aviación están apoyando a la TF Rakkasan durante la operación. Los activos aéreos de ala fija empezarán a prestar apoyo en cuanto estén a la espera. El 1-87 tiene un mortero de 120 mm que puede proporcionar apoyo. La CASEVAC solo estará autorizada cuando la solicite Rak 6.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Briefing_JTAC_Text_1M5">
+        <English>Even though all other TF Rakkasan units have established their BPs in a relatively short time and without too much opposition, the 1-87 has not been in luck. Since landing at 0615, they have come under constant fire from enemy forces in the village of &lt;marker name="marker_41">Ghorband&lt;/marker&gt; and its surroundings. The units that landed at HLZ 13a have entrenched themselves in a bowl-shaped depression at &lt;marker name="marker_57">BP Heather&lt;/marker&gt;, nicknamed &lt;marker name="marker_2">Hell's Halfpipe&lt;/marker&gt;, while the units that landed at &lt;marker name="marker_4">HLZ 13&lt;/marker&gt;, including the battalion mortar, are still there. We just have to hold on until they give up, and the battalion's attached ETAC must direct friendly support to hold the enemy back and destroy enemy emplacements at the same time.</English>
+        <Spanish>Aunque todas las demás unidades de la TF Rakkasan han establecido sus PB en relativamente poco tiempo y sin demasiada oposición, el 1-87 no ha tenido suerte. Desde que aterrizaron a las 0615, han recibido fuego constante de fuerzas enemigas en el pueblo de &lt;marker name="marker_41">Ghorband&lt;/marker&gt; y los alrededores. Las unidades que aterrizaron en la ZA 13a se han atrincherado en una depresión con forma de bol en la &lt;marker name="marker_57">PB Heather&lt;/marker&gt;, apodada el &lt;marker name="marker_2">Medio Tubo del Infierno&lt;/marker&gt;, mientras que las unidades que aterrizaron en la &lt;marker name="marker_4">ZA 13&lt;/marker&gt;, incluido el mortero del batallón, siguen allí. Tenemos que aguantar hasta que se rindan, y el ETAC asignado del batallón debe dirigir el apoyo aliado para mantener a raya al enemigo y destruir emplazamientos enemigos al mismo tiempo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_Description_1M5">
+        <English>Our primary objective right now is to support Task Force Rakkasan from the skies until they establish all their assigned blocking positions (BPs).</English>
+        <Spanish>Nuestro objetivo principal ahora mismo se apoyar a la Fuerza Operativa Rakkasan desde el cielo hasta que establezcan todas sus posiciones de bloqueo (PB) asignadas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_Title_1M5">
+        <English>Support TF Rakkasan</English>
+        <Spanish>Apoyar a la TF Rakkasan</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj1_1_Description_1M5">
+        <English>The 10th Mountain is almost at BP Eve, but a strategically-placed DShKM position is pinning them down. We have to destroy it so our guys can dig in.</English>
+        <Spanish>La 10.ª de Montaña casi está en la PB Eve, pero una posicióne stratégica de DShKM los tiene inmovilizados. Tenemos que destruirla para que nuestros chicos puedan atrincherarse.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_1_Title_1M5">
+        <English>Destroy the MG emplacement</English>
+        <Spanish>Destruir el emplazamiento de ametralladora</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj1_2_Description_1M5">
+        <English>The Rakkasans at BP Diane are receiving accurate mortar fire! We have to destroy the enemy mortars before they start taking too many casualties.</English>
+        <Spanish>¡Los Rakkasans en la PB Diane están recibiendo fuego preciso de mortero! Tenemos que destruir los morteros enemigos antes de que empiecen a tener muchas bajas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_2_Title_1M5">
+        <English>Destroy the first mortar position</English>
+        <Spanish>Destruir la primera posición de mortero</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj1_3_Title_1M5">
+        <English>Destroy the second mortar position</English>
+        <Spanish>Destruir la segunda posición de mortero</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_2_Description_1M5">
+        <English>Juliet identified this cave when they conducted their original reconnaissance. It is currently unknown how many hostiles are inside, but it needs to be eliminated lest it is an enemy strongpoint.</English>
+        <Spanish>Juliet identificó esta cueva cuando realizó su reconocimiento original. Actualmente se desconoce cuántos hostiles hay dentro, pero hay que eliminarla para que no se convierta en un bastión enemigo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_2_Title_1M5">
+        <English>Destroy the cave</English>
+        <Spanish>Destruir la cueva</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_3_Description_1M5">
+        <English>Anti-aircraft weapons are always a priority target, so this ZPU has to go. If we play our cards well, and use Hellfires from a safe distance and against the sun's backlight to reduce visibility, that can be easily achieved.</English>
+        <Spanish>Las armas antiaéreas siempre son un objetivo prioritario, así que esta ZPU tiene que desaparecer. Si jugamos bien nuestras cartas y usamos Hellfires desde una distancia segura y a contraluz para reducir la visibilidad, puede conseguirse.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_3_Title_1M5">
+        <English>Destroy the ZPU</English>
+        <Spanish>Destruir la ZPU</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_4_Description_1M5">
+        <English>Wazghar was identified by Juliet as a relevant Taliban and Arab stronghold. With all their defenses down, it's time to swoop in and overwhelm them with airborne fire.</English>
+        <Spanish>Wazghar fue identificado por Juliet como un bastión talibán y árabe relevante. Con todas sus defensas caídas, es hora de abalanzarnos sobre ellos y abrumarlos con fuego aéreo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_4_Title_1M5">
+        <English>Attack Wazghar</English>
+        <Spanish>Atacar Wazghar</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_Description_1M5">
+        <English>Due to lackluster air support, the priority targets that Juliet Team had designated four days ago are still intact. Therefore, it falls upon the Apaches to neutralize them. Once the Rakkasans are in the clear (or at least able to consolidate their positions), Eagle 11 will proceed to destroy priority targets on &lt;marker name="marker_45">the Whale&lt;/marker&gt;.</English>
+        <Spanish>Debido al mediocre apoyo aéreo, los objetivos prioritarios que el equipo Juliet había designado hace cuatro días siguen intactos. Por lo tanto, corresponde a los Apaches neutralizarlos. Una vez que los Rakkasans estén a salvo (o al menos puedan consolidar sus posiciones), Eagle 11 procederá a destruir los objetivos prioritarios en &lt;marker name="marker_45">la Ballena&lt;/marker&gt;.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_Title_1M5">
+        <English>Destroy designated targets</English>
+        <Spanish>Destruir objetivos designados</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj1_jtac_Description_1M5">
+        <English>As the battalion's attached ETAC, your job is to direct friendly support. As such, you'll need to get a good view of the battlefield, the Halfpipe isn't enough. This spot behind some rocks is perfect.</English>
+        <Spanish>Como ETAC asignado del batallón, tu trabajo es dirigir el apoyo aliado. Por tanto, necesitarás tener una buena vista del campo de batalla, el Medio Tubo no es suficiente. Este lugar detrás de unas rocas es perfecto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_jtac_Title_1M5">
+        <English>Find higher ground</English>
+        <Spanish>Buscar terreno elevado</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_jtac_Description_1M5">
+        <English>Our situation is precarious. We are at BP Heather, but completely surrounded. We have taken cover inside a bowl-shaped depression that we have nicknamed 'Hell's Halfpipe'. The enemy is closing in and we have no escape. We have to hold on until air support arrives. As the battalion's ETAC, use available support to hold the enemy off. If they reach the Halfpipe, the operation will be a failure!</English>
+        <Spanish>Nuestra situación es precaria. Estamos en la PB Heather, pero totalmente rodeados. Nos hemos puesto a cubierto dentro de una depresión con forma de bol que hemos apodado el «Medio Tubo del Infierno». El enemigo se acerca y no tenemos escapatoria. Tenemos que aguantar hasta que llegue el apoyo aéreo. Como el ETAC del batallón, usa el apoyo disponible para mantener a raya al enemigo. ¡Si llegan al Medio Tubo, la operación será un fracaso!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_jtac_apache_Description_1M5">
+        <English>Our allies' situation is precarious. They are at BP Heather, but completely surrounded. They have taken cover inside a bowl-shaped depression nicknamed 'Hell's Halfpipe'. The enemy is closing in and they are under threat of being overrun. We have to provide CAS to them and eliminate as many enemies as we can. If they reach the Halfpipe, the operation will be a failure!</English>
+        <Spanish>La situación de nuestros aliados es precaria. Están en la PB Heather, pero totalmente rodeados. Se han puesto a cubierto dentro de una depresión con forma de bol apodada el «Medio Tubo del Infierno». El enemigo se acerca y corren el riesgo de ser abrumados. Tenemos que proporcionarles CAS y eliminar a todos los enemigos que podamos. ¡Si llegan al Medio Tubo, la operación será un fracaso!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_jtac_Title_1M5">
+        <English>Hold the enemy off</English>
+        <Spanish>Mantener al enemigo a raya</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_jtac_Description_1M5">
+        <English>While we keep the enemies away from the Halfpipe, more important threats may arise, such as mortars or machine gun emplacements. You will need to direct fire support on said emplacements to ensure a mission success.</English>
+        <Spanish>Mientras mantenemos a los enemigos alejados del Medio Tubo, pueden surgir amenazas más importantes, como morteros o emplazamientos de ametralladoras. Tendrás que dirigir fuego de apoyo sobre dichos emplazamientos para garantizar el éxito de la misión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_jtac_Title_1M5">
+        <English>Destroy targets</English>
+        <Spanish>Destruir objetivos</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_1_jtac_Description_1M5">
+        <English>A DShKM heavy machine gun is pinning down our allies in the Halfpipe! If they have to keep their heads down, they won't be able to return fire, and the enemy will waltz in! It needs to go now.</English>
+        <Spanish>¡Una ametralladora pesada DShKM tiene inmovilizados a nuestros aliados en el Medio Tubo! ¡Si tienen que agachar la cabeza, no podrán devolver los disparos y el enemigo entrará como si nada! Tiene que desaparecer ahora.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_1_jtac_Title_1M5">
+        <English>Destroy the DShKM</English>
+        <Spanish>Destruir la DShKM</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_2_jtac_Description_1M5">
+        <English>The Halfpipe is receiving mortar fire from the slopes of Takur Ghar! Find it and neutralize it!</English>
+        <Spanish>¡El Medio Tubo está recibiendo fuego de mortero desde las faldas de Takur Ghar! ¡Encuéntralo y neutralízalo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_2_jtac_Title_1M5">
+        <English>Destroy the mortar</English>
+        <Spanish>Destruir el mortero</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_3_jtac_Description_1M5">
+        <English>Our 120mm mortar got countered by an enemy mortar and our guys are wounded! We have no mortar support anymore! We need to neutralize that mortar now!</English>
+        <Spanish>¡Nuestro mortero de 120 mm ha sido contrarrestado por un mortero enemigo y nuestros chicos están heridos! ¡Ya no tenemos apoyo de mortero! ¡Tenemos que neutralizar ese mortero ahora!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_3_jtac_Title_1M5">
+        <English>Destroy the second mortar</English>
+        <Spanish>Destruir el segundo mortero</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_4_jtac_Description_1M5">
+        <English>Two technicals have arrived in a futile attempt to overwhelm us. While one technical has stopped in Ghorband, which is a no-fire zone, the other one has taken position atop of a mound to suppress the Halfpipe with DShK fire. The planes can definitely take care of that one.</English>
+        <Spanish>Han llegado dos técnicos en un vano intento de arrollarnos. Mientras uno de los técnicos se ha detenido en Ghorband, que es una zona de exclusión de fuego, el otro ha tomado posición en lo alto de un montículo para contener el Medio Tubo con fuego de DShK. Los aviones pueden encargarse de ese.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_4_jtac_Title_1M5">
+        <English>Destroy the technical</English>
+        <Spanish>Destruir el técnico</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_5_jtac_Description_1M5">
+        <English>India has confirmed there are no civilians present in the town of Ghorband. Therefore, it has turned from a no-fire zone into a fire-at-will zone. Most enemy fighters seem to be using the town as a staging area to attack the Halfpipe, so we need to completely raze it to the ground and make sure there are no hostiles left in its vicinity.</English>
+        <Spanish>India ha confirmado que no hay civiles en la ciudad de Ghorband. Por lo tanto, ha pasado de ser una zona de exclusión de fuego a una zona de fuego a discreción. La mayoría de los combatientes enemigos parecen estar utilizando la ciudad como zona de reagrupamiento para atacar el Medio Tubo, por lo que tenemos que arrasarla por completo y asegurarnos de que no quede ningún hostil en sus inmediaciones.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_5_jtac_Title_1M5">
+        <English>Obliterate Ghorband</English>
+        <Spanish>Arrasar Ghorband</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_1_jtac_apache_Description_1M5">
+        <English>Unexpectedly, a hostile unit is targetting us with a MANPADS from the general Ghorband area. Since its missiles emit quite a lot of white smoke, it won't be hard to track him down and eliminate him before we run out of flares.</English>
+        <Spanish>Sorprendentemente, una unidad hostil nos está apuntando con un MANPADS desde la zona general de Ghorband. Como sus misiles emiten bastante humo blanco, no será difícil localizarlo y eliminarlo antes de que nos quedemos sin bengalas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_1_jtac_apache_Title_1M5">
+        <English>Neutralize the AA gunner</English>
+        <Spanish>Neutralizar el artillero AA</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_MissionTitle_1M5">
+        <English>The Sky Above the Valley</English>
+        <Spanish>El cielo sobre el valle</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Intro_1M5">
+        <English>Mission 5 Intro</English>
+        <Spanish>Misión 5: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Outro_1M5">
+        <English>Mission 5 Outro</English>
+        <Spanish>Misión 5: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionDescription_1M5">
+        <English>TF Rakkasan has successfully established the northern blocking positions, but the 10th Mountain Division is under heavy fire in the south. All air assets are on deck to guarantee a mission success and as few casualties as possible.</English>
+        <Spanish>La TF Rakkasan ha establecido las posiciones de bloqueo del norte, pero la 10.ª División de Montaña está recibiendo fuego intenso al sur. Todos los activos aéreos están disponibles para garantizar el éxito de la misión y el menor número posible de bajas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_text_1M5">
+        <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER V - The Sky Above the Valley&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'If you are in trouble anywhere in the world, an airplane can fly over and drop flowers, but a helicopter can land and save your life.'&lt;br/&gt;&lt;br/&gt;-IGOR SIKORSKY (cred.)&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO V: El cielo sobre el valle&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«Si te encuentras en apuros en cualquier parte del mundo, un avión puede sobrevolarla y dejarte flores, pero un helicóptero puede aterrizar y salvarte la vida».&lt;br/&gt;&lt;br/&gt;—ÍGOR SIKORSKI (acreditado)&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel1_1M5">
+        <English>CPT Joe Herman</English>
+        <Spanish>Cap. Joe Herman</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel2_1M5">
+        <English>3rd Bn., 101st Aviat. Rgt.</English>
+        <Spanish>3.er Bat., 101.er Reg. de Aviac.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel3_1M5">
+        <English>Shah-i-Kot Valley</English>
+        <Spanish>Valle de Shah-i-Kot</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel4_1M5">
+        <English>March 2, 2002 - 0740</English>
+        <Spanish>2 marzo 2002 - 0740</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel1_2_1M5">
+        <English>TSgt Victor McCabe</English>
+        <Spanish>Sgto. Téc. Victor McCabe</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel2_2_1M5">
+        <English>US Air Force TACP</English>
+        <Spanish>TACP de la Fuerza Aérea</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel3_2_1M5">
+        <English>BP Heather, Shah-i-Kot</English>
+        <Spanish>PB Heather, Shah-i-Kot</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel4_2_1M5">
+        <English>March 2, 2002 - 0830</English>
+        <Spanish>2 marzo 2002 - 0830</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel4_3_1M5">
+        <English>March 2, 2002 - 1200</English>
+        <Spanish>2 marzo 2002 - 1200</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message0_1_1M5">
+        <English>See anything, Joe?</English>
+        <Spanish>¿Ves algo, Joe?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message0_2_1M5">
+        <English>Negative. No enemy contacts in sight.</English>
+        <Spanish>Negativo. No hay contactos enemigos a la vista.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message0_3_1M5">
+        <English>15, you got visual on enemy tangos?</English>
+        <Spanish>15, ¿tenéis visual de tangos enemigos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message0_4_1M5">
+        <English>No. This sector looks secure to me.</English>
+        <Spanish>No. Este sector parece asegurado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message1_1M5">
+        <English>Eagle 11, this is Alpha 11, we're pinned down at Eve! Do you mind giving us some support? Over.</English>
+        <Spanish>¡Eagle 11, aquí Alpha 11, estamos inmovilizados en Eve! ¿Les importa prestarnos apoyo? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message2_1M5">
+        <English>Roger that, sit tight, we're oscar mike. Charlie 22, Betty looks clear. You take it from here, we gotta go support the 10th Mountain, over.</English>
+        <Spanish>Recibido, aguanten, vamos de camino. Charlie 22, Betty parece despejado. Ocúpense ustedes, tenemos que apoyar a la 10.ª de Montaña, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message3_1M5">
+        <English>Copy on all, we'll hold our own. Go get 'em. Out.</English>
+        <Spanish>Recibido, nos las apañaremos. A por ellos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message4_1M5">
+        <English>Shit, that's a lot of 'em! Joe, I'm gonna do a couple of passes to pinpoint the RPGs! Ready the 30 mike-mike!</English>
+        <Spanish>¡La hostia, cuántos son! ¡Joe, voy a hacer un par de pasadas para localizar los RPG! ¡Prepara la 30 milímetros!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message5_1M5">
+        <English>There, you're steady! Unleash fury!</English>
+        <Spanish>¡Ahí, estabilizado! ¡Desata tu furia!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message6_1M5">
+        <English>Alpha 11 to Eagle 11, thanks for the assist. We're almost at BP Eve. Enemies are still present, but I think we can manage. How copy, over?</English>
+        <Spanish>Alpha 11 a Eagle 11, gracias por la ayuda. Ya casi estamos en la PB Eve. Aún hay enemigos, pero creo que nosotros podemos. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message7_1M5">
+        <English>Our pleasure, Alpha 11, but we're not done yet. We'll go around the Finger and use the ridge as cover. Out.</English>
+        <Spanish>El placer es nuestro, Alpha 11, pero aún no hemos terminado. Iremos alrededor del Dedo y usaremos la cresta como cobertura. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message8_1M5">
+        <English>Damn it to hell, there's a Dushka hidden behind some rocks watching Eve! We're being suppressed! You got eyes on, Eagle 11?</English>
+        <Spanish>¡Me cago en todo, hay una Dushka escondida detrás de unas rocas observando Eve! ¡Nos están conteniendo! ¿La ven, Eagle 11?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message9_1M5">
+        <English>Uncertain, we're still getting into position. Get back to you with any news, out.</English>
+        <Spanish>No sabemos, aún nos estamos posicionando. Nos pondremos en contacto con ustedes con cualquier noticia, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message10_1M5">
+        <English>Alright Joe, we're looking for a Dushka emplacement hidden behind some rocks and probably on high terrain. If you find it, dispose of it with a Hellfire or range your gun to hit it.</English>
+        <Spanish>Vale, Joe, buscamos un emplazamiento de Dushka escondido detrás de unas rocas y probablemente en terreno alto. Si lo encuentras, deshazte de él con un Hellfire o calibra el cañón para alcanzarlo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message10_2_1M5">
+        <English>Eagle 11, this is Mako 31, we have found the MG emplacement suppressing Eve. We're lazing it for you. Out.</English>
+        <Spanish>Eagle 11, aquí Mako 31, hemos encontrado el emplazamiento de ametralladora que está disparando sobre Eve. Se lo marcamos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message10_3_1M5">
+        <English>11, we're taking the shot.</English>
+        <Spanish>11, efectuamos el disparo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message11_1M5">
+        <English>Got eyes on, engaging.</English>
+        <Spanish>Lo veo, ataco.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message12_1M5">
+        <English>Fucking great work, Eagle 11! That Dushka won't bother us anymore. Rak 6, BP Eve is ours, over.</English>
+        <Spanish>¡Un trabajo cojonudo, Eagle 11! Esa Dushka no nos molestará ya. Rak 6, la PB Eve es nuestra, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message13_1M5">
+        <English>Solid copy, Alpha 11. Great work, out.</English>
+        <Spanish>Recibido, Alpha 11. Buen trabajo, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message13_2_1M5">
+        <English>Charlie 23 to Eagle 11, we're taking mortar fire at Diane! We need you to find and neutralize those mortars!</English>
+        <Spanish>¡Charlie 23 a Eagle 11, estamos recibiendo fuego de morteros en Diane! ¡Necesitamos que encuentren y neutralicen esos morteros!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message13_3_1M5">
+        <English>Solid copy Charlie, we're on it. Out.</English>
+        <Spanish>Recibido, Charlie, nosotros nos ocupamos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message13_4_1M5">
+        <English>I see the smoke trails, Joe. They're about 2 clicks away, highly advise you use Hellfires in this case.</English>
+        <Spanish>Veo las señales de humo, Joe. Están a unos 2 kilómetros, recomiendo que uses los Hellfires en este caso.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message13_5_1M5">
+        <English>The mortars are down, Charlie 23. The BPs look clear. We're retasking, but another flight of Apaches will follow. How copy, over?</English>
+        <Spanish>Los morteros han caído, Charlie 23. Las PB parecen despejadas. Pasamos a otras tareas, pero vendrá otra escuadrilla de Apaches. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message13_6_1M5">
+        <English>Solid copy Eagle, much obliged. Out.</English>
+        <Spanish>Alto y claro, Eagle, muchas gracias. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message14_1M5">
+        <English>Rak 6, this is Eagle 11. All the eastern BPs are secure. We're headed to locate and engage designated priority targets on the Whale, over.</English>
+        <Spanish>Rak 6, aquí Eagle 11. Todas las PB orientales están aseguradas. Nos dirigimos a localizar y atacar objetivos prioritarios en la Ballena, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message15_1M5">
+        <English>Eagle 11, confirmed: en route to the Whale. What's your ETA?</English>
+        <Spanish>Eagle 11, confirmado: de camino a la Ballena. ¿Cuál es su tiempo estimado?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message16_1M5">
+        <English>Thirty seconds out.</English>
+        <Spanish>Treinta segundos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message17_1M5">
+        <English>Roger. Juliet has targets identified. Take all guidance from them on line-of-sights frequency. Out.</English>
+        <Spanish>Entendido. Juliet tiene objetivos identificados. Sigan todas sus orientaciones en la frecuencia de la línea de visión. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message18_1M5">
+        <English>Juliet, Eagle 11: we're coming with two Apaches to destroy targets on the Whale, over.</English>
+        <Spanish>Juliet, Eagle 11: vamos con dos Apaches para destruir blancos en la Ballena, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message19_1M5">
+        <English>Roger. Marking a ZPU, a cave and a mounted HMG in Wazghar for you. Recommend you use Hellfires from a distance and then swoop in and clear Wazghar of hostiles once all their defenses are down. How copy, over?</English>
+        <Spanish>Recibido. Les marcamos una ZPU, una cueva y una ametralladora pesada en Wazghar. Recomiendo que usen Hellfires desde lejos y luego se abalancen sobre Wazghar y lo limpien de hostiles una vez que hayan caído todas sus defensas. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message20_1M5">
+        <English>Acknowledged, solid idea. Watch your six. Out. Eagle 15, you take the machine gun, we take the ZPU and the cave?</English>
+        <Spanish>Entendido, buena idea. Cuidado a sus seis. Corto. Eagle 15, ¿os cargáis la ametralladora, nosotros la ZPU y la cueva?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message21_1M5">
+        <English>Copy, sounds good to us. Make it fast, hovering in this place is a death sentence.</English>
+        <Spanish>Recibido, por nosotros bien. Daos prisa, planear en este sitio es una sentencia de muerte.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message22_1M5">
+        <English>Dushka down.</English>
+        <Spanish>Una Dushka menos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message22_2_1M5">
+        <English>Boom!</English>
+        <Spanish>¡Bum!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message23_1M5">
+        <English>All targets destroyed Juliet, proceeding to clear Wazghar of all enemy presence. Out.</English>
+        <Spanish>Todos los objetivos han sido destruidos, Juliet, procedemos a despejar Wazghar de toda la presencia enemiga. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message24_1M5">
+        <English>Let's go Keith, all in!</English>
+        <Spanish>¡Venga, Keith, a por todas!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message25_1M5">
+        <English>Eagle 11, you're putting on quite a show!</English>
+        <Spanish>¡Eagle 11, menudo espectáculo están montando!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message26_1M5">
+        <English>Right? You love to see it.</English>
+        <Spanish>¿A que sí? Qué bien sienta.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message27_1M5">
+        <English>Woah, that was close! 15, don't stop moving, these guys have mastered the art of the RPG!</English>
+        <Spanish>¡Bua, ha faltado poco! ¡15, no os paréis, estos tipos han dominado el arte del RPG!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message28_1M5">
+        <English>Yeah, there's quite a lot to learn from 9 years of Hinds flying over your country...</English>
+        <Spanish>Sí, uno aprende mucho después de 9 años con Hinds sobrevolando tu país...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message29_1M5">
+        <English>Technical neutralized!</English>
+        <Spanish>¡Técnico neutralizado!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message29_2_1M5">
+        <English>Wazghar looks clear.</English>
+        <Spanish>Wazghar parece despejado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message30_1M5">
+        <English>Fuck! Eagle 11, we took a hit on our left side and a bullet buzzed my knee!</English>
+        <Spanish>¡Joder! ¡Eagle 11, nos han dado en el lado izquierdo y una bala me ha rozado la rodilla!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message31_1M5">
+        <English>You guys alright?</English>
+        <Spanish>¿Estáis bien?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message32_1M5">
+        <English>Yeah, we can still fly, but our Hellfires are disabled and we're spewing oil! We need to go back to Texaco!</English>
+        <Spanish>¡Sí, aún podemos volar, pero nuestros Hellfires están desactivados y estamos soltando aceite! ¡Tenemos que volver a Texaco!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message33_1M5">
+        <English>Alright, go, we're pulling back! Rak 6, this is Eagle 11: we've taken heavy RPG fire and are RTB to Texaco to refuel and repair. How copy, over?</English>
+        <Spanish>¡Vale, venga, nos retiramos! Rak 6, aquí Eagle 11: hemos recibido fuego intenso de RPG y volvemos a Texaco para repostar y repararnos. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message34_1M5">
+        <English>Roger that. Make it quick, the last thing we want is a downed Apache in this valley. Ryan and Marriott's birds are still in the fight. Out.</English>
+        <Spanish>Recibido. Que sea rápido, lo último que queremos es un Apache derribado en este valle. Los pájaros de Ryan y Marriott siguen peleando. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message35_1M5">
+        <English>Dragon 11 to Rak 6, requesting air support ASAP! We're taking heavy fire at BP Heather! RPGs and heavy guns! How copy, over?</English>
+        <Spanish>¡Dragon 11 para Rak 6, solicito apoyo aéreo a la voz de ya! ¡Estamos recibiendo fuego intenso en la PB Heather! ¡RPG y armas pesadas! ¿Me recibe? ¡Cambio!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message36_1M5">
+        <English>Negative Dragon 11, all our air assets are busy right now. I will get back to you once they are back on station. Out.</English>
+        <Spanish>Negativo, Dragon 11, todos nuestros activos aéreos están ocupados ahora mismo. Me pondré en contacto cuando estén a la espera. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message37_1M5">
+        <English>Busy doing fucking what?! We haven't seen a single aircraft since we landed! So much for air superiority...</English>
+        <Spanish>¡Ocupados con qué! ¡No hemos visto ni un avión desde que aterrizamos! Tantas pamplinas sobre la superioridad aérea...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message38_1M5">
+        <English>This is not going well. Kraft, decentralization will get us nowhere. Order your company to consolidate here right now.</English>
+        <Spanish>Esto no va bien. Kraft, la descentralización no nos servirá de nada. Ordene a su compañía que se consolide aquí ahora mismo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message39_1M5">
+        <English>Alright Summit, I want everyone with me ASAP. 2nd Platoon, leave a squad with the mortar; the rest of you, consolidate on my position.</English>
+        <Spanish>Vale, Summit, quiero a todo el mundo conmigo lo antes posible. 2.º Pelotón, dejen un escuadrón con el mortero; el resto, consolídense en mi posición.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message40_1M5">
+        <English>Solid copy. Lloyd, Wallace, stay here and support the mortar team. My squad, on me!</English>
+        <Spanish>Recibido. Lloyd, Wallace, quédense aquí y apoyen al equipo de mortero. ¡Mi escuadrón, conmigo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message41_1M5">
+        <English>We need to take out that MG. McCabe, you've got the SOFLAM, get up someplace high and start calling in mortar rounds!</English>
+        <Spanish>Tenemos que eliminar esa ametralladora. ¡McCabe, usted tiene el SOFLAM, súbase a un lugar elevado y empiece a pedir proyectiles de mortero!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message42_1M5">
+        <English>Yes, sir!</English>
+        <Spanish>¡Sí, señor!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message43_1M5">
+        <English>Dragon 11 to Eagle 11, we are under heavy fire at BP Heather! Are you able to assist? Over.</English>
+        <Spanish>¡Dragon 11 a Eagle 11, nos están acribillando en la PB Heather! ¿Pueden ayudarnos? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message44_1M5">
+        <English>Negative, Dragon 11. We took some hits earlier and we're repairing at Texaco. We'll be there soon enough, out.</English>
+        <Spanish>Negativo, Dragon 11. Nos han disparado antes y estamos reparando en Texaco. Estaremos allí muy pronto, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message45_1M5">
+        <English>Sergeant, the 120mm mortar is online. Be advised, do not fire, I repeat, do not fire on the village of Ghorband. We have yet to confirm there are no civilians present. Now take out that MG! Out.</English>
+        <Spanish>Sargento, el mortero de 120 mm está disponible, Atención, no dispare, repito, no dispare al pueblo de Ghorband. Aún no hemos confirmado si hay civiles. ¡Ahora elimine esa ametralladora! Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message46_1M5">
+        <English>That HMG is down, Colonel!</English>
+        <Spanish>¡Esa ametralladora ha caído, coronel!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message47_1M5">
+        <English>Well done, but these guys are trying to encircle us! Put the mortar to work and don't let them get near!</English>
+        <Spanish>¡Bien hecho, pero están intentando rodearnos! ¡Ponga al mortero a trabajar y no deje que se acerquen!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message48_1M5">
+        <English>Dragon 11, this is Rak 6: be advised, an F-16 is on station and ready to provide support, callsign Fang 31. Do you copy, over?</English>
+        <Spanish>Dragon 11, aquí Rak 6: atención, un F-16 está a la espera y listo para prestar apoyo, indicativo Fang 31. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message49_1M5">
+        <English>Solid copy on all, Rak 6. That will be helpful.</English>
+        <Spanish>Todo recibido, Rak 6. Nos vendrá bien.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message50_1M5">
+        <English>Sergeant, we're taking mortar fire from the slopes of Takur Ghar! Can you eliminate it, over?</English>
+        <Spanish>¡Sargento, estamos recibiendo fuego de mortero desde las faldas de Takur Ghar! ¿Puede eliminarlo? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message51_1M5">
+        <English>Takur Ghar, roger. I'll make sure it doesn't bother you anymore.</English>
+        <Spanish>Takur Ghar, recibido. Me aseguraré de que no les moleste más.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message52_1M5">
+        <English>Mortar disabled!</English>
+        <Spanish>¡Mortero desactivado!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message53_1M5">
+        <English>Dragon 11, Signalman Martin Wallace from the SASR, we got counter-mortared! Be advised, the mortar is down and its operators are wounded! I'll dress their wounds, but you need to take out that mortar now! Over!</English>
+        <Spanish>¡Dragon 11, señalizador Martin Wallace del SASR, nos han devuelto los morteros! ¡Aviso, el mortero ha caído y sus operadores están heridos! ¡Vendaré sus heridas, pero tiene que eliminar ese mortero ya! ¡Cambio!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message54_1M5">
+        <English>Roger that, we got an F-16 on standby. Out.</English>
+        <Spanish>Recibido, tenemos un F-16 a la espera. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message55_1M5">
+        <English>That mortar is down, Wallace. Thank you for your gallantry.</English>
+        <Spanish>El mortero ha caído, Wallace. Gracias por su gallardía.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message55_2_1M5">
+        <English>It's what we do, eh? I'm gonna get the wounded to the CCP. Out.</English>
+        <Spanish>Para eso estamos, ¿no? Voy a llevar a los heridos al PRB. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message56_1M5">
+        <English>Rak 6 to Dragon 11: good news, a B-52 is on its way to Heather, callsign Blade 34. How copy, over?</English>
+        <Spanish>Rak 6 a Dragon 11: buenas noticias, un B-52 se dirige hacia Heather, indicativo Blade 34. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message57_1M5">
+        <English>Perfect, all copied. Out.</English>
+        <Spanish>Perfecto, todo recibido. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message58_1M5">
+        <English>Dragon 11, this is Eagle 11. Interrogative: are you still in need of CAS? Confirm, over.</English>
+        <Spanish>Dragon 11, aquí Eagle 11. Interrogo: ¿necesitan CAS aún? Confirme, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message59_1M5">
+        <English>Yes, yes, we need air support! Over.</English>
+        <Spanish>¡Sí, sí, necesitamos apoyo aéreo! Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message60_1M5">
+        <English>Roger that, we're coming with another Apache. Sit tight. Out.</English>
+        <Spanish>Recibido, vamos con otro Apache. Aguanten. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message61_1M5">
+        <English>Let me take the lead Bob, we don't want a stray bullet busting your hydraulics again.</English>
+        <Spanish>Déjame tomar la delantera, Bob, no queremos que una bala perdida te joda la hidráulica otra vez.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message62_1M5">
+        <English>Well, if you wish. Glad you're volunteering to be bait.</English>
+        <Spanish>Bueno, si quieres. Me alegro de que te prestes a ser el cebo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message63_1M5">
+        <English>Yeah, yeah. You don't know shit. Okay, so, plans: we're gonna be entering Ghorband from the south.</English>
+        <Spanish>Que sí, que sí. Hablas sin saber. Vale, planes: vamos a entrar en Ghorband desde el sur.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message64_1M5">
+        <English>The whole valley is filled to the brim with Arabs and Talibs and Uzbeks and the like, so we'll go around it through the mountains.</English>
+        <Spanish>El valle entero está a rebosar de árabes y talis y uzbekos y eso, así que rodearemos por las montañas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message65_1M5">
+        <English>Now, be advised: the GPS indicates there's very little high terrain near the Halfpipe, excluding the peak of Takur Ghar, but enemies have also been reported there.</English>
+        <Spanish>Ahora bien, aviso: el GPS indica que hay muy poco terreno alto cerca del Medio Tubo, excluyendo el pico de Takur Ghar, pero también se ha informado de enemigos allí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message66_1M5">
+        <English>Therefore, we won't be able to hover and use any ridges as cover. This will be a run 'n' gun operation. Full throttle, don't stop by any means or you'll get an RPG to the face.</English>
+        <Spanish>Por tanto, no podremos planear y usar cualquier cresta como cobertura. Esta será una operación de entrar y disparar. A toda velocidad, no os detengáis de ninguna manera u os llevaréis un RPG a la cara.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message67_1M5">
+        <English>Once we have significantly reduced the enemy strength there, we'll return to base quickly and get out of danger's way.</English>
+        <Spanish>Cuando hayamos reducido considerablemente las fuerzas enemigas allí, volveremos rápidamente a base y saldremos del peligro.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message68_1M5">
+        <English>One last thing: do not fire on the village of Ghorband itself. There may still be civilians inside. If there are no questions, let's do this.</English>
+        <Spanish>Una última cosa: no disparéis contra el pueblo de Ghorband. Todavía puede haber civiles dentro. Si no hay preguntas, vamos con ello.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message69_1M5">
+        <English>Jesus Christ, is the whole population of Afghanistan in this area or what?</English>
+        <Spanish>Dios mío, ¿está toda la población de Afganistán en esta zona o qué?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message70_1M5">
+        <English>Yeah, why do you think our guys are desperate for support?</English>
+        <Spanish>Sí, ¿por qué creías que nuestros chicos nos necesitaban tan desesperadamente?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message70_2_1M5">
+        <English>Rich, my cockpit is Swiss cheese at this point, we'd better pull back!</English>
+        <Spanish>¡Rich, tengo la cabina que parece un queso suizo, deberíamos retirarnos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message70_3_1M5">
+        <English>Just one more pass, we'll be fine if we've made it this far!</English>
+        <Spanish>¡Una pasada más, estaremos bien si hemos llegado hasta aquí!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message70_4_1M5">
+        <English>Fuck! Rich, we got hit by an RPG!</English>
+        <Spanish>¡Joder! ¡Rich, nos ha alcanzado un RPG!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message71_1M5">
+        <English>Yeah, hard not to notice! It's about time we get the hell out of here!</English>
+        <Spanish>¡Sí, como para no darse cuenta! ¡Va siendo hora de que nos larguemos de aquí!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message72_1M5">
+        <English>13, we got hit by an RPG. We are fine, we can fly, and we can use our weapons, but we need to return to Texaco to have our bird checked.</English>
+        <Spanish>13, nos ha dado un RPG. Estamos bien, podemos volar y podemos usar nuestras armas, pero tenemos que volver a Texaco para que revisen nuestro pájaro.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message73_1M5">
+        <English>Didn't I tell you? Rak 6, this is Eagle 13, we've sustained heavy small arms and RPG fire, two birds damaged, we have to pull back from Ghorband. How copy, over?</English>
+        <Spanish>¿Qué te he dicho? Rak 6, aquí Eagle 13, hemos recibido fuego intenso de armas ligeras y RPG, dos pájaros dañados, tenemos que retirarnos de Ghorband. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message74_1M5">
+        <English>Solid copy, return to FARP Texaco ASAP. That's an order. Out.</English>
+        <Spanish>Recibido, vuelvan a la FARP Texaco de inmediato. Es una orden. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message75_1M5">
+        <English>Joe, damage assessment!</English>
+        <Spanish>¡Joe, evaluación de daños!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message76_1M5">
+        <English>My weapons panel works, but the TADS is done for. I can't switch to thermals at all.</English>
+        <Spanish>Mi panel de armas funciona, pero el TADS está acabado. No puedo cambiar a visión térmica.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message77_1M5">
+        <English>Okay. Okay. That could've gone a lot worse.</English>
+        <Spanish>Vale. Vale. Podría haber sido peor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message78_1M5">
+        <English>Rak 6 to Bishop, be advised: the Apaches have taken heavy fire and need to go back to Texaco to repair, but the fixed-wing aircraft are still on station. Over.</English>
+        <Spanish>Rak 6 a Bishop, atención: los Apaches han recibido fuego intenso y tienen que volver a Texaco para reparar, pero los aviones de ala fija siguen a la espera. Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message79_1M5">
+        <English>Copy Rak 6, we'll make our stand. Out.</English>
+        <Spanish>Recibido, Rak 6, mantendremos nuestra posición. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message80_1M5">
+        <English>Rak 6 to Dragon 11: two more aircraft are on station for you: a Navy F/A-18 by the callsign of Wildcat 13, and an F-15 by Shocker 25. How copy, over?</English>
+        <Spanish>Rak 6 a Dragon 11: dos aviones más están a la espera: un F/A-18 de la Armada con el indicativo Wildcat 13 y un F-15 como Shocker 25. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message81_1M5">
+        <English>Solid copy Rak 6, we'll put 'em to good use. Out.</English>
+        <Spanish>Recibido, Rak 6, les daremos un buen uso. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message82_1M5">
+        <English>Rak 6 to all units at BP Heather: be advised, India has spotted two technicals approaching Ghorband from the west. Be ready, out.</English>
+        <Spanish>Rak 6 a todas las unidades en la PB Heather: atención, India ha avistado dos técnicos dirigiéndose a Ghorband desde el oeste. Prepárense, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message83_1M5">
+        <English>There you are...</English>
+        <Spanish>Ahí estáis...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message84_1M5">
+        <English>Rak 6, this is Dragon 11. We got a problem. One technical has stopped on a mound to suppress us, but the other one is dropping units and supplies in Ghorband. It's the main source of fighters by far, but also a no-fire zone. Please advise, over.</English>
+        <Spanish>Rak 6, aquí Dragon 11. Tenemos un problema. Un técnico se ha detenido en un montículo para contenernos, pero el otro está dejando unidades y suministros en Ghorband. Es la principal fuente de combatientes con diferencia, pero también una zona protegida. Solicito consejo, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message85_1M5">
+        <English>I hear you Dragon 11, hold fire on Ghorband still. Deal with the other technical. I will get back to you soon, out.</English>
+        <Spanish>Lo escucho, Dragon 11, alto el fuego en Ghorband. Encárguese del otro técnico. Enseguida le respondo, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message86_1M5">
+        <English>Rak 6 to all units, change in the ROE: India confirms Ghorband is cleared out of civilians. Fire at will and level that town, I repeat, level that town. Out.</English>
+        <Spanish>Rak 6 a todas las unidades, cambio en las reglas de enfrentamiento: India confirma que Ghorband está vacío de civiles. Fuego a discreción y diezmen ese pueblo, repito, diezmen ese pueblo. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message87_1M5">
+        <English>Dragon 11 to all units in the Halfpipe: Ghorband has been razed to the ground. Enemy forces should falter. Let's keep the pressure on them, out.</English>
+        <Spanish>Dragon 11 a todas las unidades en el Medio Tubo: Ghorband ha sido arrasado. Las fuerzas enemigas deberían flaquear. Sigamos ejerciendo presión, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message88_1M5">
+        <English>Eagle 11 to Dragon 11, our choppers are back up in the air. If you want some support, just make the call. Over.</English>
+        <Spanish>Eagle 11 para Dragon 11, nuestros helicópteros vuelven a estar en el aire. Si quieren apoyo, díganoslo. Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message89_1M5">
+        <English>Eagle 11, acknowledged, more support won't hurt us. Ghorband is completely out of action but please, take out the last remnants. Out.</English>
+        <Spanish>Eagle 11, recibido, más apoyo no está de más. Ghorband está completamente fuera de combate, pero, por favor, eliminen los últimos restos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message90_1M5">
+        <English>Let me take the lead this time, Rich. Your chopper got pounded, after all.</English>
+        <Spanish>Deja que vaya delante esta vez, Rich. Tu helicóptero está hecho polvo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message91_1M5">
+        <English>Okay, we know the score, we know how it is. No beating around the bush, we strike fast and we strike hard.</English>
+        <Spanish>Vale, ya nos conocemos la historia. Nada de marear la perdiz, atacamos rápido y atacamos fuerte.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message92_1M5">
+        <English>The bombers have destroyed their main stronghold, Ghorband, and it's left for us to mop up the rest of them.</English>
+        <Spanish>Los bombarderos han destruido su principal bastión, Ghorband, y nos toca a nosotros acabar con el resto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message93_1M5">
+        <English>If you see anything that slightly resembles a tube, pulverize it. Kinda getting sick of these RPGs.</English>
+        <Spanish>Si veis algo que se asemeje a un tubo, pulverizadlo. Estos RPG me están tocando los huevos ya.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message94_1M5">
+        <English>What the fuck? I'm getting a beep... God damn, that's a triple A! Flares, flares, flares!</English>
+        <Spanish>¿Qué cojones? Tengo pitidos... ¡Joder, es una tripla A! ¡Bengalas, bengalas, bengalas!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message95_1M5">
+        <English>11, disengage, follow me! Through the ravine! We have to take out that AA.</English>
+        <Spanish>¡11, alto el fuego, seguidme! ¡Por el desfiladero! Tenemos que eliminar ese AA.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message96_1M5">
+        <English>E-man, Joe, listen up: we're going to go back there. That AA is gonna lock onto one of our choppers, no chance of knowing which one.</English>
+        <Spanish>E-man, Joe, escuchad: vamos a volver ahí. Ese AA va a apuntar a uno de nuestros helicópteros, no podemos saber cuál.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message97_1M5">
+        <English>Those missiles leave a huge trail of smoke behind, so we can find the source and destroy it.</English>
+        <Spanish>Esos misiles dejan una estela enorme, así que podemos encontrar el origen y destruirlo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message98_1M5">
+        <English>The bird being locked on will fly away and deploy flares, the other one will trace the missile back to its owner and engage head-on.</English>
+        <Spanish>El pájaro que esté siendo apuntado se alejará y tirará bengalas, el otro rastreará el misil a su dueño y atacará de frente.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message98_2_1M5">
+        <English>Getting a beep again! 11, you're up!</English>
+        <Spanish>¡Tenemos pitidos otra vez! ¡11, os toca!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message99_1M5">
+        <English>Dragon 11 to Eagle 11, great work on that AA. Makes me wonder how they got their hands on it. Anyway, thanks for the assist. Enemy forces don't stop coming, but we have the situation under control. Over.</English>
+        <Spanish>Dragon 11 a Eagle 11, buen trabajo con el AA. Me pregunto de dónde lo habrán sacado. En fin, gracias por la ayuda. Las fuerzas enemigas no dejan de venir, pero tenemos la situación bajo control. Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message100_1M5">
+        <English>Happy to help, Dragon 11. We still got some fuel left, you can count on us. Out.</English>
+        <Spanish>Un placer ayudar, Dragon 11. Aún nos queda algo de combustible, pueden contar con nosotros. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message101_1M5">
+        <English>13, the MANPADS is down. Won't have to waste any more flares.</English>
+        <Spanish>13, el MANPADS ha caído. No tendréis que desperdiciar más bengalas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message102_1M5">
+        <English>Thank God. Great work, 11. Let's finish this now.</English>
+        <Spanish>Gracias a Dios. Gran trabajo, 11. Acabemos con esto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message103_1M5">
+        <English>Hey, don't you think firing three rockets at one single guy was a tad bit overkill?</English>
+        <Spanish>Oye, ¿no crees que disparar tres cohetes a un solo tío es pasarse?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message104_1M5">
+        <English>Just in case.</English>
+        <Spanish>Por si acaso.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message105_1M5">
+        <English>Bishop, this is Rak 6. Listen, I'm afraid the valley is too hot right now to send in medevac birds. I suggest waiting until nightfall. How copy, over?</English>
+        <Spanish>Bishop, aquí Rak 6. Escuche, me temo que el valle está demasiado caliente para enviar los pájaros de evacuación. Sugiero esperar hasta la noche. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message106_1M5">
+        <English>Roger that, Rak 6. Do what you must, our surgeon is providing us all the help we need for now. Out.</English>
+        <Spanish>Recibido, Rak 6. Haga lo que deba hacer, nuestro cirujano nos está proporcionando toda la ayuda que necesitamos por ahora. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message107_1M5">
+        <English>Dragon 11, I said no firing on Ghorband! Jesus Christ!</English>
+        <Spanish>¡Dragon 11, he dicho que no dispare en Ghorband! ¡Por Dios!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message108_1M5">
+        <English>Dragon 11, the bad guys are dangerously close to our position! Don't you have to direct air? Do something! Out!</English>
+        <Spanish>¡Dragon 11, los malos están peligrosamente cerca de nuestra posición! ¿No tiene que dirigir el apoyo? ¡Haga algo! ¡Corto!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message109_1M5">
+        <English>Summit 11 to all units, it's over! BP Heather has been overrun! Get out of the valley!</English>
+        <Spanish>¡Summit 11 a todas las unidades, se acabó! ¡La PB Heather ha sido invadida! ¡Sálganse del valle!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message110_1M5">
+        <English>Please, commander, let me go back! I can attack with all my units!</English>
+        <Spanish>¡Por favor, comandante, déjeme volver! ¡Puedo atacar con todas mis unidades!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message111_1M5">
+        <English>Zia, no means no! We've got too many wounded! If we attack, they'll tear us to shreds!</English>
+        <Spanish>¡Zia, no es no! ¡Tenemos demasiados heridos! ¡Si atacamos, nos harán trizas!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message112_1M5">
+        <English>This is not mortar fire anymore, this is fucking artillery! Do you understand that? Fuck it. Spider, get over here!</English>
+        <Spanish>¡Esto ya no es fuego de morteros, esto es puta artillería! ¿Lo entiende? A la mierda. ¡Spider, venga aquí!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message113_1M5">
+        <English>You called?</English>
+        <Spanish>¿Me necesita?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message114_1M5">
+        <English>We're done here. Call your chopper, let's evac the wounded, take the trucks, and go back where we came from. It's over.</English>
+        <Spanish>Hemos terminado. Llame a su helicóptero, evacuemos a los heridos, cojamos los camiones y vayámonos por donde vinimos. Se acabó.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message115_1M5">
+        <English>Um, well, the situation at BP Heather is uncertain. C Company has taken two dozen casualties, none mortal fortunately, but the enemy is unrelenting. We are starting to run out of ammunition.</English>
+        <Spanish>Em, bueno, la situación en la PB Heather es incierta. La Compañía C tiene dos docenas de bajas, ninguna mortal, por suerte, pero el enemigo no descansa. Nos estamos empezando a quedar sin munición.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message116_1M5">
+        <English>This is getting out of hand. We have to call the operation off and get all our guys back here! Tonight!</English>
+        <Spanish>Esto se nos está yendo de las manos. ¡Tenemos que cancelar la operación y traer a todos nuestros hombres aquí! ¡Esta noche!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message117_1M5">
+        <English>No, allow me to say that would not be advisable. The AFOs are still coordinating air strikes, they're to be resupplied tonight. If our air assets keep up the pressure, the valley will be ours in a few days.</English>
+        <Spanish>No, permítame decirle que eso no es aconsejable. Los AFO aún están coordinando ataques aéreos, serán reabastecidos esta noche. Si nuestros activos aéreos mantienen la presión, el valle será nuestro en unos días.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message118_1M5">
+        <English>I understand. All right, Frank, I've got an idea. We're going to send in the second wave of Chinooks. They'll marshal their forces in the north and then sweep the valley.</English>
+        <Spanish>Entiendo. Vale, Frank, tengo una idea. Vamos a enviar la segunda oleada de Chinooks. Reunirán sus fuerzas en el norte y luego peinarán el valle.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message119_1M5">
+        <English>I'll send a couple of Chinooks to pick up your guys from C Company at BP Heather tonight, so they can reform here in Bagram. With Spectre support and the cover of night, the enemy won't bother to attack. Sounds good to you?</English>
+        <Spanish>Enviaré un par de Chinooks a recoger a sus chicos de la Compañía C en la PB Heather esta noche, para que puedan reformarse aquí en Bagram. Con el apoyo del Spectre y el amparo de la noche, el enemigo no se molestará en atacar. ¿Le parece bien?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message120_1M5">
+        <English>Copy, that we shall do.</English>
+        <Spanish>Vale, eso haremos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message121_1M5">
+        <English>Bishop to Beard 43, enemy fire at BP Heather has died down. The AC-130 is pounding them. Requesting medevac for our wounded. How copy, over?</English>
+        <Spanish>Bishop para Beard 43, el fuego enemigo en la PB Heather se ha calmado. El AC-130 los está machacando. Solicitando MEDEVAC para nuestros heridos. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message122_1M5">
+        <English>Solid copy, we're on our way. Hold tight. Out.</English>
+        <Spanish>Recibido, vamos para allá. Aguanten. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message123_1M5">
+        <English>Alright, 1st and 2nd Platoons, go get your rucksacks! The Chinooks will be arriving at midnight. Can't wait to get out of this shithole.</English>
+        <Spanish>¡Bien, 1.er y 2.º Pelotón, cojan el petate! Los Chinooks llegarán a medianoche. Qué ganas de salir de este antro.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message124_1M5">
+        <English>Rak 6 to Hooker 6, requesting pick-up at Khosa China, over.</English>
+        <Spanish>Rak 6 a Hooker 6, solicito un transporte en Khosa China, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message124_2_1M5">
+        <English>Roger that, a Chinook is on its way. Out.</English>
+        <Spanish>Recibido, un Chinook va de camino. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message125_1M5">
+        <English>So, what are you fellas going to do now?</English>
+        <Spanish>Y ¿qué van a hacer ahora?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message126_1M5">
+        <English>I don't think we have much else to do here at the Finger. We're going to pack up and meet India at the south of the Whale.</English>
+        <Spanish>No creo que tengamos mucho más que hacer aquí en el Dedo. Vamos a recoger y reunirnos con India en el sur de la Ballena.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message127_1M5">
+        <English>Well, I know you'll do a good job. You've proven as much to me. See you in Bagram.</English>
+        <Spanish>Bueno, sé que harán un buen trabajo. A mí me lo han demostrado. Nos vemos en Bagram.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_eagle15_radio_1M5">
+        <English>Eagle 15 (CW3 Hurley)</English>
+        <Spanish>Eagle 15 (CW3 Hurley)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_apache3_radio_1M5">
+        <English>Eagle 13 (CW4 Carr)</English>
+        <Spanish>Eagle 13 (CW4 Carr)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_eagle11_radio_1M5">
+        <English>Eagle 11</English>
+        <Spanish>Eagle 11</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mccabe_dialogue_1M5">
+        <English>TSGT MCCABE</English>
+        <Spanish>SGTO. TÉC. MCCABE</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mccabe_radio_1M5">
+        <English>Dragon 11</English>
+        <Spanish>Dragon 11</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mccabe_radio_2_1M5">
+        <English>Dragon 11 (TSgt McCabe)</English>
+        <Spanish>Dragon 11 (Sgto. Téc. McCabe)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lacamera_dialogue_1M5">
+        <English>LTC LACAMERA</English>
+        <Spanish>TTE. CNEL. LACAMERA</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lacamera_radio_1M5">
+        <English>Bishop (LTC LaCamera)</English>
+        <Spanish>Bishop (Tte. Cnel. LaCamera)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_kraft_dialogue_1M5">
+        <English>CPT KRAFT</English>
+        <Spanish>CAP. KRAFT</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_CIASpider_dialogue_1M5">
+        <English>SPIDER</English>
+        <Spanish>SPIDER</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_kraft_radio_1M5">
+        <English>Summit 1 Actual (CPT Kraft)</English>
+        <Spanish>Summit 1 Jefe (Cap. Kraft)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_okeefe_dialogue_1M5">
+        <English>Summit 12 (1LT O'Keefe)</English>
+        <Spanish>Summit 12 (Tte. O'Keefe)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_wallace_dialogue_1M5">
+        <English>Summit 12 (SIG Wallace)</English>
+        <Spanish>Summit 12 (SIG Wallace)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_maroyka_dialogue_1M5">
+        <English>Summit 11 (1LT Maroyka)</English>
+        <Spanish>Summit 11 (Tte. Maroyka)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_F16D_dialogue_1M5">
+        <English>Fang 31</English>
+        <Spanish>Fang 31</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_B52_dialogue_1M5">
+        <English>Blade 34</English>
+        <Spanish>Blade 34</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_HH60_dialogue_1M5">
+        <English>Beard 43</English>
+        <Spanish>Beard 43</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_F15_dialogue_1M5">
+        <English>Shocker 25</English>
+        <Spanish>Shocker 25</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_A10_dialogue_1M5">
+        <English>Wildcat 13</English>
+        <Spanish>Wildcat 13</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_hellfires_hint_1M5">
+        <English>To range your main gun, press T on the target. To successfully use the Hellfires, you first need to activate the Apache's laser designator (weapon slot 2). Once active, fire the AGM-114K Hellfire missile (weapon slot 4) in LOBL mode and the missile will follow the laser. Use your missiles wisely, you only have 8 and you'll need most of them for this mission! If you toggle thermal imaging on (N key), you can actually see the laser, which can be useful.</English>
+        <Spanish>Para calibrar tu cañón principal, pulsa T en el objetivo. Para usar con éxito los Hellfires, primero tienes que activar el designador láser del Apache (casilla 2). Una vez activado, dispara el misil AGM-114K Hellfire (casilla 4) en modo LOBL y el misil seguirá al láser. ¡Utiliza tus misiles sabiamente, solo tienes 8 y necesitarás la mayoría de ellos para esta misión! Si activas la visión térmica (tecla N), podrás ver el láser, lo que puede resultar útil.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_f16_support_menu_1M5">
+        <English>F-16 gun/rocket attack</English>
+        <Spanish>Ataque de cañón/cohetes de F-16</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_f16_dialogue_1_1M5">
+        <English>Fang 31, this is Dragon 11, requesting you do a pass on my target! How copy, over?</English>
+        <Spanish>¡Fang 31, aquí Dragon 11, solicito una pasada en mi objetivo! ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_f16_dialogue_2_1M5">
+        <English>Tally your target Dragon 11, I'm inbound with heavy ordnance. ETA: 20 seconds. Out.</English>
+        <Spanish>Objetivo confirmado, Dragon 11, de camino con la artillería pesada. Tiempo estimado: 20 segundos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_f16_dialogue_3_1M5">
+        <English>Dragon 11, Fang 31 is back on station and ready for tasking. Say where you want it, over.</English>
+        <Spanish>Dragon 11, Fang 31 está a la espera de órdenes. Dígame dónde me necesita, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_f16_support_marker_1M5">
+        <English>F-16 mark</English>
+        <Spanish>Marca de F-16</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_f15_support_menu_1M5">
+        <English>F-15 precision bomb</English>
+        <Spanish>Bomba de precisión de F-15</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_f15_dialogue_1_1M5">
+        <English>Shocker 25, this is Dragon 11, I need a GBU on my lazed target! How copy, over?</English>
+        <Spanish>¡Shocker 25, aquí Dragon 11, necesito un GBU en mi objetivo marcado! ¿Me recibe?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_f15_dialogue_2_1M5">
+        <English>We see your laze, Dragon 11, Paveway incoming. ETA: 20 seconds. Out.</English>
+        <Spanish>Vemos el láser, Dragon 11, Paveway de camino. Tiempo estimado: 20 segundos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_f15_dialogue_3_1M5">
+        <English>Dragon 11, Shocker 25 is back on station and ready for tasking. Say where you want it, over.</English>
+        <Spanish>Dragon 11, Shocker 25 está a la espera de órdenes. Dígame dónde la quiere, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_f15_support_marker_1M5">
+        <English>F-15 mark</English>
+        <Spanish>Marca de F-15</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_a10_support_menu_1M5">
+        <English>F/A-18 gun run</English>
+        <Spanish>Pasada de cañón de F/A-18</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_a10_dialogue_1_1M5">
+        <English>Wildcat 13, this is Dragon 11, requesting a gun run on my lazed target! Do you copy, over?</English>
+        <Spanish>¡Wildcat 13, aquí Dragon 11, solicito una pasada de cañón en mi objetivo marcado! ¿Me recibe?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_a10_dialogue_2_1M5">
+        <English>Tally your target Dragon 11, watch it burn. Out.</English>
+        <Spanish>Veo su objetivo, Dragon 11, vea cómo arde. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_a10_dialogue_3_1M5">
+        <English>Dragon 11, gun ready. Just give me the order and I'll schwack 'em. Over.</English>
+        <Spanish>Dragon 11, cañón listo. Deme la orden y los machacaré. Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_a10_support_marker_1M5">
+        <English>F/A-18 mark</English>
+        <Spanish>Marca de F/A-18</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_apache_support_menu_1M5">
+        <English>Apache CAS</English>
+        <Spanish>CAS de Apache</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_b52_support_menu_1M5">
+        <English>B-52 carpet bombing</English>
+        <Spanish>Bombardeo de saturación de B-52</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_b52_dialogue_1_1M5">
+        <English>Blade 34, this is Dragon 11, requesting you bombard the area I'm marking with a SOFLAM. How copy, over?</English>
+        <Spanish>Blade 34, aquí Dragon 11, solicito que bombardee la zona que estoy marcando con el SOFLAM. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_b52_dialogue_2_1M5">
+        <English>Roger Dragon 11, we see your mark. Danger close, repeat, danger close. ETA: 40 seconds. Out.</English>
+        <Spanish>Recibido, Dragon 11, vemos la marca. Peligro cercano, repito, peligro cercano. Tiempo estimado: 40 segundos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_b52_dialogue_2_2_1M5">
+        <English>Carpet bombing inbound, keep your heads down!</English>
+        <Spanish>¡Bombardeo de saturación inminente, agachen la cabeza!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_b52_dialogue_3_1M5">
+        <English>Dragon 11, carpet bombing complete. We have to return and get back into position. Hold tight.</English>
+        <Spanish>Dragon 11, bombardeo realizado. Tenemos que volver a posicionarnos. Espere.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_b52_dialogue_4_1M5">
+        <English>Dragon 11, Blade 34 is on station and ready to deliver more payload, over.</English>
+        <Spanish>Dragon 11, Blade 34 está a la espera y listo para soltar más bombas, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_b52_support_marker_1M5">
+        <English>B-52 mark</English>
+        <Spanish>Marca de B-52</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortar_support_menu_1M5">
+        <English>120mm mortar</English>
+        <Spanish>Mortero de 120 mm</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortar_1_dialogue_1_1M5">
+        <English>Dragon 11 to Summit 12: I need one precision round at grid</English>
+        <Spanish>Dragon 11 a Summit 12: necesito un proyectil preciso en las coordenadas</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortar_1_dialogue_1_2_1M5">
+        <English>. How copy, over?</English>
+        <Spanish>. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortar_1_dialogue_2_1M5">
+        <English>Solid copy, firing.</English>
+        <Spanish>Recibido, disparamos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortar_1_dialogue_3_1M5">
+        <English>Dragon 11, mortar on hold.</English>
+        <Spanish>Dragon 11, mortero a la espera.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortar_2_dialogue_1_1M5">
+        <English>Summit 12, Dragon 11: drop two shells at grid</English>
+        <Spanish>Summit 12, Dragon 11: disparen dos proyectiles a las coordenadas</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortar_2_dialogue_1_2_1M5">
+        <English>. How copy, over?</English>
+        <Spanish>. ¿Me reciben? Cambio</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortar_2_dialogue_2_1M5">
+        <English>Firing.</English>
+        <Spanish>Disparamos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortar_2_dialogue_3_1M5">
+        <English>Dragon 11, rounds complete.</English>
+        <Spanish>Dragon 11, disparos realizados.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortar_3_dialogue_1_1M5">
+        <English>Dragon 11 to Summit 12, I need three shells at grid</English>
+        <Spanish>Dragon 11 para Summit 12, necesito tres proyectiles en las coordenadas</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortar_3_dialogue_1_2_1M5">
+        <English>. Do you copy?</English>
+        <Spanish>. ¿Me reciben?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortar_3_dialogue_2_1M5">
+        <English>Grid reference received, firing.</English>
+        <Spanish>Coordenadas recibidas, disparamos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortar_3_dialogue_3_1M5">
+        <English>Dragon 11, rounds complete.</English>
+        <Spanish>Dragon 11, disparos realizados.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortar_4_dialogue_1_1M5">
+        <English>Dragon 11 to Summit 12, fire four shells at grid</English>
+        <Spanish>Dragon 11 para Summit 12, disparen cuatro proyectiles a las coordenadas</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortar_4_dialogue_1_2_1M5">
+        <English>. Several enemies spotted, how copy, over?</English>
+        <Spanish>. Varios enemigos avistados. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortar_4_dialogue_2_1M5">
+        <English>Coordinates received, firing for effect.</English>
+        <Spanish>Coordenadas recibidas, realizando tiros de eficacia.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortar_4_dialogue_3_1M5">
+        <English>Rounds complete, Dragon 11.</English>
+        <Spanish>Disparos realizados, Dragon 11.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_mortar_support_marker_1M5">
+        <English>Mortar mark</English>
+        <Spanish>Marca de mortero</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_no_target_hint_1M5">
+        <English>No laser target found!</English>
+        <Spanish>¡No se ha encontrado ningún objetivo láser!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_support_instructions_title_1B5">
+        <English>A quick guide to supports</English>
+        <Spanish>Una guía rápida sobre los apoyos</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_support_instructions_0_1B5">
+        <English>General: To call in supports, use the support menu (0-8-). All supports (except the mortar) require a laser-designated target, which can be marked using the SOFLAM (B key by default). The target is not dynamic, meaning the position to be attacked is marked and static as soon as the support is called. Each type of support has a specific cooldown time and only one support can be used at a time, so play your cards well. Supports will become available as the mission progresses.</English>
+        <Spanish>General: Para pedir apoyos, usa el menú de apoyo (0-8-). Todos los apoyos (salvo el mortero) necesitan un blanco designado por láser, que se puede marcar usando el SOFLAM (tecla B por defecto). El blanco no es dinámico, lo que quiere decir que la posición a atacar se marca y es estática en cuanto se pide el apoyo. Cada tipo de apoyo tiene un tiempo de espera específico y solo se puede pedir un apoyo a la vez, así que juega bien tus cartas. Los apoyos estarán disponibles a medida que avance la misión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_support_instructions_1_1B5">
+        <English>M120 mortar: Your battalion has access to just one 120mm mortar. To use it, point at a spot on the ground (you don't have to use the SOFLAM), select the mortar, then select how many rounds you want it to fire. Take into account that each mortar round fired has a 5-second cooldown, meaning the mortar will be ready again 5 seconds after firing one round, 10 seconds after firing two rounds, and so on.</English>
+        <Spanish>Mortero M120: Tu batallión tiene acceso a un único mortero de 120 mm. Para usarlo, apunta a un lugar en el suelo (no hace falta que uses el SOFLAM), selecciona el mortero y luego selecciona cuántos proyectiles quieres que dispare. Ten en cuenta que cada proyectil tiene un tiempo de espera de 5 segundos, lo que quiere decir que el mortero estará listo 5 segundos después de disparar un proyectil, 10 segundos después de disparar dos, y así sucesivamente.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_support_instructions_2_1B5">
+        <English>F-16C Fighting Falcon: The F-16 will fire its main gun and rockets at the position you are lazing (SOFLAM is required for this type of support). Good for suppressing a large area or a large group of enemies, since it is not a precise attack. It has a 30-second cooldown from the moment the pilot announces he's oscar mike.</English>
+        <Spanish>F-16C Fighting Falcon: El F-16 disparará su cañón principal y cohetes a la posición que marques (el SOFLAM es obligatorio para este tipo de apoyo). Bueno para contener una zona grande o un gran grupo de enemigos, puesto que no es un ataque preciso. Tiene un tiempo de espera de 30 segundos desde que el piloto anuncia que va de camino.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_support_instructions_3_1B5">
+        <English>F-15E Strike Eagle: The F-15 will drop a precision GBU-12 Paveway II bomb at the position you are lazing (SOFLAM is required). Good for taking out enemy emplacements or static groups of enemies. 30-second cooldown.</English>
+        <Spanish>F-15E Strike Eagle: El F-15 soltará una bomba GBU-12 Paveway II de precisión en la posición que estés marcando (el SOFLAM es obligatorio). Bueno para eliminar emplazamientos enemigos o grupos estáticos de enemigos. Tiempo de espera de 30 segundos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_support_instructions_4_1B5">
+        <English>F/A-18 Hornet: The F/A-18 will perform a M61 Vulcan gun run on the position you are lazing (SOFLAM is required). Good for surgical attacks, as it is the most precise support. 20-second cooldown.</English>
+        <Spanish>F/A-18 Hornet: El F/A-18 realizará una pasada con el cañón M61 Vulcan en la posición que estés marcando (el SOFLAM es obligatorio). Bueno para ataques quirúrgicos, dado que es el apoyo más preciso. Tiempo de espera de 20 segundos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_support_instructions_5_1B5">
+        <English>B-52 Stratofortress: The B-52 will drop 13 Mark 82 bombs on a straight 100m line from South to North taking the position you are lazing as the center of the bombing run (SOFLAM is required). Good for destroying enemy strongholds and taking out several enemy squads at once. 80-second cooldown.</English>
+        <Spanish>B-52 Stratofortress: El B-52 soltará 13 bombas Mark 82 en una línea recta de 100 m de sur a norte tomando la posición que estés marcando como el centro del bombardeo (el SOFLAM es obligatorio). Bueno para destruir bastiones enemigos y eliminar varios escuadrones enemigos a la vez. Tiempo de espera de 80 segundos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_support_instructions_6_1B5">
+        <English>AH-64A Apache: Two AH-64s will provide close air support near the position you are pointing at (you don't have to use the SOFLAM). The most versatile support available, since it can be precise and take on the enemy head-on with chaingun fire, rockets and missiles for a long time.</English>
+        <Spanish>AH-64A Apache: Dos AH-64 proporcionarán apoyo aéreo cercano cerca de la posición que estés señalando (no hace falta que uses el SOFLAM). El apoyo más versátil disponible, puesto que puede ser preciso y atacar al enemigo de frente con fuego de cañón, cohetes y misiles durante mucho tiempo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission_1M5">
+        <English>&lt;t size='1.5'&gt;B A G R A M   A I R F I E L D&lt;br/&gt;&lt;br/&gt;H-HOUR +8 (1527)&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;A E R O P U E R T O   D E   B A G R A M&lt;br/&gt;&lt;br/&gt;HORA H +8 (1527)&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission2_1M5">
+        <English>&lt;t size='1.5'&gt;H E L L ' S   H A L F P I P E&lt;br/&gt;&lt;br/&gt;H-HOUR +11 (1900)&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;M E D I O   T U B O   D E L   I N F I E R N O&lt;br/&gt;&lt;br/&gt;HORA H +11 (1900)&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission3_1M5">
+        <English>&lt;t size='1.5'&gt;R A K   T A C   R I D G E&lt;br/&gt;&lt;br/&gt;D-DAY +1 (0330)&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;C R E S T A   R A K   T A C&lt;br/&gt;&lt;br/&gt;DÍA D +1 (0330)&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_end1_subtitle_1M5">
+        <English>Friendly forces protected</English>
+        <Spanish>Fuerzas aliadas protegidas</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_end1_description_1M5">
+        <English>Despite the intense fighting at Hell's Halfpipe, friendly air support thankfully came just in the nick of time and quite possibly saved LaCamera's entire company. Though the fighting will probably continue the rest of the day, the situation is under control and, most importantly, there have been no mortal casualties.</English>
+        <Spanish>A pesar de los intensos combates en el Medio Tubo del Infierno, el apoyo aéreo aliado llegó justo a tiempo y posiblemente salvó a toda la compañía de LaCamera. Aunque es probable que los combates continúen durante el resto del día, la situación está bajo control y, lo que es más importante, no ha habido víctimas mortales.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lost1_subtitle_1M5">
+        <English>Hell's Halfpipe overrun</English>
+        <Spanish>Medio Tubo del Infierno invadido</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lost1_description_1M5">
+        <English>Enemy forces have breached our defenses and overrun friendly positions at Hell's Halfpipe! Take advantage of your supports to hold the enemy back.</English>
+        <Spanish>¡Las fuerzas enemigas han penetrado nuestras defensas y han invadido las posiciones enemigas en el Medio Tubo del Infierno! Aprovecha tus apoyos para mantener al enemigo a raya.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lost2_subtitle_1M5">
+        <English>Cease fire on Ghorband</English>
+        <Spanish>Alto el fuego en Ghorband</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_lost2_description_1M5">
+        <English>Heed your orders! Ghorband is a no-fire zone!</English>
+        <Spanish>¡Acata tus órdenes! ¡Ghorband es una zona protegida!</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="OperationAnaconda">
+  <Package name="OperationAnaconda_1M6">
+    <Container name="STR_DN">
+	  <Key ID="STR_TIOG_BriefingCommand_Text_1M6">
+        <English>A. Signal:&lt;br/&gt; Mountain - MG HAGENBECK (CJTF Mountain CO)&lt;br/&gt; Rak 6 - COL WIERCISNKI (TF Rakkasan CO)&lt;br/&gt; Panther - LTC BLABER (TF Bowie CO)&lt;br/&gt; Leader 6 - LTC CORKRAN (1-187 CO)&lt;br/&gt; Brick 31 (your team) - CPT QUANDER (326th Eng. Bn. CO)&lt;br/&gt; Charlie 11 - CPT ASPLAND (1-187 C Company CO)&lt;br/&gt; Bravo 11 - CPT CORNELL (1-87 B Company CO)&lt;br/&gt; Moose 3 - MCPL MCMEEKIN (Canadian sniper team spotter)</English>
+        <Spanish>A. Señal:&lt;br/&gt; Mountain: May. Gral. HAGENBECK (oficial del la CJTF Mountain)&lt;br/&gt; Rak 6: Cnel. WIERCINSKI (oficial de la TF Rakkasan)&lt;br/&gt; Panther: Tte. Cnel. BLABER (oficial de la TF Bowie)&lt;br/&gt; Leader 6: Tte. Cnel. CORKRAN (oficial del 1-187)&lt;br/&gt; Brick 31 (tu equipo): Cap. QUANDER (oficial del 326.º Bat. de Ing.)&lt;br/&gt; Charlie 11: Cap. ASPLAND (oficial de la Compañía C del 1-187)&lt;br/&gt; Bravo 11: Cap. CORNELL (oficial de la Compañía B del 1-87)&lt;br/&gt; Moose 3: Cabo Mtro. MCMEEKIN (observador del equipo de francotiradores canadiense)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingCommand_Text_2_1M6">
+        <English>A. Signal:&lt;br/&gt; Mountain - MG HAGENBECK (CJTF Mountain CO)&lt;br/&gt; Rak 6 - COL WIERCISNKI (TF Rakkasan CO)&lt;br/&gt; Panther - LTC BLABER (TF Bowie CO)&lt;br/&gt; Leader 6 - LTC CORKRAN (1-187 CO)&lt;br/&gt; Brick 31 - CPT QUANDER (326th Eng. Bn. CO)&lt;br/&gt; Charlie 11 - CPT ASPLAND (1-187 C Company CO)&lt;br/&gt; Bravo 11 - CPT CORNELL (1-87 B Company CO)&lt;br/&gt; Moose 3 (your team) - MCPL MCMEEKIN (Canadian sniper team spotter)</English>
+        <Spanish>A. Señal:&lt;br/&gt; Mountain: May. Gral. HAGENBECK (oficial del la CJTF Mountain)&lt;br/&gt; Rak 6: Cnel. WIERCINSKI (oficial de la TF Rakkasan)&lt;br/&gt; Panther: Tte. Cnel. BLABER (oficial de la TF Bowie)&lt;br/&gt; Leader 6: Tte. Cnel. CORKRAN (oficial del 1-187)&lt;br/&gt; Brick 31: Cap. QUANDER (oficial del 326.º Bat. de Ing.)&lt;br/&gt; Charlie 11: Cap. ASPLAND (oficial de la Compañía C del 1-187)&lt;br/&gt; Bravo 11: Cap. CORNELL (oficial de la Compañía B del 1-87)&lt;br/&gt; Moose 3 (tu equipo): Cabo Mtro. MCMEEKIN (observador del equipo de francotiradores canadiense)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSustainment_Text_1M6">
+        <English>1. Supply: Standard US Desert BDUs, Interceptor vests, PASGT helmets, standard issue US small arms including M4 carbines, Mossberg shotguns, M249 and M240 machine guns, and M24, M21 and M107 sniper rifles.&lt;br/&gt;2. Transportation: None.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Rakkasan has 2x embedded medical sergeants, in the event of a mission failure due to substantial casualties, Rak 6 will authorize CASEVAC and insertion by 1-87.</English>
+        <Spanish>1. Suministros: Uniformes estándar de combate en camuflaje desierto, chalecos Interceptor, cascos PASGT, armas reglamentarias de EE. UU. como carabinas M4, escopetas Mossberg, ametralladoras M249 y M240, y fusiles de tirador M24, M21 y M107.&lt;br/&gt;2. Transporte: Ninguno.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Los Rakkasans tienen 2x sargentos médicos asignados. En caso de fracaso debido a una cantidad considerable de bajas, Rak 6 autorizará CASEVAC y la inserción del 1-87.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSustainment_Text_2_1M6">
+        <English>1. Supply: Privately-bought British DDPM smocks, DDPM boonie hats, and standard Canadian military sniper rifles, including C3A1s and C15s.&lt;br/&gt;2. Transportation: None.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Rakkasan has 2x embedded medical sergeants, in the event of a mission failure due to substantial casualties, Rak 6 will authorize CASEVAC and insertion by 1-87.</English>
+        <Spanish>1. Suministros: Guardapolvos comprados de forma independiente en camuflaje DDPM británico, chambergos en DDPM y fusiles de francotirador canadienses estándar, como el C3A1 o el C15.&lt;br/&gt;2. Transporte: Ninguno.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Los Rakkasans tienen 2x sargentos médicos asignados. En caso de fracaso debido a una cantidad considerable de bajas, Rak 6 autorizará CASEVAC y la inserción del 1-87.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingExecution_Text_1M6">
+        <English>The operation will be carried out in three (3) phases:&lt;br/&gt;&lt;br/&gt;Phase 1: ESTABLISH BP Amy. LTC Ron Corkran's 1-187 from the reorganized TF Rakkasan will climb the mountain and establish &lt;marker name="marker_34">BP Amy&lt;/marker&gt;, which was not established by any units during the original Rakkasan assault two days ago. They will be in direct contact with the AFO Juliet Team.&lt;br/&gt;&lt;br/&gt;Phase 2: CLEAR the compounds. After establishing Amy, the Rakkasans will move southwards and sweep the valley, clearing any and all compounds they may encounter, such as &lt;marker name="marker_14">this one&lt;/marker&gt;, located between BPs Amy and Betty.&lt;br/&gt;&lt;br/&gt;Phase 3: CLEAR the cave. Juliet Team spotted &lt;marker name="marker_15">this cave&lt;/marker&gt;, but no air assets have destroyed it yet. Since all the air is tasked this morning with supporting friendly forces on the peak of Takur Ghar, it falls upon the Rakkasans to clear it.</English>
+        <Spanish>La operación se llevará a cabo en tres (3) fases:&lt;br/&gt;&lt;br/&gt;Fase 1: ESTABLECER la PB Amy. El 1-187 del Tte. Cnel. Ron Corkran, de la TF Rakkasan reorganizada, escalará la montaña y establecerá la &lt;marker name="marker_34">PB Amy&lt;/marker&gt;, que no fue establecida por ninguna unidad durante el primer asalto de los Rakkasans hace dos días. Estarán en contacto directon con el equipo AFO Juliet.&lt;br/&gt;&lt;br/&gt;Fase 2: DESPEJAR los complejos. Después de establecer Amy, los Rakkasans avanzarán hacia el sur y peinarán el valle, despejando cualquier complejo que encuentren, como &lt;marker name="marker_14">este&lt;/marker&gt;, ubicado entre las PB Amy y Betty.&lt;br/&gt;&lt;br/&gt;Fase 3: DESPEJAR la cueva. El equipo Juliet avistó &lt;marker name="marker_15">esta cueva&lt;/marker&gt;, pero ningún activo aéreo la ha destruido aún. Dado que todo el apoyo aéreo tiene la tarea esta mañana de apoyar a las fuerzas aliadas en la cima de Takur Ghar, corresponde a los Rakkasans despejarla.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingMission_Text_1M6">
+        <English>Who: 3rd Platoon, C Company, 326th Engineer Battalion, 101st Airborne Division, Task Force Rakkasan (TF Rakkasan)&lt;br/&gt;What: PATROL the northern end of the valley, SECURE compounds and caves&lt;br/&gt;Where: In vicinity, Shah-i-Kot Valley&lt;br/&gt;When: 062800ZMAR04&lt;br/&gt;Why: Operation Anaconda</English>
+        <Spanish>Quién: 3.er Pelotón, Compañía C, 326.º Batallón de Ingenieros, 101.ª División Aerotransportada, Fuerza Operativa Rakkasan (TF Rakkasan)&lt;br/&gt;Qué: PATRULLAR el extremo norte del valle, ASEGURAR complejos y cuevas&lt;br/&gt;Dónde: En las inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Cuándo: 062800ZMAR04&lt;br/&gt;Por qué: Operación Anaconda</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingMission_Text_2_1M6">
+        <English>Who: 3rd Battalion, Princess Patricia's Canadian Light Infantry, Task Force Rakkasan (TF Rakkasan)&lt;br/&gt;What: PATROL the northern end of the valley, SECURE compounds and caves&lt;br/&gt;Where: In vicinity, Shah-i-Kot Valley&lt;br/&gt;When: 062800ZMAR04&lt;br/&gt;Why: Operation Anaconda</English>
+        <Spanish>Quién: 3.er Batallón, Princess Patricia's Canadian Light Infantry, Fuerza Operativa Rakkasan (TF Rakkasan)&lt;br/&gt;Qué: PATRULLAR el extremo norte del valle, ASEGURAR complejos y cuevas&lt;br/&gt;Dónde: En las inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Cuándo: 062800ZMAR04&lt;br/&gt;Por qué: Operación Anaconda</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSituation_Text_1M6">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: 100-500 expected fighters&lt;br/&gt;Activity: Moderate movement, light radio chatter&lt;br/&gt;Location: Vicinity, Shah-i-Kot Valley&lt;br/&gt;Unit: Taliban and Al-Qaeda light infantry with anti-aircraft guns and mortars, supported by North Caucasian fighters&lt;br/&gt;Time Observed: March 3, 2002&lt;br/&gt;Equipment: Small arms, mortars, anti-aircraft guns&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To establish several blocking positions along the eastern ridge of the Shah-i-Kot Valley to block off any potential escape routes.&lt;br/&gt;2. Adjacent Units: LTC Corkran (callsign: Leader 6), 1-187 C Company (callsign: Charlie 11), 1-87 B Company (callsign: Bravo 11), 3 PPCLI sniper team (callsign: Moose 3).&lt;br/&gt;3. Supporting: Air support will not be available for this mission, all air assets are devoted to the battle on Takur Ghar. Artillery support will not be available for this mission. CASEVAC will be available for this mission at the request of Rak 6.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: 100-500 combatientes esperados&lt;br/&gt;Actividad: Movimiento moderado, leves vibraciones de radio&lt;br/&gt;Ubicación: Inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Unidades: Infantería ligera talibán y de Al Qaeda con cañones antiaéreos y morteros, apoyada por combatientes norcaucásicos&lt;br/&gt;Fecha de observación: 3 de marzo de 2002&lt;br/&gt;Equipo: armas ligeras, morteros, cañones antiaéreos&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Establecer varias posiciones de bloqueo a lo largo de la cresta oriental del valle de Shah-i-Kot para bloquear cualquier posible ruta de escape.&lt;br/&gt;2. Unidades adyacentes: Tte. Cnel. Corkran (indicativo: Leader 6), Compañía C del 1-187 (indicativo: Charlie 11), Compañía B del 1-87 (indicativo: Bravo 11), equipo de francotiradores del 3 PPCLI (indicativo: Moose 3).&lt;br/&gt;3. Apoyo: No habrá apoyo aéreo para esta misión, dado que todos los activos aéreos están destinados a la batalla de Takur Ghar. No habrá apoyo de artillería para esta misión. La CASEVAC solo estará autorizada cuando la solicite Rak 6.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Briefing_Text_1M6">
+        <English>After two days of heavy fighting in the Shah-i-Kot Valley, Task Force Rakkasan has reorganized in the north and will perform a southward sweep of the valley this morning. The unit assigned is LTC Ron Corkran's 1-187, recently airlifted from Bagram Airfield after being on hold during the initial invasion. With an attached engineer battalion and a Canadian sniper team from the 3 PPCLI, Corkran's platoons will climb the mountain towards &lt;marker name="marker_34">BP Amy&lt;/marker&gt; and then sweep the valley southwards, clearing any compounds and caves they may encounter.</English>
+        <Spanish>Tras dos días de intensos combates en el valle de Shah-i-Kot, la Fuerza Operativa Rakkasan se ha reorganizado en el norte y realizará esta mañana un barrido del valle hacia el sur. La unidad asignada es el 1-187 del Tte. Cnel. Ron Corkran, trasladado recientemente por vía aérea desde el aeropuerto de Bagram tras haber permanecido en espera durante la invasión inicial. Con un batallón de ingenieros asignado y un equipo de francotiradores canadienses del 3 PPCLI, los pelotones de Corkran escalarán la montaña en dirección a la &lt;marker name="marker_34">PB Amy&lt;/marker&gt; y luego peinarán el valle hacia el sur, despejando los complejos y cuevas que puedan encontrar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_Description_1M6">
+        <English>&lt;marker name="marker_34">BP Amy&lt;/marker&gt; was not established by any units in the original Rakkasan assault two days ago, but with all our forces reorganized and with reinforcements from the 1-187, it's time for us to finally check out that position.</English>
+        <Spanish>La &lt;marker name="marker_34">PB Amy&lt;/marker&gt; no fue establecida por ninguna unidad en el primer asalto de los Rakkasans hace dos días, pero, con todas nuestras fuerzas reorganizadas y con refuerzos del 1-187, es hora de que comprobemos esa posición.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_Title_1M6">
+        <English>Phase 1: Reach BP Amy</English>
+        <Spanish>Fase 1: Llegar a la PB Amy</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_Description_1M6">
+        <English>&lt;marker name="marker_14">This compound&lt;/marker&gt; stands in the middle of BPs Amy and Betty. Since we are the first units to cross BP Amy since the original assault, it's our job to clear it and investigate it.</English>
+        <Spanish>&lt;marker name="marker_14">Este complejo&lt;/marker&gt; queda en medio de las PB Amy y Betty. Como somos las primeras unidades en cruzar la PB Amy desde el asalto inicial, es nuestro trabajo despejarlo e investigarlo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_Title_1M6">
+        <English>Phase 2: Clear the compound</English>
+        <Spanish>Fase 2: Despejar el complejo</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_1_Description_1M6">
+        <English>A trapdoor has been found in one of the houses in the compound. You have been tasked with clearing it, but since you don't have a flashlight on hand, you have to pick one up from your CO.</English>
+        <Spanish>Se ha visto una trampilla en una de las casas del complejo. Te han encargado despejarlo, pero, como no tienes una linterna a mano, tienes que coger una de tu oficial al mando.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_1_Title_1M6">
+        <English>Grab the flashlight</English>
+        <Spanish>Coger la linterna</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_2_Description_1M6">
+        <English>Now that you have a flashlight, open that trapdoor and see what you find down there. Keep your eyes open and your radio on at all times.</English>
+        <Spanish>Ahora que tienes una linterna, abre esa trampilla y ve qué hay ahí abajo. Abre bien los ojos y deja la radio encendida en todo momento.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_2_Title_1M6">
+        <English>Search the basement</English>
+        <Spanish>Registrar el sótano</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_Description_1M6">
+        <English>Juliet Team pinpointed &lt;marker name="marker_15">this cave&lt;/marker&gt; that has slipped past the aircraft. Since all air assets are busy defending the special forces on Takur Ghar right now, it falls upon us to check it out and block the entrance.</English>
+        <Spanish>El equipo Juliet señaló &lt;marker name="marker_15">esta cueva&lt;/marker&gt;, que nuestros aviones han ignorado. Como todos los activos aéreos están ocupados defendiendo a las fuerzas especiales en Takur Ghar, nos toca a nosotros echarle un vistazo y bloquear la entrada.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_Title_1M6">
+        <English>Phase 3: Clear the cave</English>
+        <Spanish>Fase 3: Despejar la cueva</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_1_Description_1M6">
+        <English>Whilst approaching the designated cave, we have discovered what appears to be a Soviet D-30 howitzer in the valley. Although it's unmanned, we can't let it be and let the Taliban and AQ bombard us with it later on. We need to disable its breech by inserting a thermite grenade inside.</English>
+        <Spanish>Mientras nos acercamos a la cueva designada, hemos descubierto lo que parece ser un obús soviético D-30 en el valle. Aunque no está tripulado, no podemos dejarlo ahí y permitir que los talibanes y AQ nos bombardeen con él más adelante. Tenemos que desactivar su culata mediante la inserción de una granada de termita en el interior.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_1_Title_1M6">
+        <English>Disable the howitzer</English>
+        <Spanish>Desactivar el obús</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_2_Description_1M6">
+        <English>The cave isn't wide enough for all of us, so it's up to you to clear it using the flashlight.</English>
+        <Spanish>La cueva no es lo bastante ancha para todos nosotros, así que te toca a ti despejarla usando la linterna.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_2_Title_1M6">
+        <English>Clear the cave</English>
+        <Spanish>Despejar la cueva</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_3_Description_1M6">
+        <English>The cave is clear of all hostiles, but there's a bunch of ordnance crates in here. If we leave this cave untouched and the enemy comes back, they'll have all this weaponry ready for them and they'll use it against us. Think of a plan so that doesn't happen using explosives, grenades, bullets, whatever you can think of. Or, since the radio doesn't work inside the cave, you can also try going out and asking the Captain what to do directly...</English>
+        <Spanish>La cueva está libre de hostiles, pero hay un montón de cajas de artillería aquí. Si dejamos esta cueva intacta y el enemigo vuelve, tendrá todo este armamento preparado y lo usará contra nosotros. Piensa en un plan para que eso no ocurra usando explosivos, granadas, balas, lo que se te ocurra. O, como la radio no funciona dentro de la cueva, también puedes probar a salir y preguntarle directamente al capitán qué hacer.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_3_2_Description_1M6">
+        <English>The Captain has given you two options: you either destroy all ordnance crates inside the cave (using grenades, explosives or even bullets) or you plant an explosive under the main access tunnel to bring the rocks down and block it. If you choose the latter, make sure you set a timer on the explosive and get out of there quickly, since the detonator won't get signal from outside the cave.</English>
+        <Spanish>El capitán te ha dado dos opciones: o bien destruyes todos los cajones de artillería del interior de la cueva (usando granadas, explosivos o incluso balas) o colocas un explosivo bajo el túnel de acceso principal para hacer caer las rocas y bloquearlo. Si eliges esta última opción, asegúrate de programar un temporizador para el explosivo y salir de allí rápidamente, ya que el detonador no tendrá señal desde el exterior de la cueva.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_3_Title_1M6">
+        <English>Deny the enemy its resources</English>
+        <Spanish>Negar al enemigo sus recursos</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj4_Description_1M6">
+        <English>The enemy won't be able to access its ordnance again. It's time for you to report back to the Captain and return to the Colonel.</English>
+        <Spanish>El enemigo ya no podrá volver a acceder a su artillería. Es hora de que informes al capitán y vuelvas con el coronel.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj4_Title_1M6">
+        <English>Report back</English>
+        <Spanish>Informar</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj1_sniper_Description_1M6">
+        <English>Defend friendly forces with your sniper rifle while they carry out their mission.</English>
+        <Spanish>Defiende a las fuerzas aliadas con tu fusil de francotirador mientras llevan a cabo su misión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_sniper_Title_1M6">
+        <English>Protect friendly forces</English>
+        <Spanish>Proteger a las fuerzas aliadas</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_sniper_Description_1M6">
+        <English>Hostile forces have showed up in the valley, and they're firing on friendly forces. An RPK gunner has been spotted firing from a stable position. As of right now, it's the biggest threat to our forces. Find him and eliminate him.</English>
+        <Spanish>Han aparecido fuerzas hostiles en el valle y están disparando a las fuerzas aliadas. Un artillero de RPK ha sido visto disparando desde una posición estable. En este momento, es la mayor amenaza para nuestras fuerzas. Encuéntralo y elimínalo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_sniper_Title_1M6">
+        <English>Neutralize the RPK gunner</English>
+        <Spanish>Neutralizar al artillero de RPK</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_MissionTitle_1M6">
+        <English>The Shadows Below</English>
+        <Spanish>Las sombras de abajo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Intro_1M6">
+        <English>Mission 6 Intro</English>
+        <Spanish>Misión 6: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Outro_1M6">
+        <English>Mission 6 Outro</English>
+        <Spanish>Misión 6: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionDescription_1M6">
+        <English>After bombing enemy positions and returning fire for two full days, TF Rakkasan consolidates its forces in the north and deploys the 1st Battalion, 187th Infantry Regiment, including a Canadian sniper team and an engineer battalion, to sweep the valley floor southwards.</English>
+        <Spanish>Tras bombardear posiciones enemigas y devolver los disparos durante dos días enteros, la TF Rakkasan consolida sus fuerzas en el norte y despliega el 1.er Batallón, 187.º Regimiento de Infantería, inclusive un equipo de francotiradores canadienses y un batallón de ingenieros, para peinar el fondo del valle hacia el sur.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_text_1M6">
+        <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER VI - The Shadows Below&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'One man can change the world with a bullet in the right place.'&lt;br/&gt;&lt;br/&gt;-MALCOLM MCDOWELL&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO VI: Las sombras de abajo&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«Un hombre puede cambiar el mundo con una bala en el lugar correcto».&lt;br/&gt;&lt;br/&gt;—MALCOLM MCDOWELL&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel1_1M6">
+        <English>SGT Ryan Weber</English>
+        <Spanish>Sgto. Ryan Weber</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel2_1M6">
+        <English>326th Engineer Battalion</English>
+        <Spanish>326.º Batallón de Ingenieros</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel3_1M6">
+        <English>Shah-i-Kot Valley</English>
+        <Spanish>Valle de Shah-i-Kot</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel4_1M6">
+        <English>March 4, 2002 - 0628</English>
+        <Spanish>4 marzo 2002 - 0628</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel1_2_1M6">
+        <English>Cpl Rob Furlong</English>
+        <Spanish>Cabo Rob Furlong</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel2_2_1M6">
+        <English>3rd Battalion, PPCLI</English>
+        <Spanish>3.er Batallón, PPCLI</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message1_1M6">
+        <English>Come on, Weber, pick it up! No rest for the wicked!</English>
+        <Spanish>¡Venga, Weber, dese prisa! ¡No habrá paz para los malvados!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message2_1M6">
+        <English>Steep climb up ahead. You guys from Bravo got this under control, but my airborne guys: don't rush it and control your weight.</English>
+        <Spanish>Se viene una subida empinada. Los de Bravo lo tienen bajo control, pero mis chicos de la Aerotransportada: no se apresuren y controlen su peso.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message3_1M6">
+        <English>Make sure that if you fall, it's on your face and not your back. Drop your rucksacks if you have to. Slow and steady does it.</English>
+        <Spanish>Si se caen, procuren que sea de cara y no de espaldas. Suelten la mochila de ser necesario. Sin prisa pero sin pausa.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message4_1M6">
+        <English>Leader 6 to Juliet, be advised: we're approaching Amy. Friendlies on your right climbing the mountain, plase don't shoot us.</English>
+        <Spanish>Leader 6 para Juliet, atención: nos acercamos a Amy. Amigos a su derecha escalando la montaña, no nos disparen, por favor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message5_1M6">
+        <English>Roger that Leader 6, we'll try our best.</English>
+        <Spanish>Recibido, Leader 6. Se intentará.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message6_1M6">
+        <English>Leader 6 to Rak 6, BP Amy is clear. And I mean as clear as the sky on a hot summer day. There's not a single soul in the valley. How copy, over?</English>
+        <Spanish>Leader 6 a Rak 6, la PB Amy está despejada. Y cuando digo despejada, es más que el cielo un caluroso día de verano. No hay ni un alma en el valle. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message7_1M6">
+        <English>All copied Leader 6, they're likely hiding from our aircraft. Proceed to the compound, out.</English>
+        <Spanish>Recibido, Leader 6, seguramente estén escondiéndose de nuestros aviones. Procedan al complejo, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message8_1M6">
+        <English>Leader 6 to Juliet, Amy is clear, we're moving to the compound between Amy and Betty. You got any activity? Over.</English>
+        <Spanish>Leader 6 para Juliet, Amy está despejado, avanzamos al complejo entre Amy y Betty. ¿Tienen actividad? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message9_1M6">
+        <English>Negative, the compound looks empty. We've got eyes on you. Out.</English>
+        <Spanish>Negativo, el complejo parece vacío. Los vemos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message10_1M6">
+        <English>Rak 6, we're approaching the compound between Amy and Betty. Is there any chance we can get air overwatch? Over.</English>
+        <Spanish>Rak 6, nos dirigimos al complejo entre Amy y Betty. ¿Hay alguna posibilidad de tener supervisión aérea? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message11_1M6">
+        <English>Negative Leader 6, no can do. A special forces Chinook has crash-landed on Takur Ghar and all air assets have been diverted to CSAR duties there.</English>
+        <Spanish>Negativo, Leader 6, no es posible. Un Chinook de las fuerzas especiales se ha estrellado en Takur Ghar y todos los activos aéreos se han desviado para realizar CSAR allí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message12_1M6">
+        <English>A what? Shit, okay. Roger that, we'll manage. Out.</English>
+        <Spanish>¿Un qué? Hostias, vale. Recibido, nos las apañaremos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message13_1M6">
+        <English>Okay, I see the compound. Snipers, take up position on the ridge to the east and cover us.</English>
+        <Spanish>Vale, veo el complejo. Tiradores, tomen posición en la cresta al este y cúbrannos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message14_1M6">
+        <English>Roger.</English>
+        <Spanish>Recibido.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message15_1M6">
+        <English>Alright men, search the buildings through and through! Report any findings!</English>
+        <Spanish>¡Vale, muchachos, registren los edificios de pe a pa! ¡Informen de cualquier hallazgo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message16_1M6">
+        <English>This building is clear.</English>
+        <Spanish>Este edificio está despejado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message17_1M6">
+        <English>Brick 31 to all units, the big two-story building is clear. Make sure you look under the rugs and behind the shelves, people, there might be secret hideouts. Out.</English>
+        <Spanish>Brick 31 a todas las unidades, el edificio de dos plantas está despejado. Asegúrense de mirar debajo de las alfombras y detrás de las estanterías, podría haber escondites secretos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message18_1M6">
+        <English>Captain, we got a trapdoor in the lower floor of this building. I folded a rug and it was here.</English>
+        <Spanish>Capitán, tenemos una trampilla en la planta baja de este edificio. He doblado una alfombra y estaba ahí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message19_1M6">
+        <English>Hmm... Interesting. I've got the upper floor, do you think you can take care of that basement or whatever it is?</English>
+        <Spanish>Mmm... Interesante. Yo estoy con la planta superior, ¿cree que puede ocuparse de ese sótano lo que sea?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message20_1M6">
+        <English>Yes, I suppose I can, but I haven't got a flashlight on hand.</English>
+        <Spanish>Sí, supongo que sí, pero no tengo una linterna a mano.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message21_1M6">
+        <English>I can help with that. Come see me at the upper floor.</English>
+        <Spanish>Yo puedo ayudar. Venga a verme en la planta superior.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message22_1M6">
+        <English>There you go. Attach it to your rifle. Now, be careful when you go down, it might be a trap. Keep your radio on.</English>
+        <Spanish>Ahí tiene. Acóplela a su fusil. Ahora bien, tenga cuidado al bajar, podría ser una trampa. Deje la radio encendida.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message23_1M6">
+        <English>Will do.</English>
+        <Spanish>Lo haré.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message24_1M6">
+        <English>Leader 6, this is Brick 31: we have found a trapdoor inside the two-story building. One of my guys is going to check it out, over.</English>
+        <Spanish>Leader 6, aquí Brick 31: hemos encontrado una trampilla dentro del edificio de dos plantas. Uno de los míos va a echar un vistazo, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message25_1M6">
+        <English>Roger that, cover him.</English>
+        <Spanish>Recibido, cúbranlo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message26_1M6">
+        <English>Captain, I'm in the basement. Looks clear for now. Beginning my search.</English>
+        <Spanish>Capitán, estoy en el sótano. Parece despejado por ahora. Comienzo la búsqueda.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message26_2_1M6">
+        <English>Captain, the basement is clear, but it looks like they just left. Half-assembled IEDs, ordnance boxes, assorted weapons, documents... How copy, over?</English>
+        <Spanish>Capitán, el sótano está despejado, pero parece que acaban de irse. IED a medio montar, cajas de artillería, armas variadas, documentos... ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message26_3_1M6">
+        <English>Solid copy, get back up here. Leader 6, Brick 31, the compound basement is clear, but we have found ordnance and intel inside. Please advise, over.</English>
+        <Spanish>Alto y claro, vuelva aquí. Leader 6, Brick 31, el sótano del complejo está despejado, pero hemos encontrado artillería e inteligencia en su interior. Solicito consejo, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message27_1M6">
+        <English>Roger that. Charlie, stay here. Go down to the basement and seize that weaponry. Bravo, Brick, with me. We're going to the cave. Snipers, hold position and cover us. On the move!</English>
+        <Spanish>Recibido. Charlie, quédense aquí. Bajen al sótano e incauten esas armas. Bravo, Brick, conmigo. Vamos a la cueva. Tiradores, mantengan la posición y cúbrannos. ¡En marcha!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message28_1M6">
+        <English>Rak 6, Leader 6, message, over: the compound between Amy and Betty is clear. C Company will hold and seize some ordnance we've found, the rest of us are on our way to the cave.</English>
+        <Spanish>Rak 6, Leader 6, mensaje, cambio: el complejo entre Amy y Betty está despejado. La Compañía C se quedará a incautar unas armas que hemos encontrado, los demás nos dirigimos a la cueva.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message29_1M6">
+        <English>Solid copy, good work. Juliet reports no enemy contacts at the cave either, but proceed with caution. Out.</English>
+        <Spanish>Entendido, bien hecho. Juliet informa de que tampoco hay contactos enemigos en la cueva, pero procedan con precaución. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message30_1M6">
+        <English>That's an IED in the making. These guys were here recently.</English>
+        <Spanish>Eso es un IED en proceso. Estos tipos estaban aquí hace poco.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message31_1M6">
+        <English>Soviet weapons and documents about jihad on this table...</English>
+        <Spanish>Armas soviéticas y documentos sobre la yihad en esta mesa...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message32_1M6">
+        <English>A bunch of boxes with launchers and explosive ordnance.</English>
+        <Spanish>Un puñado de cajas con lanzadores y explosivos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message33_1M6">
+        <English>This building is clear, let's keep moving. The cave is right there.</English>
+        <Spanish>Este edificio está despejado, sigamos. La cueva está justo ahí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message34_1M6">
+        <English>Hey! Would you look at that? What are the Talibs doing with a Soviet howitzer here? Engineers, over here!</English>
+        <Spanish>¡Ey! ¿Qué me dicen de esto? ¿Qué hacen los talis con un obús soviético? ¡Ingenieros, aquí!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message35_1M6">
+        <English>Granted, that's a pretty sweet piece. What do you want us to do with it?</English>
+        <Spanish>Todo hay que decirlo, es bien bonito. ¿Qué quiere que hagamos con él?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message36_1M6">
+        <English>Well, destroy it, what damn options are there? If we leave it here today, they will use it against us tomorrow!</English>
+        <Spanish>Destrúyanlo, ¿qué opciones tenemos? ¡Si lo dejamos aquí hoy, lo usarán contra nosotros mañana!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message37_1M6">
+        <English>Right, right. Sergeant Weber, you had the thermite, didn't you? Stick one in the breech and that should do it.</English>
+        <Spanish>Cierto, cierto. Sargento Weber, usted llevaba la termina, ¿no? Meta una en la culata y eso debería ser suficiente.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message38_1M6">
+        <English>Captain, inspect the cave. I'll cover the perimeter with Bravo here.</English>
+        <Spanish>Capitán, inspeccione la cueva. Yo cubriré el perímetro con Bravo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message38_2_1M6">
+        <English>Rak 6, this is Leader 6. One enemy artillery piece disabled. Proceeding to search the cave. Out.</English>
+        <Spanish>Rak 6, aquí Leader 6. Un obús enemigo desactivado. Procedemos a registrar la cueva. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message39_1M6">
+        <English>Sergeant, I gave you the flashlight, you're up. See what you can find in there.</English>
+        <Spanish>Sargento, le di la linterna, así que le toca. A ver qué encuentra ahí dentro.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message40_1M6">
+        <English>Me alone? Are we sure about this?</English>
+        <Spanish>¿Yo solo? ¿Estamos seguros de esto?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message41_1M6">
+        <English>Do you see that entrance? This cave looks tight as a drum. More of us in there means a higher chance of it collapsing.</English>
+        <Spanish>¿Ve la entrada? Esta cueva es más estrecha que una monja. Cuantos más seamos ahí dentro, más probabilidades hay de que se derrumbe.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message42_1M6">
+        <English>Fuck, here I go. Promise me you'll put in a good word for me with the Colonel.</English>
+        <Spanish>Joder, vamos con ello. Prométame que hablará bien de mí con el coronel.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message43_1M6">
+        <English>Captain, the cave is clear. Six hostiles down, but a whole lot of ordnance in here. Please advise, over.</English>
+        <Spanish>Capitán, la cueva está despejada. Seis hostiles abatidos, pero hay mucha artillería aquí dentro. Solicito consejo, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message43_2_1M6">
+        <English>Captain, the cave is clear. Four hostiles down, but a whole lot of ordnance in here. Please advise, over.</English>
+        <Spanish>Capitán, la cueva está despejada. Cuatro hostiles abatidos, pero hay mucha artillería aquí dentro. Solicito consejo, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message44_1M6">
+        <English>...</English>
+        <Spanish>...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message45_1M6">
+        <English>Shit. Of course, no signal. Okay, think, Ryan, think. You need to deny the enemy access to its resources.</English>
+        <Spanish>Mierda. Claro, no hay señal. Vale, Ryan, piensa. Tienes que negar al enemigo acceso a sus recursos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message46_1M6">
+        <English>Look what the cave just spit out. SITREP?</English>
+        <Spanish>Miren lo que acaba de escupir la cueva. ¿Informe de situación?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message47_1M6">
+        <English>Several hostiles neutralized, but there's also various ordnance crates. The radio wasn't working, so I figured I might as well ask you directly.</English>
+        <Spanish>Varios hostiles neutralizados, pero también hay varias cajas de munición. La radio no funcionaba, así que se me ocurrió preguntarle a usted directamente.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message48_1M6">
+        <English>Have some initiative, Sergeant, it's not rocket science. Render the crates useless or just plant C4 near the entrance, the falling rocks will block it.</English>
+        <Spanish>Tenga algo de iniciativa, sargento, no tiene mucha ciencia. Inutilice las cajas o coloque C4 cerca de la entrada, las rocas que caigan la bloquearán.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message49_1M6">
+        <English>If you do plant C4, remember that if there's no signal for the radio, there won't be any signal for the detonator. Set a timer and get the fuck out of there before you get buried.</English>
+        <Spanish>Si decide plantar C4, recuerde que, si no hay señal para la radio, habrá menos para el detonador. Fije un temporizador y salga cagando leches de ahí antes de quedarse enterrado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message50_1M6">
+        <English>Understood. Be right back.</English>
+        <Spanish>Entendido. Enseguida vuelvo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message51_1M6">
+        <English>It's done. You won't have to worry about this cave anymore.</English>
+        <Spanish>Ya está. No tendrá que preocuparse de esta cueva.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message52_1M6">
+        <English>Good job, Sergeant. Let's join the Colonel.</English>
+        <Spanish>Buen trabajo, sargento. Volvamos con el coronel.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message53_1M6">
+        <English>An eye for an eye, assholes. We won't ever forget.</English>
+        <Spanish>Ojo por ojo, cabrones. No lo olvidaremos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message54_1M6">
+        <English>Charlie to Leader 6, all the weapons in the compound are secure. Requesting orders, over.</English>
+        <Spanish>Charlie para Leader 6, todas las armas del complejo están aseguradas. Solicito órdenes, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message55_1M6">
+        <English>Roger, meet me at the entrance of the cave.</English>
+        <Spanish>Recibido, reúnase conmigo en la entrada de la cueva.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message56_1M6">
+        <English>Rob, cover Charlie until they reach Corkran's position.</English>
+        <Spanish>Rob, cubre a Charlie en lo que llegan a la posición de Corkran.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message57_1M6">
+        <English>Rak 6 to Leader 6, friendlies in heavy combat on the peak of Takur Ghar. I need you to divert south and secure Cindy and Diane to block off the enemy. How copy, over?</English>
+        <Spanish>Rak 6 para Leader 6, amigos en combate intenso en la cima de Takur Ghar. Necesito que se desvíen al sur y aseguren Cindy y Diane para bloquear al enemigo. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message58_1M6">
+        <English>Solid copy, we're on our way. Out. Charlie, you take the lead now! Move in small groups: one group moves and the other one covers it, and you take turns! Let's move!</English>
+        <Spanish>Alto y claro, vamos para allá. ¡Charlie, vayan delante ahora! ¡Avancen en pequeños grupos: un grupo avanza y el otro lo cubre, turnándose! ¡En marcha!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message59_1M6">
+        <English>Follow me, Rob. Let's get a better view on the valley southwards.</English>
+        <Spanish>Sígueme, Rob. Vamos a buscar una panorámica mejor del valle hacia el sur.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message60_1M6">
+        <English>I see a building near Betty.</English>
+        <Spanish>Veo un edificio cerca de Betty.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message61_1M6">
+        <English>I believe that one was already cleared by Baltazar's company, but Bravo, go check anyway.</English>
+        <Spanish>Creo que la compañía de Baltazar ya lo despejó, pero vayan a comprobarlo igualmente, Bravo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message62_1M6">
+        <English>Clear. One disabled mortar, but that's it.</English>
+        <Spanish>Despejado. Un mortero desactivado, pero ya está.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message63_1M6">
+        <English>Okay. Let's split up. Charlie and myself, we'll seize Cindy. Bravo and Brick, seize Diane.</English>
+        <Spanish>Vale. Dividámonos. Charlie y yo aseguraremos Cindy. Bravo y Brick, tomen Diane.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message64_1M6">
+        <English>This is Charlie. We have visual on some unidentified tangos. They're armed, looks like AKs. Please advise, over.</English>
+        <Spanish>Aquí Charlie. Contacto visual con unos tangos no identificados. Están armados, parecen AK. Solicito consejo, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message65_1M6">
+        <English>The ROE state we're free to open fire on any armed suspects inside the valley. You're weapons free.</English>
+        <Spanish>Las reglas de enfrentamiento afirman que podemos disparar si hay sospechosos armados dentro del valle. Tienen vía libre.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message66_1M6">
+        <English>Got eyes on an RPK gunner in a small walled compound on the high ground south of Shirak. Range is one klick hundred. See him?</English>
+        <Spanish>Veo un artillero de RPK en un pequeño complejo amurallado en el terreno alto al sur de Shirak. La distancia es un kilómetro cien. ¿Lo ves?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message67_1M6">
+        <English>In my sights. Ready.</English>
+        <Spanish>En la mira. Listo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message68_1M6">
+        <English>Fire.</English>
+        <Spanish>Fuego.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message69_1M6">
+        <English>You fuckin' got him. Unbelievable. Mop up the rest.</English>
+        <Spanish>Te lo has cargado. Acojonante. Acaba con el resto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message70_1M6">
+        <English>Leader 6 to all units, we seem to be in the clear for now. Let's keep moving.</English>
+        <Spanish>Leader 6 para todas las unidades, parece que estamos a salvo por ahora. Sigamos avanzando.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message71_1M6">
+        <English>Zia, glad to see you. Let me just preface this meeting by expressing how sorry I am about yesterday's events.</English>
+        <Spanish>Zia, me alegro de verlo. Permítanme comenzar esta reunión expresando mi pesar por los acontecimientos de ayer.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message72_1M6">
+        <English>The friendly fire incident and the no-show air were mistakes that cannot be repeated.</English>
+        <Spanish>El incidente de fuego amigo y el apoyo aéreo inexistente han sido errores que no pueden repetirse.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message73_1M6">
+        <English>Rest assured, your men will be given a proper burial, and your wounded are stable. They will come back to the fight in just a few days.</English>
+        <Spanish>Tenga la seguridad de que sus hombres recibirán un entierro adecuado, y sus heridos están estables. Volverán al combate en pocos días.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message74_1M6">
+        <English>Colonel Haas, I'm sorry about Harriman. He was a great soldier. How are you recuperating?</English>
+        <Spanish>Coronel Haas, siento lo de Harriman. Era un gran soldado. ¿Cómo se está recuperando?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message75_1M6">
+        <English>We're seeing good progress. Yeah, Harriman's is a huge loss for us. That fucking AC-130...</English>
+        <Spanish>Estamos viendo un buen progreso. Sí, Harriman es una gran pérdida para nosotros. Ese puto AC-130...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message76_1M6">
+        <English>I understand your frustration. But this is not over. You guys will be coming back there and you'll finish what you started.</English>
+        <Spanish>Entiendo su frustración. Pero esto no ha terminado. Volverán ahí y terminarán lo que empezaron.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message77_1M6">
+        <English>And I will be personally coming with you. Zia, the victory will be yours. Let's get planning.</English>
+        <Spanish>Y yo mismo iré con ustedes. Zia, la victoria será suya. Pongámonos a planear.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message78_1M6">
+        <English>Frank, Paul, welcome back to Bagram. Happy to see you still in one piece. So, what's the situation in the valley?</English>
+        <Spanish>Frank, Paul, bienvenidos de vuelta a Bagram. Me alegro de verlos enteros. Bien, ¿cuál es la situación en el valle?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message79_1M6">
+        <English>Sir, Al-Qaeda is hurt. Despite the setbacks, our ground and air forces have pounded the enemy to hell. They're almost broken.</English>
+        <Spanish>Señor, Al Qaeda está herida. A pesar de los contratiempos, nuestras fuerzas terrestres y aéreas han machacado al enemigo. Están casi rotos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message80_1M6">
+        <English>Then we'll have to fully break them. Frank, we are going back in there.</English>
+        <Spanish>Entonces tendremos que romperlos del todo. Frank, vamos a volver ahí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message81_1M6">
+        <English>Sir, we are all ready to go. Ron’s been in there with me and knows the terrain. We can do this.</English>
+        <Spanish>Señor, estamos listos. Ron ha estado ahí conmigo y se conoce el terreno. Podemos hacerlo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message82_1M6">
+        <English>Chip’s got a good consolidated position up here in the north. The Special Forces are reorganizing the Afghans to come back in the fight.</English>
+        <Spanish>Chip tiene una buena posición consolidada aquí en el norte. Las Fuerzas Especiales están reorganizando a los afganos para volver al combate.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message83_1M6">
+        <English>Frank, you have the main effort now. We continue to pound that area heavily until we can get our troops back down there. Here’s how we retake the valley.</English>
+        <Spanish>Frank, ustedes son ahora la fuerza principal. Seguiremos bombardeando esa zona hasta que podamos mandar a nuestras tropas. Así retomaremos el valle.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message84_1M6">
+        <English>We use Chip’s position at HLZ 15 as our base.  We bring in Ron’s battalion and then he and Chip’s battalion leap frog from one pass to the next.</English>
+        <Spanish>Usaremos la posición de Chip en la ZA 15 como nuestra base. Llevaremos al batallón de Ron y, con el batallón de Chip, irán saltando de paso en paso.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message85_1M6">
+        <English>It’s almost like World War II island hopping in the South Pacific--only we are moving from gap to gap.</English>
+        <Spanish>Es casi como ir de isla en isla en el Pacífico Sur durante la Segunda Guerra Mundial, solo que nos movemos de un hueco a otro.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message86_1M6">
+        <English>After Paul has a chance to reorganize his battalion, we’ll bring it into HLZ 15 and have three battalions leap frogging each other to seize the valley.</English>
+        <Spanish>Después de que Paul tenga la oportunidad de reorganizar su batallón, lo llevaremos a la ZA 15 y tendremos tres batallones saltándose los unos a los otros para tomar el valle.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message87_1M6">
+        <English>We’ll build up our mortars and maneuver their fires from one kill box to the next. The Afghan and Coalition forces can maintain a block in the south so that nothing can get through there.</English>
+        <Spanish>Acumularemos nuestros morteros y maniobraremos sus fuegos de una casilla a otra. Las fuerzas afganas y de la Coalición pueden mantener un bloqueo en el sur para que nada pueda pasar por allí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message88_1M6">
+        <English>Raider 6 to all units, we're taking mortar and small arms fire at HLZ 15! It's not safe, I repeat, not safe! Over!</English>
+        <Spanish>¡Raider 6 a todas las unidades, estamos recibiendo fuego de morteros y armas ligeras en la ZA 15! ¡No es seguro, repito, no es seguro! ¡Cambio!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message89_1M6">
+        <English>Hooker 6, this is Mountain: be advised, HLZ 15 is taking fire. Continue to the HLZ, but do a doughnut over the area to see if the situation changes.</English>
+        <Spanish>Hooker 6, aquí Mountain: atención, la ZA 15 está recibiendo disparos. Continúen hacia la ZA, pero hagan un dónut sobre el área para ver si la situación cambia.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message90_1M6">
+        <English>Roger that, will do.</English>
+        <Spanish>Recibido, eso haremos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message91_1M6">
+        <English>Hooker 6, cancel the landing! Pull back and return to Texaco, you'll get a call when the situation improves. Out.</English>
+        <Spanish>¡Hooker 6, cancelen el aterrizaje! Retírense y vuelvan a Texaco, ya los llamaremos cuando la situación mejore. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message92_1M6">
+        <English>Serial One, haven't you heard the notification? ...Do you copy? Fuck it, these guys are fucking deaf.</English>
+        <Spanish>Serial 1, ¿no han escuchado la notificación? ...¿Me reciben? Estos están más sordos que una tapia.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message93_1M6">
+        <English>Go, spread out! Regroup with the rest of the battalion!</English>
+        <Spanish>¡Venga, dispérsense! ¡Reagrúpense con el resto del batallón!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message94_1M6">
+        <English>Hey look, another Chinook. Wait, that's not ours, is it? Who the fuck is that?</English>
+        <Spanish>Eh, miren, otro Chinook. Espera, ese no es nuestro, ¿verdad? ¿Quién coño es?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message95_1M6">
+        <English>It's SF, look at the probe. The hell are the Night Stalkers doing here? Have we been informed?</English>
+        <Spanish>Fuerzas especiales, mire la sonda. ¿Qué coño hacen los Night Stalkers aquí? ¿Hemos sido informados?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message96_1M6">
+        <English>Leader 6 to Rak 6, we're at Diane. We had a small firefight, but we took care of them. Cindy and Diane are secure, over.</English>
+        <Spanish>Leader 6 a Rak 6, estamos en Diane. Hemos tenido un pequeño tiroteo, pero nos hemos ocupado de ellos. Cindy y Diane están aseguradas, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message97_1M6">
+        <English>Roger that, good work. We'll send Summit to Heather. Hold your position, out.</English>
+        <Spanish>Recibido, buen trabajo. Enviaremos a Summit a Heather. Mantengan la posición, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message98_1M6">
+        <English>Paul, you there?</English>
+        <Spanish>Paul, ¿está ahí?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message99_1M6">
+        <English>Yeah Frank, send it.</English>
+        <Spanish>Sí, Frank, dígame.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message100_1M6">
+        <English>All the eastern BPs are secure. Our forces have faced barely any opposition, which leads us to believe Takur Ghar is their last pocket of resistance. I need you back in the valley. You'll form Task Force Summit, and you'll make the trek towards Takur Ghar to finally clear it. Understood?</English>
+        <Spanish>Todas las PB del este están aseguradas. Nuestras fuerzas apenas han encontrado oposición, lo que nos lleva a creer que Takur Ghar es su último foco de resistencia. Lo necesito de vuelta en el valle. Formará la Fuerza Operativa Summit, y se dirigirá hacia Takur Ghar para despejarlo definitivamente. ¿Entendido?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message101_1M6">
+        <English>Sure Frank, you can count on us. We're ready to rock.</English>
+        <Spanish>Claro, Frank, puede contar con nosotros. Estamos listos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message101_2_1M6">
+        <English>Keep moving, gentlemen! Keep that blood flowing and you won't even notice the cold.</English>
+        <Spanish>¡No se paren, caballeros! Mantengan la sangre fluyendo y ni siquiera notarán el frío.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message102_1M6">
+        <English>Hostiles! Wait, they're surrendering, hold your fire! Let's take these to the Colonel.</English>
+        <Spanish>¡Hostiles! Espera, se están rindiendo, ¡alto el fuego! Vamos a llevárselos al coronel.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_EngiNCO_dialogue_1M6">
+        <English>CPT QUANDER</English>
+        <Spanish>CAP. QUANDER</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_EngiNCO_radio_1M6">
+        <English>Brick 31 (CPT Quander)</English>
+        <Spanish>Brick 31 (Cap. Quander)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_USSoldier_dialogue_1M6">
+        <English>US SOLDIER</English>
+        <Spanish>SOLDADO DE EE. UU.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_USEngi_dialogue_1M6">
+        <English>SGT WEBER</English>
+        <Spanish>SGTO. WEBER</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_USEngi_radio_1M6">
+        <English>Brick 31 (SGT Weber)</English>
+        <Spanish>Brick 31 (Sgto. Weber)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Corkran_dialogue_1M6">
+        <English>LTC CORKRAN</English>
+        <Spanish>TTE. CNEL. CORKRAN</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Corkran_radio_1M6">
+        <English>Leader 6 (LTC Corkran)</English>
+        <Spanish>Leader 6 (Tte. Cnel. Corkran)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Aspland_radio_1M6">
+        <English>Charlie (CPT Aspland)</English>
+        <Spanish>Charlie (Cap. Aspland)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Cornell_radio_1M6">
+        <English>Bravo (CPT Cornell)</English>
+        <Spanish>Bravo (Cap. Cornell)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_McMeekin_dialogue_1M6">
+        <English>MCPL MCMEEKIN</English>
+        <Spanish>CABO MTRO. MCMEEKIN</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_McMeekin_radio_1M6">
+        <English>Moose 3 (MCpl McMeekin)</English>
+        <Spanish>Moose 3 (Cabo Mtro. McMeekin)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_foldrug_action_1M6">
+        <English>fold rug</English>
+        <Spanish>doblar la alfombra</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_flashlight_action_1M6">
+        <English>grab flashlight</English>
+        <Spanish>coger la linterna</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_trapdoor_action_1M6">
+        <English>go down</English>
+        <Spanish>bajar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_trapdoor_action2_1M6">
+        <English>go up</English>
+        <Spanish>subir</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_cave_action_1M6">
+        <English>enter cave</English>
+        <Spanish>entrar en la cueva</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_cave_action2_1M6">
+        <English>exit cave</English>
+        <Spanish>salir de la cueva</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_advice_action_1M6">
+        <English>request advice</English>
+        <Spanish>solicitar consejo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_reportback_action_1M6">
+        <English>report back</English>
+        <Spanish>informar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_thermite_hint_1M6">
+        <English>To disable the howitzer, switch to your M14 incendiary grenades and throw one near the gun. Eventually, it will get disabled.</English>
+        <Spanish>Para desactivar el obús, cambia a tus granadas incendiarias M14 y tira una cerca del cañón. Se inhabilitará al final.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission_1M6">
+        <English>&lt;t size='1.5'&gt;G A R D E Z&lt;br/&gt;&lt;br/&gt;D-DAY +1 (0925)&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;G A R D E Z&lt;br/&gt;&lt;br/&gt;DÍA D +1 (0925)&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission2_1M6">
+        <English>&lt;t size='1.5'&gt;B A G R A M   A I R F I E L D&lt;br/&gt;&lt;br/&gt;D-DAY +1 (1000)&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;A E R O P U E R T O   D E   B A G R A M&lt;br/&gt;&lt;br/&gt;DÍA D +1 (1000)&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission3_1M6">
+        <English>&lt;t size='1.5'&gt;S H A H - I - K O T   V A L L E Y&lt;br/&gt;&lt;br/&gt;D-DAY +1 (1415)&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;V A L L E   D E   S H A H - I - K O T&lt;br/&gt;&lt;br/&gt;DÍA D +1 (1415)&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission4_1M6">
+        <English>&lt;t size='1.5'&gt;1 1   H O U R S   L A T E R&lt;br/&gt;&lt;br/&gt;D-DAY +2 (0130)&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;1 1   H O R A S   D E S P U É S&lt;br/&gt;&lt;br/&gt;DÍA D +2 (0130)&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission5_1M6">
+        <English>&lt;t size='1.5'&gt;T A K U R   G H A R&lt;br/&gt;&lt;br/&gt;D-DAY +2 (2134)&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;T A K U R   G H A R&lt;br/&gt;&lt;br/&gt;DÍA D +2 (2134)&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_end1_subtitle_1M6">
+        <English>North of the valley cleared</English>
+        <Spanish>Norte del valle despejado</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_end1_description_1M6">
+        <English>With barely any resistance whatsoever, TF Rakkasan has managed to clear two compounds and even a cave. We're not sure where the hell the enemy is in the valley, but everything seems to suggest Takur Ghar is a hell of a battlefield right now.</English>
+        <Spanish>Sin apenas resistencia, la TF Rakkasan ha conseguido despejar dos complejos e incluso una cueva. No estamos seguros de dónde demonios está el enemigo en el valle, pero todo parece indicar que Takur Ghar es un pedazo de campo de batalla ahora mismo.</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

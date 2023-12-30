@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="OperationAnaconda">
+  <Package name="OperationAnaconda_1M0">
+    <Container name="STR_DN">
+	  <Key ID="STR_TIOG_BriefingCommand_Text_1M0">
+        <English>A. Signal:&lt;br/&gt; Jawbreaker - CIA operative BERNTSEN (operation overseer)&lt;br/&gt; Jackal (your team) - MAJ FURY</English>
+        <Spanish>A. Señal:&lt;br/&gt; Jawbreaker: agente de la CIA BERNTSEN (supervisor de la operación)&lt;br/&gt; Jackal (tu equipo): May. FURY</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSustainment_Text_1M0">
+        <English>1. Supply: Traditional Afghan clothing to blend in with the local population, such as khetpartugs, turbans, pakols and araqchins, privately-bought chest rigs, and typical Tier 1 weapons, such as M4A1 carbines, MP5 SMGs, Mossberg shotguns, or AK-platform rifles.&lt;br/&gt;2. Transportation: Juliet Team will make use of two (2) Afghan-provided Toyota Hiluxes.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: None.</English>
+        <Spanish>1. Suministros: Ropa tradicional afgana para camuflarse entre la población local, como khetpartugs, turbantes, pakols y araqchins, portacargadores comprados y armas típicas de unidades de élite, como carabinas M4A1, metralletas MP5, escopetas Mossberg o fusiles AK.&lt;br/&gt;2. Transporte: El equipo Juliet empleará dos (2) Toyota Hilux proporcionados por los afganos.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Ninguno.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingExecution_Text_1M0">
+        <English>Having linked up with Haji Ghamsharik's friendly Pashtun force, Jackal Team, led by Major "Dalton Fury", will advance to an adequate &lt;marker name="marker_5">observation position&lt;/marker&gt;. Once there, they will scan the &lt;marker name="marker_0">Tora Bora cave complex&lt;/marker&gt; and mark any enemy strongholds to be destroyed by the aircraft. If they get a positive ID on Osama bin Laden, they will report that as well. Afterwards, the next morning, Jackal will call in air support on the previously marked enemy positions while the Afghans advance on foot to capture, kill or confirm the kill on Osama bin Laden.</English>
+        <Spanish>Tras enlazar con la fuerza pastún aliada de Haji Ghamsharik, el equipo Jackal, liderado por el mayor «Dalton Fury», avanzará hasta una &lt;marker name="marker_5">posición de observación&lt;/marker&gt; adecuada. Una vez allí, escanearán el &lt;marker name="marker_0">complejo de cuevas de Tora Bora&lt;/marker&gt; y marcarán cualquier bastión enemigo que deba ser destruido por las aeronaves. Si obtienen una identificación positiva de Osama bin Laden, también informarán de ello. Después, a la mañana siguiente, Jackal solicitará apoyo aéreo sobre las posiciones enemigas previamente marcadas mientras los afganos avanzan a pie para capturar, matar o confirmar la muerte de Osama bin Laden.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingMission_Text_1M0">
+        <English>Who: A Squadron, 1st SFOD-D, Task Force Sword (TF Sword)&lt;br/&gt;What: CAPTURE or KILL Osama bin Laden&lt;br/&gt;Where: In vicinity, Spin Ghar&lt;br/&gt;When: 165800ZDEC09&lt;br/&gt;Why: Retaliation for September 11 attacks</English>
+        <Spanish>Quién: Escuadrón A, 1.er SFOD-D, Fuerza Operativa Sword (TF Sword)&lt;br/&gt;Qué: CAPTURAR o MATAR a Osama bin Laden&lt;br/&gt;Dónde: En las inmediaciones, Spin Ghar&lt;br/&gt;Cuándo: 165800ZDEC09&lt;br/&gt;Por qué: Represalia por los atentados del 11 de septiembre</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSituation_Text_1M0">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: 500-1000 expected fighters&lt;br/&gt;Activity: Little movement, moderate radio chatter&lt;br/&gt;Location: Vicinity, Spin Ghar&lt;br/&gt;Unit: Al-Qaeda light infantry&lt;br/&gt;Time Observed: December 7-8, 2001&lt;br/&gt;Equipment: Small arms&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To destroy Al-Qaeda positions in the Tora Bora cave complex and capture or kill Osama bin Laden.&lt;br/&gt;2. Adjacent Units: Two attached SBS operators and Haji Ghamsharik's militia force.&lt;br/&gt;3. Supporting: Several fighter planes and a B-52 bomber will be available as CAS for this mission. Artillery support will not be available for this mission. CASEVAC will not be available for this mission.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: 500-1000 combatientes esperados&lt;br/&gt;Actividad: Movimiento leve, vibraciones de radio moderadas&lt;br/&gt;Ubicación: Inmediaciones, Spin Ghar&lt;br/&gt;Unidades: Infantería ligera de Al Qaeda&lt;br/&gt;Fecha de observación: 7-8 de diciembre de 2001&lt;br/&gt;Equipo: armas ligeras&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Destruir las posiciones de Al Qaeda en las cuevas de Tora Bora y capturar o matar a Osama bin Laden.&lt;br/&gt;2. Unidades adyacentes: Dos operadores del SBS asignados y la fuerza miliciana de Haji Ghamsharik.&lt;br/&gt;3. Apoyo: Varios cazas y un bombardero B-52 estarán disponibles como apoyo aéreo cercano para esta misión. No habrá apoyo de artillería para esta misión. No habrá CASEVAC para esta misión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Briefing_Text_1M0">
+        <English>CENTCOM has given us the cold shoulder and has refused to commit more US troops to block Bin Laden's escape. Therefore, the rest of the special forces on the ground and their Afghan "allies" will have to do the job. While US and British operators mark targets for air support, the Afghans will advance towards enemy positions and clear the caves in the hopes of finding Bin Laden (or his body).</English>
+        <Spanish>CENTCOM nos ha dado la espalda y se ha negado a enviar más tropas estadounidenses para bloquear la vía de escape de Bin Laden. Por tanto, el resto de las fuerzas especiales sobre el terreno y sus «aliados» afganos tendrán que encargarse. Mientras los operadores estadounidenses y británicos marcan blancos para el apoyo aéreo, los afganos avanzarán hacia las posiciones enemigas y despejarán las cuevas con la esperanza de encontrar a Bin Laden (o su cuerpo).</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_Description_1M0">
+        <English>First and foremost, we need to find a high position that gives us a good view of the Tora Bora cave complex.</English>
+        <Spanish>Antes de nada, tenemos que encontrar una posición elevada que nos dé una buena vista del complejo de cuevas de Tora Bora.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_Title_1M0">
+        <English>Phase 1: Find a good observation position</English>
+        <Spanish>Fase 1: Encontrar una buena posición de observación</Spanish>
+        <Polish></Polish>
+		</Key>
+	  <Key ID="STR_TIOG_obj2_Description_1M0">
+        <English>Once we are in position, we will scout the mountains and identify enemy positions and strongholds, and possibly Bin Laden himself. Hint: There's a total of 6 positions you have to locate.</English>
+        <Spanish>Cuando estemos en posición, reconoceremos las montañas e identificaremos posiciones y bastiones enemigos, y posiblemente al propio Bin Laden. Consejo: tienes que localizar un total de 6 posiciones.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_Title_1M0">
+        <English>Phase 2: Identify enemy strongholds</English>
+        <Spanish>Fase 2: Identificar los bastiones enemigos</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_Description_1M0">
+        <English>Tomorrow morning, Afghan forces will advance through the valley and assault the mountains to capture Bin Laden while we order CAS on the positions identified.</English>
+        <Spanish>Mañana por la mañana, las fuerzas afganas avanzarán por el valle y asaltarán las montañas para capturar a Bin Laden mientras nosotros pedimos apoyo aéreo en las posiciones identificadas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_Title_1M0">
+        <English>Phase 3: Destroy enemy strongholds</English>
+        <Spanish>Fase 3: Destruir los bastiones enemigos</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_1_Description_1M0">
+        <English>An enemy-occupied cave has been identified. You'll have to destroy it in the morning.</English>
+        <Spanish>Se ha identificado una cueva ocupada por el enemigo. Tendrás que destruirla por la mañana.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj3_1_Title_1M0">
+        <English>Destroy the first cave</English>
+        <Spanish>Destruir la primera cueva</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_2_Title_1M0">
+        <English>Destroy the second cave</English>
+        <Spanish>Destruir la segunda cueva</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_3_Title_1M0">
+        <English>Destroy the third cave</English>
+        <Spanish>Destruir la tercera cueva</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_4_Title_1M0">
+        <English>Destroy the fourth cave</English>
+        <Spanish>Destruir la cuarta cueva</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_5_Title_1M0">
+        <English>Destroy the fifth cave</English>
+        <Spanish>Destruir la quinta cueva</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj3_6_Title_1M0">
+        <English>Destroy the sixth cave</English>
+        <Spanish>Destruir la sexta cueva</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj4_Description_1M0">
+        <English>The main objective of this operation is to kill or capture Osama bin Laden, the leader and founder of Al-Qaeda. We're hoping the Afghans capture him, but it certainly wouldn't be a shame if one of our bombs hits him...</English>
+        <Spanish>El objetivo principal de la operación es matar o capturar a Osama bin Laden, el líder y fundador de Al Qaeda. Esperamos que los afganos lo capturen, pero tampoco pasará nada si una de nuestras bombas lo alcanza...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj4_Title_1M0">
+        <English>Capture or kill Osama bin Laden</English>
+        <Spanish>Capturar o matar a Osama bin Laden</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj5_Description_1M0">
+        <English>An Al-Qaeda patrol has spotted us, but they've been dealt with accordingly. Search their bodies to see if we can find more intel on Bin Laden's whereabouts.</English>
+        <Spanish>Una patrulla de Al Qaeda nos ha avistado, pero nos hemos encargado de ellos. Registra sus cuerpos para ver si podemos encontrar más información sobre el paradero de Bin Laden.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj5_Title_1M0">
+        <English>Search the fighters</English>
+        <Spanish>Registrar a los combatientes</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj5_1_Description_1M0">
+        <English>One of the jihadists had a Russian radio and was probably communicating directly with the rest of the Al-Qaeda cells in the region. Take it and listen to their comms.</English>
+        <Spanish>Uno de los yihadistas tenía una radio rusa y probablemente se estaba comunicando directamente con el resto de las células de Al Qaeda en la región. Cógela y escucha sus comunicaciones.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj5_1_Title_1M0">
+        <English>Take the radio</English>
+        <Spanish>Coger la radio</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_MissionTitle_1M0">
+        <English>Jawbreaker</English>
+        <Spanish>Jawbreaker</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Intro_1M0">
+        <English>Prologue Mission Intro</English>
+        <Spanish>Misión de prólogo: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Outro_1M0">
+        <English>Prologue Mission Outro</English>
+        <Spanish>Misión de prólogo: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionDescription_1M0">
+        <English>On the hunt for Osama bin Laden, Delta Force, the British SBS and the Eastern Alliance scout the Tora Bora cave complex to destroy enemy positions and capture or kill the leader of Al-Qaeda.</English>
+        <Spanish>A la caza de Osama bin Laden, la Fuerza Delta, el SBS británico y la Alianza del Este exploran el complejo de cuevas de Tora Bora para destruir posiciones enemigas y capturar o matar al líder de Al Qaeda.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel1_1M0">
+        <English>SGM John 'Shrek' McPhee</English>
+        <Spanish>Sgto. John «Shrek» McPhee</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel2_1M0">
+        <English>A Squadron, 1st SFOD-D</English>
+        <Spanish>Escuadrón A, 1.er SFOD-D</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel3_1M0">
+        <English>Spin Ghar, Nangarhar</English>
+        <Spanish>Spin Ghar, Nangarjar</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel4_1M0">
+        <English>December 9, 2001 - 1658</English>
+        <Spanish>9 diciembre 2001 - 1658</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message1_1M0">
+        <English>Let's keep up the pace, gents! OBL ain't gonna capture himself!</English>
+        <Spanish>¡Mantengamos el ritmo, caballeros! ¡OBL no se va a capturar solo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message2_1M0">
+        <English>Let's go, Eagles! Get 'em!</English>
+        <Spanish>¡Vamos, Eagles! ¡A por ellos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message3_1M0">
+        <English>Here we are. Everybody, hit the floor. Shrek, binos out. See if you can pinpoint this son of a bitch.</English>
+        <Spanish>Ya hemos llegado. Todo el mundo al suelo. Shrek, prismáticos. A ver si puedes localizar a este hijo de perra.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message4_1M0">
+        <English>Got a cave here. Two guys outside.</English>
+        <Spanish>Veo una cueva. Dos tipos fuera.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message5_1M0">
+        <English>Roger.</English>
+        <Spanish>Recibido.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message6_1M0">
+        <English>A rudimentary cave. It looks empty.</English>
+        <Spanish>Una cueva rudimentaria. Parece vacía.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message7_1M0">
+        <English>AQ might be inside. We have to destroy it.</English>
+        <Spanish>AQ podría estar dentro. Tenemos que destruirla.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message8_1M0">
+        <English>A cave with... a chicken coop?</English>
+        <Spanish>Una cueva con... ¿un gallinero?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message9_1M0">
+        <English>That way they don't have to worry about food. Good find.</English>
+        <Spanish>Así no se tienen que preocupar por la comida. Bien visto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message10_1M0">
+        <English>A pretty advanced-looking cave against the mountain. Looks fancy.</English>
+        <Spanish>Una cueva de aspecto bastante avanzado en la montaña. Parece sofisticada.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message11_1M0">
+        <English>Bin Laden's money.</English>
+        <Spanish>El dinero de Bin Laden.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message12_1M0">
+        <English>Guys, I think we hit the jackpot. A pretty heavily guarded bunker. No sign of Osama anywhere, but it looks very suspicious.</English>
+        <Spanish>Chicos, creo que nos ha tocado el gordo. Un búnker bastante vigilado. No hay señales de Osama por ningún lado, pero parece muy sospechoso.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message13_1M0">
+        <English>Good find. Haji, that's where you'll be going.</English>
+        <Spanish>Bien visto. Haji, vosotros iréis allí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message16_1M0">
+        <English>A bunker with crates and sacks.</English>
+        <Spanish>Un búnker con cajas y sacos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message17_1M0">
+        <English>Copy.</English>
+        <Spanish>Vale.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message18_1M0">
+        <English>I think that's all of them, sir.</English>
+        <Spanish>Creo que eso es todo, señor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message19_1M0">
+        <English>Good job.</English>
+        <Spanish>Buen trabajo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message19_1_1M0">
+        <English>Jawbreaker, this is Jackal Actual. We have identified several AQ strongholds and could have a positive ID on OBL. How copy, over?</English>
+        <Spanish>Jawbreaker, aquí Jackal Jefe. Hemos identificado varios bastiones de AQ y podríamos tener identificación positiva de OBL. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message19_2_1M0">
+        <English>Solid copy, great job. You'll have air at your disposal tomorrow morning. Out.</English>
+        <Spanish>Recibido, bien hecho. Tendrán apoyo aéreo a su disposición mañana por la mañana. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message19_3_1M0">
+        <English>Let's rest up, folks.</English>
+        <Spanish>A descansar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message20_1M0">
+        <English>Major, we have to break fast. We must go down and prepare our dinner.</English>
+        <Spanish>Mayor, tenemos que romper nuestro ayuno. Debemos bajar y prepararnos la cena.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message21_1M0">
+        <English>Fuckin' Ramadan... Okay, but I want you here first thing in the morning tomorrow!</English>
+        <Spanish>Puto Ramadán... ¡Vale, pero os quiero aquí a primera hora de la mañana!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message22_1M0">
+        <English>Jackal, this is Jawbreaker. The F-15s, F-14s, F-18s and B-52s are ready for you. Pound those positions.</English>
+        <Spanish>Jackal, aquí Jawbreaker. Los F-15, F-14, F-18 y B-52 están listos para ustedes. Bombardeen esas posiciones.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message23_1M0">
+        <English>Moment of truth. Haji, get moving. Shrek, pulverize those caves. Here's hoping Bin Laden is in one of them.</English>
+        <Spanish>El momento de la verdad. Haji, en marcha. Shrek, pulveriza esas cuevas. Esperemos que Bin Laden esté en una de ellas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message24_1M0">
+        <English>Contact front, down the valley!</English>
+        <Spanish>¡Contacto al frente, en el valle!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message25_1M0">
+        <English>Get to cover and return fire!</English>
+        <Spanish>¡Poneos a cubierto y devolved los disparos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message26_1M0">
+        <English>All down.</English>
+        <Spanish>Han caído.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message27_1M0">
+        <English>Let's search these guys, they could have interesting intel. Shrek, over here!</English>
+        <Spanish>Vamos a registrar a estos, podrían tener información interesante. ¡Shrek, aquí!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message28_1M0">
+        <English>Hmm, this looks like a Russian radio...</English>
+        <Spanish>Mmm, esto parece una radio rusa...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message29_1M0">
+        <English>Take it. It's a direct access to their comms.</English>
+        <Spanish>Cógela. Es un acceso directo a sus comunicaciones.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message30_1M0">
+        <English>...Our prayers were not answered. Times are dire and bad. We did not get support from the apostate nations who call themselves our Muslim brothers.</English>
+        <Spanish>...Nuestras plegarias no han sido escuchadas. Corren malos tiempos. No hemos conseguido el apoyo de las naciones apóstatas que se hacen llamar nuestros hermanos musulmanes.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message31_1M0">
+        <English>I'm sorry for getting you involved in this battle. If you can no longer resist, you may surrender with my blessing. I'm going back to Pakistan. We'll meet again. Goodbye.</English>
+        <Spanish>Siento haberlos involucrado en esta batalla. Si no pueden resistir más, pueden rendirse con mi bendición. Vuelvo a Pakistán. Nos volveremos a ver. Adiós.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message32_1M0">
+        <English>That was Osama. I could recognize that voice anywhere.</English>
+        <Spanish>Ese era Osama. Podría reconocer esa voz donde sea.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message33_1M0">
+        <English>Fuck... We lost him.</English>
+        <Spanish>Joder... Lo hemos perdido.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message34_1M0">
+        <English>Haji, cancel the assault! Bin Laden is not there, I repeat, he's not there anymore!</English>
+        <Spanish>¡Haji, cancele el asalto! ¡Bin Laden no está ahí, repito, ya no está ahí!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message35_1M0">
+        <English>Delta Force wants to come in over the mountain with oxygen, coming from the Pakistan side, over the mountains and come in and get a drop on Bin Laden from behind.</English>
+        <Spanish>La Fuerza Delta quiere entrar por la montaña con oxígeno, desde el lado de Pakistán, por las montañas y pillar a Bin Laden desde atrás.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message36_1M0">
+        <English>We lay GATOR mines along the passages. First guy blows his leg off, everybody else stops. That allows aircraft overhead to find them. They see all these heat sources out there. They can engage that.</English>
+        <Spanish>Colocamos minas GATOR a lo largo de los pasos. El primero se revienta la pierna, todos los demás se paran. Los aviones los encuentran. Ven todas las fuentes de calor y las atacan.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message37_1M0">
+        <English>I'm afraid that is not going to be possible. CENTCOM is not willing to allocate any more assets to this operation. I requested a Ranger force to block the passages and they denied me that as well.</English>
+        <Spanish>Me temo que no va a poder ser. CENTCOM no está dispuesto a destinar más recursos a esta operación. Solicité una fuerza Ranger para bloquear los pasos y también me fue denegado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message38_1M0">
+        <English>Fuck. Then get me an Afghan militia platoon. Guess we'll have to do the job ourselves.</English>
+        <Spanish>Joder. Entonces, consígame un pelotón de la milicia afgana. Supongo que tendremos que encargarnos nosotros.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message39_1M0">
+        <English>This is the greatest day in the history of Afghanistan, Major.</English>
+        <Spanish>Este es el día más importante de la historia de Afganistán, mayor.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message40_1M0">
+        <English>Why is that?</English>
+        <Spanish>¿Y eso?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message41_1M0">
+        <English>Because Al-Qaeda is no more. I have managed to negotiate a ceasefire with them. In the next 12 hours, all their forces will drop their weapons and turn themselves in.</English>
+        <Spanish>Al Qaeda ha muerto. He conseguido negociar un alto el fuego con ellos. En las próximas 12 horas, todas sus fuerzas soltarán las armas y se entregarán.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message42_1M0">
+        <English>You sure about that, Haji? It sounds extremely suspicious...</English>
+        <Spanish>¿Está seguro, Haji? Suena muy sospechoso...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_SOFLAMhint_1M0">
+        <English>The SOFLAM is used to mark targets for air support. Press the left-mouse button to activate the laser, + or - to zoom in or out, and N to activate night or thermal vision (this will allow you to actually see the laser in use). To easily find enemy positions, look for light sources or smoke columns from their campfires.</English>
+        <Spanish>El SOFLAM se utiliza para marcar objetivos para el apoyo aéreo. Pulsa el botón izquierdo del ratón para activar el láser, + o - para hacer o quitar zoom, y N para activar la visión nocturna o térmica (esto te permitirá ver el láser en uso). Para encontrar fácilmente las posiciones enemigas, busca fuentes de luz o columnas de humo de sus hogueras.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_hint2_1M0">
+        <English>To call in air support, access your Supports menu (0-8-) and select the type of support you prefer. Be advised that the B-52 takes a minute and a half to be on station again, while the fighter planes take up to 30 seconds.</English>
+        <Spanish>Para pedir apoyo aéreo, accede a tu menú de Apoyos (0-8-) y selecciona el tipo de apoyo que quieras. Ten en cuenta que el B-52 tarda un minuto y medio en volver a estar operativo, mientras que los cazas tardan hasta 30 segundos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_hint3_1M0">
+        <English>To search the dead fighters, open their inventories and look for things that could help find Bin Laden.</English>
+        <Spanish>Para registrar a los combatientes muertos, abre sus inventarios y busca cosas que puedan ayudar a encontrar a Bin Laden.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_markerOsama_1M0">
+        <English>OBL?</English>
+        <Spanish>¿OBL?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_DeltaTL_dialogue_1M0">
+        <English>MAJ FURY</English>
+        <Spanish>MAY. FURY</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_DeltaTL_radio_1M0">
+        <English>Jackal (MAJ Fury)</English>
+        <Spanish>Jackal (May. Fury)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_DeltaPlayer_dialogue_1M0">
+        <English>SGM MCPHEE</English>
+        <Spanish>SGTO. MAY. MCPHEE</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_DeltaPlayer_radio_1M0">
+        <English>Jackal (SGM McPhee)</English>
+        <Spanish>Jackal (Sgto. May. McPhee)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_CIATL_dialogue_1M0">
+        <English>BERNTSEN</English>
+        <Spanish>BERNTSEN</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_CIATL_radio_1M0">
+        <English>Jawbreaker (Berntsen)</English>
+        <Spanish>Jawbreaker (Berntsen)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Caldwell_dialogue_1M0">
+        <English>SGM CALDWELL</English>
+        <Spanish>SGTO. MAY. CALDWELL</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_DeltaBirch_dialogue_1M0">
+        <English>SGM BIRCH</English>
+        <Spanish>SGTO. MAY. BIRCH</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_jackal_radio_1M0">
+        <English>Jackal</English>
+        <Spanish>Jackal</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_haji_dialogue_1M0">
+        <English>HAJI</English>
+        <Spanish>HAJI</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_haji_radio_1M0">
+        <English>Haji Ghamsharik</English>
+        <Spanish>Haji Ghamsharik</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_gbu_support_1M0">
+        <English>GBU-12 LGB</English>
+        <Spanish>Bomba GBU-12</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_f15_radio_1M0">
+        <English>Shocker 22</English>
+        <Spanish>Shocker 22</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_f14_radio_1M0">
+        <English>Diamond 12</English>
+        <Spanish>Diamond 12</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_f18_radio_1M0">
+        <English>Pride 35</English>
+        <Spanish>Pride 35</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_osama_radio_1M0">
+        <English>Osama bin Laden</English>
+        <Spanish>Osama bin Laden</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_f15_dialogue_1_1M0">
+        <English>, this is Jackal 4, I need a GBU on my lazed target! How copy, over?</English>
+        <Spanish>, aquí Jackal 4, necesito un GBU en mi objetivo marcado! ¿Me recibe?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_f15_dialogue_2_1M0">
+        <English>We see your laze, Jackal 4, Paveway incoming. ETA: 20 seconds. Out.</English>
+        <Spanish>Vemos el láser, Jackal 4, Paveway de camino. Tiempo estimado: 20 segundos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_f15_dialogue_3_1M0">
+        <English>Jackal 4, </English>
+        <Spanish>Jackal 4, </Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_f15_dialogue_3_2_1M0">
+        <English> is back on station and ready for tasking. Say where you want it, over.</English>
+        <Spanish> está a la espera de órdenes. Dígame dónde la quiere, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_b52_radio_1M0">
+        <English>Blade 14</English>
+        <Spanish>Blade 14</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_f15_support_marker_1M0">
+        <English>GBU-12 mark</English>
+        <Spanish>Marca de GBU-12</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_b52_dialogue_1_1M0">
+        <English>Blade 14, this is Jackal 4, requesting you bombard the area I'm marking with a SOFLAM. How copy, over?</English>
+        <Spanish>Blade 14, aquí Jackal 4, solicito que bombardee la zona que estoy marcando con el SOFLAM. ¿Me reciben? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_b52_dialogue_2_1M0">
+        <English>Roger Jackal 4, we see your mark. ETA: 40 seconds. Out.</English>
+        <Spanish>Recibido, Jackal 4, vemos la marca. Tiempo estimado: 40 segundos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_b52_dialogue_3_1M0">
+        <English>Jackal 4, carpet bombing complete. We have to return and get back into position. Hold tight.</English>
+        <Spanish>Jackal 4, bombardeo realizado. Tenemos que volver a posicionarnos. Espere.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_b52_dialogue_4_1M0">
+        <English>Jackal 4, Blade 14 is on station and ready to deliver more payload, over.</English>
+        <Spanish>Jackal 4, Blade 14 está a la espera y listo para soltar más bombas, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission_1M0">
+        <English>&lt;t size='1.5'&gt;T H E   N E X T   D A Y . . .&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;A L   D Í A   S I G U I E N T E . . .&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission2_1M0">
+        <English>&lt;t size='1.5'&gt;A   C A M P A I G N   B Y   M A N&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;U N A   C A M P A Ñ A   D E   M A N&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission3_1M0">
+        <English>&lt;t size='3' font='PuristaBold'&gt;THE ILLUSION OF GLORY&lt;br/&gt;</English>
+        <Spanish>&lt;t size='3' font='PuristaBold'&gt;LA IMPRESIÓN DE LA GLORIA&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission4_1M0">
+        <English>&lt;t size='1.5'&gt;It is December 2001. On September 11, the United States was struck by the worst terrorist attack in history, carried out by Al-Qaeda. Wishing to bring its leaders to justice, the US invaded Afghanistan to topple the Taliban regime, which was providing refuge to Al-Qaeda. By November, allied forces had taken the capital city of Kabul.&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Es diciembre de 2001. El 11 de septiembre, los Estados Unidos sufrieron el peor atentado terrorista de la historia, llevado a cabo por Al Qaeda. Deseando llevar ante la justicia a sus líderes, EE. UU. invadió Afganistán para derrocar el régimen talibán, que estaba refugiando a Al Qaeda. Para noviembre, las fuerzas aliadas habían tomado la capital, Kabul.&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission5_1M0">
+        <English>&lt;t size='1.5'&gt;However, capturing or killing Osama bin Laden, the founder and leader of Al-Qaeda, was still a top priority. The CIA had tracked his movements to the Tora Bora cave complex, just north of the Khyber Pass. It fell upon American, British and German special forces, supported by local Pashtun militias, to finish the job.&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Sin embargo, capturar o matar a Osama bin Laden, el fundador y líder de Al Qaeda, seguía siendo una prioridad. La CIA había rastreado sus movimientos al complejo de cuevas de Tora Bora, justo al norte del Paso Jáiber. Las fuerzas especiales estadounidenses, británicas y alemanas, apoyadas por las milicias pastunes locales, fueron las encargadas de terminar el trabajo.&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission6_1M0">
+        <English>&lt;t size='1.5'&gt;No jihadists surrendered. Tora Bora was over and Bin Laden and many Al-Qaeda fighters had escaped. However, most of them started amassing their forces alongside the Taliban in early 2002 in a different valley, just west of the Pakistani border...&lt;br/&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Ningún yihadista se rindió. Tora Bora había terminado y Bin Laden y muchos combatientes de Al Qaeda habían escapado. Sin embargo, la mayoría empezaron a aunar sus fuerzas junto a los talibanes a principios de 2002 en un valle distinto, justo al oeste de la frontera con Pakistán...&lt;br/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>

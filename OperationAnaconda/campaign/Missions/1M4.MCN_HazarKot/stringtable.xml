@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="OperationAnaconda">
+  <Package name="OperationAnaconda_1M4">
+    <Container name="STR_DN">
+	  <Key ID="STR_TIOG_BriefingCommand_Text_1M4">
+        <English>A. Signal:&lt;br/&gt; Mountain - MG HAGENBECK (CJTF Mountain CO)&lt;br/&gt; Rak 6 - COL WIERCISNKI (TF Rakkasan CO)&lt;br/&gt; Panther - LTC BLABER (TF Bowie CO)&lt;br/&gt; Raider 6 - LTC PREYSLER (2-187 CO)&lt;br/&gt; Charlie 2 Actual - CPT BALTAZAR (2-187 C Company CO)&lt;br/&gt; Charlie 21 - 2-187 C Company 1st Platoon&lt;br/&gt; Charlie 22 (your team) - 2-187 C Company 2nd Platoon&lt;br/&gt; Charlie 23 - 2-187 C Company 3rd Platoon&lt;br/&gt; Summit 11 - 1-87 C Company 1st Platoon&lt;br/&gt; Summit 12 - 1-87 C Company 2nd Platoon&lt;br/&gt; Hooker 6 - 7-101 CH-47 Chinooks&lt;br/&gt; Eagle 11 - 3-101 AH-64 Apaches</English>
+        <Spanish>A. Señal:&lt;br/&gt; Mountain: May. Gral. HAGENBECK (oficial del la CJTF Mountain)&lt;br/&gt; Rak 6: Cnel. WIERCINSKI (oficial de la TF Rakkasan)&lt;br/&gt; Panther: Tte. Cnel. BLABER (oficial de la TF Bowie)&lt;br/&gt; Raider 6: Tte. Cnel. PREYSLER (oficial del 2-187)&lt;br/&gt; Charlie 2 Jefe: Cap. BALTAZAR (oficial de la Compañía C del 2-187)&lt;br/&gt; Charlie 21: 1.er Pelotón de la Compañía C del 2-187&lt;br/&gt; Charlie 22 (tu equipo): 2.º Pelotón de la Compañía C del 2-187&lt;br/&gt; Charlie 23: 3.er Pelotón de la Compañía C del 2-187&lt;br/&gt; Summit 11: 1.er Pelotón de la Compañía C del 1-87&lt;br/&gt; Summit 12: 2.º Pelotón de la Compañía C del 1-87&lt;br/&gt; Hooker 6: CH-47 Chinooks del 7-101&lt;br/&gt; Eagle 11: AH-64 Apaches del 3-101</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSustainment_Text_1M4">
+        <English>1. Supply: Standard US Desert BDUs, Interceptor vests, PASGT helmets, standard issue US small arms including M4 carbines, Mossberg shotguns, M249 and M240 machine guns, and M24, M21 and M107 sniper rifles.&lt;br/&gt;2. Transportation: Task Force Rakkasan will be deployed near the blocking positions in 6 CH-47D Chinooks of the 101st Aviation Regiment.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: Rakkasan has 6x embedded medical sergeants, in the event of a mission failure due to substantial casualties, Rak 6 will authorize CASEVAC and insertion by 1-187.</English>
+        <Spanish>1. Suministros: Uniformes estándar de combate en camuflaje desierto, chalecos Interceptor, cascos PASGT, armas reglamentarias de EE. UU. como carabinas M4, escopetas Mossberg, ametralladoras M249 y M240, y fusiles de tirador M24, M21 y M107.&lt;br/&gt;2. Transporte: La Fuerza Operativa Rakkasan será desplegada cerca de las posiciones de bloqueo en 6 CH-47D Chinooks del 101.er Regimiento de Aviación.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Los Rakkasans tienen 6x sargentos médicos asignados. En caso de fracaso debido a una cantidad considerable de bajas, Rak 6 autorizará CASEVAC y la inserción del 1-187.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingExecution_Text_1M4">
+        <English>Task Force Rakkasan will land at 6 different LZs:&lt;br/&gt;&lt;br/&gt;&lt;marker name="markerHLZ1">HLZ 1&lt;/marker&gt;: Designated landing zone for LTC Chip Preysler (2-187 CO)'s TAC, CPT Franklin Baltazar (2-187 C Company CO) and his 2nd Platoon (led by SFC Anthony Koch). They will be tasked with clearing &lt;marker name="marker_0">this compound&lt;/marker&gt;, which was spotted by the reconnaissance teams before the operation and could be a potential enemy stronghold, and will then set up &lt;marker name="marker_33">BP Betty&lt;/marker&gt; high on the ridge.&lt;br/&gt;&lt;br/&gt;&lt;marker name="markerHLZ3">HLZ 3&lt;/marker&gt;: Designated landing zone for Baltazar's 1st Platoon. They will be tasked with establishing &lt;marker name="marker_32">BP Cindy&lt;/marker&gt;.&lt;br/&gt;&lt;br/&gt;&lt;marker name="markerHLZ4">HLZ 4&lt;/marker&gt;: Designated landing zone for Baltazar's 3rd Platoon (led by SFC Kelly Luman). They will be tasked with establishing &lt;marker name="marker_31">BP Diane&lt;/marker&gt;.&lt;br/&gt;&lt;br/&gt;&lt;marker name="markerHLZ5">HLZ 5&lt;/marker&gt;: Designated landing zone for CPT Roger Crombie (1-87 A Company CO)'s 1st Platoon and his scout sniper team. They will be tasked with establishing &lt;marker name="marker_29">BP Eve&lt;/marker&gt;.&lt;br/&gt;&lt;br/&gt;&lt;marker name="markerHLZ13a">HLZ 13a&lt;/marker&gt;: Designated landing zone for LTC Paul LaCamera (1-87 CO), CPT Nelson Kraft (1-87 C Company CO), and his 1st Platoon (led by 1LT Brad Maroyka). They will be tasked with establishing &lt;marker name="marker_57">BP Heather&lt;/marker&gt;.&lt;br/&gt;&lt;br/&gt;&lt;marker name="markerHLZ13">HLZ 13&lt;/marker&gt;: Designated landing zone for 1-87's S3, MAJ Jay Hall, the 2nd Platoon (led by 1LT Aaron O'Keefe), and the battalion's mortar team. They will be tasked with reinforcing HLZ 13a and establishing &lt;marker name="marker_57">BP Heather&lt;/marker&gt;, alongside the rest of the company.&lt;br/&gt;&lt;br/&gt;Meanwhile, COL Wiercinski (TF Rakkasan CO) and his TAC will oversee the operation from the air aboard their C2 Black Hawk, which will later deploy them &lt;marker name="markerRakTAC">here&lt;/marker&gt;, below Mako 31's position at &lt;marker name="marker_46">the Finger&lt;/marker&gt;. &lt;marker name="marker_34">BP Amy&lt;/marker&gt; will remain unmanned until 1/187 arrives at H+11 if everything goes according to plan.</English>
+        <Spanish>La Fuerza Operativa Rakkasan desembarcará en 6 ZA distintas:&lt;br/&gt;&lt;br/&gt;&lt;marker name="markerHLZ1">ZA 1&lt;/marker&gt;: Zona de aterrizaje designada para el TAC del Tte. Cnel. Chip Preysler (oficial del 2-187), el Cap. Franklin Baltazar (oficial de la Compañía C del 2-187) y su 2.º Pelotón (liderado por el Sgto. 1.º Anthony Koch). Se encargarán de despejar &lt;marker name="marker_0">este complejo&lt;/marker&gt;, avistado por los equipos de reconocimiento antes de la operación y que podría ser un posible bastión enemigo, y entonces pasarán a establecer la &lt;marker name="marker_33">PB Betty&lt;/marker&gt; en lo alto de la cordillera.&lt;br/&gt;&lt;br/&gt;&lt;marker name="markerHLZ3">ZA 3&lt;/marker&gt;: Zona de aterrizaje designada para el 1.er Pelotón de Baltazar. Se encargarán de establecer la &lt;marker name="marker_32">PB Cindy&lt;/marker&gt;.&lt;br/&gt;&lt;br/&gt;&lt;marker name="markerHLZ4">ZA 4&lt;/marker&gt;: Zona de aterrizaje designada para el 3.er Pelotón de Baltazar (liderado por el Sgto. 1.º Kelly Luman). Se encargarán de establecer la &lt;marker name="marker_31">PB Diane&lt;/marker&gt;.&lt;br/&gt;&lt;br/&gt;&lt;marker name="markerHLZ5">ZA 5&lt;/marker&gt;: Zona de aterrizaje designada para el 1.er Pelotón del Cap. Roger Crombie (oficial de la Compañía A del 1-87) y su equipo de francotiradores. Se encargarán de establecer la &lt;marker name="marker_29">PB Eve&lt;/marker&gt;.&lt;br/&gt;&lt;br/&gt;&lt;marker name="markerHLZ13a">ZA 13a&lt;/marker&gt;: Zona de aterrizaje designada para el Tte. Cnel. Paul LaCamera (oficial del 1-87), el Cap. Nelson Kraft (oficial de la Compañía C del 1-87), y su 1.er Pelotón (liderado por el Tte. Brad Maroyka). Se encargarán de establecer la &lt;marker name="marker_57">PB Heather&lt;/marker&gt;.&lt;br/&gt;&lt;br/&gt;&lt;marker name="markerHLZ13">ZA 13&lt;/marker&gt;: Zona de aterrizaje designada para el S3 del 1-87, el May. Jay Hall, el 2.º Pelotón (liderado por el Tte. Aaron O'Keefe), y el equipo de morteros del batallón. Se encargarán de reforzar la ZA 13a y de establecer la &lt;marker name="marker_57">PB Heather&lt;/marker&gt; junto al resto de la compañía.&lt;br/&gt;&lt;br/&gt;Mientras tanto, el Cnel. Wiercinski (oficial de la TF Rakkasan) y su TAC supervisarán la operación desde el aire en su Black Hawk, que luego los desplegará &lt;marker name="markerRakTAC">aquí&lt;/marker&gt;, justo debajo de la posición de Mako 31 en &lt;marker name="marker_46">el Dedo&lt;/marker&gt;. La &lt;marker name="marker_34">PB Amy&lt;/marker&gt; permanecerá sin personal hasta que llegue el 1-187 a H+11 si todo va según lo previsto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingMission_Text_1M4">
+        <English>Who: 2nd Platoon, C Company, 2nd Battalion, 187th Infantry Regiment, 101st Airborne Division, Task Force Rakkasan (TF Rakkasan)&lt;br/&gt;What: ESTABLISH blocking position Betty&lt;br/&gt;Where: In vicinity, Shah-i-Kot Valley&lt;br/&gt;When: 061500ZMAR02&lt;br/&gt;Why: Operation Anaconda</English>
+        <Spanish>Quién: 2.º Pelotón, Compañía C, 2.º Batallón, 187.º Regimiento de Infantería, 101.ª División Aerotransportada, Fuerza Operativa Rakkasan (TF Rakkasan)&lt;br/&gt;Qué: ESTABLECER la posición de bloqueo Betty&lt;br/&gt;Dónde: En las inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Cuándo: 061500ZMAR02&lt;br/&gt;Por qué: Operación Anaconda</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_BriefingSituation_Text_1M4">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: 500-1000 expected fighters&lt;br/&gt;Activity: Heavy movement, moderate radio chatter&lt;br/&gt;Location: Vicinity, Shah-i-Kot Valley&lt;br/&gt;Unit: Taliban and Al-Qaeda light infantry with anti-aircraft guns and mortars, supported by North Caucasian fighters&lt;br/&gt;Time Observed: February 28-29, 2002&lt;br/&gt;Equipment: Small arms, mortars, anti-aircraft guns&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To establish several blocking positions along the eastern ridge of the Shah-i-Kot Valley to block off any potential escape routes.&lt;br/&gt;2. Adjacent Units: LTC Preysler's TAC (callsign: Raider 6), 2-187 C Company 1st and 3rd Platoons (callsign: Charlie 21 and 23 respectively), 1-87 C Company 1st and 2nd Platoons (callsign: Summit 11 and 12 respectively).&lt;br/&gt;3. Supporting: Two AH-64A Apaches of the 101st Aviation Regiment will support TF Rakkasan during the operation. Artillery support will not be available for this mission. CASEVAC will be available for this mission at the request of Rak 6.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: 500-1000 combatientes esperados&lt;br/&gt;Actividad: Movimiento intenso, vibraciones de radio moderadas&lt;br/&gt;Ubicación: Inmediaciones, valle de Shah-i-Kot&lt;br/&gt;Unidades: Infantería ligera talibán y de Al Qaeda con cañones antiaéreos y morteros, apoyada por combatientes norcaucásicos&lt;br/&gt;Fecha de observación: 28-29 de febrero de 2002&lt;br/&gt;Equipo: armas ligeras, morteros, cañones antiaéreos&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Establecer varias posiciones de bloqueo a lo largo de la cresta oriental del valle de Shah-i-Kot para bloquear cualquier posible ruta de escape.&lt;br/&gt;2. Unidades adyacentes: TAC del Tte. Cnel. Preysler (indicativo: Raider 6), 1.er y 3.er Pelotón de la Compañía C del 2-187 (indicativos: Charlie 21 y 23 respectivamente), 1.er y 2.º Pelotón de la Compañía C del 1-87 (indicativos: Summit 11 y 12 respectivamente).&lt;br/&gt;3. Apoyo: Dos AH-64A Apaches del 101.er Regimiento de Aviación apoyarán a la TF Rakkasan durante la operación. No habrá apoyo de artillería para esta misión. La CASEVAC solo estará autorizada cuando la solicite Rak 6.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Briefing_Text_1M4">
+        <English>Task Force Rakkasan (2-187 and 1-87, with 1-187 as the QRF) will be inserted by several Chinooks in the Shah-i-Kot Valley. The 2nd Platoon, which will land at the same &lt;marker name="markerHLZ1">LZ&lt;/marker&gt; as LTC Preysler's TAC, will first clear &lt;marker name="marker_0">this compound&lt;/marker&gt;, which we suspect is an enemy stronghold, before eventually setting up &lt;marker name="marker_33">BP Betty&lt;/marker&gt; high on the ridge. The rest of the platoons will set up their respective BPs.</English>
+        <Spanish>La Fuerza Operativa Rakkasan (2-187 y 1-87, con el 1-187 como la FRR) será insertada por varios Chinooks en el valle de Shah-i-Kot. El 2.º Pelotón, que aterrizará en la misma &lt;marker name="markerHLZ1">ZA&lt;/marker&gt; que el TAC del Tte. Cnel. Preysler, despejará primero &lt;marker name="marker_0">este complejo&lt;/marker&gt;, que sospechamos que es un bastión enemigo, antes de establecer finalmente la &lt;marker name="marker_33">PB Betty&lt;/marker&gt; en lo alto de la cresta. El resto de los pelotones establecerán sus respectivas PB.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_Description_1M4">
+        <English>The reconnaissance teams have identified &lt;marker name="marker_0">this compound&lt;/marker&gt; as a potential enemy stronghold. Since it is right in the middle of the 2nd Platoon's route towards BP Betty, it falls upon them to clear it.</English>
+        <Spanish>Los equipos de reconocimiento han identificado &lt;marker name="marker_0">este complejo&lt;/marker&gt; como un posible bastión enemigo. Como está justo en medio de la ruta del 2.º Pelotón hacia la PB Betty, les corresponde a ellos despejarlo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_Title_1M4">
+        <English>Clear the compound</English>
+        <Spanish>Despejar el complejo</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj1_1_Description_1M4">
+        <English>The compound seems clear at first glance, but we can never be too sure. You have been tasked with checking the house itself.</English>
+        <Spanish>El complejo parece despejado a primera vista, pero nunca se puede estar seguro. Te han encargado revisar la casa en sí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj1_1_Title_1M4">
+        <English>Search the house</English>
+        <Spanish>Registrar la casa</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_obj2_Description_1M4">
+        <English>Our platoon has been tasked with establishing &lt;marker name="marker_33">BP Betty&lt;/marker&gt;, near Juliet's position. As soon as we disembark the Chinook and ensure it flies out safely, we should be on the move.</English>
+        <Spanish>Nuestro pelotón ha sido encargado de establecer la &lt;marker name="marker_33">PB Betty&lt;/marker&gt;, cerca de la posición de Juliet. Tan pronto como bajemos del Chinook y nos aseguremos de que salga volando sano y salvo, deberíamos ponernos en marcha.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_obj2_Title_1M4">
+        <English>Establish BP Betty</English>
+        <Spanish>Establecer la PB Betty</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_objCover_Description_1M4">
+        <English>The compound is clear, so Preysler and Baltazar can set up their TAC here. Cover them until they arrive.</English>
+        <Spanish>El complejo está despejado, así que Preysler y Baltazar pueden montar aquí su TAC. Cúbrelos hasta que lleguen.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_objCover_Title_1M4">
+        <English>Cover Preysler and Baltazar</English>
+        <Spanish>Cubrir a Preysler y Baltazar</Spanish>
+        <Polish></Polish>
+	  </Key>
+	  <Key ID="STR_TIOG_MissionTitle_1M4">
+        <English>Rakkasans</English>
+        <Spanish>Rakkasans</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Intro_1M4">
+        <English>Mission 4 Intro</English>
+        <Spanish>Misión 4: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionTitle_Outro_1M4">
+        <English>Mission 4 Outro</English>
+        <Spanish>Misión 4: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_MissionDescription_1M4">
+        <English>In the middle of TF Hammer's plight, the 101st Airborne and 10th Mountain Divisions are inserted by air in the Shah-i-Kot Valley, with the objective of establishing 6 blocking positions to prevent the enemy from escaping into nearby Pakistan.</English>
+        <Spanish>En medio de la difícil situación de la TF Hammer, la 101.ª División Aerotransportada y la 10.ª División de Montaña son insertadas en el valle de Shah-i-Kot, con el objetivo de establecer 6 posiciones de bloqueo para impedir que el enemigo escape hacia el cercano Pakistán.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_text_1M4">
+        <English>&lt;t color='#FFA500' size='3.5'&gt;CHAPTER IV - Rakkasans&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'No plan of operations reaches with any certainty beyond the first encounter with the enemy’s main force.'&lt;br/&gt;&lt;br/&gt;-HELMUTH VON MOLTKE&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#FFA500' size='3.5'&gt;CAPÍTULO IV: Rakkasans&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«Ningún plan de operaciones llega con certeza más allá del primer encuentro con la fuerza principal del enemigo».&lt;br/&gt;&lt;br/&gt;—HELMUTH VON MOLTKE&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel1_1M4">
+        <English>PFC Marcus Lopez</English>
+        <Spanish>Sdo. 1.º Marcus Lopez</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel2_1M4">
+        <English>2nd Bn., 187th Inf. Regt.</English>
+        <Spanish>2.º Bat., 187.º Reg. de Inf.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel3_1M4">
+        <English>Approaching Shah-i-Kot</English>
+        <Spanish>Rumbo a Shah-i-Kot</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intro_intel4_1M4">
+        <English>March 2, 2002 - 0615</English>
+        <Spanish>2 marzo 2002 - 0615</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message1_1M4">
+        <English>That does not sound good. Let's hope Hammer can pick themselves up and clear those towns.</English>
+        <Spanish>Eso no suena bien. Esperemos que Hammer pueda recuperarse y limpiar esos pueblos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message2_1M4">
+        <English>And if they can't, sir?</English>
+        <Spanish>¿Y si no pueden, señor?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message3_1M4">
+        <English>My best guess is that we'll have to do the clearing ourselves. And that's not desirable.</English>
+        <Spanish>Apuesto a que tendremos que limpiarlos nosotros. Y eso no nos conviene.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message3_2_1M4">
+        <English>Approaching objective, ETA: 2 minutes. Get set for landing.</English>
+        <Spanish>Nos acercamos al objetivo, tiempo estimado de llegada: 2 minutos. Prepárense para aterrizar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message4_1M4">
+        <English>Alright, I want everyone going prone and setting up a perimeter as soon as we touch down. Got it?</English>
+        <Spanish>Vale, quiero a todo el mundo cuerpo a tierra y formando un perímetro en cuanto aterricemos. ¿Entendido?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message5_1M4">
+        <English>Go, go! Spread out!</English>
+        <Spanish>¡Vamos, vamos! ¡Espárzanse!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message6_1M4">
+        <English>Clear!</English>
+        <Spanish>¡Despejado!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message7_1M4">
+        <English>Hooker, you're free to go!</English>
+        <Spanish>¡Hooker, tiene vía libre!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message8_1M4">
+        <English>Enemy on the ridgeline, they're firing at our choppers! Engage!</English>
+        <Spanish>¡Enemigos en la cresta, están disparando a nuestros helicópteros! ¡Fuego!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message9_1M4">
+        <English>I see the compound, but we're pinned down by that MG position behind it, on the ridge! Hold your position, I'll call in air!</English>
+        <Spanish>¡Veo el complejo, pero estamos inmovilizados por esa posición de ametralladora detrás de él, en la cresta! ¡Mantengan la posición, voy a pedir apoyo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message10_1M4">
+        <English>Charlie 2 Actual to Eagle 11, requesting air support on HLZ 1! We're pinned down by a machine gun emplacement behind the compound on the hill, over!</English>
+        <Spanish>¡Chalie 2 Jefe para Eagle 11, solicito apoyo aéreo en la ZA 1! ¡Estamos inmovilizados por un emplazamiento de ametralladora detrás del complejo en la colina, cambio!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message11_1M4">
+        <English>Roger that, engaging. Out.</English>
+        <Spanish>Recibido, atacamos. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message12_1M4">
+        <English>Target destroyed, Charlie. You're all clear. Out.</English>
+        <Spanish>Objetivo destruido, Charlie. Todo despejado. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message13_1M4">
+        <English>Right, I want my 2nd Platoon to move up to the compound and clear it. We'll provide suppressive fire and follow you! Go!</English>
+        <Spanish>Vale, quiero que mi 2.º Pelotón avance al complejo y lo despeje. ¡Proporcionaremos fuego de contención y los seguiremos! ¡Va!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message14_1M4">
+        <English>You heard the man folks, start working those legs!</English>
+        <Spanish>¡Ya lo han oído, muchachos, a mover esas piernas!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message15_1M4">
+        <English>Looks clear. Two thankfully unused mortar tubes. An RPG cache. Private Lopez, check inside the house.</English>
+        <Spanish>Parece despejado. Dos morteros sin usar, por suerte. Un alijo de RPG. Soldado Lopez, revise el interior de la casa.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message16_1M4">
+        <English>Roger that!</English>
+        <Spanish>¡Recibido!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message17_1M4">
+        <English>Hmm... A burning fire with a pot. They were here until just now.</English>
+        <Spanish>Mmm... Una hoguera encendida con una olla. Estaban aquí hace un momento.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message18_1M4">
+        <English>A bunch of walkie-talkies and a pair of American NVGs...</English>
+        <Spanish>Un puñado de walkie-talkies y un par de gafas de visión nocturna estadounidenses...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message19_1M4">
+        <English>A pile of money. Foreign bank notes.</English>
+        <Spanish>Un montón de dinero. Billetes extranjeros.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message20_1M4">
+        <English>Look at how many mats there are, this place was definitely lived in.</English>
+        <Spanish>Mira cuántas alfombras hay. Aquí vivía gente desde luego.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message18_1_1M4">
+        <English>All clear!</English>
+        <Spanish>¡Todo despejado!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message21_1M4">
+        <English>Raider 6, this is Charlie 22 Actual: be advised, the compound is clear. You can set up your TAC here, over.</English>
+        <Spanish>Raider 6: aquí Charlie 22 Jefe: atención, el complejo está despejado. Pueden montar aquí su TAC, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message22_1M4">
+        <English>Roger that, we're coming. Cover us, will ya? Out.</English>
+        <Spanish>Recibido, en camino. Cúbrannos, ¿quieren? Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message23_1M4">
+        <English>So, what do we got?</English>
+        <Spanish>¿Qué tenemos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message24_1M4">
+        <English>Ammo caches and whatnot. These guys left in a hurry, but I doubt they'll be back.</English>
+        <Spanish>Alijos de munición y eso. Se fueron a toda prisa, pero dudo que vuelvan.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message25_1M4">
+        <English>Okay, then we'll- Shit, RPG on the ridge! Enemy firing on the courtyard! Return fire!</English>
+        <Spanish>Vale, entonces... ¡Mierda, RPG en la cresta! ¡Enemigos disparando al patio! ¡Devuelvan el fuego!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message26_1M4">
+        <English>Raider 6 to Summit 12, we need mortar support on the ridge at BP Betty, we're taking fire! Over!</English>
+        <Spanish>¡Raider 6 para Summit 12, necesitamos apoyo de morteros en la cresta en la PB Betty, nos están disparando! ¡Cambio!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message27_1M4">
+        <English>No can do, Raider, we're stretched pretty thin over here. Out.</English>
+        <Spanish>Negativo, Raider, estamos muy apurados por aquí. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message28_1M4">
+        <English>Eagle 11, this is Raider 6, RPG threats on the ridge at BP Betty, requesting support, over!</English>
+        <Spanish>¡Eagle 11, aquí Raider 6, amenazas RPG en la cresta en la PB Betty, solicito apoyo, cambio!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message29_1M4">
+        <English>Roger that, they're ours. Out.</English>
+        <Spanish>Recibido, son nuestros. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message30_1M4">
+        <English>Okay, no, the courtyard is a no go. We'll set up on the eastern wall, behind cover from the ridge.</English>
+        <Spanish>Vale, no, el patio está descartado. Nos instalaremos en la pared del este, a cubierto de la cresta.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message31_1M4">
+        <English>Now go, 2nd Platoon, you've still got work to do!</English>
+        <Spanish>¡Corran, 2.º Pelotón, aún tienen cosas que hacer!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message32_1M4">
+        <English>Roger! My guys, we're marching onto Betty! Let's climb the mountain!</English>
+        <Spanish>¡Recibido! ¡Los míos, vamos a Betty! ¡Vamos a escalar la montaña!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message33_1M4">
+        <English>Charlie 21 to all units, BP Cindy has been established. No casualties. Over.</English>
+        <Spanish>Charlie 21 para todas las unidades: la PB Cindy ha sido establecida. Cero bajas. Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message34_1M4">
+        <English>Solid copy, Charlie 21, great job. Hunker down and expect more enemies, out.</English>
+        <Spanish>Recibido, Charlie 21, gran trabajo. Atrinchérense y esperen más enemigos, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message35_1M4">
+        <English>Charlie 23 to all units, we're at Diane. No casualties to account for, over.</English>
+        <Spanish>Charlie 23 para todas las unidades: estamos en Diane. Ninguna baja que contar, cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message36_1M4">
+        <English>Great job, Charlie 23. Hold your position and wait for the other teams to establish their respective BPs. Out.</English>
+        <Spanish>Bien hecho, Charlie 23. Mantengan la posición y esperen a que los demás equipos establezcan sus respectivas PB. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message37_1M4">
+        <English>Charlie 22 to all units: Betty is ours. We've got a clear line of sight on Shirak. Over.</English>
+        <Spanish>Charlie 22 para todas las unidades: Betty es nuestra. Tenemos una clara línea de tiro sobre Shirak. Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message38_1M4">
+        <English>Roger that, Charlie 22, well done. Hold your fire, the bombers will take care of it. Out.</English>
+        <Spanish>Recibido, Charlie 22, bien hecho. Alto el fuego, los bombarderos se encargarán. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message39_1M4">
+        <English>We have to pull back, Captain, I will not let my men die here today!</English>
+        <Spanish>¡Tenemos que retirarnos, capitán, no permitiré que mis hombres mueran aquí hoy!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message40_1M4">
+        <English>Agreed! Grab the trucks, we're pulling back to Hazar!</English>
+        <Spanish>¡Concuerdo! ¡Coja los camiones, nos retiramos a Hazar!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message41_1M4">
+        <English>Mountain, Texas 17: be advised, we are retreating to Hazar-Kedh. We've taken a beating at PL Emerald. How copy, over?</English>
+        <Spanish>Mountain, Texas 17: atención, nos retiramos a Hazar-Kedh. Nos han dado una paliza en la línea Emerald. ¿Me recibe? Cambio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message42_1M4">
+        <English>Solid copy, Texas. Get our boys somewhere safe. I'm sending you an F-15 to provide CAS. Out.</English>
+        <Spanish>Recibido, Texas. Pongan a los nuestros a salvo. Les envío un F-15 para que proporcione apoyo. Corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message43_1M4">
+        <English>Alright gentlemen, deploy the mortars! Let's give 'em a taste of their own medicine!</English>
+        <Spanish>¡Bien, caballeros, desplieguen los morteros! ¡Vamos a darles de su propia medicina!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message44_1M4">
+        <English>Gentlemen, you are about to embark in America's greatest operation since the Vietnam War.</English>
+        <Spanish>Caballeros, están a punto de embarcarse en la mayor operación de Estados Unidos desde la guerra de Vietnam.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message45_1M4">
+        <English>We do or die here. Our success will destroy the Taliban in Afghanistan and bring us one step closer to Bin Laden.</English>
+        <Spanish>Ganaremos o moriremos. Nuestro éxito destruirá a los talibanes en Afganistán y nos acercará a Bin Laden.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message46_1M4">
+        <English>Soldiers, you will be the smiting sword of your country. Seize and strike with decision.</English>
+        <Spanish>Soldados, serán la espada hiriente de su país. Conquisten y golpeen con decisión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message47_1M4">
+        <English>Pilots, you are vital to our assault too. Chinooks, you are the horses to our cavalry's knights.</English>
+        <Spanish>Pilotos, ustedes también son esenciales para nuestro asalto. Chinooks, son los caballos de nuestros caballeros.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message48_1M4">
+        <English>Apaches, you will make sure our forces don't falter. It will be on my word that we unleash hell.</English>
+        <Spanish>Apaches, se asegurarán de que nuestras fuerzas no decaigan. Será cuando yo lo diga que desataremos el infierno.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message49_1M4">
+        <English>Nuestro recuerdo, el recuerdo de nuestro pequeño ejército, de nuestro pequeño y feliz ejército, de nuestra banda de hermanos; porque quien vierta hoy su sangre...</English>
+        <Spanish>Vale, tenemos que cubrir mucho terreno esta mañana. ¿Entendéis los dos vuestros objetivos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message50_1M4">
+        <English>Conmigo será mi hermano; por muy vil que sea, esta jornada ennoblecerá su condición.</English>
+        <Spanish>Vale, tenemos que cubrir mucho terreno esta mañana. ¿Entendéis los dos vuestros objetivos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_message51_1M4">
+        <English>Fuerza y honor, caballeros.</English>
+        <Spanish>Vale, tenemos que cubrir mucho terreno esta mañana. ¿Entendéis los dos vuestros objetivos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_preysler_dialogue_1M4">
+        <English>LTC PREYSLER</English>
+        <Spanish>TTE. CNEL. PREYSLER</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_preysler_radio_1M4">
+        <English>Raider 6 (LTC Preysler)</English>
+        <Spanish>Raider 6 (Tte. Cnel. Preysler)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_charlie12_radio_1M4">
+        <English>Summit 12</English>
+        <Spanish>Summit 12</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_baltazar_dialogue_1M4">
+        <English>CPT BALTAZAR</English>
+        <Spanish>CAP. BALTAZAR</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_baltazar_radio_1M4">
+        <English>Charlie 2 Actual (CPT Baltazar)</English>
+        <Spanish>Charlie 2 Jefe (Cap. Baltazar)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_USSL_dialogue_1M4">
+        <English>SFC KOCH</English>
+        <Spanish>SGTO. 1.º KOCH</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_USSL_radio_1M4">
+        <English>Charlie 22 (SFC Koch)</English>
+        <Spanish>Charlie 22 (Sgto. 1.º Koch)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Platoon1NCO_radio_1M4">
+        <English>Charlie 21</English>
+        <Spanish>Charlie 21</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_Platoon3NCO_radio_1M4">
+        <English>Charlie 23 (SFC Luman)</English>
+        <Spanish>Charlie 23 (Sgto. 1.º Luman)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_USplayer_dialogue_1M4">
+        <English>PFC LOPEZ</English>
+        <Spanish>SDO. 1.º LOPEZ</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_chinook_dialogue_1M4">
+        <English>CHINOOK PILOT</English>
+        <Spanish>PILOTO DE CHINOOK</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_apache_radio_1M4">
+        <English>Eagle 11</English>
+        <Spanish>Eagle 11</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_intermission_1M4">
+        <English>&lt;t size='1.5'&gt;M A R C H   1 ,   2 0 0 2&lt;br/&gt;&lt;br/&gt;D-DAY -1&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;1   D E   M A R Z O   D E   2 0 0 2&lt;br/&gt;&lt;br/&gt;DÍA D -1&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_end1_subtitle_1M4">
+        <English>BPs established</English>
+        <Spanish>Posiciones de bloqueo establecidas</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_TIOG_end1_description_1M4">
+        <English>Despite heavy resistance, most of TF Rakkasan has managed to establish their respective BPs on the eastern side of the valley. However, TF Hammer is still pinned down and the 10th Mountain at BP Heather is apparently taking heavy fire.</English>
+        <Spanish>A pesar de la fuerte resistencia, la mayor parte de la TF Rakkasan ha logrado establecer sus respectivas PB en el lado este del valle. Sin embargo, la TF Hammer sigue inmovilizada y la 10.ª de Montaña en la PB Heather parece estar recibiendo fuego intenso.</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>
