@@ -5,127 +5,127 @@
 	<Key ID="STR_LOK_FieldManual">
         <English>Enduring Freedom: Field Manual</English>
         <Spanish>Libertad Duradera: Manual de campo</Spanish>
-        <Polish></Polish>
+        <Polish>Enduring Freedom: Instrukcja polowa</Polish>
       </Key>
 	  <Key ID="STR_LOK_FieldManual_Vanilla">
         <English>Field Manual</English>
         <Spanish>Manual de campo</Spanish>
-        <Polish></Polish>
+        <Polish>Instrukcja polowa</Polish>
       </Key>
       <Key ID="STR_LOK_FM_Vehicles">
         <English>Vehicles</English>
         <Spanish>Vehículos</Spanish>
-        <Polish></Polish>
+        <Polish>Pojazdy</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Weapons">
         <English>Weapons</English>
         <Spanish>Armas</Spanish>
-        <Polish></Polish>
+        <Polish>Uzbrojenie</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Factions">
         <English>Factions</English>
         <Spanish>Facciones</Spanish>
-        <Polish></Polish>
+        <Polish>Frakcje</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Canadians">
         <English>Canadian Army</English>
         <Spanish>Ejército canadiense</Spanish>
-        <Polish></Polish>
+        <Polish>Siły Zbrojne Kanady</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Canadians_Description">
         <English>As part of ISAF, %3Canada%4 has been the %3largest contributor%4 of ground troops to Afghanistan during the earlier years of the war. Canadian involvement in %3Operation Enduring Freedom%4 has been steady and constant since October 2001, when the first contingent of JTF 2 operators arrived secretly in the country, but regular troops started arriving in January-February 2002. They have participated in most ISAF-led operations in the country, like %3Anaconda%4, %3Archer%4 or %3Athena%4. The 3 PPCLI distinguished itself in 2002's %3Operation Anaconda%4, when two snipers broke the record for longest sniper shot twice, and fighting its first land battle since the Korean War. By 2006, the Canadian military is the main contingent in southern Afghanistan, with Brigadier General %3David Fraser%4 taking over command of Regional Command South. When Canadian forces returned to Kandahar, the Taliban began a major offensive, and when the%3 1st Batallion, Royal Canadian Regiment%4 relieved Princess Patricia's Canadian Light Infantry, they launched %3Operation Medusa%4, which was the largest NATO ground battle to date. As of December 2006, Leopard C2 tanks from Lord Strathcona's Horse have been committed to a new Canadian-led operation in the region, %3Falcon Summit%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_CanadianArmy_FM.paa'/&gt;</English>
         <Spanish>Como parte de la ISAF, %3Canadá%4 ha sido la nación que %3más tropas ha contribuido%4 al esfuerzo de Afganistán durante los primeros años de guerra. La participación canadiense en la %3Operación Libertad Duradera%4 ha sido constante desde octubre de 2001, cuando llegó al país el primer contingente de operadores del JTF 2 bajo cuerda, pero las tropas regulares empezaron a llegar en enero-febrero de 2002. Han participado en la mayoría de las operaciones de la ISAF en el país, como %3Anaconda%4, %3Archer%4 o %3Athena%4. El 3 PPCLI destacó en la %3Operación Anaconda%4 de 2002, cuando dos francotiradores batieron el récord de disparo de francotirador más largo dos veces y librando su primera batalla terrestre desde la guerra de Corea. En 2006, el Ejército canadiense es el mayor contingente en el sur de Afganistán; es más, el general de brigada %3David Fraser%4 asumió el mando del Mando Regional del Sur. Cuando las fuerzas canadienses regresaron a Kandahar, los talibanes emprendieron una gran ofensiva, y cuando el%3 1.er Batallón del Real Regimiento Canadiense%4 sustituyó al Princess Patricia's Canadian Light Infantry, iniciaron la %3Operación Medusa%4, la mayor batalla terrestre que jamás ha librado la OTAN. A fecha de diciembre de 2006, los tanques Leopard C2 del Lord Strathcona's Horse se han consagrado a una nueva operación canadiense en la región, %3Cumbre de Halcón%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_CanadianArmy_FM.paa'/&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>Jako część ISAF, %3Kanada%4 miała %3największy wkład%4 w działalność sił lądowych we wczesnych latach wojny w Afganistanie. Kanadyjskie zaangażowanie w %3Operację Enduring Freedom%4 było niezmienne od października 2001 roku, kiedy pierwszy kontyngent operatorów JTF 2 w sekrecie dotarł do kraju, a regularne siły zaczęły docierać między styczniem a lutym 2002 r. Kanadyjczycy brali udział w większości operacji prowadzonych przez ISAF w kraju, takie jak %3Anakonda%4, %3Łucznik%4 czy %3Atena%4. 3. Pułk Kanadyskiej Lekkiej Piechoty Księżniczki Patricii odznaczył się wkładem w %3Operację Anakonda%4 w roku 2002, kiedy dwóch snajperów pobiło rekordy najdłuższych oddanych strzałów, oraz gdy wzięli udział w pierwszej bitwie lądowej od czasu wojny w Korei. Do 2006 roku wojsko kanadyjskie stanowiło główny kontyngent w południowym Afganistanie, z gen. bryg. %3Davidem Fraserem%4 jako dowódcą Regionalnego Dowództwa Południe. Gdy wrócili do Kandaharu, Talibowie rozpoczęli gigantyczną ofensywę, a żołnierze %31. Batalionu Królewskiego Pułku Kanadyjskiego%4 wyciągnęli z opresji siły Kanadyjskiej Lekkiej Piechoty podczas %3Operacji Meduza%4, która była wtedy największą operacją zbrojną NATO. W grudniu 2006 roku, czołgi Leopard C2 z Regimentu Lorda Strathcona wzięły udział w nowej, kanadyjskiej operacji w regionie, o kryptonimie %3Sokół%4..&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_CanadianArmy_FM.paa'/&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_ANA">
         <English>Afghan National Army</English>
         <Spanish>Ejército Nacional Afgano</Spanish>
-        <Polish></Polish>
+        <Polish>Narodowa Armia Afganistanu</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_ANA_short">
         <English>ANA</English>
         <Spanish>ENA</Spanish>
-        <Polish></Polish>
+        <Polish>NAA</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_ANA_Description">
         <English>The %3Afghan National Army%4 was born in December 2001, when the Taliban were deposed and the %3Karzai administration%4 was formed. Initially trained by the British and then by the American 3rd SFG, the ANA evolved from a meager paramilitary force to a decent army. Their first major combat operation was the US-led %3Operation Warrior Sweep%4 in 2003, and since then, Afghan %3'kandaks'%4 (battalions) have accompanied their ISAF allies in almost every mission. Although their equipment was composed of outdated Soviet relics at first, the United States made sure to provide more than enough modern military equipment to the ANA. By 2006, the ANA is in the middle of that %3modernisation%4 process.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_ANA_FM.paa'/&gt;</English>
         <Spanish>El %3Ejército Nacional Afgano%4 nació en diciembre de 2001, cuando los talibanes fueron depuestos y se constituyó la %3administración de Karzai%4. Instruidos al principio por los británicos y luego por el 3.er SFG estadounidense, el ENA pasó de ser una triste fuerza paramilitar a ser un ejército decente. Su primera gran operación en combate fue la %3Operación Warrior Sweep%4 estadounidense de 2003, y desde entonces, los %3«kandaks»%4 (batallones) han acompañado a sus aliados de la ISAF en casi todas sus misiones. Aunque su equipo estaba principalmente conformado por reliquias soviéticas en sus comienzos, los Estados Unidos se aseguraron de proporcionarle equipo militar moderno de sobra al ENA. En 2006, el ENA se encuentra en pleno proceso de %3modernización%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_ANA_FM.paa'/&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>%3Narodowa Armia Afganistanu%4 powołana została w grudniu 2001 roku, kiedy zdetronizowano Taliban i powołano %3rząd Karzaja%4. Początkowo trenowani przez Brytyjczyków, a później przez Amerykanów z 3. Grupy Sił Specjalnych, żołnierze NAA ewoluowali z drobnej siły paramilitarnej do całkiem dobrze wyszkolonej armii. Ich pierwszą, wielką operacją wojskową była amerykańska %3Operacja Warrior Sweep%4 w 2003 roku, a od tego czasu afgańskie %3"kandaki"%4 (bataliony) towarzyszyły sojusznikom z ISAF w prawie każdej misji. W 2006 roku NAA była w trakcje procesu %3modernizacji%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_ANA_FM.paa'/&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_EasternAlliance">
         <English>Eastern Alliance</English>
         <Spanish>Alianza del Este</Spanish>
-        <Polish></Polish>
+        <Polish>Sojusz Wschodni</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_EasternAlliance_Description">
         <English>During the very early stages of the War in Afghanistan, %3Afghan militias%4 were crucial to the success of the initial operations. The most well-known alliance was the Northern Alliance, but the importance of the %3Eastern Alliance%4 (or %3Eastern Shura%4) cannot be overstated. This alliance was formed in late 2001 by %3regional%4 and %3tribal%4 leaders of %3various ethnic groups%4 (Tajiks, Pashtuns...) from the Afghan provinces of Khost and Nangarhar to oust the Taliban from their homes. With support from the US and its allies, and plenty of %3armoured vehicles%4, the Eastern Alliance played an important role in %3Operation Anaconda%4 in 2002, forming the main assault force and clearing the Shah-i-Kot valley floor.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_EasternAlliance_FM.paa'/&gt;</English>
         <Spanish>Durante las primeras fases de la guerra de Afganistán, las %3milicias afganas%4 fueron cruciales para el éxito de las operaciones iniciales. La alianza más conocida fue la Alianza del Norte, pero no se puede exagerar la importancia de la %3Alianza del Este%4 (o %3Shura del Este%4). Esta alianza fue formada a finales de 2001 por líderes %3regionales%4 y %3tribales%4 de %3diversos grupos étnicos%4 (tayikos, pastunes...) de las provincias afganas de Jost y Nangarjar para expulsar a los talibanes de sus hogares. Con apoyo de los EE. UU. y sus aliados y muchos %3vehículos blindados%4, la Alianza del Este desempeñó un papel importante en la %3Operación Anaconda%4 en 2002, formando la principal fuerza de asalto y despejando el fondo del valle de Shah-i-Kot.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_EasternAlliance_FM.paa'/&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>W trakcie wczesnej fazy wojny w Afganistanie, %3afgańska milicja%4 miała ogromne znaczenie w początkowych operacjach. Najbardziej znanym sojuszem był Sojusz Północny, ale nie należy pomijać wagi %3Sojuszu Wschodniego%4 (zwanego też %3Wschodnią Shurą%4). To przymierze związali w 2001 %3przywódcy plemienni i regionalni%4 (Tadżykowie, Pasztuni itd.) z afgańskich prowincji Khost i Nangarhar, by przegnać Taliban z ich domów. Przy pomocy Stanów Zjednoczonych i Koalicji, a także mnóstwa %3pojazdów opancerzonych%4, Sojusz Wschodni odegrał ważną rolę podczas %3Operacji Anakonda%4 w 2002 roku tworząc główną siłę natarcia i oczyszczając dolinę Shah-i-Kot.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_EasternAlliance_FM.paa'/&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_ANP">
         <English>Afghan National Police</English>
         <Spanish>Policía Nacional Afgana</Spanish>
-        <Polish></Polish>
+        <Polish>Narodowa Policja Afganistanu</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_ANP_short">
         <English>ANP</English>
         <Spanish>PNA</Spanish>
-        <Polish></Polish>
+        <Polish>NPA</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_ANP_Description">
         <English>The %3Afghan National Police%4 has been in complete %3disarray%4 since the Taliban fell in 2001. The power vacuum was filled by local warlords and armed militias, and although around 35,000 units were trained in 2003 and 2004, it was not enough. In 2006, a major %3reorganisation%4 and restructuring of the force took place, and although progress was made, it would take a while for it to show. Nevertheless, that didn't clean up the image of a police force that, although is present in every region of the country and tries to do its job, is marred by %3corruption%4 and %3criminal%4 scandals.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_ANP_FM.paa'/&gt;</English>
         <Spanish>La %3Policía Nacional Afgana%4 lleva hecha un desastre desde que cayeron los talibanes en 2001. El vacío del poder fue suplido por señores de la guerra locales y milicias armadas y, aunque se instruyó a unas 35 000 unidades en 2003 y 2004, no fue suficiente. En 2006, se produjo una gran %3reorganización%4 y reestructuración de la fuerza, y aunque se realizaron avances, tardarían un tiempo en demostrarse. No obstante, eso no limpió la reputación de una fuerza policial que, aunque está presente en todas las regiones del país e intenta hacer lo que puede, está asolada por escándalos de %3corrupción%4 y %3criminales%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_ANP_FM.paa'/&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>%3Narodowa Policja Afganistanu%4 była w kompletnym %3nieładzie%4 od czasu upadku Talibanu w 2001 roku. Pustkę wypełnili lokalni watażkowie i uzbrojeni partyzanci, i choć w 2003 ora 2004 roku wyszkolono ponad 35.000 policjantów, to było za mało. W 2006 roku siły przeszły %3reorganizację%4 i restrukturyzację, ale efekty wymagały czasu nawet pomimo szybkich postępów. Proces ten nie oczyścił policji z zarzutów, że choć znajduje się w każdym zakątku kraju i próbuje wykonywać swoją pracę, to jest pełna %3korupcji%4 i %3kryminalnych skandali%4.</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_JTF">
         <English>Canadian Special Operations Forces Command</English>
         <Spanish>Mando de Fuerzas de Operaciones Especiales Canadiense</Spanish>
-        <Polish></Polish>
+        <Polish>Kanadyjskie Dowództwo Operacji Sił Specjalnych</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_JTF_short">
         <English>CANSOFCOM</English>
         <Spanish>CANSOFCOM</Spanish>
-        <Polish></Polish>
+        <Polish>CANSOFCOM</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_JTF_Description">
         <English>%3CANSOFCOM%4 is the unified command responsible for all special operations forces of the Canadian Armed Forces. Its missions include counterterrorism, special reconnaissance, direct action, and training and advisory roles. It oversees, among others, two main special operations units. %3Joint Task Force 2%4 is as clandestine as they come. Little is known about their operations in Afghanistan; in fact, their first operation in December 2001 was unknown to the Canadian public and, even more, to the Prime Minister. It is acknowledged that they collaborated with special operations units from other countries like the US, Norway and Germany in 2002, and they took part in Operation Anaconda that same year. Apart from that, it's anyone's guess. They could be here, they could be there, who knows? However, it is believed that by 2006 they are operating heavily in the southern regions of Afghanistan, targeting the Taliban leadership. But even less is known about the %3Canadian Special Operations Regiment%4 (CSOR), a brand new special operations unit founded in August 2006. They are in Afghanistan, but that's as far as the story goes.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_JTF_FM.paa'/&gt;</English>
         <Spanish>El %3CANSOFCOM%4 es el mando unificado responsable de todas las fuerzas de operaciones especiales de las Fuerzas Armadas canadienses. Entre sus misiones se incluyen el antiterrorismo, reconocimiento especial, acción directa, y roles de instrucción y asesoría. Supervisa, entre otras, dos unidades de operaciones especiales. La %3Joint Task Force 2%4 no puede ser más clandestina. Poco se sabe de sus operaciones en Afganistán; de hecho, el pueblo canadiense no supo de su primera operación en diciembre de 2001, y peor aún, ni siquiera el primer ministro tenía idea. Se afirma que colaboraron con unidades de operaciones especiales de otros países como Estados Unidos, Noruega y Alemania en 2002 y que participaron en la Operación Anaconda ese mismo año. Aparte de eso, a saber. Podrían estar aquí, podrían estar allí, ¿quién sabe? Sin embargo, se cree que en 2006 están interviniendo bastante en las regiones meridionales de Afganistán, con el punto de mira en la cúpula talibán. Pero se sabe menos aun del %3Regimiento de Operaciones Especiales Canadiense%4 (CSOR), una unidad de operaciones especiales recién creada en agosto de 2006. Están en Afganistán, pero ahí queda la cosa.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_JTF_FM.paa'/&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>%3CANSOFCOM%4 to zunifikowany organ dowódczy odpowiedzialny za wszystkie siły specjalne Kanadyskich Sił Zbrojnych. Do jego zadań wliczają się działania kontrterrorystyczne, rozpoznanie, działania bezpośrednie oraz szkolenie i doradztwo. Spośród wszystkich jednostek, ma on pieczę nad dwiema głównymi jednostkami sił specjalnych. %3Joint Task Force 2%4 jest jedną z tych tajniejszch. Niewiele wiadomo o ich operacjach w Afganistanie - po prawdzie, to o ich pierwszej operacji w grudniu 2001 nie wiedzieli ani kanadyjska opinia publiczna, ani sam premier. Uważa się, że współpracowali z jednostkami sił specjalnych innych krajów, takichh jak USA, Norwegia i Niemcy w 2002 roku, a także, że brali udział w Operacji Anakonda w tym samym roku. Poza tym, wszystko inne to domysły. Mogliby być tu, mogliby być tam, kto może to wiedzieć? Pogłoski niosą, że w 2006 roku operowali w południowych regionach Afganistanu polując na dowództwo Talibanu. Jednak jeszcze mniej wiadomo o %3Kanadyjskim Regimencie Operacji Specjalnych%4 (CSOR), nowoczesnej jednostce sił specjalnych powołanej w sierpniu 2006 r. Oni także znajdowali się w Afganistanie, i tylko tyle wiadomo.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_JTF_FM.paa'/&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_USArmy">
         <English>US Army</English>
         <Spanish>Ejército de los EE. UU.</Spanish>
-        <Polish></Polish>
+        <Polish>Armia Stanów Zjednoczonych</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_USArmy_Description">
         <English>Despite being the largest military in the world by 2006, the %3United States%4 military's presence in Afghanistan is limited, with most of their units involved in heavy fighting in Iraq. Initially, the US Army played a major role in the initial invasion and subsequent occupation of Afghanistan, fighting its most intense battles since Vietnam against the Taliban and Al-Qaeda in %3Operation Anaconda%4 in 2002. However, afterwards, the United States adopted a posture of reconstruction and nation-building more than active fighting. Down in Kandahar, the %3Army%4 has some National Guard units, the 10th Mountain Division and some helicopters, but almost no armoured vehicles whatsoever.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USArmy_FM.paa'/&gt;</English>
         <Spanish>Pese a ser el mayor ejército del mundo en 2006, la presencia militar de %3Estados Unidos%4 en Afganistán es limitada, puesto que la mayoría de sus unidades están librando cruentos combates en Irak. Al principio, el Ejército de los EE. UU. desempeñó un papel fundamental en la invasión inicial y posterior ocupación de Afganistán, librando sus batallas más intensas desde Vietnam contra los talibanes y Al Qaeda en la %3Operación Anaconda%4 de 2002. Sin embargo, más tarde, los Estados Unidos adoptaron una postura de reconstrucción y desarrollo nacional más que de lucha activa. En Kandahar, el %3Ejército%4 tiene algunas unidades de la Guardia Nacional, la 10.ª División de Montaña y algunos helicópteros, pero casi ningún vehículo blindado.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USArmy_FM.paa'/&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>Pomimo bycia największą armią na świecie w 2006 roku, obecność wojskowa %3Stanów Zjednoczonych%4 w Afganistanie była ograniczona, a większośćz jednostek brała udział w ciężkich walkach w Iraku. Początkowo, US Army odgrywała główną rolę w inwazji i następnie okupacji Afganistanu, walczyła w najintensywniejszych bitwach - od czasu Wietnamu - przeciwko Talibanowi i Al-Kaidzie w %3Operacji Anakonda%4 w 2002 r. Jednakże po czasie, Stany Zjednoczone postawiły na rekonstrukcję i odbudowę arabskiego narodu, zamiast na aktywną walkę z jego ciemiężycielami. W Kandaharze garnizonowane były jednostki Gwardii Narodowej, 10. Dywizja Górska i parę helikopterów, ale prawie żadnych pojazdów opancerzonych.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USArmy_FM.paa'/&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_USAF">
         <English>US Air Force</English>
         <Spanish>Fuerza Aérea de los EE. UU.</Spanish>
-        <Polish></Polish>
+        <Polish>Siły Powietrzne Stanów Zjednoczonych</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_USAF_short">
         <English>USAF</English>
         <Spanish>USAF</Spanish>
-        <Polish></Polish>
+        <Polish>USAF</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_USAF_Description">
         <English>The %3United States Air Force%4 has played a significant role in Afghanistan since the initial invasion in 2001. With %3fighters, bombers, drones and gunships%4, the Air Force has been constantly pounding the Taliban and Al-Qaeda into submission, especially during operations such as %3Anaconda%4 in 2002. Additionally, their %3Special Operations Command%4 has also been incredibly helpful to the US Army and its allies. Air Force %3pararescue jumpers%4 have saved lives on more than one ocassion, and attached %3combat controllers%4 and %3joint terminal attack controllers%4 have made sure to effectively direct close air support.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USAF_FM.paa'/&gt;</English>
         <Spanish>La %3Fuerza Aérea de los Estados Unidos%4 ha desempeñado un papel fundamental en Afganistán desde la invasión inicial de 2001. Con %3cazas, bombarderos, drones y aviones artillados%4, la Fuerza Aérea ha estado bombardeando constantemente a los talibanes y a Al Qaeda, sobre todo en operaciones como %3Anaconda%4 en 2002. Además, su %3Mando de Operaciones Especiales%4 también ha ayudado enormemente al Ejército de EE. UU. y sus aliados. Los %3pararrescatadores%4 de la Fuerza Aérea han salvado vidas en más de una ocasión, y los %3controladores de combate%4 y %3controladores de ataque terminal conjuntos%4 asignados se han encargado de dirigir el apoyo aéreo cercano de forma efectiva.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USAF_FM.paa'/&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>%3Siły Powietrzne Stanów Zjednoczonych%4 odgrywały ważną rolę w Afganistanie od czasu inwazji w 2001 roku. Przy użyciu %3myśliwców bojowych, bombowców, dronów i samolotów wsparcia ogniowego%4 Siły Powietrzne raz za razem zmuszały Talibów i Al-Kaidę do odwrotu lub poddania się, w szczególności podczas operacji takich, jak %3Anakonda%4 w 2002 roku. Dodatkowo ich %3Dowództwo Operacji Specjalnych%4 było bardzo pomocne wobec US Army i Koalicji. %3Spadochroniarze%4 Sił Powietrznych ratowali życia więcej niż raz, a ich %3kontrolerzy walki%4 i %3nawigatorzy naprowadzania lotnictwa%4 zapewniali efektywne i bezpośrednie wsparcie z powietrza.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USAF_FM.paa'/&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_USN">
         <English>US Navy</English>
         <Spanish>Armada de los EE. UU.</Spanish>
-        <Polish></Polish>
+        <Polish>Marynarka Sił Zbrojnych USA</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_USN_short">
         <English>USN</English>
         <Spanish>USN</Spanish>
-        <Polish></Polish>
+        <Polish>USN</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_USN_Description">
         <English>Even though Afghanistan is a %3landlocked%4 country, the %3United States Navy%4 has played a critical role in Operation Enduring Freedom. Their %3ships%4 have patrolled the vast expanse of the Arabian Sea and the Persian Gulf, preventing the infiltration of terrorists and weapons into Afghanistan, and also launching Tomahawk cruise missiles into the mainland. Their %3carriers%4 have allowed Navy fighters, such as the %3F-A/18%4 and the %3F-14%4, to provide surgical close air support to ground forces. Besides, their %3special operations units%4, most notably the %3Navy SEALs%4, have been involved in a plethora of special reconnaissance missions.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USN_FM.paa'/&gt;</English>
