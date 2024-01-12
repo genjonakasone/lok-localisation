@@ -130,162 +130,162 @@
 	  <Key ID="STR_LOK_FM_USN_Description">
         <English>Even though Afghanistan is a %3landlocked%4 country, the %3United States Navy%4 has played a critical role in Operation Enduring Freedom. Their %3ships%4 have patrolled the vast expanse of the Arabian Sea and the Persian Gulf, preventing the infiltration of terrorists and weapons into Afghanistan, and also launching Tomahawk cruise missiles into the mainland. Their %3carriers%4 have allowed Navy fighters, such as the %3F-A/18%4 and the %3F-14%4, to provide surgical close air support to ground forces. Besides, their %3special operations units%4, most notably the %3Navy SEALs%4, have been involved in a plethora of special reconnaissance missions.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USN_FM.paa'/&gt;</English>
         <Spanish>Aunque Afganistán es un país %3sin litoral%4, la %3Armada de los Estados Unidos%4 ha desempeñado un papel esencial en la Operación Libertad Duradera. Sus %3buques%4 han patrullado la inmensidad del mar Arábigo y el golfo Pérsico, impidiendo la infiltración de terroristas y armas en Afganistán, y también lanzando misiles de crucero Tomahawk al continente. Sus %3portaaviones%4 han permitido a los cazas de la Armada, como el %3F-A/18%4 y el %3F-14%4, proporcionar apoyo aéreo quirúrgico a las fuerzas terrestres. Además, sus %3unidades de operaciones especiales%4, notablemente los %3Navy SEAL%4, han participado en una plétora de misiones especiales de reconocimiento.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USN_FM.paa'/&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>Choć Aganistan jest %3państwem śródlądowym%4, to %3Marynarka Stanów Zjednoczonych%4 odegrała krytyczną rolę w Operacji Enduring Freedom. Jej %3statki%3 patrolowały szerokie Morze Arabskie i Zatokę Perską uniemożliwiając terrorystom infiltrację i przekazywanie broni do Afganistanu, a także ostrzeliwały wroga pociskami manewrującymi Tomahawk. %3Lotniskowce%4 marynarki pozwalały myśliwcom, takim jak %3F-A/18%4 czy %3F-14%4, na odbywanie chrirugicznie precyzyjnych misji wsparcia sił naziemnych. Do tego USN dysponowała %3jednostkami sił specjalnych%4, w tym %3Navy SEAL%4, które brały udział w niezliczonych misjach rozpoznawczych.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USN_FM.paa'/&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_USMC">
         <English>US Marine Corps</English>
         <Spanish>Cuerpo de Marines de los EE. UU.</Spanish>
-        <Polish></Polish>
+        <Polish>Korpus Marines Sił Zbrojnych USA</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_USMC_short">
         <English>USMC</English>
         <Spanish>USMC</Spanish>
-        <Polish></Polish>
+        <Polish>USMC</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_USMC_Description">
         <English>%3Marines%4 began staging in Pakistan and Uzbekistan on the border of Afghanistan as early as October 2001 in preparation for Operation Enduring Freedom. The 15th and 26th Marine Expeditionary Units were the %3first conventional forces%4 into Afghanistan in November 2001. After that, Marine battalions have rotated through, but their main area of operations has been %3Helmand Province%4. Additionally, Marine helicopter squadrons have supported Army units in %3joint operations%4, such as %3Operation Anaconda%4 in 2002.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USMC_FM.paa'/&gt;</English>
         <Spanish>Los %3marines%4 empezaron a desplegarse en Pakistán y Uzbekistán, en la frontera con Afganistán, en octubre de 2001, preparándose para la Operación Libertad Duradera. La 15.ª y 26.ª Unidad Expedicionaria de Marines fueron las %3primeras fuerzas convencionales%4 en entrar en Afganistán en noviembre de 2001. Después de eso, los batallones de marines se han ido turnando, pero su principal área de operaciones ha sido la %3provincia de Helmand%4. Además, los escuadrones de helicópteros de los marines han apoyado a las unidades del Ejército en %3operaciones conjuntas%4, como la %3Operación Anaconda%4 en 2002.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USMC_FM.paa'/&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>%3Marines%4 rozpoczęli przygotowania do Operacji Enduring Freedom na granicach Pakistanu i Uzbekistanu z Afganistanem w październiku 2001 roku. Jednostki Ekspedycyjne Marines 15. i 26. były %3pierwszymi siłami konwencjonalnymi%4, które wkroczyły do Afganistanu w roku 2001. Później w raotacjach brało udział wiele batalionów Marines, ale ich główną strefą operacyjną była %3Prowincja Helmand%4.Poza tym, szwadrony śmigłowców Marines wspierały jednostki Armii w %3operacjach łączonych%4, takich jak %3Operacja Anakonda%4 w 2002 roku.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_USMC_FM.paa'/&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_ODA">
         <English>US Army Special Forces</English>
         <Spanish>Fuerzas Especiales del Ejército de los EE. UU.</Spanish>
-        <Polish></Polish>
+        <Polish>Siły Specjalne Armii USA</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_ODA_short">
         <English>Green Berets</English>
         <Spanish>Boinas Verdes</Spanish>
-        <Polish></Polish>
+        <Polish>Zielone Berety</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_ODA_Description">
         <English>The first military troops to enter Afghanistan after the 9/11 attacks, the %3Green Berets%4 are probably USSOCOM's %3most valuable asset%4 in the War on Terror. Although each of their 7 special forces groups is trained for a specific region of the world, the increased need for Special Forces operators has forced them to deploy outside of their areas of operations, especially the%3 3rd Special Forces Group%4 in Afghanistan, originally oriented towards Africa. %3Operational Detachment Alpha%4 (ODA) 595 was the first unit deployed to Afghanistan, ODA 572 fought in %3Tora Bora%4, ODAs 594 and 372 fought in %3Operation Anaconda%4 in 2002, and now %3ODA 331%4 is stationed in Kandahar, ready to train the local Afghan forces and support the Canadian offensives of 2006.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_ODA_FM.paa'/&gt;</English>
         <Spanish>Los %3Boinas Verdes%4, las primeras tropas militares que entraron en Afganistán después de los atentados del 11-S, son posiblemente el %3activo más valioso%4 del USSOCOM en la guerra contra el terrorismo. Aunque cada uno de sus 7 grupos de fuerzas especiales está entrenado para una región específica del mundo, la falta de operadores de las Fuerzas Especiales los ha obligado a desplegarse en áreas de operaciones que no son las suyas, sobre todo el%3 3.er Grupo de Fuerzas Especiales%4 en Afganistán, orientado desde un principio a África. El %3Destacamento Operativo Alpha%4 (ODA) 595 fue la primera unidad militar desplegada en Afganistán, el ODA 572 luchó en %3Tora Bora%4, los ODA 594 y 372 lucharon en la %3Operación Anaconda%4 en 2002, y ahora el %3ODA 331%4 está destinado en Kandahar, listo para entrenar a las fuerzas afganas locales y apoyar las ofensivas canadienses de 2006.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_ODA_FM.paa'/&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>Pierwszymi siłami zbrojnymi, które wkroczyły do Afganistanu po atakach z 11. września, były %3Zielone Berety%4 - prawdopodobnie najbardziej wartościowy zasób USSOCOM w czasie wojny z terroryzmem. Choć każda z siedmiu grup sił specjalnych jest ćwiczona do działań w konkretnym regionie świata, to zwiększone zapotrzebowanie na operatorów spowodowało wykorzystywanie ich w innych strefach operacyjnych, choćby%3 3. Grupa Sił Specjalnych%4 w Afganistanie, która normalnie funkcjonowała w Afryce. %3 Operacyjny Oddział Alfa 595%4 (Operational Detachment Alpha 595, ODA 595) był pierwszą jednostką wysłaną do Afganstanu, ODA 572 walczył w %3Tora Bora%4, ODA 594 i 372 brały udział w %3Operacji Anakonda%4 w 2002 roku, a %3ODA 331%4 stacjonowała w Kandaharze, w celu trenowania lokalnych sił afgańskich i wspierania kanadyjskich ofensyw w roku 2006.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_ODA_FM.paa'/&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Delta">
         <English>1st Special Forces Operational Detachment-Delta</English>
         <Spanish>1.er Destacamento Operacional de Fuerzas Especiales-Delta</Spanish>
-        <Polish></Polish>
+        <Polish>1. Oddział Operacyjny Sił Specjalnych Delta</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Delta_short">
         <English>Delta Force</English>
         <Spanish>Fuerza Delta</Spanish>
-        <Polish></Polish>
+        <Polish>Delta Force</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Delta_Description">
         <English>%3Delta Force%4's involvement in Afghanistan is characterized by its %3secrecy%4, precision, and effectiveness. The unit's operatives are responsible for the capture or killing of numerous high-value targets, including Al-Qaeda leaders and Taliban commanders. Although many of their operations are unknown, it is acknowledged they were heavily involved in operations such as %3Tora Bora%4 and %3Operation Anaconda%4. In the latter, they were especially responsible for scouting the %3Shah-i-Kot Valley%4 and making sure the ground troops were safe at all times.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Delta_FM.paa'/&gt;</English>
         <Spanish>La participación de la %3Fuerza Delta%4 en Afganistán está caracterizada por su %3secretismo%4, precisión y efectividad. Los operativos de la unidad son responsables de la captura o muerte de numerosos objetivos de alto valor, incluidos líderes de Al Qaeda y comandantes talibanes. Aunque se desconocen muchas de sus operaciones, se da por hecho que estuvieron muy involucrados en operaciones como %3Tora Bora%4 y la %3Operación Anaconda%4. En esta última, fueron especialmente responsables de reconocer el %3valle de Shah-i-Kot%4 y asegurarse de que las tropas terrestres estuvieran a salvo en todo momento.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Delta_FM.paa'/&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>Udział %3Delta Force%4 w Afganistanie charakteryzuje się %3dyskrecją%4, precyzją i efektywnością. Operatorzy jednostki byli odpowiedzialni za pojmanie lub eliminację wielu celów o wysokim znaczeniu, w tym liderów Al-Kaidy i dowódców Talibów. Choć wiele z ich przeprowadzonych operacji jest nadal ściśle tajna, uważa się, że byli mocno związani z %3Tora Bora%4 i %3Anakondą%4. W tej ostatnich, prawdopodobnie odpowiadali za rekonesans %3Doliny Shah-i-Kot%4 i pilnowanie, by siły naziemne były bezpieczne przed możliwymi zasadzkami.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Delta_FM.paa'/&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_DEVGRU">
         <English>Naval Special Warfare Development Group</English>
         <Spanish>Grupo Naval de Actividades Bélicas Especiales</Spanish>
-        <Polish></Polish>
+        <Polish>Specjalna Morska Jednostka Rozwoju Działań Bojowych</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_DEVGRU_short">
         <English>DEVGRU</English>
         <Spanish>DEVGRU</Spanish>
-        <Polish></Polish>
+        <Polish>DEVGRU</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_DEVGRU_Description">
         <English>The %3Naval Special Warfare Development Group (DEVGRU)%4, also known as %3SEAL Team Six%4, is the United States Navy component of the Joint Special Operations Command (JSOC). They have partaken in many special operations in Afghanistan, proving their worth especially in %3Operation Anaconda%4 in 2002. Before the operation began, one AFO team, %3Mako 31%4, took out a DShK machine gun that could have potentially shot down Chinooks carrying conventional forces. Some days later, another team, %3Mako 30%4, was ambushed on the peak of %3Takur Ghar%4, which led to the heaviest battle of the operation, and towards the end of the operation, another team intercepted a convoy carrying Al-Qaeda fighters.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_DEVGRU_FM.paa'/&gt;</English>
         <Spanish>El %3Grupo Naval de Actividades Bélicas Especiales (DEVGRU)%4, también conocido como el %3Sexto Equipo SEAL%4, es el componente de la Armada de los Estados Unidos del Mando Conjunto de Operaciones Especiales (JSOC). Han participado en muchas operaciones especiales en Afganistán, demostrando su valía sobre todo en la %3Operación Anaconda%4 en 2002. Antes del comienzo de la operación, un equipo AFO, %3Mako 31%4, neutralizó una ametralladora DShK que podría haber derribado los Chinooks que transportaban a las fuerzas convencionales. Unos días después, otro equipo, %3Mako 30%4, fue emboscado en la cima de %3Takur Ghar%4, cosa que desencadenó la batalla más intensa de la operación, y hacia el final de la misma, otro equipo interceptó un convoy que transportaba combatientes de Al Qaeda.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_DEVGRU_FM.paa'/&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>Po angielsku zwany %3Naval Special Warfare Development Group (DEVGRU)%4 lub też %3SEAL Team Six%4, jest komponentem Marynarki Stanów Zjednoczonych działający pod przewodem Dowództwa Łączonych Operacji Specjalnych (JSOC). DEVGRU brało udział w wielu misjach specjalnych w Afganistanie, a swoją wartość udowodnili szczególnie podczas %3Operacji Anakonda%4 w 2002 roku. Nim operacja się rozpoczęła, jeden z oddziałów AFO, %3Mako 31%4, wyeliminował karabin maszynowy DShK, który potencjalnie mógł zagrozić śmigłowcom Chinook transportujacym siły konwencjonalne.Parę dni później inny oddział, %3Mako 30%4, wpadł w zasadzkę na szczycie %3Takur Ghar%4, co przerodziło się w najcięższą bitwę całej operacji, a pod jej koniec jeszcze inny oddział przejął konwój transportujący żołnierzy Al-Kaidy.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_DEVGRU_FM.paa'/&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Rangers">
         <English>75th Ranger Regiment</English>
         <Spanish>75.º Regimiento Ranger</Spanish>
-        <Polish></Polish>
+        <Polish>75. Regiment Rangerów</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Rangers_short">
         <English>Army Rangers</English>
         <Spanish>Rangers del Ejército</Spanish>
-        <Polish></Polish>
+        <Polish>Rangerzy Armii USA</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Rangers_Description">
         <English>The%3 75th Ranger Regiment%4 is one of the most extensively used units of the entire US military. The Rangers are the premier %3light infantry%4 and %3special operations%4 unit of %3USASOC%4. In %3Afghanistan%4, they were %3among the first troops%4 on the ground in 2001 and have continued to play a vital role in the War on Terror ever since. They have participated in several missions, such as Tora Bora, Operation Rhino, Operation Red Wings, and most importantly, %3Operation Anaconda%4. When a DEVGRU team was ambushed on the peak of %3Takur Ghar%4 in 2002, the Rangers bravely fought tooth and nail to rescue them and capture the peak.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Rangers_FM.paa'/&gt;</English>
         <Spanish>El%3 75.º Regimiento Ranger%4 es una de las unidades más usadas de todas las Fuerzas Armadas de los EE. UU. Los Rangers son la principal unidad de %3infantería ligera%4 y %3operaciones especiales%4 del %3USASOC%4. En %3Afganistán%4, fueron %3 de las primeras tropas%4 sobre el terreno en 2001 y han seguido desempeñando un papel esencial en la guerra contra el terrorismo desde entonces. Han participado en varias misiones, como Tora Bora, la Operación Rhino, la Operación Red Wings y, la más importante, la %3Operación Anaconda%4. Cuando un equipo DEVGRU fue emboscado en la cima de %3Takur Ghar%4, los Rangers lucharon con uñas y dientes para rescatarlos y capturar la cima.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Rangers_FM.paa'/&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>%3 75. Regiment Rangerów%4 jest jedną z najszerzej wykorzystywanych jednostek w całych siłach zbrojnych Stanów Zjednoczonych Ameryki. Rangerzy są świetnie wyszkoloną %4lekką piechotą%4 i %3jednostką zadań specjalnych%4 pod wodzą %3USASOC%4. W %3Afganistanie%4 byli %3wśród pierwszych jednostek%4 w 2001 roku i od tamtej pory odgrywali ważną rolę w całej wojnie z terrorem. Brali udział w wielu misjach, takich jak Tora Bora, Operacja Rhino, Operacja Red Wings, no i najważniejsza - %3Operacja Anakonda%4. Kiedy oddział DEVGRU został zaatakowany na szczycie %3Takur Ghar%4 w 2002 r., Rangerzy odważnie walczyli z przeciwnikiem, by uratować operatorów i zająć szczyt.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Rangers_FM.paa'/&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_FrenchAirForce">
         <English>French Air Force</English>
         <Spanish>Fuerza Aérea francesa</Spanish>
-        <Polish></Polish>
+        <Polish>Francuskie Siły Powietrzne</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_FrenchAirForce_Description">
         <English>France has been involved in the %3War in Afghanistan%4 since late 2001, but their land contingent has been relatively small. However, their %3Air Force%4 has gracefully done its part. During %3Operation Héraklès%4 in 2001, several aircraft carriers, fighters and transport planes supported NATO operations in Afghanistan, and several %3Mirage 2000%4 fighter jets based in Manas, Kyrgyzstan helped bomb Taliban and Al-Qaeda positions during %3Operation Anaconda%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_FrenchAirForce_FM.paa'/&gt;</English>
         <Spanish>Francia ha participado en la %3guerra de Afganistán%4 desde finales de 2001, pero su contingente terrestre ha sido relativamente pequeño. Sin embargo, su %3Fuerza Aérea%4 ha puesto de su parte. Durante la %3Operación Héraklès%4 de 2001, varios portaaviones, cazas y aviones de transporte apoyaron a las operaciones de la OTAN en Afganistán, y varios cazas a reacción %3Mirage 2000%4 con base en Manas, Kirguistán ayudaron a bombardear las posiciones talibanes y de Al Qaeda durante la %3Operación Anaconda%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_FrenchAirForce_FM.paa'/&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>Francja była związana z %3wojną w Afganistanie%4 od końca 2001 roku, ale ich kontyngent sił lądowy był dość niewielki. Ich %3Siły Powietrzne%4 z wdziękiem wykonywały swoje zadania. Podczas %3Operacji Herakles%4 w 2001 r., wiele lotniskowców, myśliwców i samolotów transportowych wspierało operacje NATO w Afganistanie, a myśliwce %3Mirage 2000%4 stacjonujące w Manas w Kirgistanie, pomogły w bombardowaniu pozycji Talibanu i Al-Kaidy podczas %3Operacji Anakonda%4..&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_FrenchAirForce_FM.paa'/&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Chechens">
         <English>Chechen Mujahideen</English>
         <Spanish>Muyahidines chechenos</Spanish>
-        <Polish></Polish>
+        <Polish>Czeczeńscy mudżahedini</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Chechens_Description">
         <English>The presence of %3Chechen foreign fighters%4 in the %3early stages%4 of the War in Afghanistan has been a subject of much %3debate%4. Some believe that there were a significant number of Chechens who fought alongside the Taliban and Al-Qaeda, while others believe that the reports of Chechen fighters were exaggerated or fabricated. There is evidence to support both sides of the argument. Some reports claim that Chechen fighters were among the %3best-trained%4 and %3most disciplined%4 of the foreign fighters in Afghanistan. However, no bodies of Chechen fighters have ever been found, and no prisoners have ever been identified as Chechen. The myth of the Chechen jihadi may have been inflated by the %3US military%4, which may have overstated the number of Chechen fighters in Afghanistan in order to please the Russian Government, then at war with Chechnya. The myth may also have been perpetuated by the %3Northern Alliance%4, which was supplied by Russia, in order to reinforce their ties. Ultimately, there's %3no way to know for sure%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Chechens_FM.paa'/&gt;</English>
         <Spanish>La presencia de %3combatientes extranjeros chechenos%4 en las %3primeras fases%4 de la guerra de Afganistán ha sido objeto de mucho %3debate%4. Hay quienes creen que una cantidad considerable de chechenos lucharon junto a los talibanes y Al Qaeda, mientras que otros creen que los informes de combatientes chechenos estaban exagerados o inventados. Hay pruebas que corroboran ambos bandos. Algunos informes afirman que los combatientes chechenos eran de los %3mejor entrenados%4 y %3más disciplinados%4 de los combatientes extranjeros en Afganistán. Sin embargo, no se ha encontrado ningún cadáver de un checheno y ningún prisionero se ha identificado como checheno. El mito de los yihadistas chechenos podría haber sido inflado por el %3Ejército de los EE. UU.%4, que podría haber exagerado la cantidad de combatientes chechenos en Afganistán para complacer al Gobierno ruso, que entonces estaba en guerra con Chechenia. El mito también podría haber sido perpetuado por la %3Alianza del Norte%4, abastecida por Rusia, para estrechar sus lazos. Al final, %3no hay forma de saberlo a ciencia cierta%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Chechens_FM.paa'/&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>Obecność %3zagranicznych wojowników z Czeczenii%4 we %3wczesnej fazie%4 wojny w Afganistanie była tematem długich %3dyskusji%4. Niektórzy wierzą, że wraz z Talibami i Al-Kaidą walczyła znaczna grupa Czeczenów, podczas gdy inni uważali, że ich udział był znacząco hiperbolizowany lub wręcz zakłamany. Istnieją dowody popierające obie strony. Niektóre z raportów zawierają informacje o tym, że Czeczeni byli pośród %3najbardziej zdyscyplinowanych i najlepieć wytrenowanych%4 najemników w Afganistanie. A jednak nigdy nie odnaleziono jakichkolwiek czeczeńskich ciał, żadnego więźnia nie udało się zidentyfikować jako Czeczena. Mit o czeczeńskich dżihadystach mógł być napędzany przez %3wojsko USA%4, któremu zależało na zniechęceniu Rosji do walki z Czeczenią. Legendy mogły być też rozpowszechniane przez %3Sojusz Północny%4, który otrzymywał zaopatrzenie od Rosji, by wzmocnić wzajemne relacje. Ostatecznie %3nic nie jest pewne%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Chechens_FM.paa'/&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Uzbeks">
         <English>Islamic Movement of Uzbekistan</English>
         <Spanish>Movimiento Islámico de Uzbekistán</Spanish>
-        <Polish></Polish>
+        <Polish>Islamski Ruch Uzbekistanu</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Uzbeks_short">
         <English>IMU</English>
         <Spanish>MIU</Spanish>
-        <Polish></Polish>
+        <Polish>IRU</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Uzbeks_Description">
         <English>The %3Islamic Movement of Uzbekistan%4 is a militant group that wants to overthrow the Government of Uzbekistan and create an %3Islamic State%4. The group's founders were opposed to the secular government and believed that an Islamic caliphate was the only way to achieve a just society. For most of its existence, the IMU has been closely allied to %3Al-Qaeda%4 and the Afghan %3Taliban%4, frequently conducting joint operations with them and clashing with NATO forces. During %3Operation Anaconda%4 in 2002, the Uzbeks were very present in the Shah-i-Kot Valley, fighting against US special forces on the peak of %3Takur Ghar%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Uzbeks_FM.paa'/&gt;</English>
         <Spanish>El %3Movimiento Islámico de Uzbekistán%4 es un grupo militante que quiere derrocar al Gobierno de Uzbekistán y crear un %3Estado islámico%4. Los fundadores del grupo se oponían al gobierno laico y creían que un califato islámico era la única manera de alcanzar una sociedad justa. Durante la mayor parte de su existencia, el MIU ha estado muy ligado a %3Al Qaeda%4 y a los %3talibanes%4 afganos, llevando a cabo operaciones conjuntas con ellos y enfrentándose a las fuerzas de la OTAN. Durante la %3Operación Anaconda%4 de 2002, los uzbekos estuvieron muy presentes en el valle de Shah-i-Kot, luchando contra las fuerzas especiales de EE. UU. en la cima de %3Takur Ghar%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Uzbeks_FM.paa'/&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>%3Islamski Ruch Uzbekistanu%4 to grupa paramilitarna, która chciała obalić rząd Uzbekistanu i powołać %3Państwo Islamskie%4. Twórcy ruchu byli przeciwko sekularystycznemu rzadowi i wierzyli, że islamistyczny kalifat jest jedynym sposobem na stworzenie sprawiedliwego państwa. Przez większość jego istnienia, IRU był blisko związany z %3Al-Kaidą%4 i afgańskim %3Talibanem%4, często prowadził z nimi wspólne operacje i ścierał się z siłami NATO. Podczas %3Operacji Anakonda%4 w 2002 roku, Uzbekowie byli obecni w dolinie Shah-i-Kot i walczyli z siłami specjalnymi USA na szczycie %3Takur Ghar%4.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Uzbeks_FM.paa'/&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Netherlands">
         <English>Netherlands Armed Forces</English>
         <Spanish>Fuerzas Armadas de los Países Bajos</Spanish>
-        <Polish></Polish>
+        <Polish>Siły Zbrojne Holandii</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Netherlands_Description">
         <English>Although Dutch involvement in Afghanistan was merely limited to policing the waters of the Middle East, maintaining public order and helping Afghan forces at first, their new deployment in 2006 really changed things up. As part of %3Task Force Uruzgan%4, around 1,400 troops of the %3Royal Netherlands Army%4 were sent to %3Uruzgan Province%4 to help maintain order in one of Afghanistan's most tumultuous regions since the Taliban's resurgence in 2005. Together with some F-16s, six AH-64D Apaches and five Eurocopter AS532s of the %3Royal Netherlands Air Force%4, the Netherlands has proven its worth in combat during %3Operation Medusa%4 and in the %3Battle of Chora%4 one year later, the %3heaviest fighting%4 in southern Afghanistan since the deposition of the Taliban government.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Netherlands_FM.paa'/&gt;</English>
         <Spanish>Aunque la participación neerlandesa en Afganistán se limitaba a patrullar las aguas de Oriente Medio, mantener el orden público y ayudar a las fuerzas afganas al principio, su nuevo despliegue en 2006 le ha dado la vuelta a la tortilla. Como parte de la %3Fuerza Operativa de Uruzgán%4, unas 1400 tropas del %3Real Ejército de los Países Bajos%4 fueron enviadas a la %3provincia de Uruzgán%4 para ayudar a mantener el orden en una de las regiones más inestables de Afganistán desde el resurgimiento de los talibanes en 2005. Junto con unos F-16, seis AH-64D Apaches y cinco Eurocopter AS532 de la %3Real Fuerza Aérea de los Países Bajos%4, los Países Bajos han demostrado su valía en combate durante la %3Operación Medusa%4 y un año después en la %3batalla de Chora%4, el %3combate más feroz%4 en el sur de Afganistán desde la deposición del gobierno talibán.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Netherlands_FM.paa'/&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>Udział Holendrów w Afganistanie był ograniczony zaledwie do patrolowania zbiorników wodnych na Bliskim Wschodzie, a także utrzymywanie porządku publicznego i pomaganie Afgańskim siłom zbrojnym, ich kolejna zmiana w 2006 roku naprawdę wiele zmieniła. Jako część %3Task Force Uruzgan%4, około 1400 żołnierzy %3Królewskiej Armii Niderlandów%4 zostało wysłanych do %3Prowincji Uruzgan%4, by utrzymać porządek w tym jednym z najgwałtowniejszych regionów od czasu odrodzenia Talibanu w 2005 roku. W raz kilkoma myśliwcami F-16, sześcioma śmigłowcami AH-64D Apache i pięcioma Eurocopterami AS532 z %3Sił Powietrznych Królestwa Niderlandów%4, Holendrzy udowodnili swoją wartość w boju podczas %3Operacji Meduza%4 i w %3Bitwie o Chora%4 rok później, najcięższej walce w południowym Afganistanie od czasu upadku rządu Talibów.</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_SOTG">
         <English>Special Operations Command</English>
         <Spanish>Mando de Operaciones Especiales</Spanish>
-        <Polish></Polish>
+        <Polish>Dowództwo Operacji Specjalnych</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_SOTG_short">
         <English>SOCOMD</English>
         <Spanish>SOCOMD</Spanish>
-        <Polish></Polish>
+        <Polish>SOCOMD</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_SOTG_Description">
         <English>%3Australia%4's involvement in Afghanistan has fluctuated a lot during these past few years, but its special forces units have done most of the heavy lifting for the country. From October 2001 until December 2002, all three squadrons of the %3Special Air Service Regiment%4 (SASR) were deployed to Afghanistan, fighting alongside other Coalition special operations units. Barely any other Australian forces would be deployed to Afghanistan until 2005, when the %3Special Operations Task Group%4 (SOTG) was redeployed with elements from the SASR, the%3 4th Battalion, Royal Australian Regiment%4 (4 RAR) Commandos, logistic personnel, heavily modified Land Rovers, some new Bushmaster Protected Mobility Vehicles, and two CH-47 Chinooks from the %3Army Aviation%4. Fighting as part of %3Task Force Uruzgan%4, the SOTG was involved in %3Australia's heaviest fighting%4 since the Vietnam War in %3Operation Perth%4, an exhaustive search and destroy operation in the Chora Valley, in July 2006. The SOTG was withdrawn from Uruzgan in September that year.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_SOTG_FM.paa'/&gt;</English>
         <Spanish>La participación de %3Australia%4 en Afganistán ha fluctuado mucho durante estos últimos años, pero sus fuerzas especiales han sido las que más han tirado del carro. De octubre de 2001 a diciembre de 2002, los tres escuadrones del %3Regimiento del Servicio Aéreo Especial%4 (SASR) estuvieron desplegados en Afganistán, luchando junto a otras unidades de operaciones especiales de la Coalición. Apenas se desplegarían más fuerzas australianas en Afganistán hasta 2005, cuando el %3Grupo Operativo de Operaciones Especiales%4 (SOTG) volvió con elementos del SASR, los comandos del%3 4.º Batallón del Real Regimiento Australiano%4 (4 RAR), personal de logística, Land Rovers muy modificados, los nuevos Bushmaster Protected Mobility Vehicles y dos CH-47 Chinooks de la %3Aviación del Ejército%4. Como parte de la %3Fuerza Operativa de Uruzgán%4, el SOTG estuvo implicado en el %3mayor combate de Australia%4 desde la guerra de Vietnam en la %3Operación Perth%4, una exhaustiva operación de búsqueda y destrucción en el valle de Chora en julio de 2006. El SOTG fue retirado de Afganistán en septiembre de ese mismo año.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_SOTG_FM.paa'/&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>Wkład %3Australii%4 w woję w Afganistanie zmieniał się w ciągu kolejnych lat, ale jej siły specjalne wykonały najwięcej ciężkich zadań przeznaczonych dla kraju. Od października 2001 r. do grudnia 2002 r., wszystkie trzy szwadrony %3Special Air Service Regiment%4 (SASR) znajdowały się w Afganistanie i walczyły wraz z innymi siłami specjalnymi Koalicji. Żadna inna formacja zbrojna Australii nie była wysyłana do kraju aż do 2005 roku, kiedy %3Oddział Zadań Operacji Specjalnych%4 (SOTG) wraz z elementami SASR,%3 4. Batalionem Królewskiego Regimentu Astralijskich Komandosów (4 RAR)%4, personelem logistycznym, znacznie zmodyfikowanymi Land Roverami, nowymi Bushmasterami PMV i dwoma Chinookami CH-48 z %3Army Aviation%4 zostali zrotowani. Jako część %3Task Force Uruzgan%4, SOTG brało udział w %3najcięższych walkach Australii%4 od czasu wojny w Wietnamie - w %3Operacji Perth%4, wycieńczającej operacji oczyszczenia doliny Chora w lipcu 2006 roku. SOTG zostało wycofane z Uruzgan we wrześniu tego roku.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_SOTG_FM.paa'/&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Romania">
         <English>Romanian Land Forces</English>
         <Spanish>Ejército rumano</Spanish>
-        <Polish></Polish>
+        <Polish>Siły Lądowe Rumunii</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Romania_Description">
         <English>Despite not taking up active fighting roles, %3Romania%4's involvement in Afghanistan has been considerable. The Romanian Army has been deployed to %3Kandahar%4 since 2002, its main missions being %3humanitarian actions%4, such as reconstruction, convoy escort, patrols and security. By 2006, 3,200 soldiers have participated. Romanian troops from the 341st Infantry Battalion are based with the Canadians in Kandahar, and their main mission now is to %3guard%4 Kandahar Airfield.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Romania_FM.paa'/&gt;</English>
         <Spanish>Pese a no asumir roles activos de combate, la participación de %3Rumanía%4 en Afganistán ha sido considerable. El Ejército rumano lleva desplegado en %3Kandahar%4 desde 2002, y sus misiones principales son %3actos humanitarios%4, como la reconstrucción, escolta de convoyes, patrullas y seguridad. Hasta 2006, 3200 soldados han participado. Las tropas rumanas del 341.er Batallón de Infantería están destinadas en Kandahar con los canadienses, y su misión fundamental ahora es %3proteger%4 el aeropuerto de Kandahar.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Romania_FM.paa'/&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>Choć %3Rumunia%4 nie brała aktywnego udziału w walkach, jej obecność w Afganistanie była znacząca. Armia rumuńska stacjonowała w %3Kandaharze%4 od 2002 roku, jej głównymi zadaniem była %3działalność humanitarna%4, na przykład odbudowa miast i wsi, eskorta konwojów, patrole i zabezpieczanie rejonów. Do 2006 roku w Afganistanie znajdowało się 3200 Rumunów. Rumuńscy żołnierze z 341. Batalionu Piechoty stacjonowały w Kandaharze wraz z Kanadyjczykami, a ich głównym zadaniem było %3strzeżenie%4 lotniska Kandahar.</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Portugal">
         <English>Portuguese Army Rapid Reaction Brigade</English>
         <Spanish>Brigada de Reacción Rápida del Ejército portugués</Spanish>
-        <Polish></Polish>
+        <Polish>Brygada Szybkiego Reagowania Armii Portugalii</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Portugal_Description">
         <English>Portugal's %3Rapid Reaction Brigade%4 participates unevenly in the Alliance’s effort in Afghanistan since 2002. Portugal was involved in the first ISAF mission between February and July 2002, having returned to Afghanistan in May 2004. 140 soldiers out of 154 of the%3 1st Parachute Infantry Battalion of the Rapid Reaction Brigade%4 were moved from Kabul to Kandahar in early August 2006, and their mission of %3guarding%4 the local airfield is expected to conclude in October.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Portugal_FM.paa'/&gt;</English>
         <Spanish>La %3Brigada de Reacción Rápida%4 portuguesa participa de tanto en tanto en el esfuerzo de la Alianza en Afganistán desde 2002. Portugal participó en la primera misión de la ISAF entre febrero y julio de 2002. Volvió a Afganistán en mayo de 2004. 140 soldados de 154 del%3 1.er Batallón de Infantería Paracaidista de la Brigada de Reacción Rápida%4 fueron desplazados de Kabul a Kandahar en agosto de 2006, y se espera que su misión de %3proteger%4 el aeropuerto local concluya en octubre.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Portugal_FM.paa'/&gt;</Spanish>
-        <Polish></Polish>
+        <Polish>Portugalska %3Brygada Szybkiego Reagowania%4 brała udział w operacjach Koalicji w nierównych odstępach, od 2002 roku. Najpierw uczestniczyła w pierwszej misji ISAF między lutym a lipcem 2002 roku, a potem do Afganistanu wróciła dopiero w maju 2004 roku. Ze 154 żołnierzy%3 1. Batalionu Spadochroniarzy Brygady Szybkiego Reagowania%4, 140 zostało przeniesionych z Kabulu do Kandaharu we wczesnym sierpniu 2006 roku, a ich misj strzeżenia lokalnego lotniska zakończyła się w październiku.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_Portugal_FM.paa'/&gt;</Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_RAF">
         <English>Royal Air Force</English>
