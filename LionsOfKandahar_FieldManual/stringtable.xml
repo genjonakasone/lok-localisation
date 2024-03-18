@@ -192,14 +192,29 @@
         <Spanish>El %3Grupo Naval de Actividades Bélicas Especiales (DEVGRU)%4, también conocido como el %3Sexto Equipo SEAL%4, es el componente de la Armada de los Estados Unidos del Mando Conjunto de Operaciones Especiales (JSOC). Han participado en muchas operaciones especiales en Afganistán, demostrando su valía sobre todo en la %3Operación Anaconda%4 en 2002. Antes del comienzo de la operación, un equipo AFO, %3Mako 31%4, neutralizó una ametralladora DShK que podría haber derribado los Chinooks que transportaban a las fuerzas convencionales. Unos días después, otro equipo, %3Mako 30%4, fue emboscado en la cima de %3Takur Ghar%4, cosa que desencadenó la batalla más intensa de la operación, y hacia el final de la misma, otro equipo interceptó un convoy que transportaba combatientes de Al Qaeda.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_DEVGRU_FM.paa'/&gt;</Spanish>
         <Polish></Polish>
       </Key>
+	  <Key ID="STR_LOK_FM_NavySEALs">
+        <English>United States Navy Sea, Air, and Land</English>
+        <Spanish>Tierra, Mar y Aire de la Armada de los Estados Unidos</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_NavySEALs_short">
+        <English>Navy SEALs</English>
+        <Spanish>Navy SEAL</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_NavySEALs_Description">
+        <English>%3Navy SEALs%4 are the elite special forces of the %3United States Navy%4. They're trained for unconventional warfare, specializing in sea, air, and land operations. Navy SEALs were thrust into the heart of the %3War in Afghanistan%4 from the very beginning. Following the 9/11 attacks, they infiltrated Afghanistan alongside CIA operatives, conducting recon missions, coordinating airstrikes, and engaging the Taliban and Al-Qaeda directly. Their deployments are often classified, but some operations, like %3Task Force K-Bar%4's, %3Operation Anaconda%4, and the heroic but tragic %3Operation Red Wings%4 in 2005, became well-known.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_NavySeals_FM.paa'/&gt;</English>
+        <Spanish>Los %3Navy SEAL%4 son las fuerzas especiales de élite de la %3Armada de los Estados Unidos%4. Están entrenados para la guerra no convencional, especializados en operaciones marítimas, aéreas y terrestres. Los Navy SEAL se vieron inmersos en el corazón de la %3guerra de Afganistán%4 desde el principio. Tras los atentados del 11-S, se infiltraron en Afganistán junto a agentes de la CIA, llevando a cabo misiones de reconocimiento, coordinando ataques aéreos y enfrentándose directamente a los talibanes y a Al-Qaeda. Sus despliegues suelen estar clasificados, pero algunas operaciones, como las de la %3Fuerza Operativa K-Bar%4, la %3Operación Anaconda%4 y la heroica mas trágica %3Operación Alas Rojas%4 de 2005, se dieron a conocer.&lt;br/&gt;&lt;br/&gt;&lt;img size='20' image='\LionsOfKandahar_FieldManual\data\LoK_NavySeals_FM.paa'/&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
 	  <Key ID="STR_LOK_FM_Rangers">
         <English>75th Ranger Regiment</English>
         <Spanish>75.º Regimiento Ranger</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Rangers_short">
-        <English>Army Rangers</English>
-        <Spanish>Rangers del Ejército</Spanish>
+        <English>Rangers</English>
+        <Spanish>Rangers</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Rangers_Description">
@@ -538,13 +553,13 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_M16A4">
-        <English>M16A4</English>
-        <Spanish>M16A4</Spanish>
+        <English>M16</English>
+        <Spanish>M16</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_M16A4_Description">
-        <English>Although the latest iteration of the Vietnam-era %3M16%4 was only adopted as a service rifle by the %3US Marine Corps%4, the %3US Army%4 received many examples in the late 1990s-early 2000s. Since most forward deployed personnel are issued the more compact M4 carbine, the M16A4 is thus found in units that don't need M4s on a short notice, such as the %3National Guard%4.</English>
-        <Spanish>Si bien la última generación del %3M16%4 de Vietnam solo ha sido adoptado como fusil reglamentario por el %3Cuerpo de Marines de EE. UU.%4, el %3Ejército de EE. UU.%4 recibió muchas unidades a finales de los noventa y principios de los 2000. Dado que la mayoría del personal de primera línea recibe la carabina M4 más compacta, el M16A4 solo se ve en unidades que no necesitan M4 con tan poco tiempo, como la %3Guardia Nacional%4.</Spanish>
+        <English>The %3M16%4 rifle, introduced during the Vietnam War, is one of the most popular weapons ever made. Approximately 8 million examples have been made, it has been adopted by tons of armed forces around the world, and several variants have been created. Although the %3US Marine Corps%4 adopted the latest %3M16A4%4 as its standard service rifle in 1998, the transition from the M16A2 to the A4 was not complete until approximately 2004 to 2005. Thus, a large amount of the legacy %3M16A2%4 in addition to the newer M16A4s were used during the first years of %3OEF%4 in Afghanistan. On top of that, the %3US Army%4 received many examples in the late 1990s-early 2000s. Since most forward deployed personnel are issued the more compact M4 carbine, the M16A4 is thus found in units that don't need M4s on a short notice, such as the %3National Guard%4.</English>
+        <Spanish>El fusil %3M16%4, introducido durante la guerra de Vietnam, es una de las armas más populares de todos los tiempos. Se han fabricado aproximadamente 8 millones de ejemplares, muchas fuerzas armadas lo han adoptado y se han creado varias variantes. Aunque el %3Cuerpo de Marines de los EE. UU.%4 adoptó el %3M16A4%4 como su fusil reglamentario en 1998, la transición desde el M16A2 hasta el A4 no fue paulatina, sino que se completó en 2004-2005. Por tanto, se usaron muchos %3M16A2%4 además de los M16A4 más nuevos durante los primeros años de la %3Operación Libertad Duradera%4 en Afganistán. Además, el %3Ejército de EE. UU.%4 recibió muchas unidades a finales de los noventa y principios de los 2000. Dado que la mayoría del personal de primera línea recibe la carabina M4 más compacta, el M16A4 solo se ve en unidades que no necesitan M4 con tan poco tiempo, como la %3Guardia Nacional%4.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_C7">
@@ -877,6 +892,26 @@
         <Spanish>El %3Mk. 12 Special Purpose Rifle%4 (SPR) tiene sus orígenes en las ganas del Ejército de los Estados Unidos de tener un fusil de tirador designado con más alcance que el M14 pero más corto que el SR-25. Se desarrolló a principios de los 2000 como mejora de la plataforma M16/M4 estándar. Incluía un cañón más largo, un guardamanos flotante y miras especializadas, lo que permitía una mayor precisión y efectividad a mayores distancias. Aunque empezó como un programa de la Marina, todas las unidades del %3USSOCOM%4 lo han usado en Afganistán, como los %3Boinas Verdes%4.</Spanish>
         <Polish></Polish>
       </Key>
+	  <Key ID="STR_LOK_FM_C7CT">
+        <English>C7CT</English>
+        <Spanish>C7CT</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_C7CT_Description">
+        <English>During the early 2000s, the %3Canadian military%4 had specialized sniper weapons, like the C3A1 and C15 bolt-action rifles. However, they did not have a ranged weapon capable of dealing with medium or short-range threats. There was an immediate need for such a weapon early in the Canadian intervention in Afghanistan, and so the %3C7CT%4 was acquired from Diemaco as a stop-gap weapon to fulfill that role. What it is, is essentially a modified %3C7%4 with a free-floating barrel and a longer Picatinny rail. Likewise, a similar variant was produced based on the %3C8%4 carbine, known as the %3C8CT%4.</English>
+        <Spanish>A principios de los 2000, el %3Ejército canadiense%4 tenía armas de francotirador especializadas, como los fusiles de cerrojo C3A1 y C15. Sin embargo, no tenían un arma de precisión capaz de ocuparse de blancos a media o corta distancia. Hacía falta un arma así nada más comenzar la intervención canadiense en Afganistán, así que se adquirió el %3C7CT%4 de Diemaco como arma temporal para desempeñar ese papel. Es básicamente un %3C7%4 modificado con un cañón flotante y un riel Picatinny más largo. Del mismo modo, se produjo una variante similar basada en la carabina %3C8%4, conocida como el %3C8CT%4.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_AR10T">
+        <English>AR-10T</English>
+        <Spanish>AR-10T</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_AR10T_Description">
+        <English>During the early 2000s, the %3Canadian military%4 had specialized sniper weapons, like the C3A1 and C15 bolt-action rifles. However, they did not have a ranged weapon capable of dealing with medium or short-range threats. There was an immediate need for such a weapon early in the Canadian intervention in Afghanistan, and so the ArmaLite 7.62mm %3AR-10T SASW%4 was acquired in 2003. So far, it's proved to be a reliable and effective weapon.</English>
+        <Spanish>A principios de los 2000, el %3Ejército canadiense%4 tenía armas de francotirador especializadas, como los fusiles de cerrojo C3A1 y C15. Sin embargo, no tenían un arma de precisión capaz de ocuparse de blancos a media o corta distancia. Hacía falta un arma así nada más comenzar la intervención canadiense en Afganistán, así que se adquirió el ArmaLite %3AR-10T SASW%4 de 7,62 mm en 2003. De momento, ha demostrado ser un arma fiable y eficaz.</Spanish>
+        <Polish></Polish>
+      </Key>
 	  <Key ID="STR_LOK_FM_M21">
         <English>M21 SWS</English>
         <Spanish>M21 SWS</Spanish>
@@ -897,6 +932,36 @@
         <Spanish>El %3M24 Sniper Weapon System%4 (SWS) es la versión militar y policial del fusil Remington Modelo 700. «M24» fue el nombre asignado por el %3Ejército de los Estados Unidos%4 tras su adopción como fusil de francotirador estándar en 1988, reemplazando al M21 SWS de la era de Vietnam. Sin embargo, se usan ambos sistemas de francotirador en Afganistán hoy en día.</Spanish>
         <Polish></Polish>
       </Key>
+	  <Key ID="STR_LOK_FM_M91A2">
+        <English>M91A2</English>
+        <Spanish>M91A2</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_M91A2_Description">
+        <English>In the late 80s and early 90s, the %3United States Navy%4 began development and testing for a sniper rifle to equip %3SEAL teams%4. The rifle that would enter service was built by Reddick Arms Development and was known as the %3M91%4. Like the M24, the M91 was built on a long action Remington 700 receiver. The stock was a McMillan A2 stock and the rifle was fitted with a Bausch and Lombe or Leupold Mark 4 10x42 scope. The M91A1 was chambered in .308, however the SEALs almost instantly fell in love with the %3A2%4 variant, chambered in .300 Win Mag.</English>
+        <Spanish>A finales de los ochenta y principios de los noventa, la %3Armada de los Estados Unidos%4 empezó a desarrollar y probar un fusil de francotirador para sus %3equipos SEAL%4. El fusil que entró en servicio estaba construido por Reddick Arms Development y era conocido como el %3M91%4. Al igual que el M24, el M91 estaba basado en el cajón de mecanismos del Remington 700. La culata era una MacMillan A2 y el fusil iba equipado con una mira Bausch and Lombe o Leupold Mark 4 10x42. El M91A1 dispara el calibre .308, pero los SEAL se enamoraron enseguida de la variante %3A2%4, con recámara para .300 Win Mag.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Mk13">
+        <English>Mk 13</English>
+        <Spanish>Mk. 13</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Mk13_Description">
+        <English>Not much is known about the %3Navy SEALs%4' %3Mk 13%4 rifle, only that it's a basic Remington 700 action housed inside an %3Accuracy International%4 chassis. It mainly fires the .300 Winchester Magnum round from a 5-round detachable magazine. It was apparently introduced in 2001 and is a favorite of SEAL snipers.</English>
+        <Spanish>No se sabe mucho del fusil %3Mk. 13%4 de los %3Navy SEAL%4, solo que es un mecanismo Remington 700 básico insertado en un chasis de %3Accuracy International%4. Dispara principalmente el cartucho .300 Winchester Magnum desde un cargador extraíble de 5 cartuchos. Se introdujo aparentemente en 2001 y es un favorito de los francotiradores SEAL.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_C3A1">
+        <English>C3A1</English>
+        <Spanish>C3A1</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_C3A1_Description">
+        <English>The %3Canadian military%4 adopted the Parker-Hale M82 bolt-action rifle in 1972 as their new main sniper rifle, designated the '%3C3%4'. The C3 was updated to the %3C3A1%4 and a number of modifications were made, including the addition of a 10x Unertl scope in use by the United States Marine Corps. A fiberglass McMillan A2 stock was fitted along with a Parker-Hale bipod for more stability and support. The C3A1 was replaced by the more powerful %3C14%4 rifle in 2005.</English>
+        <Spanish>El %3Ejército canadiense%4 adoptó el fusil de cerrojo Parker-Hale M82 en 1972 como su nuevo fusil de francotirador principal, designado '%3C3%4'. El C3 fue actualizado al %3C3A1%4 y se realizaron una serie de modificaciones, como la incorporación de una mira Unertl de 10x aumentos usada por el Cuerpo de Marines de EE. UU. Se le incorporó una culata de fibra de vidrio McMillan A2, así como un bípode Parker-Hale para conseguir más estabilidad y apoyo. El C3A1 fue reemplazado por el %3C14%4 más potente en 2005.</Spanish>
+        <Polish></Polish>
+      </Key>
 	  <Key ID="STR_LOK_FM_C14">
         <English>C14 Timberwolf</English>
         <Spanish>C14 Timberwolf</Spanish>
@@ -913,8 +978,8 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_TAC50_Description">
-        <English>The %3McMillan TAC-50%4 is a heavy-hitting, long-range sniper rifle chambered for the %3.50 BMG%4 cartridge. It is known for its accuracy, power, and long-range capabilities. It has been used in numerous high-profile operations and has held the record for %3longest sniper kill%4 several times. Designated as the %3C15%4, it has been the standard long-range sniper weapon of the %3Canadian military%4 since 2000.</English>
-        <Spanish>El %3McMillan TAC-50%4 es un potente fusil de francotirador de largo alcance que dispara el cartucho %3.50 BMG%4. Es conocido por su precisión, potencia y capacidades a largas distancias. Se ha usado en numerosas operaciones de alto nivel y ha batido varias veces el récord de %3baja confirmada de francotirador más lejana%4. Designado %3C15%4, ha sido el fusil de francotirador de largo alcance estándar del %3Ejército canadiense%4 desde 2000.</Spanish>
+        <English>The %3McMillan TAC-50%4 is a heavy-hitting, long-range sniper rifle chambered for the %3.50 BMG%4 cartridge. It is known for its accuracy, power, and long-range capabilities. It has been used in numerous high-profile operations and has held the record for %3longest sniper kill%4 several times. It was adopted by the %3US Navy SEALs%4 in the late 90s as the %3Mk 15 SASR%4. Designated as the %3C15%4, it has been the standard long-range sniper weapon of the %3Canadian military%4 since 2000.</English>
+        <Spanish>El %3McMillan TAC-50%4 es un potente fusil de francotirador de largo alcance que dispara el cartucho %3.50 BMG%4. Es conocido por su precisión, potencia y capacidades a largas distancias. Se ha usado en numerosas operaciones de alto nivel y ha batido varias veces el récord de %3baja confirmada de francotirador más lejana%4. Fue adoptado por los %3Navy SEAL%4 a finales de los noventa como el %3Mk. 15 SASR%4. Designado %3C15%4, ha sido el fusil de francotirador de largo alcance estándar del %3Ejército canadiense%4 desde 2000.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_M82">
@@ -933,8 +998,18 @@
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_AWM_Description">
-        <English>The %3Arctic Warfare%4 (AW) rifle is a bolt-action sniper rifle designed and manufactured by the British company Accuracy International to replace the Lee-Enfield L42A1 sniper rifle. It has proved popular as a civilian, police, and military rifle since its introduction in the 1980s. Some examples of military units that have fielded it in Afghanistan include the %3Australian Army%4 (designated '%3SR-98%4') and the Canadian %3JTF 2%4 (in its AWP variant).</English>
-        <Spanish>El fusil %3Arctic Warfare%4 (AW) es un fusil de francotirador de cerrojo diseñado y fabricado por la compañía británica Accuracy International para reemplazar al fusil de francotirador Lee-Enfield L42A1. Ha demostrado ser popular como fusil civil, policial y militar desde su introducción de los años ochenta. Algunos ejemplos de unidades militares que lo han usado en Afganistán son el %3Ejército australiano%4 (designado %3«SR-98»%4) y el %3JTF 2%4 canadiense (en su variante AWP).</Spanish>
+        <English>The %3Arctic Warfare%4 (AW) rifle is a bolt-action sniper rifle designed and manufactured by the British company Accuracy International to replace the Lee-Enfield L42A1 sniper rifle. It has proved popular as a civilian, police, and military rifle since its introduction in the 1980s. Some examples of military units that have fielded it in Afghanistan include the %3Australian Army%4 (designated '%3SR-98%4') and the Canadian %3JTF 2%4 (in its AWP variant). There's also another variant worth mentioning, the %3AWM%4, chambered in the more powerful .338 Lapua Magnum cartridge, adopted by the %3Dutch military%4 in 1996 and commonly referred to as the '%3Geweer Lange Afstand%4'. These rifles have been used in Afghanistan to great success.</English>
+        <Spanish>El fusil %3Arctic Warfare%4 (AW) es un fusil de francotirador de cerrojo diseñado y fabricado por la compañía británica Accuracy International para reemplazar al fusil de francotirador Lee-Enfield L42A1. Ha demostrado ser popular como fusil civil, policial y militar desde su introducción de los años ochenta. Algunos ejemplos de unidades militares que lo han usado en Afganistán son el %3Ejército australiano%4 (designado %3«SR-98»%4) y el %3JTF 2%4 canadiense (en su variante AWP).También cabe mencionar otra variante, el %3AWM%4, que dispara el cartucho más potente .338 Lapua Magnum, adoptado por el %3Ejército neerlandés%4 en 1996 y denominado a menudo «%3Geweer Lange Afstand»%4. Estos rifles se han utilizado en Afganistán con gran éxito.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_AW50">
+        <English>AW50</English>
+        <Spanish>AW50</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_AW50_Description">
+        <English>The %3AW50%4 is a .50 BMG anti-materiel rifle designed by Accuracy International. It is a re-engineered version of the Accuracy International %3Arctic Warfare%4 sniper rifle. It is used, among other military forces, by the %3Australian Army%4, in its folding-stock AW50F variant.</English>
+        <Spanish>El %3AW50%4 es un fusil antimaterial de .50 BMG diseñado por Accuracy International. Es una versión rediseñada del fusil de francotirador Accuracy International %3Arctic Warfare%4. Es usado, entre otras fuerzas militares, por el %3Ejército australiano%4, en su variante de culata plegable AW50F.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_PSG1">
@@ -1045,6 +1120,16 @@
 	  <Key ID="STR_LOK_FM_DP27_Description">
         <English>The first 'standardised' machine gun in the Afghan military was the WWII-era Soviet %3DP-27%4. Afghanistan purchased these pan-fed light machine guns in the mid 1950s. The DP remained the standard LMG into the 1970s, when it began to be replaced by the Cold War-era RPK. Some DPs were still in active use past the 1973 Revolution, and even when the 1979-1988 war began. These were naturally captured by the %3Mujahideen%4 and later passed on to the %3Taliban%4, who use them in large quantities. Additionally, China supplied the Afghan guerillas with their own version of the DPM, the %3Type 53%4.</English>
         <Spanish>La primera ametralladora «estandarizada» del Ejército afgano fue la %3DP-27%4 soviética de la II GM. Afganistán compró estas ametralladoras con cargador de plato a mediados de los cincuenta. La DP fue su ametralladora ligera estándar hasta los años setenta, cuando empezó a ser reemplazada por la RPK de la Guerra Fría. Algunas DP seguían en activo después de la revolución de 1973, e incluso cuando empezó la guerra de 1979-1988. Naturalmente, los %3muyahidines%4 las capturaron y luego se las pasaron a los %3talibanes%4, quienes las usan en grandes cantidades. Asimismo, China proveyó a los guerrilleros afganos de su propia versión de la DPM, la %3Tipo 53%4.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_RP46">
+        <English>RP-46</English>
+        <Spanish>RP-46</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_RP46_Description">
+        <English>The %3RP-46%4 was essentially a belt-fed variant of the %3DP machine gun%4, which relied on magazines. This change came at a time when the Red Army was looking into adopting a %3general-purpose machine gun%4, like the Germans had with their MG34. While the Maxim gun was on its way to be replaced by the SG-43, and the DP-27 as a section weapon by the RPD, there was nothing for platoons and companies, so the Soviets just took existing DP-27s and modified them to fire from 250-round belts. It was adopted in 1946 and eventually replaced in Soviet service by the PK machine gun in the 1960s. It is, overall, a very mysterious machine gun of which very few photos exist. The RP-46 was also used by the %3Mujahideen%4. It is known that China licensed production of the RP-46 under the designation '%3Type 58%4', and it is likely that such Chinese machine guns were supplied to the rebels.</English>
+        <Spanish>La %3RP-46%4 era una variante de cintas de la %3ametralladora DP%4, que funcionaba con cargadores. Este cambio se produjo en un momento en que el Ejército Rojo buscaba adoptar una %3ametralladora de propósito general%4, como tenían los alemanes con su MG34. Mientras que la ametralladora Maxim iba a ser reemplazada por la SG-43 y la DP-27 por la RPD como arma de sección, los pelotones y las compañías no tenían nada, así que los soviéticos cogieron las DP-27 existentes y las modificaron para que disparasen desde cintas de 250 balas. Fue adoptada en 1946 y reemplazada en el servicio soviético por la ametralladora PK en los sesenta. Es, en general, una ametralladora muy misteriosa de la cual existen muy pocas fotos. La RP-46 también fue usada por los %3muyahidines%4. Se sabe que China produjo la RP-46 bajo licencia con la designación «%3Tipo 58%4», y es probable que se enviasen estas ametralladoras chinas a los rebeldes.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_RPD">
@@ -1225,6 +1310,16 @@
 	  <Key ID="STR_LOK_FM_RPG7_Description">
         <English>The %3RPG-7%4 is the quintessential anti-tank weapon. Designed by the Soviet Union in 1958 to replace the older and weaker RPG-2, the ruggedness, simplicity, low cost, and effectiveness of the RPG-7 has made it the %3most widely used%4 anti-armour weapon in the world. Currently around 40 countries use the weapon. In Afghanistan, the %3Afghan Army%4 received tons of launchers from the Soviet Union, and the Soviet Union itself was armed with a lot of launchers when they invaded Afghanistan. During the war, the %3Mujahideen%4 captured and used several launchers, the Americans organised the transfer of RPG-7 and cumulative rocket-propelled grenades from Egypt to Afghanistan, and China supplied the %3Mujahideen%4 with their own locally-made version of the RPG-7, the %3Type 69 RPG%4. Interestingly, the Mujahideen mostly employed the RPG within ranges shorter than%3 80m%4. These factors, combined with the ubiquity of the launcher worldwide, have made the RPG-7 an integral part of the %3Taliban%4 infrastructure nowadays.</English>
         <Spanish>El %3RPG-7%4 es el arma antitanque por antonomasia. Diseñado por la Unión Soviética en 1958 para reemplazar al RPG-2 más viejo y débil, la robustez, simpleza, bajo coste y efectividad del RPG-7 lo ha convertido en el arma antitanque %3más usada%4 del mundo. Unos 40 países usan el arma actualmente. En Afganistán, el %3Ejército afgano%4 recibió muchos lanzagranadas de la Unión Soviética, y la Unión Soviética misma iba armada con muchos lanzagranadas cuando invadieron el país. Durante la guerra, los %3muyahidines%4 capturaron y usaron varios lanzagranadas, los estadounidenses organizaron el envío de RPG-7 y granadas de Egipto a Afganistán, y China abasteció a los %3muyahidines%4 de su propia versión del RPG-7, el %3Tipo 69%4. Curiosamente, los muyahidines empleaban el RPG a distancias menores de%3 80 m%4. Estos factores, combinados con la ubicuidad del lanzagranadas a nivel mundial, han hecho del RPG-7 una parte esencial de la infraestructura talibán hoy en día.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Type69RPG">
+        <English>Type 69 RPG</English>
+        <Spanish>RPG Tipo 69</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Type69RPG_Description">
+        <English>The %3Type 69%4 85mm RPG, made by Norinco, is a Chinese variant of the Soviet %3RPG-7%4. First introduced in 1972, the Type 69 is a common individual anti-tank weapon in service with the PLA. As well as being equipped by the PLA, the Type 69 has also been exported in significant numbers to many foreign customers, including the %3Mujahideen%4 in Afghanistan under the covert co-operations between China and the CIA in the 1980s against the Soviet Union.</English>
+        <Spanish>El RPG de 85 mm %3Tipo 69%4, fabricado por Norinco, es una variante china del %3RPG-7%4 soviético. Introducido en 1972, el Tipo 69 es un arma antitanque individual común en servicio en el EPL. Además del EPL, el Tipo 69 se ha exportado en cantidades considerables a muchos clientes extranjeros, como los %3muyahidines%4 de Afganistán, en cooperaciones encubiertas entre China y la CIA en los años ochenta para contrarrestar a la Unión Soviética.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_RPG18">
@@ -1807,14 +1902,24 @@
         <Spanish>El %3CH-53E Super Stallion%4 es un helicóptero de carga pesada desarrollado por Sikorsky Aircraft para el %3Cuerpo de Marines%4 y la Armada de los Estados Unidos. Es el helicóptero %3más grande%4 y potente de las Fuerzas Armadas estadounidenses y es capaz de levantar cargas y equipos pesados, incluidos tanques, vehículos blindados y obuses de artillería. Los Super Stallions del HMM-165 apoyaron a las fuerzas de la Coalición durante las últimas fases de la %3Operación Anaconda%4 en 2002.</Spanish>
         <Polish></Polish>
       </Key>
+	  <Key ID="STR_LOK_FM_MH53">
+        <English>MH-53 Pave Low</English>
+        <Spanish>MH-53 Pave Low</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_MH53_Description">
+        <English>The %3MH-53 Pave Low%4 is a variant of the %3US Air Force%4's Sikorsky HH-53 Super Jolly Green Giant and the US Navy's CH-53 Sea Stallion. The MH-53 is used for long-range combat search and rescue (CSAR) and was developed to replace the HH-3 Jolly Green Giant. The HH-53s were later upgraded as MH-53 Pave Low series. During its operational life, the men who flew the Pave Low conducted innumerable missions of national importance. Among a host of other missions, they played an important role in the invasion of Panama in 1989; led the first missions of the 1991 and 2003 wars in Iraq; conducted the longest-ever helicopter rescues at sea in the North Atlantic in 1989 and 2002; flew daring raids in %3Afghanistan%4 in 2001-2002... However, the Pave Low was retired from service in 2008 and replaced by the CV-22 Osprey.</English>
+        <Spanish>El %3MH-53 Pave Low%4 es una variante del Sikorsky HH-53 Super Jolly Green Giant de la %3Fuerza Aérea estadounidense%4 y del CH-53 Sea Stallion de la Armada estadounidense. El MH-53 se utiliza para la búsqueda y rescate de combate (CSAR) y se desarrolló para sustituir al HH-3 Jolly Green Giant. Los HH-53 fueron posteriormente modernizados como MH-53 Pave Low. Durante su vida operativa, los hombres que volaron el Pave Low llevaron a cabo innumerables misiones de importancia nacional. Entre otras muchas misiones, desempeñaron un papel importante en la invasión de Panamá en 1989, dirigieron las primeras misiones de las guerras de 1991 y 2003 en Irak, llevaron a cabo los rescates en helicóptero más largos de la historia en el Atlántico Norte en 1989 y 2002, volaron audaces incursiones en %3Afganistán%4 en 2001-2002... Sin embargo, el Pave Low fue retirado del servicio en 2008 y sustituido por el CV-22 Osprey.</Spanish>
+        <Polish></Polish>
+      </Key>
 	  <Key ID="STR_LOK_FM_Mi17">
         <English>Mil Mi-17</English>
         <Spanish>Mil Mi-17</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Mi17_Description">
-        <English>The %3Mi-17%4 is a medium-lift utility helicopter originally developed by the Soviet Union and currently produced by Russia. It is an upgraded variant of the earlier %3Mi-8%4 helicopter. Almost every Eastern European and Soviet-aligned country has adopted it at some point, including %3Afghanistan%4. The Mi-17 has been in service with the %3Afghan Air Force%4 since the late 1970s (four were damaged or destroyed in combat as early as 1979), but not in huge numbers, up to 15.</English>
-        <Spanish>El %3Mi-17%4 es un helicóptero utilitario de carga media desarrollado originalmente por la Unión Soviética y producido actualmente por Rusia. Es una variante mejorada del anterior %3Mi-8%4. Casi todos los países de Europa del Este y alineados con la Unión Soviética lo han adoptado en algún momento, incluido %3Afganistán%4. El Mi-17 ha estado en servicio en la %3Fuerza Aérea afgana%4 desde finales de los años setenta (cuatro fueron dañados o destruidos en combate ya en 1979), pero no en grandes cantidades, 15 máximo.</Spanish>
+        <English>The %3Mi-17%4 is a medium-lift utility helicopter originally developed by the Soviet Union and currently produced by Russia. It is an upgraded variant of the earlier %3Mi-8%4 helicopter. Almost every Eastern European and Soviet-aligned country has adopted it at some point, including %3Afghanistan%4. The Mi-17 has been in service with the %3Afghan Air Force%4 since the late 1970s (four were damaged or destroyed in combat as early as 1979), but not in huge numbers, up to 15. On top of that, ironically enough, the first %3American air asset%4 to land on Afghanistan was actually an Mi-17. This helicopter, bought by the %3CIA%4 in Siberia and marked with the numbers%3 9-11-01%4, transported into Afghanistan 7 Agency operatives on September 26, known as the %3Jawbreaker%4 team. It is acknowledged that this helicopter was also used in %3Operation Anaconda%4 to extract the wounded of Task Force Hammer.</English>
+        <Spanish>El %3Mi-17%4 es un helicóptero utilitario de carga media desarrollado originalmente por la Unión Soviética y producido actualmente por Rusia. Es una variante mejorada del anterior %3Mi-8%4. Casi todos los países de Europa del Este y alineados con la Unión Soviética lo han adoptado en algún momento, incluido %3Afganistán%4. El Mi-17 ha estado en servicio en la %3Fuerza Aérea afgana%4 desde finales de los años setenta (cuatro fueron dañados o destruidos en combate ya en 1979), pero no en grandes cantidades, 15 máximo. Además, irónicamente, el primer %3activo aéreo estadounidense%4 en aterrizar en Afganistán fue un Mi-17. Este helicóptero, comprado por la %3CIA%4 en Siberia y marcado con los números%3 9-11-01%4, transportó a Afganistán a 7 agentes de la %3Agencia%4 el 26 de septiembre, conocidos como el equipo %3Jawbreaker%4. Se da por hecho que este helicóptero también se uso en la %3Operación Anaconda%4 para extraer a los heridos de la Fuerza Operativa Hammer.</Spanish>
         <Polish></Polish>
       </Key>
 	  <Key ID="STR_LOK_FM_Hind">
@@ -2017,6 +2122,16 @@
         <Spanish>El%3 9K32 Strela-2%4 es un sistema de defensa aérea portátil (MANPADS) soviético diseñado en los años sesenta. Fue un pilar de la %3Guerra Fría%4, se produjo en enormes cantidades para la Unión Soviética y sus aliados y se usó en infinidad de conflictos. Uno de estos conflictos fue la %3guerra afgano-soviética%4. Los %3muyahidines%4 emplearon muchos misiles Strela (principalmente obtenidos de Egipto, China o la CIA) para derribar helicópteros soviéticos, pero se dice que muchos de estos lanzadores vendidos en el mercado negro estaban defectuosos. Hoy en día, es %3raro%4 ver un Strela-2 en Afganistán, pero no imposible. La mayoría de los Strelas actuales son heredados de los muyahidines o traficados desde %3Irán%4, aunque gran parte de ellos están rotos o no son utilizables.</Spanish>
         <Polish></Polish>
       </Key>
+	  <Key ID="STR_LOK_FM_Stinger">
+        <English>FIM-92 Stinger</English>
+        <Spanish>FIM-92 Stinger</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Stinger_Description">
+        <English>The %3FIM-92 Stinger%4 is an American portable missile system designed to shoot down aircraft. It entered service in 1981 and is used by the militaries of the %3United States%4 and 29 other countries. However, the Stinger has quite a shady reputation. In 1985, after being pressured to send more weapons to Afghanistan to support the %3Mujahideen%4 against the Soviets, the US Government sent a shipment of Stinger missiles to the country, and they fared reasonably well. This decision was very controversial because, up to that point, the CIA had been operating with the pretense that the United States was not involved in the war directly, for various reasons, and all the weapons they had sent were non-US sourced weapons. When the war ended, the US tried to reclaim its Stingers, but many of them were not returned. In fact, at least one was seen in an %3Al-Qaeda%4 cache in %3Zhawar Kili%4, southern Afghanistan. Nevertheless, these missiles were probably too old to work properly at that point.</English>
+        <Spanish>El %3FIM-92 Stinger%4 es un sistema de misiles portátil estadounidense diseñado para derribar aviones. Entró en servicio en 1981 y es utilizado por los Ejércitos de los %3Estados Unidos%4 y 29 países más. Sin embargo, el Stinger tiene una reputación bastante turbia. En 1985, después de verse presionado para enviar más armas a Afganistán para apoyar a los %3muyahidines%4 en su lucha contra los soviéticos, el Gobierno estadounidense envió un cargamento de misiles Stinger al país, y funcionaron razonablemente bien. Fue una decisión muy polémica porque, hasta ese momento, la CIA había estado operando con el pretexto de que Estados Unidos no participaba directamente en la guerra, por diversas razones, y todas las armas que habían enviado eran de procedencia no estadounidense. Cuando terminó la guerra, Estados Unidos intentó recuperar sus Stingers, pero muchos de ellos no fueron devueltos. De hecho, al menos se vio uno en un alijo de %3Al-Qaeda%4 en %3Zhawar Kili%4, en el sur de Afganistán. No obstante, esos misiles seguramente eran demasiado antiguos para funcionar en condiciones a esas alturas.</Spanish>
+        <Polish></Polish>
+      </Key>
 	  <Key ID="STR_LOK_FM_Type56Recoilless">
         <English>Type 56 recoilless rifle</English>
         <Spanish>Cañón sin retroceso Tipo 56</Spanish>
@@ -2065,6 +2180,96 @@
 	  <Key ID="STR_LOK_FM_T55_Description">
         <English>The %3T-55%4 is a Soviet-made main battle tank renowned for its powerful armament, robust armor, and reliable diesel engine. It played a significant role in almost all conflicts in the latter half of the 20th century and continues to serve in some armies worldwide. It is the %3most produced tank%4 of all time. At least 800 T-55s were used by the Soviet Union during its %3war with the Mujahideen%4, but its story doesn't end there. When Afghanistan collapsed in the 1990s, the %3Taliban%4 and %3Northern Alliance%4 coalition both inherited T-55s formerly belonging to the communist government.</English>
         <Spanish>El %3T-55%4 es un carro de combate principal de fabricación soviética famoso por su potente armamento, robusto blindaje y fiable motor diésel. Desempeñó un papel importante en casi todos los conflictos de la segunda mitad del siglo XX y sigue en servicio en algunos Ejércitos del mundo. Es el tanque %3más producido%4 de todos los tiempos. Al menos 800 T-55 fueron utilizados por la Unión Soviética durante su %3guerra contra los muyahidines%4, pero su historia no acaba ahí. Cuando Afganistán se derrumbó en los años noventa, tanto la coalición %3talibán%4 como la %3Alianza del Norte%4 heredaron los T-55 que habían pertenecido al Gobierno comunista.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Webley">
+        <English>Webley</English>
+        <Spanish>Webley</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Webley_Description">
+        <English>The %3Webley%4 revolver was a classic British firearm, standard issue for UK and Commonwealth forces from 1887 to 1970, serving in both World Wars. It was a %3top-break%4 revolver. The most famous version, the %3Mk VI%4, fired a powerful .455 caliber round. These revolvers were commonplace in %3Afghanistan%4 during the %3Soviet-Afghan War%4, but their use has fallen considerably since then. However, they're still seen from time to time, especially in the hands of %3former Mujahideen%4, be they genuine British revolvers or crudely-made copies from %3Khyber Pass%4.</English>
+        <Spanish>El revólver %3Webley%4 era un arma británica clásica, reglamentaria para las fuerzas británicas y de la Mancomunidad entre 1887 y 1970, sirviendo en ambas guerras mundiales. Era un revólver de apertura vertical. La versión más famosa, el %3Mk. VI%4, disparaba el potente cartucho de calibre .455. Estos revólveres eran comunes en %3Afganistán%4 durante la %3guerra soviético-afgana%4, pero su uso ha disminuido considerablemente desde entonces. Sin embargo, se ven de vez en cuando, sobre todo en manos de %3exmuyahidines%4, ya sean revólveres británicos genuinos o copias rudimentarias del %3Paso Jaiber%4.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Martini">
+        <English>Martini-Henry</English>
+        <Spanish>Martini-Henry</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Martini_Description">
+        <English>The %3Martini-Henry%4 was a single-shot, breech-loading rifle famous for being the British Empire's main firearm from 1871 to 1889. It saw its first major use in the %3Second Anglo-Afghan War%4, where the %3Afghans%4 captured many rifles and kept using them all the way to the %3Soviet-Afghan War%4. There was considerable media interest in 2008 when two Martinis, captured from %3Taliban%4 insurgents in Afghanistan, appeared in a Brighton antique shop. Both rifles were believed to have been taken originally from the bodies of British troops killed in Afghanistan in 1880. Similarly, many %3Khyber Pass%4 copies have been found in rural and %3tribal%4 areas in Afghanistan.</English>
+        <Spanish>El revólver %3Webley%4 era un arma británica clásica, reglamentaria para las fuerzas británicas y de la Mancomunidad entre 1887 y 1970, sirviendo en ambas guerras mundiales. Era un revólver de apertura vertical. La versión más famosa, el %3Mk. VI%4, disparaba el potente cartucho de calibre .455. Estos revólveres eran comunes en %3Afganistán%4 durante la %3guerra soviético-afgana%4, pero su uso ha disminuido considerablemente desde entonces. Sin embargo, se ven de vez en cuando, sobre todo en manos de %3exmuyahidines%4, ya sean revólveres británicos genuinos o copias rudimentarias del %3Paso Jaiber%4.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Kar98">
+        <English>Karabiner 98k</English>
+        <Spanish>Karabiner 98k</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Kar98_Description">
+        <English>The %3Kar 98k%4 was a bolt-action rifle adopted by Germany in 1935. It was a shortened version of the WW1-era %3Gewehr 98%4, and it became the %3standard rifle%4 for German troops in World War II. In the second half of the 1930s, the Afghan Government cooperated with Germany, and 7.92 mm rifles were officially in service with the Afghan army. In the early 1950s, Afghanistan acquired a large batch of used German-made weapons, as well as 7.92 mm cartridges. The K98k was still in limited use by the %3Soviet-Afghan War%4; however, the %3Mujahideen%4 still had fewer German rifles than the British Lee-Enfield and Soviet Mosin rifles. Nowadays, the K98k is a very rare sight.</English>
+        <Spanish>El %3Kar 98k%4 era un fusil de cerrojo adoptado por Alemania en 1935. Era una versión acortada del %3Gewehr 98%4 de la Primera Guerra Mundial, y se convirtió en el %3fusil reglamentario%4 de las tropas alemanas durante la Segunda Guerra Mundial. En la segunda mitad de los años treinta, el Gobierno afgano cooperó con Alemania, y fusiles de 7,92 mm estaban oficialmente en servicio en el Ejército afgano. A principios de los cincuenta, Afganistán adquirió una gran tanda de armas alemanas, así como cartuchos de 7,92 mm. El K98k aún seguía en uso limitado durante la %3guerra soviético-afgana%4, pero los %3muyahidines%4 tenían menos fusiles alemanes que fusiles británicos Lee-Enfield o soviéticos Mosin. Hoy en día, el K98k es raro de ver.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_P14">
+        <English>Pattern 14</English>
+        <Spanish>Pattern 14</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_P14_Description">
+        <English>The %3Pattern 1914 Enfield%4 (P14) was a British bolt-action rifle produced during World War I. It fired the .303 British cartridge and served as a supplement to the %3SMLE%4. The %3United States%4 also produced its own copy in .30-06 Springfield, the %3M1917 Enfield%4, which armed %3two thirds%4 of all American soldiers in Europe. In Afghanistan, the P14 and M1917 Enfield's use is less documented compared to other firearms. While some P14s might have found their way there through various channels, and the US supplied Afghanistan with some M1917s (known as the '%3G3%4' in %3Mujahideen%4 service), they likely weren't widespread, and now they're mostly found as trophies.</English>
+        <Spanish>El %3Pattern 1914 Enfield%4 (P14) era un fusil de cerrojo británico producido durante la Primera Guerra Mundial. Disparaba el cartucho .303 British y complementó al %3SMLE%4. %3Estados Unidos%4 también produjo su propia copia en .30-06 Springfield, el %3M1917 Enfield%4, que armó a %3dos tercios%4 de todos los soldados estadounidenses en Europa. En Afganistán, el uso del P14 y M1917 Enfield está menos documentado en comparación con otras armas. Aunque es posible que algunos P14 llegaran a través de diversos canales y EE. UU. proveyó a Afganistán de algunos M1917 (conocidos como el «%3G3%4» entre los %3muyahidines%4), seguramente no estuviesen generalizados, y ahora se encuentran sobre todo como trofeos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_NorincoCQ">
+        <English>S-5.56</English>
+        <Spanish>S-5.56</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_NorincoCQ_Description">
+        <English>The %3DIO S-5.56%4 is essentially an %3Iranian%4 copy of the Chinese %3Norinco CQ%4, which is in turn a copy of the American M16A1 made in the 1980s. It was officially first revealed in 2001. These rifles are very scarce in Afghanistan, but they arrived in the country through two ways: by China sending CQ rifles to the %3Mujahideen%4 during the Soviet war, and through smuggling from Iran to Afghanistan.</English>
+        <Spanish>El %3DIO S-5.56%4 es básicamente una copia %3iraní%4 del %3Norinco CQ%4 chino, que a su vez es una copia del M16A1 estadounidense hecha en los años ochenta. Se desveló por primera vez oficialmente en 2001. Estos fusiles son muy escasos en Afganistán, pero llegaron al país de dos formas: de China enviando fusiles CQ a los %3muyahidines%4 durante la guerra soviética y a través del tráfico de armas de Irán a Afganistán.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Remington870">
+        <English>Remington 870</English>
+        <Spanish>Remington 870</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_Remington870_Description">
+        <English>Probably the most popular and widespread shotgun of all time, the %3Remington 870%4 is a pump-action shotgun manufactured since the 1950s. It was the fourth major design in a series of Remington pump shotguns and the most successful one by far. Although it's mostly used by civilians and hunters, it can also be found in several militaries of the world, such as the %3US Navy%4, %3Canada%4, or %3Australia%4.</English>
+        <Spanish>La %3Remington 870%4, probablemente la escopeta más popular y generalizada de todos los tiempos, es una escopeta de corredera fabricada desde los años cincuenta. Fue el cuarto diseño principal de una serie de escopetas de corredera de Remington y el más próspero de lejos. Aunque la usan sobre todo civiles y cazadores, también se puede ver en ejércitos de todo el mundo, como la %3Armada estadounidense%4, %3Canadá%4 o %3Australia%4.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_BenelliM3">
+        <English>Benelli M3</English>
+        <Spanish>Benelli M3</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_BenelliM3_Description">
+        <English>The %3Benelli M3%4 is a dual-mode (hybrid pump-action and semi-automatic) shotgun designed and manufactured in 1989 by Italian firearms manufacturer Benelli Armi SpA, and the third model of the Benelli Super 90 line of semi-automatic shotguns. Pump-action operation is employed to fire less powerful shells, like rubber bullets, while the semi-automatic mode is reserved for more powerful shells. It is used by some military forces, including Canada's %3Joint Task Force 2%4.</English>
+        <Spanish>La %3Benelli M3%4 es una escopeta dual (de corredera y semiautomática a la vez) diseñada y fabricada en 1989 por el fabricante de armas italiano Benelli Armi SpA, y es el tercer modelo de la línea de escopetas semiautomáticas Benelli Super 90. El modo de corredera se emplea para disparar proyectiles menos potentes, como balas de goma, mientras que el modo semiautomático está reservado para proyectiles más potentes. La usan algunas fuerzas militares, como la %3Joint Task Force 2%4 canadiense.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_M1014">
+        <English>Benelli M4</English>
+        <Spanish>Benelli M4</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_M1014_Description">
+        <English>The %3Benelli M4%4 is a semi-automatic shotgun produced by Italian firearm manufacturer Benelli Armi SpA since 1999, and the fourth and last model of the Benelli Super 90 line of semi-automatic shotguns. Unlike the previous M3 model, the M4 is only able to fire in semi-automatic mode. It was specifically designed as a submission for a new 12 gauge semi-automatic combat shotgun for the US military, and it won the competition. The first 20,000 units were delivered to the %3United States Marine Corps%4 in 1999. After being officially adopted, it was designated '%3M1014%4' and issued to other branches of the US military.</English>
+        <Spanish>La %3Benelli M4%4 es una escopeta semiautomática producida por el fabricante de armas italiano Benelli Armi SpA desde 1999, y es el cuarto y último modelo de la línea de escopetas semiautomáticas Benelli Super 90. A diferencia del anterior modelo M3, la M4 solo funciona en modo semiautomático. Se diseñó expresamente como propuesta para una nueva escopeta de combate semiautomática de calibre 12 para el Ejército estadounidense, y ganó el concurso. Las primeras 20 000 unidades se entregaron al %3Cuerpo de Marines de los Estados Unidos%4 en 1999. Tras su adopción oficial, fue designada «%3M1014%4» y entregada a otras ramas de las Fuerzas Armadas estadounidenses.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_ZB26">
+        <English>ZB vz. 26</English>
+        <Spanish>ZB vz. 26</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_FM_ZB26_Description">
+        <English>The %3ZB vz. 26%4 was a Czechoslovak light machine gun that shone in the 1920s and saw action throughout World War II. The ZB vz. 26's success even led to variants like the British %3Bren gun%4. In the second half of the 1930s, Nazi Germany sold weapons to %3Afghanistan%4. Together with 7.92 mm rifles, machine guns were supplied, produced at the enterprises of the annexed Czech Republic. In addition, clones of ZB-26 light machine guns were produced in China during World War II. It is very likely that these weapons got to Afghanistan one way or another. They were used during the %3Soviet war%4 and even during the early stages of the 2001 %3War in Afghanistan%4, as there's photographic evidence of caches with this machine gun and %3Eastern Alliance%4 militias wielding it.</English>
+        <Spanish>La %3ZB vz. 26%4 era una ametralladora ligera checoslovaca que surgió en los años veinte y entró en acción en la Segunda Guerra Mundial. El éxito de la ZB vz. 26 incluso dio lugar a variantes como la %3Bren%4 británica. En la segunda mitad de los años treinta, la Alemania nazi vendió armas a %3Afganistán%4. Además de fusiles de 7,92 mm, se enviaron ametralladoras producidas en la anexionada República Checa. Además, se produjeron clones de ametralladoras ZB-26 en China durante la Segunda Guerra Mundial. Es muy posible que estas armas llegaran a Afganistán de una u otra forma. Se usaron durante la %3guerra soviética%4 e incluso al principio de la %3guerra de 2001%4, ya que hay pruebas fotográficas de alijos con esta ametralladora y milicias de la %3Alianza del Este%4 usándola.</Spanish>
         <Polish></Polish>
       </Key>
     </Container>
