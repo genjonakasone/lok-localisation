@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="LionsOfKandahar">
+  <Package name="LionsOfKandahar_1B7">
+    <Container name="STR_DN">
+	  <Key ID="STR_LOK_BriefingEcho_1B7">
+        <English>Briefing - Echo Platoon</English>
+        <Spanish>Instrucciones: Pelotón Echo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingNotes_1B7">
+        <English>EDITOR'S NOTES:&lt;br/&gt;This mission is directly inspired by Brandon Webb's book 'The Red Circle' and is a more or less accurate depiction of the first day of the SEALs' operation. Just as a side note, Webb's team found no hostiles on the first day, but I've added a few of them (albeit with a 15% chance of spawning) to make things a bit more interesting, especially when you have to enter the caves.&lt;br/&gt;&lt;br/&gt;CREDITS:&lt;br/&gt;None so far...</English>
+        <Spanish>NOTAS DEL EDITOR:&lt;br/&gt;Esta misión está directamente inspirada en el libro de Brandon Webb «The Red Circle» y es una representación más o menos precisa del primer día de la operación de los SEAL. Como nota al margen, el equipo de Webb no se encontró con ningún enemigo el primer día, pero he añadido algunos (pero con un 15 % de probabilidades de aparecer) para darle un poco de emoción a la misión, sobre todo cuando tengas que entrar en las cuevas.&lt;br/&gt;&lt;br/&gt;CRÉDITOS:&lt;br/&gt;Nada de momento...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingCommand_Text_1B7">
+        <English>A. Signal:&lt;br/&gt; Specter 1 - Cpt HARWARD (TF K-Bar CO)&lt;br/&gt; Echo 1 (your team) - Lt CASSIDY</English>
+        <Spanish>A. Señal:&lt;br/&gt; Specter 1 - Cap. HARWARD (oficial al mando de la TF K-Bar)&lt;br/&gt; Echo 1 (tu equipo) - Tte. CASSIDY</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingSustainment_Text_1B7">
+        <English>1. Supply: Standard US SOF Desert BDUs, MBSS rigs with PACA vests, IBH helmets, standard issue US Navy SEAL small arms including M4A1 carbines, Benelli and Remington shotguns, Mk 46 and Mk 43 machine guns, Mk 25 pistols, and Mk 11 and SEAL Recce sniper rifles.&lt;br/&gt;2. Transportation: E Platoon will be deployed several klicks north of the area of operations (AO) by an MH-53 Pave Low of the 20th Special Operations Squadron.&lt;br/&gt;3. Services: None.&lt;br/&gt;4. Maintenance: None.&lt;br/&gt;5. CASEVAC: None.</English>
+        <Spanish>1. Suministros: Uniformes estándar de combate de fuerzas especiales en camuflaje desierto, portacargadores MBSS con chalecos PACA, cascos IBH, armas ligeras reglamentarias de los Navy SEAL como carabinas M4A1, escopetas Benelli y Remington, ametralladoras Mk. 46 y Mk. 43, pistolas Mk. 25, y fusiles de francotirador Mk. 11 y SEAL Recce.&lt;br/&gt;2. Transporte: El Pelotón E será desplegado varios kilómetros al norte del área de operaciones (AO) por un MH-53 Pave Low del 20.º Escuadrón de Operaciones Especiales.&lt;br/&gt;3. Servicios: Ninguno.&lt;br/&gt;4. Mantenimiento: Ninguno.&lt;br/&gt;5. CASEVAC: Ninguno.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingExecution_Text_1B7">
+        <English>Echo Platoon and the Marine security detail will be deployed &lt;marker name="marker_0"&gt;here&lt;/marker&gt;, several miles north of the &lt;marker name="marker_12"&gt;Zhawar Kili cave complex&lt;/marker&gt;. The marines will hold the perimeter while Echo moves on foot to the AO. Upon reaching it, they will clear the &lt;marker name="marker_2"&gt;Al-Badr Training Camp&lt;/marker&gt; and do a battle damage assessment (BDA) from the recent bombings while collecting any potential intel. Afterwards, Echo will clear &lt;marker name="marker_10"&gt;all&lt;/marker&gt; &lt;marker name="marker_3"&gt;the&lt;/marker&gt; &lt;marker name="marker_6"&gt;nearby&lt;/marker&gt; &lt;marker name="marker_8"&gt;caves&lt;/marker&gt; of all hostiles and destroy any munitions they may find. Once all that has been accomplished, they will rig the entire camp to blow and slowly make their way back to the &lt;marker name="marker_0"&gt;LZ&lt;/marker&gt;, where they will be extracted alongside the Marines.</English>
+        <Spanish>El Pelotón Echo y el destacamento de seguridad marine serán desplegados &lt;marker name="marker_0"&gt;aquí&lt;/marker&gt;, varios kilómetros al norte del &lt;marker name="marker_12"&gt;complejo de cuevas de Zhawar Kili&lt;/marker&gt;. Los marines defenderán el perímetro mientras Echo avanza a pie hacia el AO. Al llegar, despejarán el &lt;marker name="marker_2"&gt;campamento de entrenamiento Al-Badr&lt;/marker&gt; y realizarán una evaluación de daños de los bombardeos recientes mientras recopilan posible información. Después, Echo despejará &lt;marker name="marker_10"&gt;todas&lt;/marker&gt; &lt;marker name="marker_3"&gt;las&lt;/marker&gt; &lt;marker name="marker_6"&gt;cuevas&lt;/marker&gt; &lt;marker name="marker_8"&gt;cercanas&lt;/marker&gt; y destruirán cualquier munición que encuentren. Una vez lo hayan conseguido, prepararán la detonación del campamento entero y volverán lentamente a la &lt;marker name="marker_0"&gt;ZA&lt;/marker&gt;, donde se les extraerá junto a los marines.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingMission_Text_1B7">
+        <English>Who: Echo Platoon, SEAL Team 3, US Navy, Task Force K-Bar (TF K-Bar)&lt;br/&gt;What: RECON Zhawar Kili&lt;br/&gt;Where: In vicinity, Zhawar&lt;br/&gt;When: 000400ZJAN06&lt;br/&gt;Why: Aftermath of Battle of Tora Bora</English>
+        <Spanish>Quién: Pelotón Echo, Tercer Equipo SEAL, Armada de los EE. UU., Fuerza Operativa K-Bar (TF K-Bar)&lt;br/&gt;Qué: RECONOCER Zhawar Kili&lt;br/&gt;Dónde: En las inmediaciones, Zhawar&lt;br/&gt;Cuándo: 000400ZJAN06&lt;br/&gt;Por qué: Consecuencias de la batalla de Tora Bora</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_BriefingSituation_Text_1B7">
+        <English>A. ENEMY FORCES&lt;br/&gt;Size: Unknown&lt;br/&gt;Activity: No movement observed, low radio chatter&lt;br/&gt;Location: Vicinity, Zhawar&lt;br/&gt;Unit: Unknown, expect Arab light infantry&lt;br/&gt;Time Observed: January 4, 2002&lt;br/&gt;Equipment: Unknown, expect Soviet small arms&lt;br/&gt;&lt;br/&gt;B. FRIENDLY FORCES&lt;br/&gt;1. Higher's Mission and Intent: To recon the Al-Qaeda Al-Badr Training Camp, clear the nearby caves, destroy enemy munitions and collect as much intel as possible.&lt;br/&gt;2. Adjacent Units: Twenty US Marines of the 13th MEU.&lt;br/&gt;3. Supporting: NATO air support is on standby. Artillery support will not be available for this mission. CASEVAC will not be available for this mission.</English>
+        <Spanish>A. FUERZAS ENEMIGAS&lt;br/&gt;Tamaño: Se desconoce&lt;br/&gt;Actividad: No se ha observado movimiento, leves vibraciones de radio&lt;br/&gt;Ubicación: Inmediaciones, Zhawar&lt;br/&gt;Unidades: Se desconoce, cabe esperar infantería ligera árabe&lt;br/&gt;Fecha de observación: 4 de enero de 2002&lt;br/&gt;Equipo: Se desconoce, cabe esperar armas ligeras soviéticas&lt;br/&gt;&lt;br/&gt;B. FUERZAS ALIADAS&lt;br/&gt;1. Misión e intención: Reconocer el campamento de entrenamiento Al-Badr de Al-Qaeda, despejar las cuevas cercanas, destruir municiones enemigas y reunir toda la inteligencia posible.&lt;br/&gt;2. Unidades adyacentes: Veinte marines de la 13.ª MEU.&lt;br/&gt;3. Apoyo: El apoyo aéreo de la OTAN estará a la espera. No habrá apoyo de artillería disponible para esta misión. No habrá CASEVAC disponible para esta misión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_Briefing_Text_1B7">
+        <English>The Battle of Tora Bora was less than a month ago, and its results were less than satisfactory. Following Tora Bora, we consolidated our position in the country and made Bagram our main operating base in the area. However, the Taliban and al-Qaeda forces did not give up and went into hiding. It is suspected that many of the al-Qaeda fighters that partook in Tora Bora went to the Zhawar Kili cave complex, just north of the Pakistani border, after the battle. Zhawar Kili was bombed with cruise missiles in 1998 and again in 2001. Our platoon's objective now is to go in and do a BDA on the area, collecting any useful intel along the way.</English>
+        <Spanish>La batalla de Tora Bora fue hace menos de un mes, y sus resultados fueron menos que satisfactorios. Después de Tora Bora, consolidamos nuestra posición en el país y convertimos Bagram en nuestra principal base de operaciones en la región. Sin embargo, las fuerzas talibanes y de Al-Qaeda no se rindieron y se escondieron. Se sospecha que muchos de los combatientes de Al-Qaeda que participaron en Tora Bora fueron el complejo de cuevas de Zhawar Kili, justo al norte de la frontera con Pakistán, después de la batalla. Zhawar Kili fue bombardeado con misiles de crucero en 1998 y de nuevo en 2001. El objetivo de nuestro pelotón ahora es entrar y evaluar la zona, reuniendo cualquier inteligencia útil de paso.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_Description_1B7">
+        <English>Our main objective is to reconnoitre the &lt;marker name="marker_2"&gt;Al-Badr Training Camp&lt;/marker&gt;, a known Al-Qaeda camp that was the site of heavy fighting during the Soviet war. It was bombed to hell recently, so we expect little to zero resistance.</English>
+        <Spanish>Nuestro objetivo principal es reconocer el &lt;marker name="marker_2"&gt;campamento de entrenamiento Al-Badr&lt;/marker&gt;, un campamento conocido de Al-Qaeda donde se produjeron intensos combates durante la guerra soviética. Fue bombardeado sin cesar hace poco, así que esperamos poca o nula resistencia.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_Title_1B7">
+        <English>Search the Al-Badr camp</English>
+        <Spanish>Registrar el campamento Al-Badr</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objCave1_Description_1B7">
+        <English>Apart from searching the main camp, we have to clear all the nearby caves. There's one located somewhere around &lt;marker name="marker_10"&gt;here&lt;/marker&gt;. Your objective in this cave is to inspect it thoroughly (that is, check all the rooms) and destroy one cache.</English>
+        <Spanish>Aparte de registrar el campamento principal, tenemos que despejar todas las cuevas cercanas. Hay una por &lt;marker name="marker_10"&gt;aquí&lt;/marker&gt;. Tu objetivo en esta cueva es inspeccionarla a fondo (es decir, revisar todas las habitaciones) y destruir un alijo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objCave1_Title_1B7">
+        <English>Search the first cave</English>
+        <Spanish>Registrar la primera cueva</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objCave1_1_Description_1B7">
+        <English>A weapons cache has been found inside the cave. You have to destroy it. You may take explosives from Shawn's backpack or use the ones in the cache itself.</English>
+        <Spanish>Se ha encontrado un alijo de armas en la cueva. Tienes que destruirlo. Puedes coger explosivos de la mochila de Shawn o usar los del propio alijo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objCave1_1_Title_1B7">
+        <English>Destroy the cache</English>
+        <Spanish>Destruir el alijo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objCave2_1_Title_1B7">
+        <English>(Optional) Destroy the cache</English>
+        <Spanish>(Opcional) Destruir el alijo</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objCave2_Description_1B7">
+        <English>Apart from searching the main camp, we have to clear all the nearby caves. There's one located somewhere around &lt;marker name="marker_3"&gt;here&lt;/marker&gt;. This abandoned mine has several scattered enemy weapons that you need to seize. Optionally, there is also one hidden cache that you can destroy.</English>
+        <Spanish>Aparte de registrar el campamento principal, tenemos que despejar todas las cuevas cercanas. Hay una por &lt;marker name="marker_3"&gt;aquí&lt;/marker&gt;. Esta mina abandonada tiene varias armas enemigas dispersas que tienes que incautar. Opcionalmente, también hay un alijo oculto que puedes destruir.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objCave2_Title_1B7">
+        <English>Search the second cave</English>
+        <Spanish>Registrar la segunda cueva</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objCave3_Description_1B7">
+        <English>Apart from searching the main camp, we have to clear all the nearby caves. There's one located somewhere around &lt;marker name="marker_6"&gt;here&lt;/marker&gt;. In this cave, your objective is simply to reach the end. But beware, there will be traps that you'll need to look out for (and disable)!</English>
+        <Spanish>Aparte de registrar el campamento principal, tenemos que despejar todas las cuevas cercanas. Hay una por &lt;marker name="marker_6"&gt;aquí&lt;/marker&gt;. En esta cueva, tu objetivo simplemente es llegar al final. ¡Pero cuidado, habrá trampas que tendrás que localizar (y desactivar)!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objCave3_Title_1B7">
+        <English>Search the third cave</English>
+        <Spanish>Registrar la tercera cueva</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objCave4_Description_1B7">
+        <English>Apart from searching the main camp, we have to clear all the nearby caves. There's one located somewhere around &lt;marker name="marker_8"&gt;here&lt;/marker&gt;. This cave is notable for its strange layout and natural obstacles. In the end, you'll need to locate Al-Qaeda's underground shelter and seize their weapons to complete this objective.</English>
+        <Spanish>Aparte de registrar el campamento principal, tenemos que despejar todas las cuevas cercanas. Hay una por &lt;marker name="marker_8"&gt;aquí&lt;/marker&gt;. Esta cueva es notoria por su inusual disposición y sus obstáculos naturales. Al final, tendrás que localizar el refugio subterráneo de Al-Qaeda e incautar sus armas para cumplir este objetivo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_objCave4_Title_1B7">
+        <English>Search the fourth cave</English>
+        <Spanish>Registrar la cuarta cueva</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_1_Description_1B7">
+        <English>We're a mere 500 meters away from Al-Badr, but Casey has gone missing. He has to be somewhere in the village. You have been ordered to find him. Once you find him, bring him back to Cassidy so you can get moving.</English>
+        <Spanish>Estamos a unos escasos 500 metros de Al-Badr, pero Casey ha desaparecido. Tiene que estar en alguna parte del pueblo. Te han ordenado encontrarlo. Cuando lo encuentres, llévalo con Cassidy para poder poneros en marcha.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj1_1_Title_1B7">
+        <English>Find Casey</English>
+        <Spanish>Encontrar a Casey</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj3_Description_1B7">
+        <English>All the caves have been cleared. You have to report back to your CO at the al-Badr camp.</English>
+        <Spanish>Todas las cuevas han sido despejadas. Tienes que informar a tu oficial al mando en el campamento Al-Badr.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_obj3_Title_1B7">
+        <English>Report to Cassidy</English>
+        <Spanish>Informar a Cassidy</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_1B7">
+        <English>In the Caves</English>
+        <Spanish>En las cuevas</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_Intro_1B7">
+        <English>In the Caves Intro</English>
+        <Spanish>En las cuevas: Intro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionTitle_Outro_1B7">
+        <English>In the Caves Outro</English>
+        <Spanish>En las cuevas: Outro</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionDescription_1B7">
+        <English>Al-Qaeda fighters are believed to have regrouped in Zhawar Kili, a cave complex on the Pakistani border, one month after Tora Bora. A SEAL platoon is sent to the area to perform reconnaissance, clear enemy compounds and caves, and destroy hostile materiel.</English>
+        <Spanish>Se cree que combatientes de Al-Qaeda se han reagrupado en Zhawar Kili, un complejo de cuevas en la frontera con Pakistán, un mes después de Tora Bora. Un pelotón SEAL es enviado a la zona para reconocerla, despejar complejos enemigos y cuevas y destruir equipamiento hostil.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_MissionDescriptionLocked_1B7">
+        <English>Complete Riddle's section in 'Blackout Whiteout' from The Illusion of Glory without firing a single shot to unlock this mission.</English>
+        <Spanish>Completa la sección de Riddle de «Apagón en la ventisca» de La impresión de la gloria sin disparar una sola bala para desbloquear esta misión.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_text_1B7">
+        <English>&lt;t color='#09ff00' size='3.5'&gt;IN THE CAVES&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;'Houses mean a creation, something new, a shelter freed from the idea of a cave.'&lt;br/&gt;&lt;br/&gt;-STEPHEN GARDINER&lt;/t&gt;</English>
+        <Spanish>&lt;t color='#09ff00' size='3.5'&gt;EN LAS CUEVAS&lt;/t&gt;&lt;br/&gt;&lt;t size='1.5'&gt;«Las casas suponen una creación, algo nuevo, un refugio liberado de la idea de una cueva».&lt;br/&gt;&lt;br/&gt;—STEPHEN GARDINER&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel1_1B7">
+        <English>PO1 Brandon Webb</English>
+        <Spanish>PO1 Brandon Webb</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel2_1B7">
+        <English>E Platoon, SEAL Team 3</English>
+        <Spanish>Pelotón E, 3.er Equipo SEAL</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel3_1B7">
+        <English>Zhawar, Khost</English>
+        <Spanish>Zhawar, Jost</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intel4_1B7">
+        <English>January 6 2002 - 0400</English>
+        <Spanish>6 enero 2002 - 0400</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message1_1B7">
+        <English>Alright, this is your stop. Zhawar. Have a nice one!</English>
+        <Spanish>Vale, esta es vuestra parada. Zhawar. ¡Pasadlo bien!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message2_1B7">
+        <English>This is going to be a short mission. 12 hours in and you'll have to come back for us.</English>
+        <Spanish>Será una misión corta. 12 horas y tendréis que volver a por nosotros.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message3_1B7">
+        <English>If you need us to pick you up, just call us. We'll be on standby.</English>
+        <Spanish>Si necesitáis que os recojamos, avisadnos. Estaremos a la espera.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message4_1B7">
+        <English>Alright, out!</English>
+        <Spanish>¡Venga, fuera!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message5_1B7">
+        <English>Fancy seeing you here, gentlemen.</English>
+        <Spanish>Qué sorpresa verlos aquí, caballeros.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message6_1B7">
+        <English>You guys got here fast. Any movement?</English>
+        <Spanish>Habéis llegado rápido. ¿Hay movimiento?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message7_1B7">
+        <English>Negative, looks pretty clear. My guys are posted up on the hills and watching the perimeter.</English>
+        <Spanish>Negativo, parece bastante despejado. Mis chicos están apostados en las colinas y vigilando el perímetro.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message8_1B7">
+        <English>Good. This is going to be our exfil point. We'll be back in around 12 hours I reckon. Boys, let's go!</English>
+        <Spanish>Bien. Este será nuestro punto de exfiltración. Calculo que volveremos en unas 12 horas. ¡Muchachos, vamos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message9_1B7">
+        <English>All SEALs on the ground, you're free to go!</English>
+        <Spanish>¡SEAL en tierra, pueden marcharse!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message10_1B7">
+        <English>Brad, I almost forgot. Get in touch with the air support. Make sure they don't accidentally schwack us.</English>
+        <Spanish>Brad, casi se me olvida. Ponte en contacto con el apoyo aéreo. Asegúrate de que no nos machaquen sin querer.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message11_1B7">
+        <English>Already did, sir, before we left.</English>
+        <Spanish>Ya lo hice, señor, antes de partir.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message12_1B7">
+        <English>That's good to hear. Nice to see some initiative 'round here.</English>
+        <Spanish>Me alegro de oírlo. Está bien ver algo de iniciativa por aquí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message13_1B7">
+        <English>Village up ahead.</English>
+        <Spanish>Aldea al frente.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message14_1B7">
+        <English>Everybody form on me. Let's check these buildings.</English>
+        <Spanish>Todos conmigo. Vamos a revisar estos edificios.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message15_1B7">
+        <English>Clear.</English>
+        <Spanish>Despejado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message16_1B7">
+        <English>This one is clear.</English>
+        <Spanish>Esta está despejada.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message17_1B7">
+        <English>All clear. Let's keep moving, we still got a long way to go.</English>
+        <Spanish>Todo limpio. Sigamos, nos queda mucho camino por delante.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message18_1B7">
+        <English>How you doin', brother?</English>
+        <Spanish>¿Cómo vas, hermano?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message19_1B7">
+        <English>Dude, right about now I would welcome stepping on a land mine.</English>
+        <Spanish>Tío, ahora mismo me apetecería pisar una mina.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message19_2_1B7">
+        <English>Too right... Too right.</English>
+        <Spanish>Y que lo digas... Y que lo digas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message20_1B7">
+        <English>All right everybody, we're going to ditch our armor and stash it. We’ll cache it right here and pick it up again on our way out.</English>
+        <Spanish>Vale, gente, vamos a quitarnos el blindaje y guardarlo. Lo almacenaremos justo aquí y lo recogeremos a la vuelta.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message21_1B7">
+        <English>Okay, you were absolutely right. We fucked up. So go easy on me.</English>
+        <Spanish>Vale, tenías más razón que un santo. La hemos cagado. No te pases conmigo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message22_1B7">
+        <English>Forget it. But fuckin' A, I told you so.</English>
+        <Spanish>Déjalo. Pero coño, será que no lo dije.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message23_1B7">
+        <English>How's it going, Chief? Tired yet?</English>
+        <Spanish>¿Cómo vas, jefe? ¿Cansado?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message24_1B7">
+        <English>Brandon, I hate this fuckin' country. There's just sand and wild goats everywhere.</English>
+        <Spanish>Brandon, odio este puto país. Solo hay arena y cabras por todas partes.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message25_1B7">
+        <English>In a way it reminds me of Arizona, so it feels oddly welcoming... What, was Panama any better?</English>
+        <Spanish>En cierto modo me recuerda a Arizona, así que es extrañamente acogedor... ¿Qué, estaba Panamá mejor?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message26_1B7">
+        <English>You serious right now? Panama was one hell of a paradise. I wish they'd captured Noriega later so I could have stayed more time there.</English>
+        <Spanish>¿Lo dices en serio? Panamá era un pedazo de paraíso. Ojalá hubieran capturado a Noriega más tarde para quedarme allí más tiempo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message27_1B7">
+        <English>You two, get your asses of those chairs. Our objective is right up ahead.</English>
+        <Spanish>Vosotros dos, levantad el culo de la silla. Nuestro objetivo está justo delante.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message28_1B7">
+        <English>The village is clear, everybody on me! Casey, where the fuck are you?</English>
+        <Spanish>¡La aldea está despejada, todo el mundo conmigo! Casey, ¿dónde coño estás?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message28_2_1B7">
+        <English>Webb, tell you what. Since you feel like slacking off at the first chance, you go find him.</English>
+        <Spanish>A ver, Webb. Como te va eso de holgazanear a la primera de cambio, ve tú a encontrarlo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message29_1B7">
+        <English>Jesus Casey, lay off the weed. We're taking an Al-Qaeda training camp and this is the first thing you do?</English>
+        <Spanish>Por Dios, Casey, deja la maría. ¿Vamos a tomar un campo de entrenamiento de Al-Qaeda y esto es lo primero que se te ocurre?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message30_1B7">
+        <English>No dude, I didn't touch it, I promise.</English>
+        <Spanish>No, tío, no la he tocado, lo prometo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message31_1B7">
+        <English>Sure. Let's get going.</English>
+        <Spanish>Seguro. Vamos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message32_1B7">
+        <English>Here he is. He was... taking a piss.</English>
+        <Spanish>Aquí está. Estaba... echando un meo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message33_1B7">
+        <English>Alright, that's all of us then. Let's move!</English>
+        <Spanish>Vale, pues ya estamos todos. ¡En marcha!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message34_1B7">
+        <English>I see the entrance.</English>
+        <Spanish>Veo la entrada.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message35_1B7">
+        <English>Right, here's what we're gonna do: ISR shows there's another entrance through the back.</English>
+        <Spanish>Bien, esto es lo que vamos a hacer: el ISR muestra que hay otra entrada por detrás.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message36_1B7">
+        <English>Brandon, Casey, Chief, Shawn, you're coming with me. We're gonna go around the back. Commander, you'll go through here with the rest. Wait for my signal.</English>
+        <Spanish>Brandon, Casey, Chief, Shawn, os venís conmigo. Vamos a dar la vuelta. Comandante, usted entre por aquí con el resto. Espere a mi señal.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message37_1B7">
+        <English>Aye.</English>
+        <Spanish>Hecho.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message38_1B7">
+        <English>We're in position at the back entrance. Ready? 3, 2, 1... Go!</English>
+        <Spanish>Estamos en posición en la entrada trasera. ¿Listos? 3, 2, 1... ¡Vamos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message39_1B7">
+        <English>Moving in!</English>
+        <Spanish>¡Entramos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message40_1B7">
+        <English>Someone check the garages to our right!</English>
+        <Spanish>¡Que alguien revise los garajes de la derecha!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message41_1B7">
+        <English>Holy shit... Our flyboys really did a number on their camp...</English>
+        <Spanish>Hostia puta... Los aviadores se han cebado con su campamento...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message42_1B7">
+        <English>Ugh, it smells like putrid shit.</English>
+        <Spanish>Joder, huele a mierda que echa para atrás.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message43_1B7">
+        <English>They're dead and rotting. It is what it is.</English>
+        <Spanish>Están muertos y en estado de putrefacción. Es lo que hay.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message44_1B7">
+        <English>All clear, Lieutenant. Just a bunch of dismembered bodies.</English>
+        <Spanish>Todo despejado, teniente. Solo hay un puñado de cuerpos desmembrados.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message45_1B7">
+        <English>Same on our part. Take a look at this, they even had tanks...</English>
+        <Spanish>Lo mismo que nosotros. Fijaos en esto, hasta tenían tanques...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message46_1B7">
+        <English>Let's keep searching. There's gotta be some intel 'round here. My guys, on me.</English>
+        <Spanish>Sigamos buscando. Tiene que haber información por aquí. Los míos, conmigo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message47_1B7">
+        <English>Yup. Maps, telephones, radios, documents... This is a goldmine.</English>
+        <Spanish>Sip. Mapas, teléfonos, radios, documentos... Esto es una mina.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message48_1B7">
+        <English>It's gonna take us a while to go through all of this. Brandon, I'll spare you the paperwork. How about you take Shawn and Casey and go search those caves?</English>
+        <Spanish>Nos va a llevar un rato revisar todo esto. Brandon, te ahorraré el papeleo. ¿Y si te llevas a Shawn y Casey y registras esas cuevas?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message49_1B7">
+        <English>Copy. Guys, let's go!</English>
+        <Spanish>Recibido. ¡Vamos, chicos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message50_1B7">
+        <English>Hmm. This must be their dormitory.</English>
+        <Spanish>Mmm. Este debe de ser su dormitorio.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message51_1B7">
+        <English>Got a huge cache here. Shawn, I'm gonna need you!</English>
+        <Spanish>Tengo un alijo enorme aquí. ¡Shawn, te voy a necesitar!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message51_2_1B7">
+        <English>Cache down!</English>
+        <Spanish>¡Un alijo menos!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message52_1B7">
+        <English>A bunch of mats. Could be some kind of shrine or place of worship.</English>
+        <Spanish>Un puñado de alfombras. Podría ser una especie de santuario o lugar de culto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message53_1B7">
+        <English>My God, these guys have built entire fucking buildings down here...</English>
+        <Spanish>Dios mío, esta gente ha construido edificios enteros aquí abajo...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message54_1B7">
+        <English>That's some cave alright. I've seen households in America with worse infrastructure than this.</English>
+        <Spanish>Menuda cueva. He visto casas en Estados Unidos con peor infraestructura que esto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message55_1B7">
+        <English>That's one cave down.</English>
+        <Spanish>Una cueva menos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message56_1B7">
+        <English>Two caves down.</English>
+        <Spanish>Van dos cuevas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message57_1B7">
+        <English>Three caves with this one.</English>
+        <Spanish>Tres cuevas con esta.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message58_1B7">
+        <English>That's all of them. Let's return to the camp.</English>
+        <Spanish>Están todas. Volvamos al campamento.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message59_1B7">
+        <English>Well lookie here. A hidden cache. Let's see if I can destroy this without burying myself alive.</English>
+        <Spanish>Fíjate tú. Un alijo oculto. A ver si puedo destruirlo sin sepultarme vivo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message60_1B7">
+        <English>An SVD, what a beauty.</English>
+        <Spanish>Un SVD, menuda preciosidad.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message61_1B7">
+        <English>Damn, this thing's heavy.</English>
+        <Spanish>Joder, lo que pesa esto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message62_1B7">
+        <English>Got an RPG here too.</English>
+        <Spanish>También hay un RPG.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message63_1B7">
+        <English>This one's looking pretty tight, let's take it easy here.</English>
+        <Spanish>Esta parece bastante apretada, tomémonoslo con calma.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message64_1B7">
+        <English>Tripwire disabled.</English>
+        <Spanish>Trampa desactivada.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message65_1B7">
+        <English>Another one.</English>
+        <Spanish>Otra.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message66_1B7">
+        <English>Sneaky cunts. Another one down.</English>
+        <Spanish>Cabrones escurridizos. Otra menos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message67_1B7">
+        <English>Jesus Christ, how fucking long is this cave?</English>
+        <Spanish>Por Dios, ¿cuánto dura esta puta cueva?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message68_1B7">
+        <English>Are you fucking serious right now? All this, just for a damn underground hemp plantation? Fuck this, let's get out of here.</English>
+        <Spanish>¿Estás de puta coña? Todo esto ¿por una puñetera plantación de maría? A la mierda, larguémonos de aquí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message69_1B7">
+        <English>Found an entrance. It's... Do we really have to go down here?</English>
+        <Spanish>He encontrado una entrada. Es... ¿De verdad tenemos que bajar?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message70_1B7">
+        <English>Time to walk a tightrope I guess.</English>
+        <Spanish>Hora de hacer funambulismo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message71_1B7">
+        <English>Hey, I found a passage!</English>
+        <Spanish>¡Eh, he encontrado un pasadizo!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message72_1B7">
+        <English>Dead end.</English>
+        <Spanish>No hay salida.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message73_1B7">
+        <English>Looks like there's a hidden passage behind this ammo cache. Let's see.</English>
+        <Spanish>Parece que hay un pasadizo oculto detrás de este alijo. Veamos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message74_1B7">
+        <English>Look at this. They've got a whole-ass TOC in here.</English>
+        <Spanish>Fijaos. Tienen un puñetero TOC aquí debajo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message75_1B7">
+        <English>A Stinger? How the actual fuck did they get their hands on this?</English>
+        <Spanish>¿Un Stinger? ¿Cómo hostias se han hecho con uno de estos?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message76_1B7">
+        <English>Guess that's that then. Let's get the hell out of here.</English>
+        <Spanish>Supongo que eso es todo. Salgamos de aquí cagando leches.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message77_1B7">
+        <English>We're back. The caves were completely untouched by the bombings, but they're clear now. We've destroyed a few caches and seized a few weapons.</English>
+        <Spanish>Ya estamos aquí. Los bombardeos no habían ni rozado las cuevas, pero ahora están despejadas. Hemos destruido algunos alijos e incautado algunas armas.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message78_1B7">
+        <English>Copy, good work. We're getting this entire camp rigged to blow. Lend us a hand so we can get to our extraction point in time.</English>
+        <Spanish>Recibido, buen trabajo. Vamos a volar este campamento entero en mil pedazos. Échanos una mano para que podamos llegar a nuestro punto de extracción a tiempo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message79_1B7">
+        <English>Hey, help me move this table!</English>
+        <Spanish>¡Eh, ayudadme a mover esta mesa!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message80_1B7">
+        <English>Right, so I think our objectives are clear. Let's talk about execution. We'll be inserted with the Marines...</English>
+        <Spanish>Vale, creo que nuestros objetivos están claros. Hablemos de ejecución. Nos insertarán con los marines...</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message81_1B7">
+        <English>Hey, guys, I'm LCDR Smith. I’m going out there with you. I'll be acting as ground forces commander.</English>
+        <Spanish>Hola, chicos, soy el Tte. Cte. Smith. Iré con vosotros. Actuaré como comandante de fuerzas terrestres.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message82_1B7">
+        <English>Don’t worry, guys, I know Cassidy’s in charge. I won’t get into the decision making here. I’m not going to get in your shit. Please, Cassidy, continue.</English>
+        <Spanish>No os preocupéis, sé que Cassidy está al mando. No me meteré en la toma de decisiones, no me voy a inmiscuir en vuestras mierdas. Por favor, Cassidy, continúe.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message83_1B7">
+        <English>So, as I was saying, we'll be inserted with the Marines a few klicks north of the caves. We'll have to trek.</English>
+        <Spanish>Bien, como decía, nos insertarán con los marines a unos kilómetros al norte de las cuevas. Tendremos que andar.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message84_1B7">
+        <English>Have you thought about protection? Kevlar body armor would go a long way to ensure our chances of surviving.</English>
+        <Spanish>¿Ha pensado en la protección? Un chaleco kevlar aumentaría nuestras probabilidades de sobrevivir.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message85_1B7">
+        <English>Look, sir, none of us are acclimated to working at 7,000 to 12,000 feet elevation. We’re already carrying a pretty heavy load.</English>
+        <Spanish>Oiga, señor, ninguno de nosotros está acostumbrado a operar a 2000 o 4000 metros de altitud. Bastante cargados vamos ya.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message86_1B7">
+        <English>Plus we have to hump 12 klicks just to get to where the op starts. We’re in mountain country, and if we overload ourselves we’re going to be a wreck by the time we get to the site.</English>
+        <Spanish>Además, tendremos que andar 12 kilómetros solo para llegar a donde empieza la operación. Estamos en terreno montañoso, y si nos sobrecargamos vamos a estar hechos polvo para cuando lleguemos allí.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message87_1B7">
+        <English>No, this is my call, and everyone wears armor.</English>
+        <Spanish>No, esta es mi decisión, y todo el mundo irá blindado.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message88_1B7">
+        <English>Check. Got it.</English>
+        <Spanish>Entendido.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message89_1B7">
+        <English>I'm not gonna let some douchebag commander get me killed out here... Your plates be damned.</English>
+        <Spanish>No voy a dejar que un comandante gilipollas haga que me maten... Que les den a tus placas..</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message90_1B7">
+        <English>Blow it.</English>
+        <Spanish>Vuélalo.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message91_1B7">
+        <English>Pick it up, we still need to get to our LZ before nightfall.</English>
+        <Spanish>Coged el petate, aún tenemos que volver a la ZA antes de la noche.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message92_1B7">
+        <English>Captain, this is Echo 1. We're at the LZ. What's the ETA on that chopper?</English>
+        <Spanish>Capitán, aquí Echo 1. Estamos en la ZA. ¿Tiempo estimado de llegada del helicóptero?</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message93_1B7">
+        <English>Copy that. Lieutenant, Captain Harward wants a word with you.</English>
+        <Spanish>Recibido. Teniente, el capitán Harward quiere hablar con usted.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message94_1B7">
+        <English>Lieutenant Cassidy on the line.</English>
+        <Spanish>Teniente Cassidy al habla.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message95_1B7">
+        <English>Yes, they're clear. ...That grave is old. We're not going to find anything new there. ...Okay. Understood. We're on it, out.</English>
+        <Spanish>Sí, están despejadas. ...Esa tumba es antigua. No vamos a encontrar nada nuevo allí. ...Vale. Entendido. Nos ocupamos, corto.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message96_1B7">
+        <English>Bad news folks, we aren't being extracted after all. Harward wants us to dig up some gravesites and collect DNA.</English>
+        <Spanish>Malas noticias, muchachos, no nos van a extraer al final. Harward quiere que profanemos unas tumbas y extraigamos ADN.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message97_1B7">
+        <English>Fuck. What should we do? It's already freezing out here, we need a plan.</English>
+        <Spanish>Joder. ¿Qué hacemos? Hace un frío que pela, necesitamos un plan.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message98_1B7">
+        <English>Well, I guess we’ll just go into the hills and lay up in the bushes.</English>
+        <Spanish>Bueno, supongo que iremos a las colinas y nos tumbaremos en los arbustos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message99_1B7">
+        <English>Hey, that’s a bad idea. These poor marines are already freezing, and it’s only going to get colder. We’re sure to have some cold casualties if we do that.</English>
+        <Spanish>Eh, es mala idea. Estos pobres marines ya están helados, y va a hacer más frío. Vamos a tener bajas heladas si hacemos eso.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message100_1B7">
+        <English>We gotta do what we gotta do. We’re just going to have to suck it up.</English>
+        <Spanish>Hacemos lo que hay que hacer. Vamos a tener que aguantarnos.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message101_1B7">
+        <English>All due respect, sir, your plan sucks. Here’s what we’re going to do.</English>
+        <Spanish>Con el debido respeto, señor, su plan es una mierda. Esto es lo que vamos a hacer.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_message102_1B7">
+        <English>I’m going to take Brandon and a couple other guys, do a recon, clear and occupy that village so we have a place to stay where we can start a goddamn fire, get warm, and set up a perimeter for the night.</English>
+        <Spanish>Me voy a llevar a Brandon y un par más, haremos reconocimiento, despejaremos y ocuparemos esa aldea para que tengamos un lugar donde quedarnos y encender un puñetero fuego, entraremos en calor y estableceremos un perímetro para la noche.</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_smith_dialogue_1B7">
+        <English>LCDR SMITH</English>
+        <Spanish>TTE. CTE. SMITH</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_smith_radio_1B7">
+        <English>Echo 1 (LCDR Smith)</English>
+        <Spanish>Echo 1 (Tte. Cte. Smith)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_chiefdye_dialogue_1B7">
+        <English>CHIEF DYE</English>
+        <Spanish>CHIEF DYE</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_chiefdye_radio_1B7">
+        <English>Echo 1 (Chief Dye)</English>
+        <Spanish>Echo 1 (Chief Dye)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_casey_dialogue_1B7">
+        <English>CASEY</English>
+        <Spanish>CASEY</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_casey_radio_1B7">
+        <English>Echo 1 (Casey)</English>
+        <Spanish>Echo 1 (Casey)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_cassidy_dialogue_1B7">
+        <English>LT CASSIDY</English>
+        <Spanish>TTE. CASSIDY</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_brad_radio_1B7">
+        <English>Echo 1 (Brad)</English>
+        <Spanish>Echo 1 (Brad)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_brad_dialogue_1B7">
+        <English>BRAD</English>
+        <Spanish>BRAD</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_cassidy_radio_1B7">
+        <English>Echo 1 (Lt Cassidy)</English>
+        <Spanish>Echo 1 (Tte. Cassidy)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_sealplayer_dialogue_1B7">
+        <English>PO1 WEBB</English>
+        <Spanish>PO1 WEBB</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_sealplayer_radio_1B7">
+        <English>Echo 1 (PO1 Webb)</English>
+        <Spanish>Echo 1 (PO1 Webb)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_shawn_dialogue_1B7">
+        <English>SHAWN</English>
+        <Spanish>SHAWN</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_shawn_radio_1B7">
+        <English>Echo 1 (Shawn)</English>
+        <Spanish>Echo 1 (Shawn)</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_pavelowpilot_dialogue_1B7">
+        <English>PAVE LOW PILOT</English>
+        <Spanish>PILOTO DE PAVE LOW</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_marinesl_dialogue_1B7">
+        <English>MARINE SQUAD LEADER</English>
+        <Spanish>LÍDER DE ESCUADRÓN MARINE</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_marines_marker_1B7">
+        <English>Marines</English>
+        <Spanish>Marines</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_camp_marker_1B7">
+        <English>Al-Badr Training Camp</English>
+        <Spanish>Campamento de entrenamiento Al-Badr</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_zhawar_marker_1B7">
+        <English>Zhawar Kili</English>
+        <Spanish>Zhawar Kili</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_seize_action_1B7">
+        <English>seize weapon</English>
+        <Spanish>incautar el arma</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_disable_trap_action_1B7">
+        <English>disable trap</English>
+        <Spanish>desactivar la trampa</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_move_rug_action_1B7">
+        <English>move table</English>
+        <Spanish>mover la mesa</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_caves_hint_1B7">
+        <English>You now have to search all four caves. Each cave will have one or more objectives or dangers that you'll have to complete or avoid. Check each respective task to obtain more precise information about your objectives. If you need explosives, grab them from Shawn's backpack. Don't worry about your squadmates, they're invincible in this mission. But watch yourself, each cave may or may not have enemies!</English>
+        <Spanish>Ahora tienes que registrar las cuatro cuevas. Cada cueva tendrá uno o más objetivos o peligros que tendrás que cumplir o evitar. Revisa cada tarea para obtener información más precisa sobre tus objetivos. Si necesitas explosivos, cógelos de la mochila de Shawn. No te preocupes por tus compañeros de escuadrón, son invencibles en esta misión. Pero ten cuidado, ¡cada cueva puede tener enemigos o no!</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intro_intermission_1B7">
+        <English>&lt;t size='1.5'&gt;B A G R A M   A I R F I E L D&lt;/t&gt;&lt;br/&gt;&lt;t size='1.0'&gt;J A N U A R Y   5 ,   2 0 0 2&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;A E R O P U E R T O   D E   B A G R A M&lt;/t&gt;&lt;br/&gt;&lt;t size='1.0'&gt;5   D E   E N E R O   D E   2 0 0 2&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_intermission2_1B7">
+        <English>&lt;t size='1.5'&gt;After a week of forensic spelunking, 400,000 pounds of ordnance dropped, several enemy KIA and many more detainees, Zhawar Kili was still not even close to being clear. Nevertheless, the SEALs had managed to discover a ton of intelligence, seize a lot of weapons, and destroy one of the largest training facilities in the entire country. Overall, the mission was a success. On January 14, on the ninth day of the 12-hour mission, the SEALs and marines were finally extracted by helo from Zhawar Kili.&lt;/t&gt;</English>
+        <Spanish>&lt;t size='1.5'&gt;Tras una semana de espeleología forense, 181 toneladas de explosivos, varios enemigos muertos en combate y muchos más detenidos, Zhawar Kili seguía sin estar ni siquiera cerca de estar despejado. Sin embargo, los SEAL habían conseguido descubrir un montón de información, confiscar muchas armas y destruir una de las mayores instalaciones de entrenamiento de todo el país. En general, la misión fue un éxito. El 14 de enero, en el noveno día de la misión de 12 horas, los SEAL y los marines fueron extraídos en helicóptero de Zhawar Kili.&lt;/t&gt;</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end1_subtitle_1B7">
+        <English>Zhawar Kili cleared</English>
+        <Spanish>Zhawar Kili despejado</Spanish>
+        <Polish></Polish>
+      </Key>
+	  <Key ID="STR_LOK_end1_description_1B7">
+        <English>The al-Badr Training Camp and most caves in the Zhawar Kili area are now clear. With that out of the way, we can now blow the camp into pieces and get ready to be extracted. This must have been the end of AQ in Afghanistan, right?</English>
+        <Spanish>El campamento de entrenamiento Al-Badr y la mayoría de las cuevas de la zona de Zhawar Kili ya están despejados. Hecho esto, ahora podemos volar el campamento en mil pedazos y prepararnos para ser extraídos. Este debe haber sido el fin de AQ en Afganistán, ¿no?</Spanish>
+        <Polish></Polish>
+      </Key>
+    </Container>
+  </Package>
+</Project>
